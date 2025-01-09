@@ -14097,6 +14097,10 @@ file = "mods/kotlinforforge-3.12.0-all.jar"
 hash = "a42d10a97afd3313af57ecc88f531fffb048d89b2aa2fd01c586d67c161fdcca"
 
 [[files]]
+file = "mods/kubejs-forge-1802.5.5-build.569.jar"
+hash = "a3fdde9433d75ac1f5ae72d3f5b74d2dfb3a59d8b28bad18a5c526cb32f814d0"
+
+[[files]]
 file = "mods/lazydfu-1.0-1.18+.jar"
 hash = "0f2cd2caba33e696fd810c8ea1c27c2e0a651bbeec54c7ac971840f238e40513"
 
@@ -14231,6 +14235,10 @@ hash = "0205c381d00636d30ff07a135bea6d24e508d7714b2f1f3a654aced37cfc438d"
 [[files]]
 file = "mods/rftoolsbase-1.18-3.0.11.jar"
 hash = "3422efd39be74884af0a8d63de2278d36f18be7dc2c91dd0fe16ecf34f9e3f82"
+
+[[files]]
+file = "mods/rhino-forge-1802.2.1-build.255.jar"
+hash = "72c08867dabd2bb863753b4ac4afb0fbb08931ac51f5241b044fa51d0236f4f2"
 
 [[files]]
 file = "mods/rottencreatures-forge-1.18.2-1.0.0.jar"
