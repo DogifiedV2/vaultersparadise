@@ -13889,6 +13889,10 @@ file = "mods/cloth-config-6.3.81-forge.jar"
 hash = "e8e5e82828027b3bdc5e049190464d32e3935ea9faad0f6051c893f81ef1d502"
 
 [[files]]
+file = "mods/cloth-config-6.5.102-forge.jar"
+hash = "aee2f4c2f184c0ae2d2517d65f4698a7dea6089dd8c7761a9247cf0bef942d48"
+
+[[files]]
 file = "mods/cluttered-2.1-1.18.2.jar"
 hash = "bd1115ca116452ec767aa7c0b9d1a8f3da31d51abc0e5eb7105fcbf8712bd5a8"
 
@@ -14243,10 +14247,6 @@ hash = "ed5527b56b53a461b247a9600651aefc5a1b7237dfeaf6b4b8ed19febaa90486"
 [[files]]
 file = "mods/rsrequestify-2.2.0.jar"
 hash = "3d0defb3171d39101bf7c2bfbf117579daa53e2ba8df030c37b3634a8c2a9578"
-
-[[files]]
-file = "mods/rubidium-0.5.5.jar"
-hash = "36ea599ec137fbdc25ed7e5a5c984f6401a910b402d77a483199f910548cf71c"
 
 [[files]]
 file = "mods/saturn-mc1.18.2-0.1.5.jar"
