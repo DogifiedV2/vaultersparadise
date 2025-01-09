@@ -1,0 +1,49 @@
+{
+  "LOOT": [
+    {
+      "value": {
+        "ITEM": "minecraft:wooden_sword",
+        "NBT": "{Damage:0}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:stone_sword",
+        "NBT": "{Damage:0}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:golden_sword",
+        "NBT": "{Damage:0}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:iron_sword",
+        "NBT": "{Damage:0}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:diamond_sword",
+        "NBT": "{Damage:0}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:netherite_sword",
+        "NBT": "{Damage:0}"
+      },
+      "weight": 1
+    }
+  ],
+  "INTERVAL": 2500,
+  "MIN_ITEM_GENERATED": 1,
+  "MAX_ITEM_GENERATED": 10
+}

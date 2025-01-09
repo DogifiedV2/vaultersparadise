@@ -1,0 +1,49 @@
+{
+  "LOOT": [
+    {
+      "value": {
+        "ITEM": "minecraft:oak_log",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:birch_log",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:dark_oak_log",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:acacia_log",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:spruce_log",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:jungle_log",
+        "NBT": "{}"
+      },
+      "weight": 1
+    }
+  ],
+  "INTERVAL": 750,
+  "MIN_ITEM_GENERATED": 300,
+  "MAX_ITEM_GENERATED": 500
+}

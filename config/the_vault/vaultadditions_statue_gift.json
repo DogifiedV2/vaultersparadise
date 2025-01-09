@@ -1,0 +1,49 @@
+{
+  "LOOT": [
+    {
+      "value": {
+        "ITEM": "the_vault:abyssal_ichor",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "the_vault:sublime_vault_elixir",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "the_vault:sublime_vault_substance",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "the_vault:sublime_vault_vision",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "the_vault:paradoxical_gem",
+        "NBT": "{}"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "the_vault:acceleration_chip",
+        "NBT": "{}"
+      },
+      "weight": 1
+    }
+  ],
+  "INTERVAL": 400,
+  "MIN_ITEM_GENERATED": 50,
+  "MAX_ITEM_GENERATED": 250
+}
