@@ -13429,6 +13429,10 @@ file = "mods/BuildersDelight-1.18.2-v.1.0.jar"
 hash = "33f6147c4e1351a563b634ffbda61f9af8187a5b91073787625fcf24d14fb9d1"
 
 [[files]]
+file = "mods/CTM-1.18.2-1.1.5+5.jar"
+hash = "0f10c8a205c3b9e2da0f61822f7f850e2593e3cf61845c1fc12d7213eab87fcc"
+
+[[files]]
 file = "mods/CasinoCraft_1.18.2_v19.jar"
 hash = "da6ca6d4b4b74c32b2d84340c0e6e2deb0354297d390bea5c5047d62fdb10a3b"
 
@@ -13987,6 +13991,10 @@ hash = "8d86b9f8dc3d26e01cd6f06d3ecd096807206f20472d837463963dc41111e6ed"
 [[files]]
 file = "mods/functionalstorage-1.18.2-1.1.4.jar"
 hash = "1565be67e91128dcf5ebbca3be435b6a28fa575fb65584f02cbb2b3e9f6130aa"
+
+[[files]]
+file = "mods/fusion-1.1.1-forge-mc1.18.jar"
+hash = "3e769c8cc8656ca9947a740857495049db4fb4463aa2b2482afa4db6d0fe6347"
 
 [[files]]
 file = "mods/geckolib-forge-1.18-3.0.57.jar"
