@@ -1,0 +1,13 @@
+name = "Vaulters Paradise"
+author = "dog"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b522a009e95a9347263515afeeb3bd21c6334810f3b014a53fa322a96219d38e"
+
+[versions]
+forge = "40.2.21"
+minecraft = "1.18.2"
