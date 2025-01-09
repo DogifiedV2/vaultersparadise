@@ -1,42 +1,29 @@
 {
   "styles": {
-    "Colossal Chests": {
+    "Applied Energistics": {
       "x": 10,
       "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/colossal_chest"
-    },
-    "Simple Storage Network": {
-      "x": 60,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/simple_storage_network"
-    },
-    "Refined Storage": {
-      "x": 60,
-      "y": 40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/refined_storage"
-    },
-    "Applied Energistics": {
-      "x": 110,
-      "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/applied_energistics"
     },
     "Drawers": {
-      "x": 110,
+      "x": 60,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/drawers"
     },
     "Mekanism QIO": {
-      "x": 10,
-      "y": 40,
+      "x": 110,
+      "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mekanism_qio"
     },
-    
+    "Functional Storage": {
+      "x": 60,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/drawers"
+    },
     "Stack Upgrading": {
       "x": 200,
       "y": -40,

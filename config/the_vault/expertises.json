@@ -9,21 +9,7 @@
         "tiers": [
           {
             "type": "lucky_altar",
-            "luckyAltarChance": 0.1,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "lucky_altar",
             "luckyAltarChance": 0.2,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "lucky_altar",
-            "luckyAltarChance": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -37,7 +23,7 @@
           },
           {
             "type": "lucky_altar",
-            "luckyAltarChance": 0.5,
+            "luckyAltarChance": 0.6,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -51,21 +37,14 @@
         "tiers": [
           {
             "type": "shop_pedestal",
-            "costReduction": 0.15,
+            "costReduction": 0.25,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "shop_pedestal",
-            "costReduction": 0.3,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "shop_pedestal",
-            "costReduction": 0.45,
+            "costReduction": 0.5,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0

@@ -1350,7 +1350,7 @@ hash = "d005294e57ace5c44b96ac6238d7d0096ee1804c197437b94f61c330181cc046"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "bf7ec05110642835c2a645a5e2132c4cc0a1b140ca1cf32c50cf76bc58fccf07"
+hash = "69b363449d6f6c2bb6e38a53df5075f457d7531ca92ee9c179b60349e1971dc1"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
@@ -12534,19 +12534,19 @@ hash = "2a1038d281899a169f5d53abe8a2bd0b37cae654dee74ec5f788f77477ce5ab5"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "fe0f12c94becd03a8abfbd2799f56db8edf9a60e804243cf8a76000e141ae2e1"
+hash = "560ece0791709beb64ef422ad08342968010bec7e487e09b04eeb0f17c601ced"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "d85c1a2dc9eaa05c547a5f245f807ee95ab8ed9a91070dbbd7c9de13edb2b450"
+hash = "98eebbd66c820acc71a08ff4a86fa62c936da7b8afbd534bc3ce1db18082685e"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "d574243554ced08475791c20f0707a8adedcb35b98c83ddf5a3e13510eef3722"
+hash = "ca447cb486f1ebec67ba53326fa58da91774de8669f5cb86331378c6a1c3d2ac"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "6128d85ca62b72b602b70939be67b7b54ebea384d02d8a4872172ff5d3634409"
+hash = "cfe0a41c32eb2ab7b30c1672e71f4c0343f4343648c084360b8e0c986e0c4551"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -12574,7 +12574,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "9f68fdd3fd6d23a8f5040d90836c2eb098997e260d55309bb6ac3aa7ee568c99"
+hash = "efcc06ddad82d651fe2c047dd6dadc037217e805b3f459f3bf1633219c775de8"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -13787,10 +13787,6 @@ hash = "0f10d4754d1d2e37896eed85e2852c160d75360aba45604de1288452c3ac6c64"
 [[files]]
 file = "mods/vaultcompassenhancements-1.1.0-3.15.1.jar"
 hash = "aaac1b321e5ea6f38d766f7310ad2a7500501546b999a5b1a130f1bad1ea27e3"
-
-[[files]]
-file = "mods/vaultfaster-2.2.0.jar"
-hash = "190cae72a0ab0f4cbe567387a1be3cb8e5582822a5a0fda72a9acc1488c55373"
 
 [[files]]
 file = "mods/vaultfaster-2.2.2.jar"

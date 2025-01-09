@@ -6,15 +6,15 @@
       ],
       "restrictions": {
         "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+          "ENTITY_INTERACTABILITY": true
         }
       },
-      "name": "Colossal Chests",
-      "cost": 1,
+      "name": "Colossal Chests [UNAVAILABLE]",
+      "cost": 999,
       "usesKnowledge": true
     },
     {
@@ -23,14 +23,14 @@
       ],
       "restrictions": {
         "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
           "USABILITY": true,
           "CRAFTABILITY": true,
           "ENTITY_INTERACTABILITY": true
         }
       },
-      "name": "Simple Storage Network",
+      "name": "Simple Storage Network [UNAVAILABLE]",
       "cost": 1,
       "usesKnowledge": true
     },
@@ -157,7 +157,7 @@
     },
     {
       "modIds": [
-        "refinedstorage"
+        "functionalstorage"
       ],
       "restrictions": {
         "restricts": {
@@ -168,15 +168,28 @@
           "ENTITY_INTERACTABILITY": false
         }
       },
-      "name": "Refined Storage",
+      "name": "Functional Storage",
       "cost": 2,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/arcade/helmet",
-        "the_vault:gear/armor/arcade/chestplate",
-        "the_vault:gear/armor/arcade/leggings",
-        "the_vault:gear/armor/arcade/boots"
-      ]
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "refinedstorage",
+        "rsrequestify",
+        "refinedstorageaddons"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Refined Storage [UNAVAILABLE]",
+      "cost": 9999,
+      "usesKnowledge": true
     },
     {
       "modIds": [
