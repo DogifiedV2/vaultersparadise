@@ -13013,6 +13013,10 @@ file = "mods/BetterPingDisplay-1.18.2-1.1.jar"
 hash = "04b3153b495ae19abb21ed73ea3c9b206b8a980e208eb49651888a2a6fbc298d"
 
 [[files]]
+file = "mods/BlackMarketTweaks-1.1.jar"
+hash = "7faf9114f8edd6474c2fe04ccb25b915feb87b9ef75bd9b5745608cf88bf601b"
+
+[[files]]
 file = "mods/Bookshelf-Forge-1.18.2-13.2.51.jar"
 hash = "08be02452bcc31ba86f8a33da843e20d67d1d2b715063983ec012434e9d2a7cf"
 
@@ -13153,6 +13157,10 @@ file = "mods/NoFog-1.3.6+1.18.2-forge.jar"
 hash = "9dad5253d793c7f9f4ce310d728c0089dde57805e1c4143bd4211b28bda8d981"
 
 [[files]]
+file = "mods/Oh_The_Biomes_You'll_Go-forge-1.18.2-1.5.1.jar"
+hash = "09530bba0cce33b6b22b0aa3662af954e04f4332d5c80f867e43831623637012"
+
+[[files]]
 file = "mods/OpenLoader-Forge-1.18.2-12.0.1.jar"
 hash = "f4c25820bb54dd03281a3e5b4aa7ff6cb1c3660fa3449400f463d67c3d31ccd3"
 
@@ -13193,6 +13201,10 @@ file = "mods/PuzzlesLib-v3.3.5-1.18.2-Forge.jar"
 hash = "6df33e5d7d553fb52a61084b82cdb67dcd83b2dcfab8d847e384e9c8f454ac01"
 
 [[files]]
+file = "mods/QOL Hunters-0.29.0-1.18.2.jar"
+hash = "a7fdeeea22cf1404511a30b56e85e2f6cd2eedaa13b75d658d5fb8dc9509facf"
+
+[[files]]
 file = "mods/Quark-3.2-358.jar"
 hash = "046c5cbc31259eb175d010bac36aa82cf6678254caca79cd65022f5b28e031cd"
 
@@ -13229,6 +13241,14 @@ file = "mods/Terralith_v2.2.3.jar"
 hash = "22b72a4bee7ff9970410d29a10f8cf1a90ffbd25087ceaf408f66bab9622ad1d"
 
 [[files]]
+file = "mods/TheVaultJEI-1.0-beta.jar"
+hash = "d122b39bbe9781ae41de4c84b8471014a312db57bc047f8817b0494d1a3826d5"
+
+[[files]]
+file = "mods/VaultLootBeams-1.0.0-beta6.jar"
+hash = "e9ee20db68c3941268211daa6292431f7cdb5c3bd7615217bcfd28443c418a33"
+
+[[files]]
 file = "mods/Waddles-1.18.2-0.8.19.jar"
 hash = "e2df75ba9fca97bb419558e085e521e7a599e378cf0715b19e2eaa49f06b21d5"
 
@@ -13239,6 +13259,46 @@ hash = "4b75152ef0b6c56595c9d9a43a8e705e31714e3a1413255db884201d16e5e75e"
 [[files]]
 file = "mods/Xaeros_Minimap_22.17.0_Forge_1.18.2.jar"
 hash = "a39692facfed5d0aecebdf6a38644cdad4b1b4e6e4462633ec1759bd735d1ad5"
+
+[[files]]
+file = "mods/YungsApi-1.18.2-Forge-2.2.9.jar"
+hash = "3e280c99a638c9ec8c4fe1cf85aa502d09cea16a01e923134d64ab73a980192c"
+
+[[files]]
+file = "mods/YungsBetterDesertTemples-1.18.2-Forge-1.3.1.jar"
+hash = "7cdf3f05f1e7e83a88b2badc0ff4a877b2de4b5c3742358a6422a42c0c118aee"
+
+[[files]]
+file = "mods/YungsBetterDungeons-1.18.2-Forge-2.1.0.jar"
+hash = "d58533ee902ee696614e10d83cce0495e02fea9a1303397903b094550ff6b7f6"
+
+[[files]]
+file = "mods/YungsBetterEndIsland-1.18.2-Forge-1.0.jar"
+hash = "e8164af2e4df15e5e992b86255e5ce894d053cefe81e25fa259f34d3b2472817"
+
+[[files]]
+file = "mods/YungsBetterMineshafts-1.18.2-Forge-2.2.jar"
+hash = "f96f914fb6ac61a64a7619c49778a3049e8339a87fb94e36ac2ebdc77953674a"
+
+[[files]]
+file = "mods/YungsBetterNetherFortresses-1.18.2-Forge-1.0.0.jar"
+hash = "f6671bf97e8e33b69a0f62b6e8568c94320511613264f14c0dcce33a964d48b8"
+
+[[files]]
+file = "mods/YungsBetterOceanMonuments-1.18.2-Forge-1.0.3.jar"
+hash = "8a1f29979f5df3b3a022265dcd35c534ebdb4d01c249f312a4deaa3649bdf717"
+
+[[files]]
+file = "mods/YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar"
+hash = "7265ab312ec40a87edd3b150169f3a279eaa578b206db5c69bd139c7daa9138e"
+
+[[files]]
+file = "mods/YungsBetterWitchHuts-1.18.2-Forge-1.0.1.jar"
+hash = "4571cf7ec0cad64bdc834918c2c6913a158b3abfa97187cfdac3ef7c77f4dfdf"
+
+[[files]]
+file = "mods/YungsExtras-1.18.2-Forge-2.1.0.jar"
+hash = "7edae2633e5ec1737d3cd6ee842d12398000e9a5a0d754773652df01ea572d20"
 
 [[files]]
 file = "mods/additionallanterns-1.1.1a-forge-mc1.18.jar"
@@ -13291,6 +13351,10 @@ hash = "b1a8a2896e057e185ec0ae97559d27dcff7ca7ef3ba9b223c12e1db6d4c2d1a7"
 [[files]]
 file = "mods/betterstats-2.2.2+1.18.2.jar"
 hash = "81f3d1f12067052aac9ccc09abf5a2d83b330beb816e88737f7e6fc16eccde57"
+
+[[files]]
+file = "mods/bettervhblockmodels-1.1.0-3.15.2.jar"
+hash = "6c60333daf2af751fcde3170d1ac35058a8143f9fd02cbc1ddbe2f746f2fbb2d"
 
 [[files]]
 file = "mods/blockcarpentry-1.18-0.3.0.jar"
@@ -13541,6 +13605,10 @@ file = "mods/neoncraft2-2.2.jar"
 hash = "b6f6b55dbe21fc28cc2e8a8b07d48ba3c14738180ebf3a8468b538b51071529e"
 
 [[files]]
+file = "mods/notenoughcrashes-4.2.0+1.18.2-forge.jar"
+hash = "fa45ae84eb64e13cc235e06f05050ee3e3846d775d543d2bf7d74fa4657093d4"
+
+[[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
 hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
@@ -13551,6 +13619,10 @@ hash = "c7bc5defc518fd546916656887cf3e35e48fa9a570bb76e27677f7c6720f842b"
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.49.jar"
 hash = "7d67435481de2b90b78ef4c968f887c9995aa831c4fd8e896ec6887294e75e7e"
+
+[[files]]
+file = "mods/rawvaultqol-1.3.jar"
+hash = "0bcec55b3935935069f054ec6d9a6885d4db16f93505966ed574e78034b3a010"
 
 [[files]]
 file = "mods/rebindnarrator-forge-1.18.x-1.2.2.jar"
@@ -13611,6 +13683,10 @@ hash = "ac97131b1e1e9e21e0f855d093ef96ce8ac0aa172c0399d65be95df03af6caab"
 [[files]]
 file = "mods/simplylight-1.18.2-1.4.5-build.43.jar"
 hash = "797008879bb74da4c41fe99763c05e9d1442e6a7e883df8552af0045c9414dfd"
+
+[[files]]
+file = "mods/skinfighters-2.2.jar"
+hash = "f9b92ecd0aee8a5d88f8901312589f459dfde6a0a635fe317b0af32a6394e93f"
 
 [[files]]
 file = "mods/smoothboot(reloaded)-mc1.18.2-0.0.4.jar"
@@ -13677,16 +13753,76 @@ file = "mods/twigs-1.1.4-patch4+1.18.2-forge.jar"
 hash = "20b9ca87e9a9ffbef0e89239c3dc22db0812362bcf9f6d34d2516346f5dceb8f"
 
 [[files]]
-file = "mods/vault_hunters_jewel_sorting-2.6.0.jar"
-hash = "ab022a562d300799c893f7dd5783a016ac5d922b67cbd259f6b632d3da232979"
+file = "mods/unobtainium-1.4.1.jar"
+hash = "6da4fc0097f7fd1b4c2fdf70c7324a7ca851b5c8ae58401c6d61e33c532e8564"
+
+[[files]]
+file = "mods/vault_curios_enhancements-1.4.jar"
+hash = "8b36021b0159e475649fdeaefc94ddfb76149cd07129077b14936f89763149fd"
+
+[[files]]
+file = "mods/vault_gui_upgrade-1.0.jar"
+hash = "01bf3899fcefa26381ffe26b07d888844c0fd4bbbebdad6c44f617009c23f3ce"
+
+[[files]]
+file = "mods/vault_hunters_better_junk_controller-1.2.1.jar"
+hash = "f15032beebdd8d8db015604d7bbf9798e7d847e5226513a94245fd0086d8532d"
+
+[[files]]
+file = "mods/vault_hunters_jewel_sorting-2.7.1.jar"
+hash = "10bed9582fdd811ef5aa3b75d257fb001d18c85f1898993c637cf6012579524f"
+
+[[files]]
+file = "mods/vault_hunters_sync_server_config-1.0.0.jar"
+hash = "50ffd627d5f0fb72754c518888712cccd158de89e6a0eb19bb1ab79f7b306e72"
+
+[[files]]
+file = "mods/vaultadditions-1.10.3.jar"
+hash = "51fe9e8c55f7e86d4d05fa2922e3bf4ac4e304f051a911241abebbfc33d6ac30"
+
+[[files]]
+file = "mods/vaultcoinpouch-1.6.1.jar"
+hash = "0f10d4754d1d2e37896eed85e2852c160d75360aba45604de1288452c3ac6c64"
+
+[[files]]
+file = "mods/vaultcompassenhancements-1.1.0-3.15.1.jar"
+hash = "aaac1b321e5ea6f38d766f7310ad2a7500501546b999a5b1a130f1bad1ea27e3"
 
 [[files]]
 file = "mods/vaultfaster-2.2.0.jar"
 hash = "190cae72a0ab0f4cbe567387a1be3cb8e5582822a5a0fda72a9acc1488c55373"
 
 [[files]]
+file = "mods/vaultfaster-2.2.2.jar"
+hash = "5e3cd58d3158a5d5d81f204d0434eb626d8a4a66a2434c1472146aec2e297bce"
+
+[[files]]
+file = "mods/vaultfilters-1.19.2.jar"
+hash = "dbae0816f1a4a5e930b721a9c09352e42a4a43584a00f5b015d3c048e2e1f05b"
+
+[[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.14.jar"
 hash = "8857fc433b4dd8e295b5b10e104a75881c3495712d1a996d2681a7bc38572a43"
+
+[[files]]
+file = "mods/vaultjp-1.0.jar"
+hash = "9b01f36a8220b6107d6693b77dfaf0a7a8ee67b1581e75aa7560d4c5a8b40abd"
+
+[[files]]
+file = "mods/vaultkeychain-2.0.0.jar"
+hash = "7ab98181b332f30f53252bb53c3bf026268295438daea0003845e21d08351234"
+
+[[files]]
+file = "mods/vaultmapper-1.7.0.jar"
+hash = "74d4543453458a59547699bccbf3749ee538a3d87058c99f7ee4b7eed10c7a8f"
+
+[[files]]
+file = "mods/vhapi-3.3.3.jar"
+hash = "d4fd9ee8c42174e378175f403c256b770ccbf5605c45e031210cd72b7dca1ffd"
+
+[[files]]
+file = "mods/vhatcaniroll-1.4.jar"
+hash = "f9e5975828a8160d5432e9f186438d7f91dba3cae30f1ad70440f0319d344ed9"
 
 [[files]]
 file = "mods/waystones-forge-1.18.2-10.1.0.jar"
