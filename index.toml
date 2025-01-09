@@ -13465,10 +13465,6 @@ file = "mods/CreateCompression-1.18.2-1.8.2.jar"
 hash = "352086ea9d260b3372d2f731d2b1e13eac50baeec9de594baf03efb02b93f6de"
 
 [[files]]
-file = "mods/CreateTweaker-1.18.2-2.0.0.19.jar"
-hash = "d5cc83c3cffc29894f9131856eea66d65aa3bc1166b1fae08887dc74f560b0b5"
-
-[[files]]
 file = "mods/CreateTweaker-1.18.2-2.0.0.20.jar"
 hash = "521914c5e9c147edf0f692b888d35da7e2830e8595af198f3cd4572f5ced6c35"
 
@@ -13663,10 +13659,6 @@ hash = "7ef79e58099e08dd92df3798956d41b52d922993a0ac23a8f77945c345ad516c"
 [[files]]
 file = "mods/Prism-1.18.2-1.0.1.jar"
 hash = "b7d52586d5c8a8a86d6845711c916f4b3591d62aa19334dbf960c1352b68494b"
-
-[[files]]
-file = "mods/PuzzlesLib-v3.3.5-1.18.2-Forge.jar"
-hash = "6df33e5d7d553fb52a61084b82cdb67dcd83b2dcfab8d847e384e9c8f454ac01"
 
 [[files]]
 file = "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
