@@ -2,48 +2,138 @@
   "LOOT": [
     {
       "value": {
-        "ITEM": "the_vault:abyssal_ichor",
-        "NBT": "{}"
+        "ITEM": "minecraft:deepslate"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "the_vault:sublime_vault_elixir",
-        "NBT": "{}"
+        "ITEM": "minecraft:tuff"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "the_vault:sublime_vault_substance",
-        "NBT": "{}"
+        "ITEM": "minecraft:crimson_nylium"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "the_vault:sublime_vault_vision",
-        "NBT": "{}"
+        "ITEM": "minecraft:warped_nylium"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "the_vault:paradoxical_gem",
-        "NBT": "{}"
+        "ITEM": "minecraft:coal_ore"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "the_vault:acceleration_chip",
-        "NBT": "{}"
+        "ITEM": "minecraft:iron_ore"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:copper_ore"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:lapis_ore"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:jungle_log"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:acacia_log"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:dark_oak_log"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:spruce_log"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:jungle_leaves"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:flowering_azalea_leaves"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:sea_pickle"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:dead_bush"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:mycelium"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:mossy_stone_bricks"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:snow_block"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:soul_sand"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:white_concrete"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:end_stone"
       },
       "weight": 1
     }
   ],
   "INTERVAL": 400,
-  "MIN_ITEM_GENERATED": 50,
-  "MAX_ITEM_GENERATED": 250
+  "MIN_ITEM_GENERATED": 64,
+  "MAX_ITEM_GENERATED": 192
 }

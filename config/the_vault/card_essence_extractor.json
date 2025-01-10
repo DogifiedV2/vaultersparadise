@@ -11,34 +11,34 @@
     "2": {
       "extractTickTime": 10,
       "essencePerCard": {
-        "min": 8,
-        "max": 8
+        "min": 15,
+        "max": 30
       },
-      "essencePerUpgrade": 40
+      "essencePerUpgrade": 25
     },
     "3": {
       "extractTickTime": 10,
       "essencePerCard": {
-        "min": 32,
-        "max": 32
+        "min": 20,
+        "max": 35
       },
-      "essencePerUpgrade": 120
+      "essencePerUpgrade": 50
     },
     "4": {
       "extractTickTime": 10,
       "essencePerCard": {
-        "min": 96,
-        "max": 96
+        "min": 40,
+        "max": 80
       },
-      "essencePerUpgrade": 320
+      "essencePerUpgrade": 100
     },
     "5": {
       "extractTickTime": 10,
       "essencePerCard": {
-        "min": 256,
-        "max": 256
+        "min": 100,
+        "max": 130
       },
-      "essencePerUpgrade": 640
+      "essencePerUpgrade": 200
     }
   }
 }

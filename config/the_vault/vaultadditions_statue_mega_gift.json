@@ -2,48 +2,132 @@
   "LOOT": [
     {
       "value": {
-        "ITEM": "minecraft:oak_log",
-        "NBT": "{}"
+        "ITEM": "minecraft:amethyst_block"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "minecraft:birch_log",
-        "NBT": "{}"
+        "ITEM": "minecraft:nether_gold_ore"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "minecraft:dark_oak_log",
-        "NBT": "{}"
+        "ITEM": "minecraft:nether_quartz_ore"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "minecraft:acacia_log",
-        "NBT": "{}"
+        "ITEM": "minecraft:coal_block"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "minecraft:spruce_log",
-        "NBT": "{}"
+        "ITEM": "minecraft:crimson_stem"
       },
       "weight": 1
     },
     {
       "value": {
-        "ITEM": "minecraft:jungle_log",
-        "NBT": "{}"
+        "ITEM": "minecraft:warped_stem"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:sponge"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:glass"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:white_wool"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:purpur_block"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:ice"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:obsidian"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:cobweb"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:raw_copper_block"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:glowstone"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:hay_block"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:sea_lantern"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:bone_block"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:dead_tube_coral_block"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:magma_block"
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "ITEM": "minecraft:chorus_flower"
       },
       "weight": 1
     }
   ],
   "INTERVAL": 750,
-  "MIN_ITEM_GENERATED": 300,
-  "MAX_ITEM_GENERATED": 500
+  "MIN_ITEM_GENERATED": 128,
+  "MAX_ITEM_GENERATED": 256
 }

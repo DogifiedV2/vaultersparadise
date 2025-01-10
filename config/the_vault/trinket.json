@@ -5,8 +5,8 @@
       "name": "Carapace",
       "effectText": "Grants Immunity to Poison, Slowness, Mining Fatigue and Fire",
       "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -18,8 +18,8 @@
       "name": "Portable Cat",
       "effectText": "Grants a dodge chance for incoming projectiles and removes block damage from explosions",
       "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -31,40 +31,40 @@
       "weight": 10,
       "name": "Slimey",
       "effectText": "Allows wall climbing and grants you immunity to Kinetic Damage",
-      "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "color": 4196357,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
-        "curiosSlot": "blue_trinket"
+        "curiosSlot": "green_trinket"
       }
     },
     "the_vault:chromatic_feather": {
       "weight": 10,
       "name": "Prismatic Feather",
       "effectText": "Grants triple jump",
-      "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "color": 4196357,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
-        "curiosSlot": "blue_trinket"
+        "curiosSlot": "green_trinket"
       }
     },
     "the_vault:chromatic_powder": {
       "weight": 10,
       "name": "Chromatic Powder",
-      "effectText": "Reduces vault gear durability damage with 35%",
+      "effectText": "Reduces vault gear damage with 50%",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
         "key": "the_vault:durability_wear_reduction",
-        "value": 0.35,
+        "value": 0.5,
         "curiosSlot": "red_trinket"
       }
     },
@@ -73,8 +73,8 @@
       "name": "Ender Anchor",
       "effectText": "Makes items automatically teleport to you when in range of your Magnet",
       "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -86,8 +86,8 @@
       "name": "Clover",
       "effectText": "Increases your Lucky Hit chance by 25% of your total Lucky Hit",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -101,8 +101,8 @@
       "name": "Cufflinks",
       "effectText": "Increases your Cooldown Reduction by 50% of your total Cooldown Reduction",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -116,8 +116,8 @@
       "name": "Spellbook",
       "effectText": "Increases your Ability Power by 50% of your total Ability Power",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -131,8 +131,8 @@
       "name": "Crystal Ball",
       "effectText": "Increases your Mana by 100% of your total Mana",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -150,22 +150,22 @@
       "weight": 10,
       "name": "Elvish Air",
       "effectText": "Removes any and all fall damage",
-      "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "color": 4196357,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
-        "curiosSlot": "blue_trinket"
+        "curiosSlot": "green_trinket"
       }
     },
     "the_vault:giants_heart": {
       "weight": 10,
       "name": "Giant's Heart",
-      "effectText": "+25% Max Health",
+      "effectText": "+50% Max Health",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -173,7 +173,7 @@
         "modifier": {
           "id": "b3408bb8-db2c-4c6e-a7ca-7acc2a73f3fb",
           "name": "attribute.name.generic.max_health",
-          "amount": 0.25,
+          "amount": 0.5,
           "operation": 2
         },
         "curiosSlot": "red_trinket"
@@ -184,8 +184,8 @@
       "name": "Golden Burger",
       "effectText": "+100% Vault Experience",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -198,22 +198,22 @@
       "name": "Gluttony Pendant",
       "effectText": "Grants instant eating, and potion consuming speed.",
       "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
         "curiosSlot": "blue_trinket"
       }
     },
-    
+
     "the_vault:high_heels": {
       "weight": 10,
       "name": "The Frog",
       "effectText": "Grants the ability to walk up full blocks",
-      "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "color": 4196357,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -224,21 +224,21 @@
           "amount": 1.0,
           "operation": 0
         },
-        "curiosSlot": "blue_trinket"
+        "curiosSlot": "green_trinket"
       }
     },
     "the_vault:idonas_blade": {
       "weight": 10,
       "name": "Idona's Pendant",
-      "effectText": "Increases your Soul Quantity by 100% of your total Soul Quantity",
+      "effectText": "Increases your Soul Chance by 200% of your total Soul Chance",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
         "key": "the_vault:soul_chance_percentile",
-        "value": 1,
+        "value": 2,
         "curiosSlot": "red_trinket"
       }
     },
@@ -247,8 +247,8 @@
       "name": "Picture of a Lucky Goose",
       "effectText": "+50% Item Rarity",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -262,8 +262,8 @@
       "name": "Treasure Goggles",
       "effectText": "Grants vision of chests and coin piles, with their associated colour in a nearby area around you.",
       "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -276,10 +276,10 @@
     "the_vault:phylactery": {
       "weight": 10,
       "name": "Phylactery",
-      "effectText": "Increases your Mana Regeneration by 50% of your total Mana Regeneration",
+      "effectText": "Increases your Mana Regeneration by 100% of your total Mana Regeneration",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -287,7 +287,7 @@
         "modifier": {
           "id": "a58f4e10-01e8-4b49-80cb-8998f083ad97",
           "name": "attribute.name.generic.mana_regen",
-          "amount": 0.5,
+          "amount": 1,
           "operation": 2
         },
         "curiosSlot": "red_trinket"
@@ -298,8 +298,8 @@
       "name": "Tenos' Necklace",
       "effectText": "+25% Item Quantity",
       "color": 16534066,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -313,8 +313,8 @@
       "name": "Velara's Petal",
       "effectText": "+1 Regeneration",
       "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -326,15 +326,15 @@
     "the_vault:wendarrs_hourglass": {
       "weight": 10,
       "name": "Wendarr's Hourglass",
-      "effectText": "Boosts the fruit time added by 50%",
+      "effectText": "Boosts the fruit time added by 100%",
       "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
         "key": "the_vault:fruit_effectiveness",
-        "value": 0.5,
+        "value": 1,
         "curiosSlot": "blue_trinket"
       }
     },
@@ -343,8 +343,8 @@
       "name": "Stone of Jordan",
       "effectText": "+1 to all learned abilities",
       "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
@@ -357,13 +357,13 @@
       "weight": 10,
       "name": "Wings",
       "effectText": "Gives the player elytra",
-      "color": 3304444,
-      "minCraftedUses": 12,
-      "maxCraftedUses": 12,
+      "color": 4196357,
+      "minCraftedUses": 20,
+      "maxCraftedUses": 20,
       "minUses": 20,
       "maxUses": 30,
       "config": {
-        "curiosSlot": "blue_trinket"
+        "curiosSlot": "green_trinket"
       }
     }
   }
