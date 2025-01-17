@@ -58,7 +58,7 @@
         { "weight": 20,
         "pool": [
           {
-            "weight": 16,
+            "weight": 20,
             "item": {
               "id": "the_vault:magic_silk",
               "count": {
@@ -69,7 +69,7 @@
             }
           },
           {
-            "weight": 10,
+            "weight": 12,
             "item": {
               "id": "the_vault:vault_essence",
               "count": {
@@ -80,7 +80,7 @@
             }
           },
           {
-            "weight": 10,
+            "weight": 12,
             "item": {
               "id": "the_vault:ancient_copper_ingot",
               "count": {
@@ -89,10 +89,32 @@
                 "max": 2
                 }
             }
+          },
+          {
+            "weight": 1,
+            "item": {
+              "id": "vaultadditions:loot_statue_vault",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "item": {
+              "id": "vaultadditions:loot_statue_gift",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+              }
+            }
           }
         ]
         },
-        { "weight": 1,
+        { "weight": 8,
           "pool": [
             {
               "weight": 1,
@@ -132,7 +154,7 @@
         { "weight": 2,
           "pool": [
             {
-              "weight": 2,
+              "weight": 12,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -143,9 +165,9 @@
               }
             },
             {
-              "weight": 16,
+              "weight": 2,
               "item": {
-                "id": "the_vault:vault_diamond",
+                "id": "the_vault:jewel_pouch",
                 "count": {
                   "type": "uniform",
                   "min": 1,

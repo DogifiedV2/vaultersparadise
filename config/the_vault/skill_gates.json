@@ -147,11 +147,10 @@
       },
       "Automatic Genius": {
         "dependsOn": [
-          { "type": "constant", "id": "Colossal Chests" },
-          { "type": "constant", "id": "Simple Storage Network" },
           { "type": "constant", "id": "Drawers" },
+		  { "type": "constant", "id": "Functional Storage" },
+		  { "type": "constant", "id": "Mega Cells" },
           { "type": "constant", "id": "Mekanism QIO" },
-          { "type": "constant", "id": "Refined Storage" },
           { "type": "constant", "id": "Applied Energistics" },
           { "type": "constant", "id": "Double Pouches" },
           { "type": "constant", "id": "Belts" },
@@ -189,22 +188,23 @@
           { "type": "constant", "id": "SNAD" },
           { "type": "constant", "id": "Cagerium" },
           { "type": "constant", "id": "Mob Spawners" },
+		  { "type": "constant", "id": "Vault Salvager" },
           { "type": "constant", "id": "Phytogenic Insulator" },
           { "type": "constant", "id": "Potions" },
           { "type": "constant", "id": "Mixtures" },
+          { "type": "constant", "id": "Angel Rings" },
           { "type": "constant", "id": "Brews" }
         ],
         "ignoreArrow": true,
         "lockedBy": []
       },
       "Altar Automation": {
-        "dependsOn": [
-          { "type": "either", "gates": [
-              { "type": "constant", "id": "Refined Storage" },
-              { "type": "constant", "id": "Applied Energistics" }
-            ]
-          }
-        ],
+        "dependsOn": [{ "type": "constant", "id": "Applied Energistics" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Mega Cells": {
+        "dependsOn": [{ "type": "constant", "id": "Applied Energistics" }],
         "ignoreArrow": true,
         "lockedBy": []
       },

@@ -22,7 +22,13 @@
       "x": 60,
       "y": 40,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/drawers"
+      "icon": "the_vault:gui/researches/functional_storage"
+    },
+    "Mega Cells": {
+      "x": 10,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/mega_cells"
     },
     "Stack Upgrading": {
       "x": 200,

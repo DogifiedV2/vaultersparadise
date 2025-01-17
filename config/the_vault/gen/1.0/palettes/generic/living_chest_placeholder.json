@@ -99,11 +99,22 @@
           }
         },
         {
+          "level": 90,
+          "probability": 1.0,
+          "success": {
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl90\"}": 19,
+            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl90\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
           "level": 100,
           "probability": 1.0,
           "success": {
-            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl70\"}": 19,
-            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl70\"}": 1
+            "the_vault:living_chest{LootTable:\"the_vault:living_chest_lvl90\"}": 19,
+            "the_vault:living_strongbox{LootTable:\"the_vault:living_strongbox_lvl90\"}": 1
           },
           "failure": {
             "minecraft:air": 1
@@ -210,11 +221,22 @@
           }
         },
         {
+          "level": 90,
+          "probability": 1.0,
+          "success": {
+            "the_vault:living_chest[waterlogged=true]{LootTable:\"the_vault:living_chest_lvl90\"}": 19,
+            "the_vault:living_strongbox[waterlogged=true]{LootTable:\"the_vault:living_strongbox_lvl90\"}": 1
+          },
+          "failure": {
+            "minecraft:water": 1
+          }
+        },
+        {
           "level": 100,
           "probability": 1.0,
           "success": {
-            "the_vault:living_chest[waterlogged=true]{LootTable:\"the_vault:living_chest_lvl70\"}": 19,
-            "the_vault:living_strongbox[waterlogged=true]{LootTable:\"the_vault:living_strongbox_lvl70\"}": 1
+            "the_vault:living_chest[waterlogged=true]{LootTable:\"the_vault:living_chest_lvl90\"}": 19,
+            "the_vault:living_strongbox[waterlogged=true]{LootTable:\"the_vault:living_strongbox_lvl90\"}": 1
           },
           "failure": {
             "minecraft:water": 1

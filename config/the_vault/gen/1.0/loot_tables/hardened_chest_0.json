@@ -10,119 +10,42 @@
         { "weight": 70,
           "pool": [
             {
-                "weight": 32,
+                "weight": 24,
                 "item": {
-                "id": "minecraft:torch",
+                "id": "the_vault:gilded_sconce",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 2
                   }
                 }
             },
             {
-              "weight": 16,
+              "weight": 12,
               "item": {
-              "id": "minecraft:scaffolding",
-              "count": {
-                "type": "uniform",
-                "min": 1,
-                "max": 2
-                }
-              }
-            },
-            {
-              "weight": 6,
-              "item": {
-                "id": "minecraft:bread",
+                "id": "the_vault:vault_sweets",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 12,
+              "item": {
+                "id": "the_vault:chromatic_iron_nugget",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
                   }
               }
             },
             {
               "weight": 10,
               "item": {
-                "id": "minecraft:book",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 10,
-              "item": {
-                "id": "minecraft:coal",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 4,
-              "item": {
-                "id": "minecraft:acacia_sapling",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 2,
-              "item": {
-                "id": "minecraft:jungle_sapling",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 2,
-              "item": {
-                "id": "minecraft:dark_oak_sapling",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 2,
-              "item": {
-                "id": "minecraft:spruce_sapling",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-                "id": "minecraft:birch_sapling",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 8,
-              "item": {
-                "id": "minecraft:oak_sapling",
+                "id": "the_vault:wooden_chunk",
                 "count": {
                   "type": "uniform",
                   "min": 1,
@@ -148,7 +71,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 2
                   }
               }
             },
@@ -159,7 +82,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 4
+                  "max": 3
                   }
               }
             }
@@ -175,18 +98,51 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 2
+                  }
+              }
+            },
+            {
+              "weight": 2,
+              "item": {
+                "id": "vaultadditions:power_crystal",
+                "count": {
+                  "type": "uniform",
+                  "min": 3,
+                  "max": 6
                   }
               }
             },
             {
               "weight": 6,
               "item": {
-                "id": "minecraft:coal",
+                "id": "the_vault:vault_sweets",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:carbon",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                  }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:driftwood",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 3
                   }
               }
             },
@@ -197,7 +153,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                   }
               }
             }
@@ -206,7 +162,7 @@
         { "weight": 8,
           "pool": [
             {
-                "weight": 8,
+                "weight": 7,
                 "item": {
                   "id": "minecraft:experience_bottle",
                   "count": {
@@ -217,9 +173,53 @@
                 }
             },
             {
-              "weight": 8,
+              "weight": 1,
               "item": {
-                "id": "the_vault:diamond_nugget",
+                "id": "the_vault:carbon",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                  }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:driftwood",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 2
+                  }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "the_vault:vault_diamond",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                  }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "vaultadditions:power_crystal",
+                "count": {
+                  "type": "uniform",
+                  "min": 3,
+                  "max": 3
+                  }
+              }
+            },
+            {
+              "weight": 5,
+              "item": {
+                "id": "minecraft:diamond",
                 "count": {
                   "type": "uniform",
                   "min": 1,

@@ -58,7 +58,7 @@
         { "weight": 20,
         "pool": [
           {
-            "weight": 12,
+            "weight": 20,
             "item": {
               "id": "the_vault:magic_silk",
               "count": {
@@ -69,7 +69,7 @@
             }
           },
           {
-            "weight": 8,
+            "weight": 12,
             "item": {
               "id": "the_vault:vault_essence",
               "count": {
@@ -77,6 +77,39 @@
                 "min": 1,
                 "max": 1
                 }
+            }
+          },
+          {
+            "weight": 12,
+            "item": {
+              "id": "the_vault:ancient_copper_ingot",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 2
+                }
+            }
+          },
+          {
+            "weight": 1,
+            "item": {
+              "id": "vaultadditions:loot_statue_vault",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+              }
+            }
+          },
+          {
+            "weight": 1,
+            "item": {
+              "id": "vaultadditions:loot_statue_gift",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+              }
             }
           }
         ]
@@ -121,7 +154,7 @@
         { "weight": 2,
           "pool": [
             {
-              "weight": 3,
+              "weight": 12,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
@@ -132,14 +165,36 @@
               }
             },
             {
-              "weight": 21,
+              "weight": 2,
               "item": {
-                "id": "the_vault:vault_diamond",
+                "id": "woldsvaults:altar_recatalyzer",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 1
                   }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:plushie",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:loot_sack",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
               }
             },
             {
@@ -154,23 +209,9 @@
               }
             },
             {
-              "weight": 1,
+              "weight": 3,
               "item": {
                 "id": "the_vault:key_piece",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 1,
-              "item": {
-                "id": "the_vault:card_deck",
-                "nbt": {
-                  "id": "gdungeon"
-                },
                 "count": {
                   "type": "uniform",
                   "min": 1,

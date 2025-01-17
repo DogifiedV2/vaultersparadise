@@ -21,29 +21,34 @@
       {"value": {"id": "storagedrawers:upgrade_template", "amountMin": 4, "amountMax": 4}, "weight": 100},
       {"value": {"id": "storagedrawers:void_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 80}
     ],
-    "Refined Storage": [
-      {"value": {"id": "refinedstorage:1k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 80},
-      {"value": {"id": "refinedstorage:4k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 70},
-      {"value": {"id": "refinedstorage:16k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 25},
-      {"value": {"id": "refinedstorage:64k_storage_disk", "amountMin": 1, "amountMax": 1}, "weight": 5},
-      {"value": {"id": "refinedstorage:grid", "amountMin": 1, "amountMax": 1}, "weight": 40},
-      {"value": {"id": "refinedstorage:disk_drive", "amountMin": 1, "amountMax": 1}, "weight": 50},
-      {"value": {"id": "refinedstorage:speed_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 100},
-      {"value": {"id": "refinedstorage:stack_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 75},
-      {"value": {"id": "refinedstorage:crafting_grid", "amountMin": 1, "amountMax": 1}, "weight": 10},
-      {"value": {"id": "refinedstorage:external_storage", "amountMin": 1, "amountMax": 1}, "weight": 65}
+    "Functional Storage": [
+      {"value": {"id": "functionalstorage:framed_1", "amountMin": 1, "amountMax": 1}, "weight": 30},
+      {"value": {"id": "functionalstorage:framed_2", "amountMin": 1, "amountMax": 1}, "weight": 30},
+      {"value": {"id": "functionalstorage:framed_4", "amountMin": 1, "amountMax": 1}, "weight": 30},
+      {"value": {"id": "functionalstorage:storage_controller", "amountMin": 1, "amountMax": 1}, "weight": 1},
+      {"value": {"id": "functionalstorage:compacting_drawer", "amountMin": 1, "amountMax": 1}, "weight": 10},
+      {"value": {"id": "functionalstorage:controller_extension", "amountMin": 1, "amountMax": 1}, "weight": 6},
+      {"value": {"id": "functionalstorage:armory_cabinet", "amountMin": 1, "amountMax": 1}, "weight": 2},
+      {"value": {"id": "functionalstorage:copper_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 35},
+      {"value": {"id": "functionalstorage:gold_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 15},
+      {"value": {"id": "functionalstorage:diamond_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 10},
+      {"value": {"id": "functionalstorage:netherite_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 2},
+      {"value": {"id": "functionalstorage:void_upgrade", "amountMin": 1, "amountMax": 1}, "weight": 8},
+      {"value": {"id": "functionalstorage:ender_drawer", "amountMin": 1, "amountMax": 1}, "weight": 8}
     ],
     "Applied Energistics": [
       {"value": {"id": "ae2:fluix_smart_dense_cable", "amountMin": 4, "amountMax": 4}, "weight": 100},
-      {"value": {"id": "ae2:item_storage_cell_1k", "amountMin": 1, "amountMax": 1}, "weight": 80},
-      {"value": {"id": "ae2:item_storage_cell_4k", "amountMin": 1, "amountMax": 1}, "weight": 75},
-      {"value": {"id": "ae2:item_storage_cell_16k", "amountMin": 1, "amountMax": 1}, "weight": 70},
-      {"value": {"id": "ae2:item_storage_cell_64k", "amountMin": 1, "amountMax": 1}, "weight": 5},
+      {"value": {"id": "ae2things:disk_drive_1k", "amountMin": 1, "amountMax": 1}, "weight": 80},
+      {"value": {"id": "ae2things:disk_drive_4k", "amountMin": 1, "amountMax": 1}, "weight": 75},
+      {"value": {"id": "ae2things:disk_drive_16k", "amountMin": 1, "amountMax": 1}, "weight": 70},
+      {"value": {"id": "ae2things:disk_drive_64k", "amountMin": 1, "amountMax": 1}, "weight": 5},
       {"value": {"id": "ae2:terminal", "amountMin": 1, "amountMax": 1}, "weight": 40},
       {"value": {"id": "ae2:crafting_terminal", "amountMin": 1, "amountMax": 1}, "weight": 10},
       {"value": {"id": "ae2:drive", "amountMin": 1, "amountMax": 1}, "weight": 50},
       {"value": {"id": "ae2:speed_card", "amountMin": 2, "amountMax": 2}, "weight": 75},
-      {"value": {"id": "ae2:storage_bus", "amountMin": 1, "amountMax": 1}, "weight": 65}
+      {"value": {"id": "ae2:storage_bus", "amountMin": 1, "amountMax": 1}, "weight": 65},
+      {"value": {"id": "ae2things:advanced_inscriber", "amountMin": 1, "amountMax": 1}, "weight": 5},
+      {"value": {"id": "ae2things:crystal_growth", "amountMin": 1, "amountMax": 1}, "weight": 5}
     ],
     "Powah": [
       {"value": {"id": "powah:furnator_starter", "amountMin": 1, "amountMax": 1}, "weight": 120},

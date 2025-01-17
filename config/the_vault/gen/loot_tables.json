@@ -96,6 +96,16 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
     },
     {
+      "id": "the_vault:treasure_chest_stand_lvl50",
+      "name": "Treasure Stand Lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_stand_50.json"
+    },
+    {
+      "id": "the_vault:dungeon_pedestal_lvl50",
+      "name": "Dungeon Stand Lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_pedestal_50.json"
+    },
+    {
       "id": "the_vault:completion_lvl0",
       "name": "Completion Crate lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/completion_lvl0.json"
@@ -206,6 +216,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/living_chest_70.json"
     },
     {
+      "id": "the_vault:living_chest_lvl90",
+      "name": "Living Chest lvl90",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/living_chest_90.json"
+    },
+    {
       "id": "the_vault:living_strongbox_lvl50",
       "name": "Living Strongbox lvl50",
       "1.0": "config/the_vault/gen/1.0/loot_tables/living_strongbox_50.json"
@@ -214,6 +229,11 @@
       "id": "the_vault:living_strongbox_lvl70",
       "name": "Living Strongbox lvl70",
       "1.0": "config/the_vault/gen/1.0/loot_tables/living_strongbox_70.json"
+    },
+    {
+      "id": "the_vault:living_strongbox_lvl90",
+      "name": "Living Strongbox lvl90",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/living_strongbox_90.json"
     },
     {
       "id": "the_vault:gilded_chest_lvl0",
@@ -276,14 +296,44 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/hardened_chest_0.json"
     },
     {
+      "id": "the_vault:hardened_chest_lvl20",
+      "name": "Hardened Chest lvl20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/hardened_chest_20.json"
+    },
+    {
+      "id": "the_vault:hardened_chest_lvl50",
+      "name": "Hardened Chest lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/hardened_chest_50.json"
+    },
+    {
+      "id": "the_vault:hardened_chest_lvl100",
+      "name": "Hardened Chest lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/hardened_chest_100.json"
+    },
+    {
       "id": "the_vault:flesh_chest_lvl0",
       "name": "Flesh Chest lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/flesh_chest_0.json"
     },
     {
+      "id": "the_vault:flesh_chest_lvl50",
+      "name": "Flesh Chest lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/flesh_chest_50.json"
+    },
+    {
       "id": "the_vault:enigma_chest_lvl0",
       "name": "Enigma Chest lvl0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/enigma_chest_0.json"
+    },
+    {
+      "id": "the_vault:enigma_chest_lvl20",
+      "name": "Enigma Chest lvl20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/enigma_chest_20.json"
+    },
+    {
+      "id": "the_vault:enigma_chest_lvl50",
+      "name": "Enigma Chest lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/enigma_chest_50.json"
     },
     {
       "id": "the_vault:wooden_chest_lvl0",
@@ -299,6 +349,16 @@
       "id": "the_vault:wooden_chest_lvl30",
       "name": "Wooden Chest lvl30",
       "1.0": "config/the_vault/gen/1.0/loot_tables/wooden_chest_30.json"
+    },
+    {
+      "id": "the_vault:wooden_chest_lvl50",
+      "name": "Wooden Chest lvl50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/wooden_chest_50.json"
+    },
+    {
+      "id": "the_vault:wooden_chest_lvl100",
+      "name": "Wooden Chest lvl100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/wooden_chest_100.json"
     },
     {
       "id": "the_vault:boss_ornate",
@@ -346,6 +406,31 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/brazier_lvl50.json"
     },
     {
+      "id": "the_vault:haunted_brazier_lvl0",
+      "name": "Brazier",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/haunted_brazier_lvl0.json"
+    },
+    {
+      "id": "the_vault:haunted_brazier_lvl20",
+      "name": "Brazier",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/haunted_brazier_lvl20.json"
+    },
+    {
+      "id": "the_vault:haunted_brazier_lvl50",
+      "name": "Brazier",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/haunted_brazier_lvl50.json"
+    },
+    {
+      "id": "the_vault:haunted_braziers_crate_50",
+      "name": "Haunted Braziers Crate Level 50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_50.json"
+    },
+    {
+      "id": "the_vault:haunted_braziers_crate_100",
+      "name": "Haunted Braziers Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_100.json"
+    },
+    {
       "id": "the_vault:bingo_lvl50",
       "name": "Brazier",
       "1.0": "config/the_vault/gen/1.0/loot_tables/bingo_crate.json"
@@ -356,33 +441,48 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/bingo_full_crate.json"
     },
     {
+      "id": "the_vault:bingo_bonus_cursed",
+      "name": "Ballistic Bingo Full Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bingo_full_crate_cursed.json"
+    },
+    {
       "id": "the_vault:base_crate_0",
-      "name": "Completion Crate Level 0-19",
+      "name": "Completion Crate Level 0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_0.json"
     },
     {
       "id": "the_vault:base_crate_20",
-      "name": "Completion Crate Level 20-49",
+      "name": "Completion Crate Level 20",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_20.json"
     },
     {
       "id": "the_vault:base_crate_50",
-      "name": "Completion Crate Level 50+",
+      "name": "Completion Crate Level 50",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_50.json"
     },
     {
+      "id": "the_vault:base_crate_100",
+      "name": "Completion Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_100.json"
+    },
+    {
       "id": "the_vault:base_crate_2_20",
-      "name": "Completion Crate Level 20-49",
+      "name": "Completion Crate Level 20",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_2_20.json"
     },
     {
       "id": "the_vault:base_crate_2_50",
-      "name": "Completion Crate Level 50+",
+      "name": "Completion Crate Level 50",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_2_50.json"
     },
     {
+      "id": "the_vault:base_crate_2_100",
+      "name": "Completion Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_2_100.json"
+    },
+    {
       "id": "the_vault:base_crate_2_0",
-      "name": "Completion Crate Level 0-19",
+      "name": "Completion Crate Level 0",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_2_0.json"
     },
     {
@@ -436,6 +536,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_70.json"
     },
     {
+      "id": "the_vault:dungeon/living_chest_lvl90",
+      "name": "Dungeon Living Chest lvl90",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_90.json"
+    },
+    {
       "id": "the_vault:dungeon/living_strongbox_lvl50",
       "name": "Dungeon Living Strongbox lvl50",
       "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_50.json"
@@ -444,6 +549,11 @@
       "id": "the_vault:dungeon/living_strongbox_lvl70",
       "name": "Dungeon Living Strongbox lvl70",
       "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_70.json"
+    },
+    {
+      "id": "the_vault:dungeon/living_strongbox_lvl90",
+      "name": "Dungeon Living Strongbox lvl90",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_90.json"
     },
     {
       "id": "the_vault:dungeon/gilded_chest_lvl0",
@@ -502,8 +612,83 @@
     },
     {
       "id": "the_vault:base_crate_3_50",
-      "name": "Completion Crate Level 50+",
+      "name": "Completion Crate Level 50",
       "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_3_50.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_0",
+      "name": "Cursed Completion Crate Level 0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_0.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_20",
+      "name": "Cursed Completion Crate Level 20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_20.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_50",
+      "name": "Cursed Completion Crate Level 49",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_50.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_100",
+      "name": "Cursed Completion Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_100.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_2_0",
+      "name": "Curs[ed Completion Crate Level 0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_0.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_2_20",
+      "name": "Cursed Completion Crate Level 20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_20.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_2_50",
+      "name": "Cursed Completion Crate Level 49",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_50.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_2_100",
+      "name": "Cursed Completion Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_100.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_3_50",
+      "name": "Completion Crate Level 50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_50.json"
+    },
+    {
+      "id": "the_vault:base_crate_cursed_3_100",
+      "name": "Completion Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_100.json"
+    },
+    {
+      "id": "the_vault:zealot_crate_50",
+      "name": "Zealot Crate Level 50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/zealot_crate_50.json"
+    },
+    {
+      "id": "the_vault:zealot_crate_100",
+      "name": "Zealot Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/zealot_crate_100.json"
+    },
+    {
+      "id": "the_vault:iskallian_leaves",
+      "name": "Garden Leaves",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/iskallian_leaves.json"
+    },
+    {
+      "id": "the_vault:hellish_sand",
+      "name": "Hellish Sand",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/hellish_sand.json"
+    },
+    {
+      "id": "the_vault:base_crate_3_100",
+      "name": "Completion Crate Level 100",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/base_crate_3_100.json"
     }
   ]
 }

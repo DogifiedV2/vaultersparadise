@@ -170,7 +170,13 @@
       },
       "name": "Functional Storage",
       "cost": 2,
-      "usesKnowledge": true
+      "usesKnowledge": true,
+	  "discoversModels": [
+        "the_vault:gear/armor/arcade/helmet",
+        "the_vault:gear/armor/arcade/chestplate",
+        "the_vault:gear/armor/arcade/leggings",
+        "the_vault:gear/armor/arcade/boots"
+      ]
     },
     {
       "modIds": [
@@ -213,6 +219,23 @@
         "the_vault:gear/armor/robotic/leggings",
         "the_vault:gear/armor/robotic/boots"
       ]
+    },
+    {
+      "modIds": [
+        "megacells"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Mega Cells",
+      "cost": 8,
+      "usesKnowledge": true
     },
     {
       "modIds": [
@@ -1281,7 +1304,50 @@
         "the_vault:gear/armor/scout/boots"
       ]
     },
-    
+    {
+      "itemRestrictions": {
+        "woldsvaults:chromatic_iron_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:chromatic_gold_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:chromatic_steel_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:black_chromatic_steel_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:prismatic_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Vault Rings",
+      "cost": 16,
+	  "usesKnowledge": true
+    },
     {
       "itemRestrictions": {
         "the_vault:vault_harvester": {
@@ -1297,6 +1363,22 @@
       "name": "Soul Harvester",
       "cost": 2,
       "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "woldsvaults:vault_salvager": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Vault Salvager",
+      "cost": 16,
+	  "usesKnowledge": true
     },
     {
       "itemRestrictions": {

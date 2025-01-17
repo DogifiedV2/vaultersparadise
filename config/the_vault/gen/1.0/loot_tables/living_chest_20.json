@@ -163,11 +163,11 @@
             {
               "weight": 60,
               "item": {
-                "id": "the_vault:living_rock",
+                "id": "the_vault:vault_moss",
                 "count": {
                   "type": "uniform",
-                  "min": 4,
-                  "max": 8
+                  "min": 2,
+                  "max": 4
                   }
               }
             },

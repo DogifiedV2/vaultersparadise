@@ -33,6 +33,16 @@
           "failure": {
             "minecraft:stone": 1
           }
+        },
+        {
+          "level": 75,
+          "probability": 0.33,
+          "success": {
+            "the_vault:dungeon_door": 1
+          },
+          "failure": {
+            "minecraft:stone": 1
+          }
         }
       ]
     },
@@ -44,12 +54,77 @@
           "type": "weighted_target",
           "target": "the_vault:dungeon_door",
           "output": {
+            "the_vault:dungeon_door[type=illager]{Pool:\"the_vault:vault/dungeon_rooms/pillager_rooms\", Target: \"the_vault:treasure_room\"}": 0,
+            "the_vault:dungeon_door[type=skeleton]{Pool:\"the_vault:vault/dungeon_rooms/skeleton_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=piglin]{Pool:\"the_vault:vault/dungeon_rooms/piglin_rooms\", Target: \"the_vault:treasure_room\"}": 0,
+            "the_vault:dungeon_door[type=zombie]{Pool:\"the_vault:vault/dungeon_rooms/zombie_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=witch]{Pool:\"the_vault:vault/dungeon_rooms/witch_rooms\", Target: \"the_vault:treasure_room\"}": 0,
+            "the_vault:dungeon_door[type=spider]{Pool:\"the_vault:vault/dungeon_rooms/spider_rooms\", Target: \"the_vault:treasure_room\"}": 0
+          }
+        },
+        {
+          "level": 20,
+          "type": "weighted_target",
+          "target": "the_vault:dungeon_door",
+          "output": {
+            "the_vault:dungeon_door[type=illager]{Pool:\"the_vault:vault/dungeon_rooms/pillager_rooms\", Target: \"the_vault:treasure_room\"}": 0,
+            "the_vault:dungeon_door[type=skeleton]{Pool:\"the_vault:vault/dungeon_rooms/skeleton_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=piglin]{Pool:\"the_vault:vault/dungeon_rooms/piglin_rooms\", Target: \"the_vault:treasure_room\"}": 0,
+            "the_vault:dungeon_door[type=zombie]{Pool:\"the_vault:vault/dungeon_rooms/zombie_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=witch]{Pool:\"the_vault:vault/dungeon_rooms/witch_rooms\", Target: \"the_vault:treasure_room\"}": 0,
+            "the_vault:dungeon_door[type=spider]{Pool:\"the_vault:vault/dungeon_rooms/spider_rooms\", Target: \"the_vault:treasure_room\"}": 1
+          }
+        },
+        {
+          "level": 35,
+          "type": "weighted_target",
+          "target": "the_vault:dungeon_door",
+          "output": {
             "the_vault:dungeon_door[type=illager]{Pool:\"the_vault:vault/dungeon_rooms/pillager_rooms\", Target: \"the_vault:treasure_room\"}": 1,
             "the_vault:dungeon_door[type=skeleton]{Pool:\"the_vault:vault/dungeon_rooms/skeleton_rooms\", Target: \"the_vault:treasure_room\"}": 1,
             "the_vault:dungeon_door[type=piglin]{Pool:\"the_vault:vault/dungeon_rooms/piglin_rooms\", Target: \"the_vault:treasure_room\"}": 1,
             "the_vault:dungeon_door[type=zombie]{Pool:\"the_vault:vault/dungeon_rooms/zombie_rooms\", Target: \"the_vault:treasure_room\"}": 1,
             "the_vault:dungeon_door[type=witch]{Pool:\"the_vault:vault/dungeon_rooms/witch_rooms\", Target: \"the_vault:treasure_room\"}": 0,
             "the_vault:dungeon_door[type=spider]{Pool:\"the_vault:vault/dungeon_rooms/spider_rooms\", Target: \"the_vault:treasure_room\"}": 1
+          }
+        },
+        {
+          "level": 50,
+          "type": "weighted_target",
+          "target": "the_vault:dungeon_door",
+          "output": {
+            "the_vault:dungeon_door[type=illager]{Pool:\"the_vault:vault/dungeon_rooms/pillager_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=skeleton]{Pool:\"the_vault:vault/dungeon_rooms/skeleton_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=piglin]{Pool:\"the_vault:vault/dungeon_rooms/piglin_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=zombie]{Pool:\"the_vault:vault/dungeon_rooms/zombie_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=witch]{Pool:\"the_vault:vault/dungeon_rooms/witch_rooms\", Target: \"the_vault:treasure_room\"}": 1,
+            "the_vault:dungeon_door[type=spider]{Pool:\"the_vault:vault/dungeon_rooms/spider_rooms\", Target: \"the_vault:treasure_room\"}": 1
+          }
+        },
+        {
+          "level": 75,
+          "type": "weighted_target",
+          "target": "the_vault:dungeon_door",
+          "output": {
+            "the_vault:dungeon_door[type=illager]{Pool:\"the_vault:vault/dungeon_rooms/pillager_rooms\", Target: \"the_vault:treasure_room\"}": 3,
+            "the_vault:dungeon_door[type=skeleton]{Pool:\"the_vault:vault/dungeon_rooms/skeleton_rooms\", Target: \"the_vault:treasure_room\"}": 2,
+            "the_vault:dungeon_door[type=piglin]{Pool:\"the_vault:vault/dungeon_rooms/piglin_rooms\", Target: \"the_vault:treasure_room\"}": 3,
+            "the_vault:dungeon_door[type=zombie]{Pool:\"the_vault:vault/dungeon_rooms/zombie_rooms\", Target: \"the_vault:treasure_room\"}": 2,
+            "the_vault:dungeon_door[type=witch]{Pool:\"the_vault:vault/dungeon_rooms/witch_rooms\", Target: \"the_vault:treasure_room\"}": 2,
+            "the_vault:dungeon_door[type=spider]{Pool:\"the_vault:vault/dungeon_rooms/spider_rooms\", Target: \"the_vault:treasure_room\"}": 2
+          }
+        },
+        {
+          "level": 100,
+          "type": "weighted_target",
+          "target": "the_vault:dungeon_door",
+          "output": {
+            "the_vault:dungeon_door[type=illager]{Pool:\"the_vault:vault/dungeon_rooms/pillager_rooms\", Target: \"the_vault:treasure_room\"}": 3,
+            "the_vault:dungeon_door[type=skeleton]{Pool:\"the_vault:vault/dungeon_rooms/skeleton_rooms\", Target: \"the_vault:treasure_room\"}": 2,
+            "the_vault:dungeon_door[type=piglin]{Pool:\"the_vault:vault/dungeon_rooms/piglin_rooms\", Target: \"the_vault:treasure_room\"}": 3,
+            "the_vault:dungeon_door[type=zombie]{Pool:\"the_vault:vault/dungeon_rooms/zombie_rooms\", Target: \"the_vault:treasure_room\"}": 2,
+            "the_vault:dungeon_door[type=witch]{Pool:\"the_vault:vault/dungeon_rooms/witch_rooms\", Target: \"the_vault:treasure_room\"}": 2,
+            "the_vault:dungeon_door[type=spider]{Pool:\"the_vault:vault/dungeon_rooms/spider_rooms\", Target: \"the_vault:treasure_room\"}": 2
           }
         }
       ]

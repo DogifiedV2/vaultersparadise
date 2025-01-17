@@ -10,7 +10,7 @@
         { "weight": 70,
           "pool": [
             {
-                "weight": 16,
+                "weight": 14,
                 "item": {
                 "id": "the_vault:living_rock",
                 "count": {
@@ -32,7 +32,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 8,
               "item": {
                 "id": "the_vault:overgrown_wooden_chunk",
                 "count": {
@@ -43,7 +43,7 @@
               }
             },
             {
-              "weight": 16,
+              "weight": 14,
               "item": {
                 "id": "the_vault:rotten_meat",
                 "count": {
@@ -80,7 +80,7 @@
         { "weight": 20,
         "pool": [
           {
-            "weight": 34,
+            "weight": 24,
             "item": {
               "id": "the_vault:burger_patty",
               "count": {
@@ -91,7 +91,7 @@
             }
           },
           {
-            "weight": 34,
+            "weight": 24,
             "item": {
               "id": "the_vault:burger_bun",
               "count": {
@@ -102,7 +102,7 @@
             }
           },
           {
-            "weight": 34,
+            "weight": 24,
             "item": {
               "id": "the_vault:burger_cheese",
               "count": {
@@ -113,7 +113,7 @@
             }
           },
           {
-            "weight": 34,
+            "weight": 24,
             "item": {
               "id": "the_vault:burger_tomato",
               "count": {
@@ -124,7 +124,7 @@
             }
           },
           {
-            "weight": 33,
+            "weight": 23,
             "item": {
               "id": "the_vault:burger_lettuce",
               "count": {
@@ -135,7 +135,7 @@
             }
           },
           {
-            "weight": 120,
+            "weight": 115,
             "item": {
               "id": "the_vault:regret_nugget",
               "count": {
@@ -146,7 +146,7 @@
             }
           },
           {
-            "weight": 31,
+            "weight": 21,
             "item": {
               "id": "the_vault:burger_pickles",
               "count": {
@@ -168,7 +168,18 @@
             }
           },
           {
-            "weight": 120,
+            "weight": 70,
+            "item": {
+              "id": "the_vault:memory_powder",
+              "count": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+              }
+            }
+          },
+          {
+            "weight": 115,
             "item": {
               "id": "the_vault:vault_meat",
               "count": {
@@ -183,25 +194,36 @@
         { "weight": 8,
           "pool": [
             {
-              "weight": 60,
+              "weight": 30,
               "item": {
-                "id": "the_vault:living_rock",
+                "id": "the_vault:vault_moss",
                 "count": {
                   "type": "uniform",
-                  "min": 4,
-                  "max": 8
-                  }
+                  "min": 2,
+                  "max": 4
+                }
               }
             },
             {
-              "weight": 80,
+              "weight": 65,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
                   "type": "uniform",
                   "min": 1,
                   "max": 2
-                  }
+                }
+              }
+            },
+            {
+              "weight": 45,
+              "item": {
+                "id": "the_vault:memory_powder",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
               }
             }
         ]
@@ -209,7 +231,7 @@
         { "weight": 2,
           "pool": [
             {
-              "weight": 200,
+              "weight": 160,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
@@ -220,20 +242,20 @@
               }
             },
             {
-              "weight": 84,
+              "weight": 100,
               "item": {
-                "id": "the_vault:mystery_egg",
+                "id": "the_vault:memory_powder",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
-                  }
+                  "max": 2
+                }
               }
             },
             {
-              "weight": 56,
+              "weight": 80,
               "item": {
-                "id": "the_vault:vault_moss",
+                "id": "the_vault:mystery_egg",
                 "count": {
                   "type": "uniform",
                   "min": 1,

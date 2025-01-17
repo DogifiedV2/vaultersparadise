@@ -3,6 +3,78 @@
     {
       "value": {
         "id": "the_vault:inscription",
+        "nbt": "{data: {entries: [{color: 15769088,count: 1,pool: \"the_vault:vault/rooms/challenge/raid/rooms\"}],model: 0, size: 10}}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 72
+    },
+    {
+      "value": {
+        "id": "the_vault:inscription",
+        "nbt": "{data: {entries: [{color: 15769088,count: 1,pool: \"the_vault:vault/rooms/challenge/laboratory\"}],model: 0, size: 10}}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 72
+    },
+    {
+      "value": {
+        "id": "the_vault:inscription",
+        "nbt": "{data: {entries: [{color: 15769088,count: 1,pool: \"the_vault:vault/rooms/challenge/raid/rooms\"}],model: 0, size: 5}}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 48
+    },
+    {
+      "value": {
+        "id": "the_vault:inscription",
+        "nbt": "{data: {entries: [{color: 15769088,count: 1,pool: \"the_vault:vault/rooms/challenge/laboratory\"}],model: 0, size: 5}}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 48
+    },
+    {
+      "value": {
+        "id": "the_vault:inscription",
+        "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/arcade\"}],model: 0, size: 5}}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 8
+    },
+    {
+      "value": {
+        "id": "the_vault:inscription",
+        "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/arcade\"}],model: 0, size: 10}}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 32
+    },
+    {
+      "value": {
+        "id": "the_vault:inscription",
+        "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/iskallian_garden\"}],model: 0, size: 5}}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 16
+    },
+    {
+      "value": {
+        "id": "the_vault:inscription",
+        "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/iskallian_garden\"}],model: 0, size: 10}}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 64
+    },
+    {
+      "value": {
+        "id": "the_vault:inscription",
         "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/blacksmith\"}],model: 1, size: 10}}",
         "amountMin": 1,
         "amountMax": 1

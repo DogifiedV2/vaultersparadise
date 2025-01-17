@@ -33,6 +33,26 @@
           "failure": {
             "minecraft:air": 1
           }
+        },
+        {
+          "level": 50,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 100,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl100\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
         }
       ]
     },
@@ -68,6 +88,26 @@
           },
           "failure": {
             "minecraft:water": 1
+          }
+        },
+        {
+          "level": 50,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 100,
+          "probability": 1.0,
+          "success": {
+            "the_vault:wooden_chest{LootTable:\"the_vault:wooden_chest_lvl100\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
           }
         }
       ]

@@ -108,10 +108,20 @@
           }
         },
         {
+          "level": 90,
+          "probability": 0.6,
+          "success": {
+            "the_vault:living_barrel{LootTable:\"the_vault:living_chest_lvl90\"}": 19
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
           "level": 100,
           "probability": 0.6,
           "success": {
-            "the_vault:living_barrel{LootTable:\"the_vault:living_chest_lvl70\"}": 19
+            "the_vault:living_barrel{LootTable:\"the_vault:living_chest_lvl90\"}": 19
           },
           "failure": {
             "minecraft:air": 1
