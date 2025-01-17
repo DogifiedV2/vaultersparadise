@@ -133,12 +133,11 @@ JEI.hideIngredient(<item:vaultadditions:event_block>);
 
 //JEI descriptions
 
-JEI.addDescription(<item:the_vault:vault_doll>, ["Dolls cannot be placed in the world and can only be put in a Doll Juicer."]);
-JEI.addDescription(<item:the_vault:loot_statue>, ["These Vault Statues from Season 2 of Vault Hunters have re-awoken and will produce an infinite amount of a resource at a very slow pace.  Acceleration chips may be right clicked on the statue to help give it a boost."]);
-JEI.addDescription(<item:the_vault:trident>, ["Vault Tridents are similar to normal tridents but instead of enchanting to obtain Loyalty, Riptide, or channeling, they will roll as implicits with Loyalty and Riptide being mutually exclusive.  For more detailed info on Vault Tridents check out the quest entry."]);
-JEI.addDescription(<item:the_vault:battlestaff>, ["The Vault Battlestaff is a weapon that will have higher base attack speed, but deal slightly less damage than a vault sword.  For more detailed info on the vault battlestaff, check out the quest entry."]);
-JEI.addDescription(<item:the_vault:plushie>, ["Vault Plushies are an offhand vault gear piece that will have immunity implicits while also of offering a ton of other gear modifier combinations within it's prefixes and suffixes."]);
-JEI.addDescription(<item:the_vault:loot_sack>, ["Vault Sacks are an offhand vault gear piece that are focused around looting and less about offensive or defensive attributes."]);
+JEI.addDescription(<item:the_vault:vault_doll>, ["Dolls can be used by placing one in a Doll Juicer."]);
+JEI.addDescription(<item:the_vault:loot_statue>, ["Coming back from Season 2, these statues produce a resource at a very slow speed. Acceleration chips can be used to speed it up."]);
+JEI.addDescription(<item:the_vault:battlestaff>, ["The Vault Battlestaff attacks faster, but deals less damage than swords."]);
+JEI.addDescription(<item:the_vault:plushie>, ["Vault Plushies provide immunity implicits and other usual gear modifiers on the affixes."]);
+JEI.addDescription(<item:the_vault:loot_sack>, ["Vault Sacks do not provide many defensive attributes, but mostly aim towards looting."]);
 
 JEI.addDescription(<item:woldsvaults:crystal_seal_unhinged>, ["Combine with a crystal to add the Unhinged Scavenger Hunt objective to a crystal."]);
 JEI.addDescription(<item:woldsvaults:crystal_seal_spirits>, ["Combine with a crystal to add the Light the Haunted Braziers objective to a crystal."]);

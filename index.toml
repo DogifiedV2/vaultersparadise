@@ -16733,8 +16733,8 @@ file = "mods/BetterWaystonesMenu-1.2.0+mc1.18.2.jar"
 hash = "69e53aa3b5d18326895d4c30118e8386ed3057ceeaa592e9a5ce8009d1985185"
 
 [[files]]
-file = "mods/BlackMarketTweaks-1.1.jar"
-hash = "7faf9114f8edd6474c2fe04ccb25b915feb87b9ef75bd9b5745608cf88bf601b"
+file = "mods/BlackMarketTweaks-1.1.1.jar"
+hash = "0ee540990fc15494bc0f26398e2c7115f6dc82258bc426f5423aff1e32dd6596"
 
 [[files]]
 file = "mods/BoccHUD-0.1.7-mc1.18.2.jar"
@@ -17761,8 +17761,8 @@ file = "mods/vault_hunters_sync_server_config-1.0.0.jar"
 hash = "50ffd627d5f0fb72754c518888712cccd158de89e6a0eb19bb1ab79f7b306e72"
 
 [[files]]
-file = "mods/vaultadditions-1.10.3.jar"
-hash = "51fe9e8c55f7e86d4d05fa2922e3bf4ac4e304f051a911241abebbfc33d6ac30"
+file = "mods/vaultadditions-1.12.0.jar"
+hash = "615073375261c6f52491009634d475df2075279c3658a5a2b01dfb942e87b127"
 
 [[files]]
 file = "mods/vaultcoinpouch-1.6.1.jar"
@@ -18334,7 +18334,7 @@ hash = "aeab1a68ec8e4b52bcb6c8a0e5524ff0620a8dc92245ce9d0aea1952fa0960eb"
 
 [[files]]
 file = "scripts/vaultersparadise.zs"
-hash = "666c5b195953e5c66e1d5133b7ce02c3b21367b9c1c9e2b6622b531ded22f047"
+hash = "71c2050ea7840edee69864b5571edc23547f46059adbfc80676ac23a61ec16f7"
 
 [[files]]
 file = "servers.dat"
