@@ -1,6 +1,6 @@
 [
   {
-    "weight": 3,
+    "weight": 30,
     "reference": "the_vault:vault/rooms/omega/arcade"
   },
   {
@@ -36,7 +36,7 @@
     "reference": "the_vault:vault/rooms/omega/library"
   },
   {
-    "weight": 1,
+    "weight": 3,
     "reference": "the_vault:vault/rooms/omega/garden"
   },
   {
