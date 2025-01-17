@@ -11454,7 +11454,7 @@ hash = "e75e05dfac2ab3ad5e1a8c791bdfcb96767d9e1a1f2d3e4efe2980027bfd78be"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge_rooms.json"
-hash = "e81e1dfc3bf81c5107a863649e939c5e6b06fd6dab53334ad277422f42d27e2d"
+hash = "3049156bfd53e8a77c983e47814193d3a3aaac67f2b967d068017e8104e542c2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge_rooms_blood.json"
@@ -12430,11 +12430,11 @@ hash = "e1d427a9d0088cb4827530dd4959ebbf41236440eaef59ee70db1ec92e684f24"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms.json"
-hash = "b00e53cc254ba070982c0bd06bc0824e334740f33100d90a90634432d02f986c"
+hash = "7c4107bc4e2adafd27a56ba66fc6c65fb427244537f77f1a68aaf78e9f7e66da"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms_blood.json"
-hash = "65ee67fafced0624c4aa9d710ed25eef3e17d78ce23cd7159f36c9e428d81de8"
+hash = "359f95fcb608b0f6108b3b1d8d7eaf81b0f34cba2161595d3c737109610df557"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms_nether.json"
@@ -18331,6 +18331,10 @@ hash = "2d9330b07464e34f9a6d8d84be9d01c98425a6dc5bbb29b58e98f5325a8f59df"
 [[files]]
 file = "scripts/raw_smelting.zs"
 hash = "aeab1a68ec8e4b52bcb6c8a0e5524ff0620a8dc92245ce9d0aea1952fa0960eb"
+
+[[files]]
+file = "scripts/vaultersparadise.zs"
+hash = "666c5b195953e5c66e1d5133b7ce02c3b21367b9c1c9e2b6622b531ded22f047"
 
 [[files]]
 file = "servers.dat"

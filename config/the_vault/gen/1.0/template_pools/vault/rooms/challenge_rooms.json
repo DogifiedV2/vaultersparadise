@@ -20,12 +20,24 @@
         "reference": "the_vault:vault/rooms/challenge/factory"
       },
       {
-        "weight": 5,
+        "weight": 2,
         "reference": "the_vault:vault/rooms/challenge/x-mark"
       },
       {
-        "weight": 5,
+        "weight": 2,
         "reference": "the_vault:vault/rooms/nonparadox/wendarr/challenge/x-mark"
+      },
+      {
+        "weight": 2,
+        "reference": "the_vault:vault/rooms/nonparadox/idona/challenge/x-mark"
+      },
+      {
+        "weight": 2,
+        "reference": "the_vault:vault/rooms/nonparadox/tenos/challenge/x-mark"
+      },
+      {
+        "weight": 2,
+        "reference": "the_vault:vault/rooms/nonparadox/velara/challenge/x-mark"
       },
       {
         "weight": 3,
@@ -36,7 +48,7 @@
         "reference": "the_vault:vault/rooms/challenge/raid/orcish_rooms"
       },
       {
-        "weight": 10,
+        "weight": 8,
         "reference": "the_vault:vault/rooms/challenge/laboratory"
       }
 ]
