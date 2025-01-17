@@ -14789,6 +14789,10 @@ file = "mods/ColossalChests-1.18.2-1.8.3.jar"
 hash = "380f35631f95d00e78e946a0fb44240cf8a8ef919e469049e73a5b23433a5ea9"
 
 [[files]]
+file = "mods/CommonCapabilities-1.18.2-2.9.1.jar"
+hash = "5bc633f9b79834b03aa254b62e4d5a5a4b968bb586abdb853f11ee170e827252"
+
+[[files]]
 file = "mods/Compressium-1.4.2-build.9+mc1.18.2.jar"
 hash = "f1c45fc5f61f04f67a4f4110775f32e9b30c47750eded30976f1cf719b1b0834"
 
@@ -14819,6 +14823,10 @@ hash = "ffc18b1e180a64ce8367408320285bf34764d64aeb6ed7f4f781523fed079c48"
 [[files]]
 file = "mods/CyclopsCore-1.18.2-1.16.1.jar"
 hash = "ec15de033ce72cddd273fb0de2cbfc80dcf46fbb2172487369b4e2e745780232"
+
+[[files]]
+file = "mods/CyclopsCore-1.18.2-1.17.9.jar"
+hash = "050590f22d6706bf5b535da1b66ad3e9a023a8646d83d97a9675afde3f9e9119"
 
 [[files]]
 file = "mods/DarkUtilities-Forge-1.18.2-10.0.5.jar"
@@ -15737,8 +15745,8 @@ file = "mods/twigs-1.1.4-patch4+1.18.2-forge.jar"
 hash = "20b9ca87e9a9ffbef0e89239c3dc22db0812362bcf9f6d34d2516346f5dceb8f"
 
 [[files]]
-file = "mods/unobtainium-1.4.2.jar"
-hash = "79dc6a56ce9144ae416988fec47521eca95eeefc3e3d08745c3d898242159a4a"
+file = "mods/unobtainium-1.6.2.jar"
+hash = "f85673c96becb52cb2056b4c0e552df63c4cddadf1b7d302e4568aa58dee4682"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.4.jar"
