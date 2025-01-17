@@ -9953,6 +9953,10 @@ file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/trove.nbt"
 hash = "1b870bddd7591b49a8d99a35f44e901279d558f8bdc72bee03b8222e7b7f86f5"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/vendor1.nbt"
+hash = "75be9a265cef7411d9a793e43218ed1980178b61e226bbcf9e33234e75d0917e"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/vendor2.nbt"
 hash = "1e93a7cda0c6b1f9294c51529bd358ccd3095cfeda4a68fd5ba1e9c357d34be6"
 
