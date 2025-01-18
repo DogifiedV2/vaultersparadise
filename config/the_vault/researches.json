@@ -538,29 +538,7 @@
     },
     {
       "modIds": [
-        "easy_villagers"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Easy Villagers",
-      "cost": 2,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/villager/helmet",
-        "the_vault:gear/armor/villager/chestplate",
-        "the_vault:gear/armor/villager/leggings",
-        "the_vault:gear/armor/villager/boots"
-      ]
-    },
-    {
-      "modIds": [
+        "easy_villagers",
         "easy_piglins"
       ],
       "restrictions": {
@@ -572,9 +550,15 @@
           "ENTITY_INTERACTABILITY": false
         }
       },
-      "name": "Easy Piglins",
+      "name": "Easy Traders",
       "cost": 2,
-      "usesKnowledge": true
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/armor/villager/helmet",
+        "the_vault:gear/armor/villager/chestplate",
+        "the_vault:gear/armor/villager/leggings",
+        "the_vault:gear/armor/villager/boots"
+      ]
     },
     {
       "modIds": [

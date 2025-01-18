@@ -14174,7 +14174,7 @@ hash = "2a1038d281899a169f5d53abe8a2bd0b37cae654dee74ec5f788f77477ce5ab5"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "5a9b98ab25afaf49fa396c352d98b164cd80b217d9d216385b7d10d6108e3216"
+hash = "3c3aa59bf5d68f2371b4b5d90c14a4ead682e831318dff94cf610f3a0adef446"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -14182,11 +14182,11 @@ hash = "56ede30ade4c0d0abe743f8995aa10e276b8db3372ec2c6c4bafa4e1414805cd"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "cda8f3dead294abcff7dc0821d8dffbbce16016befd3842f8494272d7edc5f11"
+hash = "6ebaac50391183e77d2f6f6d4af67947a7edfe81a8b7c1de255c4bf453cd0b6d"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "7185a35bd675da83037c702c24adc9b3c2e3beeca0f903d4d8e6b3fc38cf7192"
+hash = "48a7ff330d7977edd438682a3c840629362df59fc26c7c2a8a71d1e24ef03c1b"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -16901,10 +16901,6 @@ file = "mods/IntegratedTunnels-1.18.2-1.8.19.jar"
 hash = "001266a06f674ed81682c449c02a7762f956e7533742c4a610e95a3f8625e54e"
 
 [[files]]
-file = "mods/InvMove-1.18-0.8.2-Forge.jar"
-hash = "6e5ea3cdfb6ec9fc0e34cdc7a83397521a46c815b4830d425e66c0250834d458"
-
-[[files]]
 file = "mods/IronGenerators-2.0.2-1.18.2.jar"
 hash = "57d1e667f514fc4ed6996cebb35338b742e63e984501d3e827a3530f335d3caa"
 
@@ -17457,10 +17453,6 @@ file = "mods/ispawner-1.1.9-forge.jar"
 hash = "5094842fa84485ab57e03a2a45e87e347ebe27cb388a16b1d55f246d2266738c"
 
 [[files]]
-file = "mods/itemzoom-1.18.2-2.6.0.jar"
-hash = "b6901a85833d6c44d6455e2c7f68ddbbbc36379b99dec31070c115edcefa2794"
-
-[[files]]
 file = "mods/jei-1.18.2-9.7.2.1001.jar"
 hash = "b647023956683079a80dd31d3c42bdb4348a927b0441d507e24931501b8cca9e"
 
@@ -17798,7 +17790,7 @@ hash = "aaac1b321e5ea6f38d766f7310ad2a7500501546b999a5b1a130f1bad1ea27e3"
 
 [[files]]
 file = "mods/vaultersparadise-1.0.0-dev.jar"
-hash = "68d2443cb70a619a84027e29bedcdac0ca9def3c22ea3b4d2c2169715b733916"
+hash = "f9811a17b32a34a2e68476737e81c6756d91fd11431a9cd8c3fdb378714349fe"
 
 [[files]]
 file = "mods/vaultfaster-2.2.2.jar"

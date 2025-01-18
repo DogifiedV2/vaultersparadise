@@ -163,19 +163,19 @@
       "icon": "the_vault:gui/researches/vault_compass"
     },
     "Vault Rings": {
-      "x": 440,
+      "x": 390,
       "y": 200,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/prismatic_angel_ring"
     },
     "Vault Salvager": {
-      "x": 490,
+      "x": 440,
       "y": 200,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/vault_salvager"
     },
     "Soul Harvester": {
-      "x": 540,
+      "x": 490,
       "y": 200,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/soul_harvester"
