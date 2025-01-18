@@ -13970,7 +13970,7 @@ hash = "4eab59ae4a2358c9b67943d647886f180fce65423cbaa9b055a6266118c10b67"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
-hash = "39466116e42b8b31cd9f7f80455453d99513d5406ac3fe749d86efcfa8aaf315"
+hash = "e03a08fcc5222f6d69353b751f685f0d8fd3f666228c63467b75fe132121d4a6"
 
 [[files]]
 file = "config/the_vault/iridium/abilities_descriptions.json"
@@ -16669,10 +16669,6 @@ file = "kubejs/startup_scripts/mega_cells/recipes.js"
 hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
 
 [[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "f328c7823394f40e3b1b956bb0b89161f9a3dce99afd266d813965ed3149cdb5"
-
-[[files]]
 file = "kubejs/startup_scripts/vh_compression/blocks.js"
 hash = "9411405df7753b07f3b3a9f78c750180efaf10d641be7be1ef0dcd9c6fe84717"
 
@@ -17774,7 +17770,7 @@ hash = "aaac1b321e5ea6f38d766f7310ad2a7500501546b999a5b1a130f1bad1ea27e3"
 
 [[files]]
 file = "mods/vaultersparadise-1.0.0-dev.jar"
-hash = "3747e12fefe490d86fffdb6c7bb08cafcad3c4bf64af2866be5921a8f8628c88"
+hash = "3b4db9e4c26a7e719af6afa1fc462940e0d73da04f1e4367121f12cd54b8a17a"
 
 [[files]]
 file = "mods/vaultfaster-2.2.2.jar"
