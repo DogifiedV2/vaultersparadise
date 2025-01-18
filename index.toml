@@ -14178,7 +14178,7 @@ hash = "475ee39308a32083261bb072278a050ee8c71206f04dd22a220892eb9197449a"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "98eebbd66c820acc71a08ff4a86fa62c936da7b8afbd534bc3ce1db18082685e"
+hash = "05e634159be3ccd3b34f715c17653ab86d86a8c440041de3cf8b185ddc014754"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -14278,7 +14278,7 @@ hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "abffd5966441e55d5b4363b5e71163cf42bda2883ab7cb14ff837b9c22ff55a2"
+hash = "0a710a8cb7c420f6a07eb82223faaac494a8ade3fa8c09e2b5ac624b362685a1"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -16323,6 +16323,10 @@ hash = "b0d3b0b0392671c3e77c6910fbb68062e839c6dd4ab62f05645b01ebba5d496f"
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/catalyst/prosperous_catalyst.png"
 hash = "ee13c0497974238584c68b563646b33fb955561be89b51bbaaadf4697dab32b4"
+
+[[files]]
+file = "kubejs/assets/vaultersparadise/lang/en_us.json"
+hash = "df24bc11ee7d34d8d8661e1727e79a5d136afdee07b3f2f1533afcd845b12e79"
 
 [[files]]
 file = "kubejs/config/common.properties"

@@ -11,6 +11,16 @@
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
         "Storage": 0.24
+      } 
+    },
+    "Addons": {
+      "title": "Addons",
+      "research": [
+        "Mega Cells"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Addons": 1
       }
     },
     "BigToys": {

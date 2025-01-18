@@ -1011,7 +1011,7 @@
     {
       "item": "the_vault:mod_box",
       "value": "Right Click to open\n\nContains Knowledge Shards or if you have unlocked any mod that has Mod Box rewards it will contain items from that mod"
-    },
+    }, 
     {
       "item": "the_vault:identification_tome",
       "value": "Hold in the off hand to instantly\nidentify vault gear."
@@ -1043,6 +1043,126 @@
     {
       "item": "vaultintegrations:teleport_enhancement",
       "value": "Teleports items transported by the Altar Conduit"
-    }
+    },
+    {
+      "item": "woldsvaults:crystal_seal_unhinged",
+      "value": "Use in the Crystal Workbench to set the objective to 'Unhinged Scavenger Hunt'"
+  },
+  {
+      "item": "woldsvaults:crystal_seal_spirits",
+      "value": "Use in the Crystal Workbench to set the objective to 'Light The Haunted Braziers'"
+  },
+  {
+      "item": "woldsvaults:crystal_seal_enchanter",
+      "value": "Use in the Crystal Workbench to set the objective to 'Enchanted Elixir'"
+  },
+  {
+      "item": "woldsvaults:crystal_seal_titan",
+      "value": "Use in the Crystal Workbench to set the objective to 'Slay The Brutal Bosses'"
+  },
+  {
+      "item": "woldsvaults:crystal_seal_doomsayer",
+      "value": "Use in the Crystal Workbench to set the objective to 'Ballistic Bingo'"
+  },
+  {
+      "item": "woldsvaults:crystal_seal_zealot",
+      "value": "Combine with a crystal to add the Zealot objective to a crystal."
+  },
+  {
+      "item": "woldsvaults:gem_box",
+      "value": "Roll to get 1-4 random gems or a POG."
+  },
+  {
+      "item": "woldsvaults:supply_box",
+      "value": "Roll to get some random crafting items."
+  },
+  {
+      "item": "woldsvaults:inscription_box",
+      "value": "Roll to get a random size 5 or size 10 inscription or even a uber inscription."
+  },
+  {
+      "item": "woldsvaults:augment_box",
+      "value": "Roll to get a random Augment."
+  },
+  {
+      "item": "woldsvaults:omega_box",
+      "value": "Roll to get a random high tier item."
+  },
+  {
+      "item": "woldsvaults:catalyst_box",
+      "value": "Roll to get a random Infused Catalyst."
+  },
+  {
+      "item": "woldsvaults:altar_recatalyzer",
+      "value": "Shift + Right Click on a vault altar to re-roll your altar recipe."
+  },
+  {
+      "item": "woldsvaults:capstone_frenzy",
+      "value": "Combine with a crystal to add the Frenzy Curse to the vault. This will also exhaust the crystal."
+  },
+  {
+      "item": "woldsvaults:capstone_prosperous",
+      "value": "Combine with a crystal to add Prosperous to the vault. This will also exhaust the crystal."
+  },
+  {
+      "item": "woldsvaults:capstone_all_seeing_eye",
+      "value": "Combine with a crystal to add Hunter to the vault. This will also exhaust the crystal."
+  },
+  {
+      "item": "woldsvaults:capstone_enchanted",
+      "value": "Combine with a crystal to add Enchanted to the vault. This will also exhaust the crystal."
+  },
+  {
+      "item": "woldsvaults:repair_augmenter",
+      "value": "Use with vault gear or a tool to add repair slots, for a maximum of 6 slots."
+  },
+  {
+      "item": "woldsvaults:crystal_reinforcement",
+      "value": "Combine with a vault tool in an anvil to add 10 capacity."
+  },
+  {
+      "item": "woldsvaults:resonating_reinforcement",
+      "value": "Combine with a vault tool in an anvil to add 10 capacity."
+  },
+  {
+      "item": "woldsvaults:stylish_focus",
+      "value": "Combine with a vault tool in an anvil to make your tool cycle through all the tool textures while in your hand. This effect can be removed with a chiseling focus."
+  },
+  {
+      "item": "woldsvaults:vault_rock_candy",
+      "value": "Similar in saturation to vault steak but questionable in actual nutritional value, Vault Rock Candy is an alternative vault food source."
+  },
+  {
+      "item": "woldsvaults:vaultar_box",
+      "value": "Roll for an ingredient needed for vault altars."
+  },
+  {
+      "item": "woldsvaults:smashed_vault_gem",
+      "value": "These are dropped from vault ores when they drop nothing."
+  },
+  {
+      "item": "woldsvaults:pog_prism",
+      "value": "A low-mid-tier crafting ingredient that is more expensive than a POG, but cheaper than an Echo POG."
+  },
+  {
+      "item": "woldsvaults:extraordinary_pog_prism",
+      "value": "A mid-high tier crafting ingredient that is more expensive than an Echo POG, but cheaper than an Omega POG."
+  },
+  {
+      "item": "woldsvaults:general_decor_scroll",
+      "value": "The vault Deco Scroll is a rare item that can be used to craft placeable versions of some of the vault objective submission blocks."
+  },
+  {
+      "item": "woldsvaults:gem_reagent_iskallium",
+      "value": "A reagent used to turn any player gem into an Iskallium gem."
+  },
+  {
+      "item": "woldsvaults:idona_dagger",
+      "value": "Idona's Dagger is used as a crafting ingredient along with the other god items to obtain a Zealot Seal."
+  },
+  {
+      "item": "vaultadditions:power_crystal",
+      "value": "Use these on the Globe Expander at spawn to increase the world border."
+  }
   ]
 }
