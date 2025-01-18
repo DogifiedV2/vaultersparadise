@@ -106,6 +106,40 @@
     },
     {
       "modIds": [
+        "bonsaitrees3"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Bonsai Pots",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "tiab"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": true
+        }
+      },
+      "name": "Time in a Bottle",
+      "cost": 24,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "storagenetwork"
       ],
       "restrictions": {
@@ -905,6 +939,72 @@
         "the_vault:gear/armor/atomatic/chestplate",
         "the_vault:gear/armor/atomatic/leggings",
         "the_vault:gear/armor/atomatic/boots"
+      ]
+    },
+    {
+      "itemRestrictions": {
+        "woldsvaults:vault_salvager": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Vault Salvager",
+      "cost": 16,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "woldsvaults:chromatic_iron_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:chromatic_gold_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:chromatic_steel_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:black_chromatic_steel_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:prismatic_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Vault Rings",
+      "cost":12,
+      "usesKnowledge": true,
+      "discoversModels": [
+      "the_vault:gear/armor/angel/helmet",
+      "the_vault:gear/armor/angel/chestplate",
+      "the_vault:gear/armor/angel/leggings",
+      "the_vault:gear/armor/angel/boots"
       ]
     },
     {

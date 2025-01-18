@@ -47,7 +47,7 @@
         "Cagerium",
         "Mob Spawners",
         "Phytogenic Insulator",
-        "Easy Piglins",
+        "Bonsai Trees",
         "Botany Pots"
       ],
       "globalCostIncrease": 0.0,
@@ -91,7 +91,10 @@
         "Elevators",
         "Waystones",
         "Vault Compass",
-        "Altar Automation"
+        "Altar Automation",
+        "Vault Rings",
+        "Vault Salvager",
+        "Soul Harvester"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -107,8 +110,7 @@
         "Junk Management",
         "Stack Upgrading",
         "Auto Feeding",
-        "Auto Refill",
-        "Soul Harvester"
+        "Auto Refill"
 
       ],
       "globalCostIncrease": 0.0,

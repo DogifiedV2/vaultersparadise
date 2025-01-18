@@ -19,13 +19,13 @@
       "icon": "the_vault:gui/researches/drawers"
     },
     "Mekanism QIO": {
-      "x": 620,
+      "x": 630,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mekanism_qio"
     },
     "Create Crafts and Additions": {
-      "x": 670,
+      "x": 680,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/create_crafts_and_additions"
@@ -43,10 +43,16 @@
       "icon": "the_vault:gui/researches/functional_storage"
     },
     "Mega Cells": {
-      "x": 570,
+      "x": 580,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mega_cells"
+    },
+    "Time in a Bottle": {
+      "x": 580,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/tiab"
     },
     "Stack Upgrading": {
       "x": 200,
@@ -89,12 +95,6 @@
       "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/big_backpacks"
-    },
-    "Soul Harvester": {
-      "x": 250,
-      "y": 40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/soul_harvester"
     },
     "Junk Management": {
       "x": 300,
@@ -162,6 +162,24 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/vault_compass"
     },
+    "Vault Rings": {
+      "x": 440,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/prismatic_angel_ring"
+    },
+    "Vault Salvager": {
+      "x": 490,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/vault_salvager"
+    },
+    "Soul Harvester": {
+      "x": 540,
+      "y": 200,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/soul_harvester"
+    },
     "Altar Automation": {
       "x": 490,
       "y": 160,
@@ -170,67 +188,67 @@
     },
     "Building Gadgets": {
       "x": 10,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/building_gadgets"
     },
     "Weirding Gadgets": {
       "x": 60,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/weirding_gadgets"
     },
     "Mining Gadgets": {
       "x": 110,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mining_gadgets"
     },
     "Digital Miner": {
       "x": 60,
-      "y": 280,
+      "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/digital_miner"
     },
     "Easy Villagers": {
       "x": 200,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/easy_villagers"
     },
-    "Easy Piglins": {
-      "x": 250,
-      "y": 240,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/easy_piglins"
-    },
     "Botany Pots": {
       "x": 300,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botany_pots"
     },
     "SNAD": {
-      "x": 200,
+      "x": 250,
       "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/snad"
     },
     "Cagerium": {
-      "x": 250,
-      "y": 280,
+      "x": 200,
+      "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/cagerium"
     },
     "Mob Spawners": {
-      "x": 300,
-      "y": 280,
+      "x": 250,
+      "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mob_spawners"
     },
+    "Bonsai Pots": {
+      "x": 300,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/bonsai_pots"
+    },
     "Phytogenic Insulator": {
       "x": 250,
-      "y": 320,
+      "y": 360,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/phytogenic_insulator"
     },
@@ -314,19 +332,19 @@
     },
     "Potions": {
       "x": 390,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/potion"
     },
     "Mixtures": {
       "x": 440,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mixture"
     },
     "Brews": {
       "x": 490,
-      "y": 240,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/brew"
     }
