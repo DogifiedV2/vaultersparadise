@@ -6,3 +6,7 @@ onEvent('item.registry', event => {
         .displayName('Vault Token')
         .maxStackSize(16);
 });
+
+onEvent('item.tooltip', tooltip => {
+    tooltip.add('woldsvaults:crystal_seal_doomsayer', ["Combine with a crystal to add the Ballistic Bingo objective to a crystal."])
+})

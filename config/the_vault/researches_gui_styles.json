@@ -25,8 +25,8 @@
       "icon": "the_vault:gui/researches/functional_storage"
     },
     "Mega Cells": {
-      "x": 10,
-      "y": 40,
+      "x": 570,
+      "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mega_cells"
     },
