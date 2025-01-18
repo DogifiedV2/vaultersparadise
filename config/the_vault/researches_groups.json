@@ -5,8 +5,9 @@
       "research": [
         "Applied Energistics",
         "Drawers",
-        "Mekanism QIO",
-        "Functional Storage"
+        "Functional Storage",
+        "Toms Simple Storage",
+        "Sophisticated Storage"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -16,7 +17,9 @@
     "Addons": {
       "title": "Addons",
       "research": [
-        "Mega Cells"
+        "Mega Cells",
+        "Mekanism QIO",
+        "Create Crafts and Additions"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -120,7 +123,9 @@
           "Modular Routers",
           "Pipez",
           "Iron Furnaces",
-          "Dark Utilities"
+          "Dark Utilities",
+          "Entangled",
+          "Integrated Dynamics"
         ],
         "globalCostIncrease": 0.0,
         "groupCostIncrease": {

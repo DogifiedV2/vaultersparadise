@@ -14174,19 +14174,19 @@ hash = "2a1038d281899a169f5d53abe8a2bd0b37cae654dee74ec5f788f77477ce5ab5"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "475ee39308a32083261bb072278a050ee8c71206f04dd22a220892eb9197449a"
+hash = "a60341266efde58afa51834c6421ee4357516a7ecfafe2c55de93eb8f3580ac4"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "05e634159be3ccd3b34f715c17653ab86d86a8c440041de3cf8b185ddc014754"
+hash = "906b546783e3b1ac287830884e62f4448093843aa9ce9cc97cb585dc404c14c0"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "c2abd4598811fcd42c5aeb4152d4bfa62bf4bdc9e180309d526978194911522f"
+hash = "179591bdf2abfa5acb2b710c1a75252e52346dc3dbd1a69afdc5028aa765c93f"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "182611453d03935dc201b2a9edc93a81f9bcc4395e303b98555119bcf8ae01bf"
+hash = "7253daa5a87a5f4c6a3388fc6f95c33553214ed471594934e4aa917f2a65c5f8"
 
 [[files]]
 file = "config/the_vault/sand_event.json"
@@ -16885,8 +16885,20 @@ file = "mods/InitialInventory-forge-1.18.2-6.0.8.jar"
 hash = "7a5e03aec9a6967135b2af7ab28215d90936413770bfb69effc4e1fcb7ca7042"
 
 [[files]]
+file = "mods/IntegratedCrafting-1.18.2-1.1.6.jar"
+hash = "bdde109fc5989684a1d7b2bf8b14e0db07457d6a9dd825bc1d5c80bf8c9393d9"
+
+[[files]]
 file = "mods/IntegratedDynamics-1.18.2-1.17.4.jar"
 hash = "555fe72885e107b3ae4ec8d838f7fd0190d8ff1660396b449fd64728c7dabb5c"
+
+[[files]]
+file = "mods/IntegratedTerminals-1.18.2-1.4.10.jar"
+hash = "a2b517bb20ce990fb6ac4b83c72f54edc45a6d0ad0d8a0387bc42d2fe04dad31"
+
+[[files]]
+file = "mods/IntegratedTunnels-1.18.2-1.8.19.jar"
+hash = "001266a06f674ed81682c449c02a7762f956e7533742c4a610e95a3f8625e54e"
 
 [[files]]
 file = "mods/InvMove-1.18-0.8.2-Forge.jar"
@@ -17301,6 +17313,10 @@ file = "mods/create_recycle_1.0.2_forge_1.18.2.jar"
 hash = "07f3897e53b921e6120bcb9a8903be458ba6e7d316845b419b037aff45a07582"
 
 [[files]]
+file = "mods/createaddition-1.18.2-1.0.0.jar"
+hash = "359d3811abfcc775822b758a575649dee3c14660dab03f16ce1235687d2b330f"
+
+[[files]]
 file = "mods/createdeco-1.3.3-1.18.2.jar"
 hash = "397b8f0582c9cba0e3c707133a7ba15927e1685ecc7419e960d2e35171fb73b5"
 
@@ -17371,6 +17387,10 @@ hash = "6d0e24852c264e60ffd71a856adc2a590371e71419b238e895e7b26c2162e6b7"
 [[files]]
 file = "mods/enercell-1.18.2-1.0.2.jar"
 hash = "13692c1b8eea33aa059c0ffff1f5351e15d748e9ebb45ab55eef637b8ab1f400"
+
+[[files]]
+file = "mods/entangled-1.3.17-forge-mc1.18.jar"
+hash = "840cd2063dd2214b029841f394247acded9e01cad15700a39458ab028a49b11c"
 
 [[files]]
 file = "mods/entityculling-forge-1.6.1-mc1.18.2.jar"
@@ -17719,6 +17739,10 @@ hash = "927ce9a89bdb88f6d831e7ce36f048c8f3efaa6cd5af4d806f71245ba1a8cbc8"
 [[files]]
 file = "mods/titanium-1.18.2-3.5.8-40.jar"
 hash = "c3b3fef7537a228a2f442427e8e86000fb39a423d5bb9708eb172f270602851a"
+
+[[files]]
+file = "mods/toms_storage-1.18.2-1.4.4.jar"
+hash = "631f1d3136f79453ca7e7bd1919992d3e7afa9a06de86946c4c7d1524aa76035"
 
 [[files]]
 file = "mods/torchmaster-18.1.0.jar"
