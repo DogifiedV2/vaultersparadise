@@ -28,6 +28,14 @@
             "regretPointCost": 0,
             "unlockLevel": 0,
             "minimumPrestige": 1
+          },
+          {
+            "type": "lucky_altar",
+            "luckyAltarChance": 0.8,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0,
+            "minimumPrestige": 2
           }
         ]
       },

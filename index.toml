@@ -1682,7 +1682,7 @@ hash = "d005294e57ace5c44b96ac6238d7d0096ee1804c197437b94f61c330181cc046"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "e4e8462920e3e67fcf23c9e63633690fc14b96ee1d22fc29b49c80f99d281b92"
+hash = "291dd18b7e1839b5a873cb8975bc8d3f982b2384204d9ab1b4307488cf65577b"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
@@ -17771,6 +17771,10 @@ hash = "0f10d4754d1d2e37896eed85e2852c160d75360aba45604de1288452c3ac6c64"
 [[files]]
 file = "mods/vaultcompassenhancements-1.1.0-3.15.1.jar"
 hash = "aaac1b321e5ea6f38d766f7310ad2a7500501546b999a5b1a130f1bad1ea27e3"
+
+[[files]]
+file = "mods/vaultersparadise-1.0.0-dev.jar"
+hash = "675b3f3bbe58561c5089a0e20883992fac8247cf6f879fc3c0cda988f9fcee5c"
 
 [[files]]
 file = "mods/vaultfaster-2.2.2.jar"
