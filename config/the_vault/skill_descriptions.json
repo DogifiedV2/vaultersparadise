@@ -15195,11 +15195,11 @@
         "text": "Unlocks the "
       },
       {
-        "text": "Vault Angel Rings",
+        "text": "Angel Rings",
         "color": "yellow"
       },
       {
-        "text": "\n\nThese special rings allow creative flight while wearing them without the need for an nearby angel block. Unfortunately these rings will be disabled in the vaults."
+        "text": "\n\nThese rings allow creative flight, similar to angel blocks, while wearing them without the need for a nearby angel block."
       }
     ],
     "Vault Salvager": [
@@ -15211,14 +15211,14 @@
         "color": "yellow"
       },
       {
-        "text": " which is a much faster way of smelting  Vault Gear and Jewels.\n\nWhile the "
+        "text": " which is a much faster way of breaking down Vault Gear and Jewels.\n\nThe "
       },
       {
-        "text": "Vault Salvager ",
+        "text": "Vault Salvager",
         "color": "yellow"
       },
       {
-        "text": " may only have 1 slot, it is absurdly fast. Output and input is only possible through the top and bottom of the block."
+        "text": " only has one slot, but is extremely fast. Output and input is only possible through the top and bottom of the block."
       }
     ],
     "Time in a Bottle": [

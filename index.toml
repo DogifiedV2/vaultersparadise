@@ -14174,7 +14174,7 @@ hash = "2a1038d281899a169f5d53abe8a2bd0b37cae654dee74ec5f788f77477ce5ab5"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "3c3aa59bf5d68f2371b4b5d90c14a4ead682e831318dff94cf610f3a0adef446"
+hash = "24ee482203bd544379933c215d1b2a1d3be666ca0e4838d7ab0311741723b14b"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -14214,7 +14214,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "eb79f1e75f44293fac7d13fd384c00ce746cf6698a7d434f5541a1d4633a8eaa"
+hash = "c1cb6a79163c4ba9f9579763bf927467d5ca088cb58a491a60f6f905aee650d3"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -16329,6 +16329,26 @@ file = "kubejs/assets/vaultersparadise/lang/en_us.json"
 hash = "df24bc11ee7d34d8d8661e1727e79a5d136afdee07b3f2f1533afcd845b12e79"
 
 [[files]]
+file = "kubejs/client_scripts/vh_compat/general/jei_hide.js"
+hash = "2e4bfda4cba53fe568231ef071094dca8c4f08129a30ff591e947872cb2f8115"
+
+[[files]]
+file = "kubejs/client_scripts/vh_compat/general/tooltips.js"
+hash = "555442060783ca66987923d6fd8447b4b572c05fc90d9f1ee154c8f83e3bbf66"
+
+[[files]]
+file = "kubejs/client_scripts/vh_compat/ssn/jei.js"
+hash = "5bfa1a16d020fb0f1cfecdc078f3440d7fcc28b5eca8bd69d0ae56e13acf73ef"
+
+[[files]]
+file = "kubejs/client_scripts/vh_compat/the_vault/jei_info.js"
+hash = "168f8ced925df96b91462e04590444bc3fedcd74832525fbb9dabcf2514f2c48"
+
+[[files]]
+file = "kubejs/client_scripts/vh_compat/toms_storage/jei.js"
+hash = "17325573788a0c8cb3b501cbb550f75efa7fe45d318df80f3bbf53a7aab1b198"
+
+[[files]]
 file = "kubejs/config/common.properties"
 hash = "c05670e84fd101a7ba1a424427d471f16d035b0f87098a9590e5e5bfc2a87dd1"
 
@@ -16659,18 +16679,6 @@ hash = "3b1c629bc32b1a9eb1ab40dfb85f681ab14bbcad331ab2724d7a07225c605b2d"
 [[files]]
 file = "kubejs/startup_scripts/colored_unobtainium/script.js"
 hash = "14085357c1990f272cebeaf487c00eb4f38e697a2e070d5ac7dd9c7192287840"
-
-[[files]]
-file = "kubejs/startup_scripts/functionalstorage/recipes.js"
-hash = "412c3ef7f77ee06f7b398f364a0d0f7f55e132289bb753f388817f54ef8d499f"
-
-[[files]]
-file = "kubejs/startup_scripts/lightmans_currency/recipes.js"
-hash = "beb9cc6afea0c1c0b23abbab9c05e0d61d03e01b1d40738fac8825ca9af56124"
-
-[[files]]
-file = "kubejs/startup_scripts/mega_cells/recipes.js"
-hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
 
 [[files]]
 file = "kubejs/startup_scripts/vh_compression/blocks.js"
@@ -17211,6 +17219,10 @@ hash = "a3d9bbf539470d098259012d2e3bffac6118e3eed709ab75e4cf6b47e4ee7bf5"
 [[files]]
 file = "mods/blockcarpentry-1.18-0.3.0.jar"
 hash = "8348730a945089a00abb4616caf39954ec6f4e3d3058fd66e2523a4aa6506631"
+
+[[files]]
+file = "mods/bonsaitrees3-3.1.0.jar"
+hash = "853c0375d5c126fecc2074af1e7caf9654b1f87cc46d57ef58cfd15d50c92a99"
 
 [[files]]
 file = "mods/bookmarksharing-jei9-1.2.jar"
@@ -18351,6 +18363,10 @@ hash = "2d9330b07464e34f9a6d8d84be9d01c98425a6dc5bbb29b58e98f5325a8f59df"
 [[files]]
 file = "scripts/raw_smelting.zs"
 hash = "aeab1a68ec8e4b52bcb6c8a0e5524ff0620a8dc92245ce9d0aea1952fa0960eb"
+
+[[files]]
+file = "scripts/vanillatweaks_scripts.zs"
+hash = "d52721c33159ba1bbd9ae3382dcd74db686fc177291811cc513b6aaf59bf3422"
 
 [[files]]
 file = "scripts/vaultersparadise.zs"
