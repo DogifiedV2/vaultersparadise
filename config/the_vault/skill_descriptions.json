@@ -24,6 +24,96 @@
         "text": "mod!\n\nThis mod turns piglin bartering in to a one block solution! Simply pick up a piglin by shift+right-clicking them, and put them in their box. Provide them with gold and they will output their trades in the inventory of the block. It doesn't get easier!"
       }
     ],
+    "Entangled": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Entangled",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nThis mod adds a single new block and item, but they are very powerful. You can create an entangled block and bind it to a different block, then you can connect to the entangled block as if you were connecting to the bound block, from anywhere! Gives you more sides to work with, and wireless transfer across dimensions."
+      }
+    ],
+    "Bonsai Pots": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Bonsai Pots",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nThese pots can automate any tree in the game very easily by growing them in tiny pots."
+      }
+    ],
+    "Create Crafts and Additions": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Crafts and Additions ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon for Create!\n\nThis mod acts as a bridge between electricity and Create's kinetic energy by adding an electric motor that generates kinetic energy from Forge energy and an alternator that can do the opposite. Also adds a few other useful features!"
+      },
+      {
+        "text": "\n\nAlso adds the "
+      },
+      {
+        "text": "Create Enchantment Industry",
+        "color": "yellow"
+      },
+      {
+        "text": " mod! That lets you enchant and disenchant items with Create!"
+      }
+    ],
+    "Toms Simple Storage": [
+      {
+        "text": "Unlocks "
+      },
+      {
+        "text": "Tom's Simple Storage",
+        "color": "yellow"
+      },
+      {
+        "text": " Network mod.\n\nTom's Simple Storage, is a mod that lets you connect up several inventories and browse their content from a central interface digitally, with a search function.\n\n"
+      },
+      {
+        "text": "Replaces"
+      },
+      {
+        "text": " Simple Storage Network ",
+        "color": "yellow"
+      },
+      {
+        "text": "mod!"
+      }
+    ],
+    "Sophisticated Storage": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Sophisticated Storage ",
+        "color": "yellow"
+      },
+      {
+        "text": "mod!\n\nThe ultimate bulk storage mod with massively upgradeable storage and chests and barrels that can be chained together to create an array of storage."
+      },
+      {
+        "text": "\n\nAdds rewards to "
+      },
+      {
+        "text": "Mod Boxes",
+        "color": "aqua"
+      },
+      {
+        "text": "!"
+      }
+    ],
     "Ghost Walk": [
       {
         "text": "You become invulnerable from mobs for a short "
@@ -15073,6 +15163,102 @@
       {
         "text": "+30%",
         "color": "#B2F44B"
+      }
+    ],
+    "Vault Rings": [
+      {
+        "text": ""
+      },
+      {
+        "text": "⚠ ",
+        "color": "red"
+      },
+      {
+        "text": "Disabled In Vaults!\n",
+        "color": "dark_red"
+      },
+      {
+        "text": "Grants Transmog!",
+        "color": "#90FF00"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Vault Angel Rings",
+        "color": "yellow"
+      },
+      {
+        "text": "\n\nThese special rings allow creative flight while wearing them without the need for an nearby angel block. Unfortunately these rings will be disabled in the vaults."
+      }
+    ],
+    "Vault Salvager": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Vault Salvager",
+        "color": "yellow"
+      },
+      {
+        "text": " which is a much faster way of smelting  Vault Gear and Jewels.\n\nWhile the "
+      },
+      {
+        "text": "Vault Salvager ",
+        "color": "yellow"
+      },
+      {
+        "text": " may only have 1 slot, it is absurdly fast. Output and input is only possible through the top and bottom of the block."
+      }
+    ],
+    "Time in a Bottle": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Time in a Bottle ",
+        "color": "yellow"
+      },
+      {
+        "text": "mod!\n\nThis mod adds an amazing item called the Time in a Bottle that stores time as you play, then you can right-click on a block to speed up its tick time using your stored time! Nifty!"
+      },
+      {
+        "text": "\n\nAlso unlocks the Weather Control mod, that lets you control the time of day and the weather!"
+      }
+    ],
+    "Integrated Dynamics": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Integrated Dynamics ",
+        "color": "yellow"
+      },
+      {
+        "text": "collection of mods!\n\nThis is a real bang for your buck buy right here, adding cables that you can move items, fluid, and energy with. A terminal you can connect to your storage solution. "
+      },
+      {
+        "text": " and a plethora of other features! This one takes some brain power to make the most use of as you'll need to work with variables and operators to get the most value out of"
+      },
+      {
+        "text": " Integrated Dynamics",
+        "color": "yellow"
+      },
+      {
+        "text": "."
+      },
+      {
+        "text": "\n\nAdds rewards to "
+      },
+      {
+        "text": "Mod Boxes",
+        "color": "aqua"
+      },
+      {
+        "text": "!"
       }
     ],
     "Altar Automation": [
