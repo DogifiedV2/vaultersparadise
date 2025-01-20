@@ -1434,7 +1434,7 @@ hash = "70156b2dd3fb4187aa235720df9c163f9caef6fc20cbc98a4002fda9071bcb7d"
 
 [[files]]
 file = "config/the_vault/ability_enhancement_tasks.json"
-hash = "4e1db7ee3d5aeec58642fb44f866214c5bc6827ca120332fda14927624716e88"
+hash = "f05a08e378ac78e40971506a3fef0b10a91d815e42295a18c7849be40bde232f"
 
 [[files]]
 file = "config/the_vault/achievements/achievements-dummy.json"
@@ -14178,7 +14178,7 @@ hash = "24ee482203bd544379933c215d1b2a1d3be666ca0e4838d7ab0311741723b14b"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "f2e20830f98a435ef96440c6fb391b4c86350c3f5ca28209b5f1a419add6d349"
+hash = "44a075557445cf7dc35ce1adc9717b72175665a63f0ec6ca1eb531ac21547719"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -16681,6 +16681,70 @@ file = "kubejs/startup_scripts/colored_unobtainium/script.js"
 hash = "14085357c1990f272cebeaf487c00eb4f38e697a2e070d5ac7dd9c7192287840"
 
 [[files]]
+file = "kubejs/startup_scripts/vh_compat/bonsaitrees3/recipes.js"
+hash = "0fec2dc16964c4c825cfe39dbcd9bf180da4dd96db4cc99c94ab2577418a4374"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/botanypottiers/fixes.js"
+hash = "11077e97ce46d221d054299b1d94fe6d001e7faaa2a7cd9a74d566ce7ce8245b"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/botanypottiers/recipes.js"
+hash = "0fcdcda849553644e684978f7097fe6edc61f14d0287f126bb86c62004a922f5"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/createadditions/recipes.js"
+hash = "5efa59f913824ebfdd4fd6175e5319350706cd1690bb38076313ae0b34d18e20"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/entangled/recipes.js"
+hash = "2c79af480ee141cc82eec121f2ccd2745e0908f8c0ebb380c764c46f66aa8976"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/functionalstorage/recipes.js"
+hash = "412c3ef7f77ee06f7b398f364a0d0f7f55e132289bb753f388817f54ef8d499f"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/integrateddynamics/biome_tags.js"
+hash = "1e83eefc13730715bd9216cf51319bff4cfb2f69ba4342e2cf854d0d3d4c5232"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/integrateddynamics/recipes.js"
+hash = "407687c2a30e4d01d00988fb023c37e8c57807353459985d5b06e45622323f40"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/lightmans_currency/recipes.js"
+hash = "beb9cc6afea0c1c0b23abbab9c05e0d61d03e01b1d40738fac8825ca9af56124"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/mega_cells/recipes.js"
+hash = "23f59966272bb2690ad7eebb078c47b8f6b8f031209422bf49fd5c6524192d53"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/sophisticatedstorage/chests.js"
+hash = "0a21f7d6aedd7d3fe3d201a5661233c249246122450707d5419350ff9bdcf78e"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/sophisticatedstorage/recipes.js"
+hash = "003b8974aefd1e166be1631929a51136336594656527372789f315f6d31fd1e3"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/sophisticatedstorage/tags.js"
+hash = "aba812838954ff1b581fa5461d09c96302a37ffc721e198bba4b2368ed9df941"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/ssn/recipes.js"
+hash = "82a032ddc734ac66b10d1eecf9a403953a97a681d6dc56559ebace09559b7da0"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/toms_storage/recipes.js"
+hash = "4436d5d26c23c248ba8667df63863bf38d9cb5b1a150f170e0c9c5920073ff86"
+
+[[files]]
+file = "kubejs/startup_scripts/vh_compat/vh/emojis.js"
+hash = "5ee419c2626c43202d6ae8cbcf72e6f8b9d6c59999abe3c6f5a4894e1630d379"
+
+[[files]]
 file = "kubejs/startup_scripts/vh_compression/blocks.js"
 hash = "9411405df7753b07f3b3a9f78c750180efaf10d641be7be1ef0dcd9c6fe84717"
 
@@ -17467,6 +17531,10 @@ hash = "5094842fa84485ab57e03a2a45e87e347ebe27cb388a16b1d55f246d2266738c"
 [[files]]
 file = "mods/jei-1.18.2-9.7.2.1001.jar"
 hash = "b647023956683079a80dd31d3c42bdb4348a927b0441d507e24931501b8cca9e"
+
+[[files]]
+file = "mods/journeymap-1.18.2-5.9.8-forge.jar"
+hash = "324540fc14b27dda87c004d815166fdfd5b7a1b0e8578fc7e878a4ee334f3fbb"
 
 [[files]]
 file = "mods/justzoom_forge_1.0.2-1_MC_1.18.2.jar"
