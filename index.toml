@@ -16841,10 +16841,6 @@ file = "mods/CTM-1.18.2-1.1.5+5.jar"
 hash = "0f10c8a205c3b9e2da0f61822f7f850e2593e3cf61845c1fc12d7213eab87fcc"
 
 [[files]]
-file = "mods/CasinoCraft_1.18.2_v19.jar"
-hash = "da6ca6d4b4b74c32b2d84340c0e6e2deb0354297d390bea5c5047d62fdb10a3b"
-
-[[files]]
 file = "mods/ChunkyMcChunkFace-1.18.2-0.3.2.jar"
 hash = "1d1ba285dfeeb492f04e414d93531e7129ded9614cfd63c91eaa40270d60e633"
 
@@ -17870,7 +17866,7 @@ hash = "aaac1b321e5ea6f38d766f7310ad2a7500501546b999a5b1a130f1bad1ea27e3"
 
 [[files]]
 file = "mods/vaultersparadise-1.0.0-dev.jar"
-hash = "f9811a17b32a34a2e68476737e81c6756d91fd11431a9cd8c3fdb378714349fe"
+hash = "db5d1d390262ee4f9668092cdcd0d4fb7bb741b25fceb7d5feb342a67c57f69b"
 
 [[files]]
 file = "mods/vaultfaster-2.2.2.jar"
