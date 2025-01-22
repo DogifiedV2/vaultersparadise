@@ -17509,10 +17509,6 @@ file = "mods/geckolib-forge-1.18-3.0.57.jar"
 hash = "b6d0954f7b777b43e72f202116c8ccbb1e37757a1142759303ab636a9077b8ba"
 
 [[files]]
-file = "mods/immersive-portals-1.4.20-mc1.18.2-forge.jar"
-hash = "66ae2af9aff6e5aeda4bc51b643f66dc2d9b8354833f48f5c60a239002b56551"
-
-[[files]]
 file = "mods/infernalmobs-1.18.6.jar"
 hash = "7bf55a8835cc6e76b5d87a5f659a0e1882321d619a32a057bf58f0b90a8ad206"
 
@@ -17927,6 +17923,10 @@ hash = "452a39e5323b83a255cfdd0311974a865112177b87c19c4761dca4e30a5091fc"
 [[files]]
 file = "mods/worldedit-mod-7.2.10.jar"
 hash = "3d7f06f7a208f58e212e8d0dd7cdb0f14e8f0b8a448f8358f872777fb0bfad4d"
+
+[[files]]
+file = "mods/wormhole-1.1.16-forge-mc1.18.jar"
+hash = "4a4dab32ea66079fc87fa856e51c09fde781d320a43ca0591c00d77ed4f5ee00"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.7.jar"
