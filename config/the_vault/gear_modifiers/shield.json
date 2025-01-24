@@ -536,7 +536,7 @@
       },
       { "attribute": "the_vault:block",
       "group": "BaseBlock",
-      "identifier": "the_vault:base_block",
+      "identifier": "the_vault:crafted_block",
       "tiers": [
         {
           "minLevel": 0,
