@@ -1794,7 +1794,7 @@ hash = "bf9ed6f1cc473f3cef6e477bb9c7c9745b44cdbf854395d293ccbcf88a61a5c7"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/loot_sack.json"
-hash = "6ba54574447edaefdb1f9eb32d379f858e9e3ae62ebe78eee7a60b6178a5cc61"
+hash = "a2ddf18e1e519e766a53d3abbd2b9db1b3de4dc48c7b2178710b6f5576f38abe"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
@@ -1806,7 +1806,7 @@ hash = "6bc8f041f3b6ca8837bce94c4fe9764c8b526d037425a8d815af13aa82d8053f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
-hash = "edf563a3adc1fdb92155d0bbe584eb0d3115d242c2f36ee61c0a433e9365618a"
+hash = "d94e309cded5419aa401f51d033be7ee5ad58598bdf336f92dbc18b1a7ea7244"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
@@ -2026,7 +2026,7 @@ hash = "e06ee947da54b1a7f5af5d45cb7f69b965ce51d838d14f3fb089a3143ac26fa0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/bingo_crate.json"
-hash = "23c6d2dfc4d66a48b52381b3fbdb8ae1074631c4b334ac55d76ba09ef2b2ee05"
+hash = "9be324e12e6059218cd20586a0a925080a7ffaed9acac1b2979e590896f11535"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/bingo_full_crate.json"
@@ -2078,15 +2078,15 @@ hash = "4eb6ddff1a4ff137922b44b4ea45d71bc436351597eaa2e8836c027175be8c22"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl0.json"
-hash = "b42e575bfd3caa73f6b691f88d4b068a9856956d449982facb8d7bd362c68457"
+hash = "ad7d79e5783a4e85da5a6c5e8ef033a5e8de2a668241660147b76eb4304f55b2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl20.json"
-hash = "01adadcbb23d3ce9391ba22f5202df017c62a69ff4d4b26d34b697f581f9ddc0"
+hash = "2d72a887c40cae6c72a0bd3de04289aaf62da46564505616a8a472de76daf0a9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl50.json"
-hash = "505b9c791a3fe6d6b87725c72f1b1730e1af8c9bf667bb297376981c861fb380"
+hash = "79607818b5fd861d54b7b8545b3ccb38b0c8b1ef3ecd794176c6b0ada7e8319e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/coin_pile_0.json"
@@ -2282,7 +2282,7 @@ hash = "24e269566659c93633c3a263c8a9e8eb3fafd6aa62f59689c9c2d565141ce2ee"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/enigma_chest_20.json"
-hash = "cf16fafe551c761b556ba6851c32ef19269e0f37b288abc4ed01106e918827b6"
+hash = "135c03b72b7264156658192d3333a4982aac670c9aecebf7d18401ad4ece864a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/enigma_chest_50.json"
@@ -2354,11 +2354,11 @@ hash = "06053e1665e690dd0344ed7b62db8959944dafb7e32e34b051a7f732ef319451"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/hellish_sand.json"
-hash = "38f5fb6dcfad678ef2295a030ab4ae85b5948555ae6480b5810cb0766fc1424a"
+hash = "1726da95015dfa3bbd79b346a3ecfbb8d384598fe02bc03abf7abe6c21e15caf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/iskallian_leaves.json"
-hash = "248ee28f89c4c4a2c0b04d2427ce3741931d7a6180bb65853dbf0d9af12034eb"
+hash = "54b7b358110ad461491344ab4d8f9ca5fe4b1a267a6f939b1d1024a1f57c5bed"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_0.json"
@@ -2462,7 +2462,7 @@ hash = "14849c7af348fd4931d812ecff6c42fd79b85532992795e7c23818fe3095fa03"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"
-hash = "d975285bc7154f3220529907bdd4bc3e5617b2860e596c68d962b1de689fc616"
+hash = "626e036134c311ac10bed5d3090f2868db92adc846d098149dd0dd8047f592ed"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0_withgear.json"
@@ -2474,35 +2474,35 @@ hash = "f8907fdd2f097fa1564dac697ed3fd2e622b73db1fbe98372c249ec522305125"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_30.json"
-hash = "988baa562869e2ab298326bf58b903c1e2f16b81843d853756a1daba8991428d"
+hash = "3b71645714e214e343a0ffdde05e0533b308f7275fdd151342e890194c2ab319"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_50.json"
-hash = "3ca1cf5e527047e2852c85857b52fe9968d39bdd9ed73577d15d85240a87485a"
+hash = "b2cdfccfe2b0eb3bf1fc80a0cacf6091445bdab515329750938dc94e3fae95ad"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/vendor_pedestal_65.json"
-hash = "52effc659354d8125ed49160ab78ced4142d71f069bd6b1c6decced4576cb10b"
+hash = "6b5e30ddea09e86da90408e4d62a5b4bc9451faf467c0c594b3dc918e4012917"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_0.json"
-hash = "1db0584d87c07c16bed6ee35709f3c963d0ce35030e6d1415847392cd9c9e84c"
+hash = "635a1dd4a8122d7b25cafd1f5c86a538cc269090ece625c2ce2217b2b3c97878"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_100.json"
-hash = "58574294d824d7ad7ca76edcf1a41e750148bfffa7f00900e92b005ed74eb3c6"
+hash = "2db792c02be791c30d91a3e81b7ebe3d5c89a46310746b1850804f9c53d4cc0b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_20.json"
-hash = "1db0584d87c07c16bed6ee35709f3c963d0ce35030e6d1415847392cd9c9e84c"
+hash = "635a1dd4a8122d7b25cafd1f5c86a538cc269090ece625c2ce2217b2b3c97878"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_30.json"
-hash = "aa8d932900df99292a4a8154c164c6e40ed519ff2d2f8993f630c477774ec55e"
+hash = "ca812dec0407911ea083a141eade6d124f203adedfdbfe1a10b558f646983ee1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_50.json"
-hash = "aa8d932900df99292a4a8154c164c6e40ed519ff2d2f8993f630c477774ec55e"
+hash = "cc0b8247744f7b08621c486bd6a196dbac45b0f74f0cf258bc48f28d1c448e51"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/wooden_chest_raw.json"
@@ -14338,7 +14338,7 @@ hash = "34f027d325f94340842697a7c54378d4b90bd34d570b46e2ef07dea81f05a8e4"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "1733374fd7b64faeb440be395cac7f5dd9d1fde20629198c76e46f2315864401"
+hash = "a61b7817d63e3d0129ed72a1247193fa7c0795134f6951072b5da6a6d91c2c2e"
 
 [[files]]
 file = "config/the_vault/vault_altar_chest.json"
@@ -14691,6 +14691,10 @@ hash = "4279f08dfa10057c0003b7e7bd3b717a7e19c00d5375b9a87e7f8783540324a1"
 [[files]]
 file = "kubejs/assets/curios/textures/slot/wireless_terminal.png"
 hash = "59cf2e60907d0926344a2e94de11ecd07e7d96253e7971364214c2a9b9a3a651"
+
+[[files]]
+file = "kubejs/assets/decocraft/lang/en_us.json"
+hash = "1368bbab32a9715d88568e32bbfd7f906d34678b84da57a677a7ef9022d2f3b3"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/acacia_log_1.png"
