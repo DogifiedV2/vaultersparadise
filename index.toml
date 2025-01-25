@@ -577,6 +577,10 @@ file = "config/blockcarpentry-common.toml"
 hash = "703d8517c6aa5f598d4822b48cd0594d7580b6eec14f787fde459f2d88bc48bd"
 
 [[files]]
+file = "config/bocchud.json"
+hash = "f6153d7c1cd54a340cd6f65b65dd7cb27f4e9f0f11f7c501cb16ad9d54d5493f"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "3e96d7f471846a8349c319e8ea876146e8216530b977f830c86b016b5a76ab89"
 
@@ -877,6 +881,18 @@ file = "config/ecologics.toml"
 hash = "01af8e1acbe71cdf87a2d2190c8d86d55906b137fe049721317f11b517b15a87"
 
 [[files]]
+file = "config/embeddium++.toml"
+hash = "9f55852076158d5ea06cc74893d3cd309cad89e5234832d5560349e9e06e985d"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "abcfe48332f4c5128a8f2184f09c7dc6b6878b008e274ea5ec88b24dc70ea77d"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "03773f540a51d21e0f5b610f2cab73f31ebc23ab61cfae6f8a7f18cc546474f2"
+
+[[files]]
 file = "config/enercell/enercell.json"
 hash = "7c1e64768038901f3de0ae18d78f30e5489c9b1f3cb26bbe0fc55b119218b43f"
 
@@ -1137,6 +1153,10 @@ file = "config/lootbeams-client.toml"
 hash = "ad92634c0a19d05ffb29f13b5895572397fe3b5fde6c0c26888812ae7a93d265"
 
 [[files]]
+file = "config/mafglib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
 file = "config/mantle-client.toml"
 hash = "6644e92bfaff6604d045bd09995a4168da7312e5d89781190bc9999a10c8f286"
 
@@ -1162,7 +1182,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "dd4ed8cdf532b4c3e71dd3356351662540c3317a6bbd02fcc92b2fd5c925cd9f"
+hash = "fe3d84b7c8716cb89d645e564a1379017bd2e671a750fdbaaead3088f3c26000"
 
 [[files]]
 file = "config/modularrouters-client.toml"
@@ -14638,7 +14658,7 @@ hash = "017e64b594714aa6dae3cc9eae3565326acf2d3162998c8aa1db1ac9d64c54a0"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "602a5e9d38c0100c4dddc73d77cbd01e02f063a13e7cad15a7e1786fe4aabefa"
+hash = "605b444cb997ff081353ec636ebc1dba3cbe3522c19f4f1d9bc3efdd715579ce"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -17943,6 +17963,10 @@ hash = "4a4dab32ea66079fc87fa856e51c09fde781d320a43ca0591c00d77ed4f5ee00"
 [[files]]
 file = "mods/xnet-1.18-4.0.7.jar"
 hash = "51f0aa9a76b639268e0d69c4358a98cc06ed71023b27ce759d7398cd8c6bc0bb"
+
+[[files]]
+file = "options.txt"
+hash = "cfbad39897321668c82272331c1c4504655d1955779a753c335d9804c390ab3d"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
