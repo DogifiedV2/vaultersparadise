@@ -16845,6 +16845,10 @@ file = "mods/CTM-1.18.2-1.1.5+5.jar"
 hash = "0f10c8a205c3b9e2da0f61822f7f850e2593e3cf61845c1fc12d7213eab87fcc"
 
 [[files]]
+file = "mods/CasinoCraft_1.18.2_v19.jar"
+hash = "da6ca6d4b4b74c32b2d84340c0e6e2deb0354297d390bea5c5047d62fdb10a3b"
+
+[[files]]
 file = "mods/ChunkyMcChunkFace-1.18.2-0.3.2.jar"
 hash = "1d1ba285dfeeb492f04e414d93531e7129ded9614cfd63c91eaa40270d60e633"
 
@@ -17789,6 +17793,10 @@ file = "mods/supplementaries-1.18.2-1.5.18.jar"
 hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
+file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
+hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
+
+[[files]]
 file = "mods/the_vault-1.18.2-3.15.2.3663.jar"
 hash = "6dfabb9c92701a378c8338fc8971e4ffa0a5a62b3f372f4b81e1fd07edf5ab2d"
 
@@ -17935,10 +17943,6 @@ hash = "4a4dab32ea66079fc87fa856e51c09fde781d320a43ca0591c00d77ed4f5ee00"
 [[files]]
 file = "mods/xnet-1.18-4.0.7.jar"
 hash = "51f0aa9a76b639268e0d69c4358a98cc06ed71023b27ce759d7398cd8c6bc0bb"
-
-[[files]]
-file = "options.txt"
-hash = "69a62968b61d15e8d11be0490550c001dba04dc9f163399a4d6daad64e56f963"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
