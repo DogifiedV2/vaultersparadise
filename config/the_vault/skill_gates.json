@@ -193,6 +193,7 @@
           { "type": "constant", "id": "Potions" },
           { "type": "constant", "id": "Mixtures" },
           { "type": "constant", "id": "Angel Rings" },
+          { "type": "constant", "id": "Digital Waystones" },
           { "type": "constant", "id": "Brews" }
         ],
         "ignoreArrow": true,
@@ -205,6 +206,11 @@
       },
       "Mega Cells": {
         "dependsOn": [{ "type": "constant", "id": "Applied Energistics" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Digital Waystones": {
+        "dependsOn": [{ "type": "constant", "id": "Waystones" }],
         "ignoreArrow": true,
         "lockedBy": []
       },

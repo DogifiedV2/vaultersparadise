@@ -54,6 +54,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/tiab"
     },
+    "Digital Waystones": {
+      "x": 630,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/waystones"
+    },
     "Stack Upgrading": {
       "x": 200,
       "y": -40,

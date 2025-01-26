@@ -135,7 +135,7 @@
         }
       },
       "name": "Time in a Bottle",
-      "cost": 16,
+      "cost": 24,
       "usesKnowledge": true
     },
     {
@@ -170,6 +170,23 @@
       },
       "name": "Waystones",
       "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "vaultersparadise"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": false,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Digital Waystones",
+      "cost": 3,
       "usesKnowledge": true
     },
     {
@@ -906,20 +923,6 @@
           }
         },
         "refinedstorage:pattern": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "integratedcrafting:part_interface_crafting": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "integratedcrafting:part_crafting_writer": {
           "restricts": {
             "HITTABILITY": true,
             "USABILITY": true,
