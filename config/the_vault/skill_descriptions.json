@@ -1581,7 +1581,54 @@
         "color": "yellow"
       },
       {
-        "text": "mod!\n\nWaystones provides you with an ease of travel option. They are craftable and can be interacted with only after you unlock this research. You can travel within and cross-dimensions, however, they do not work in the vaults."
+        "text": "mod!\n\nWaystones provides you with an ease of travel option. They are craftable and can be interacted with only after you unlock this research. You can travel within and cross-dimensions, however, they do not work in the vaults.\n\nMake sure to check out the new "
+      },
+      {
+        "text": "Digital Waystones ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon too!"
+      }
+    ],
+    "Digital Waystones": [
+      {
+        "text": ""
+      },
+      {
+        "text": "Disabled In Vaults!\n",
+        "color": "dark_red"
+      },
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Digital Waystones ",
+        "color": "yellow"
+      },
+      {
+        "text": "addon!\n\nThis addon unlocks a few commands, that can be used to teleport your way around the world.\n"
+      },
+      {
+        "text": "/sethome",
+        "color": "yellow"
+      },
+      {
+        "text": "  Saves your current location as your home.\n"
+      },
+      {
+        "text": "/home",
+        "color": "yellow"
+      },
+      {
+        "text": "  Teleports you to your saved location.\n"
+      },
+      {
+        "text": "/tpa (player)",
+        "color": "yellow"
+      },
+      {
+        "text": "  Sends a request to teleport to a player.\n"
       }
     ],
     "Torch Master": [

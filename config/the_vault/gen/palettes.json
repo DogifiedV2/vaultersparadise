@@ -1807,6 +1807,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/coin_stack_placeholder.json"
     },
     {
+      "id": "the_vault:dungeon_rooms/wooden_chest_placeholder",
+      "name": "Dungeon Wooden Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/wooden_chest_placeholder.json"
+    },
+    {
       "id": "the_vault:generic/spawners/spider_dungeon",
       "name": "Spider Dungeon",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/spider_dungeon.json"

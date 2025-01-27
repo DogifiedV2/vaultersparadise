@@ -576,6 +576,70 @@
         "VIAL": "{abilityId:\"nova_frost_2\"}"
       }
     },
+    { "effectId": "immortality_potion",
+      "type": "potion",
+      "effectName": "Immortality",
+      "tooltip": "Gain Immortality for %1$ss",
+      "color": "#001F3F",
+      "craftingCosts": {
+        "VIAL": [
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_diamond",
+            "NBT": "{}"
+          }
+        ],
+        "POTION": [
+          {
+            "AMOUNT": 16,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 16,
+            "ITEM": "the_vault:vault_diamond",
+            "NBT": "{}"
+          }
+        ],
+        "MIXTURE": [
+          {
+            "AMOUNT": 32,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 32,
+            "ITEM": "the_vault:vault_diamond",
+            "NBT": "{}"
+          }
+        ],
+        "BREW": [
+          {
+            "AMOUNT": 64,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 64,
+            "ITEM": "the_vault:vault_diamond",
+            "NBT": "{}"
+          }
+        ]
+
+      },
+      "unlockCategory": "VAULT_DISCOVERY",
+      "typeSettings": {
+        "BREW": "{amplifier:0,duration:140,potion:\"the_vault:immortality\"}",
+        "POTION": "{amplifier:0,duration:100,potion:\"the_vault:immortality\"}",
+        "MIXTURE": "{amplifier:0,duration:80,potion:\"the_vault:immortality\"}",
+        "VIAL": "{amplifier:0,duration:60,potion:\"the_vault:immortality\"}"
+      }
+    },
     { "effectId": "cast_totem_spirit",
       "type": "cast_ability",
       "effectName": "Spirit Totem",
