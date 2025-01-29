@@ -1505,6 +1505,10 @@ file = "config/embeddium-options.json"
 hash = "03773f540a51d21e0f5b610f2cab73f31ebc23ab61cfae6f8a7f18cc546474f2"
 
 [[files]]
+file = "config/emojiful-client.toml"
+hash = "d50ffd0cefe0f14db19760302730ff44dd7836d8f5df9b3bdcd7118b1ef4457e"
+
+[[files]]
 file = "config/enercell/enercell.json"
 hash = "7c1e64768038901f3de0ae18d78f30e5489c9b1f3cb26bbe0fc55b119218b43f"
 
@@ -15010,7 +15014,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "b28414e3faa60f0f33e06a2e3d9edabf03b30dcb5f3da8927f87dba327881e11"
+hash = "fb7ca03adea5fc9862fc8c1a1af6a0bb975b2019375ff69daeb431a3487c832a"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -18095,6 +18099,10 @@ hash = "7c14d289a85d7bb5cfeb61dd8674e7d02535e6ac9e1a1e2723f10323fbe59f99"
 [[files]]
 file = "mods/embeddiumplus-1.18.2-v1.2.14.jar"
 hash = "6d0e24852c264e60ffd71a856adc2a590371e71419b238e895e7b26c2162e6b7"
+
+[[files]]
+file = "mods/emojiful-1.18.2-3.0.1.jar"
+hash = "696cecdb674e3239269515141f4b48052c0713a8ecb9532bbe29499ed72da95f"
 
 [[files]]
 file = "mods/enercell-1.18.2-1.0.2.jar"

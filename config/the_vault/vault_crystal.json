@@ -1,7 +1,7 @@
 {
   "MODIFIER_STABILITY": {
     "instabilityPerCraft": 0.05,
-    "exhaustProbability":0.25,
+    "exhaustProbability": 0.25,
     "curseColor": "#9C6E3B"
   },
   "MOTES": {
@@ -120,6 +120,10 @@
         "level": 20,
         "pool": [
           {
+            "value": "the_vault:classic_vault_tropical",
+            "weight": 20
+          },
+          {
             "value": "the_vault:classic_vault_sweet",
             "weight": 10
           },
@@ -227,11 +231,11 @@
             "value": "the_vault:classic_vault_gingerbread",
             "weight": 0
           },
-		      {
+          {
             "value": "the_vault:classic_vault_easter_egg",
             "weight": 5
           },
-		      {
+          {
             "value": "the_vault:classic_vault_easter_pastel",
             "weight": 5
           },
@@ -241,7 +245,7 @@
           },
           {
             "value": "the_vault:classic_vault_flesh",
-            "weight": 0
+            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_blood",
@@ -272,6 +276,10 @@
       {
         "level": 30,
         "pool": [
+          {
+            "value": "the_vault:classic_vault_tropical",
+            "weight": 20
+          },
           {
             "value": "the_vault:classic_vault_sweet",
             "weight": 10
@@ -392,11 +400,11 @@
             "value": "the_vault:classic_vault_gingerbread",
             "weight": 0
           },
-		      {
+          {
             "value": "the_vault:classic_vault_easter_egg",
             "weight": 5
           },
-		      {
+          {
             "value": "the_vault:classic_vault_easter_pastel",
             "weight": 5
           },
@@ -406,11 +414,172 @@
           },
           {
             "value": "the_vault:classic_vault_flesh",
+            "weight": 20
+          },
+          {
+            "value": "the_vault:classic_vault_season_spring",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_season_summer",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_season_fall",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_season_winter",
+            "weight": 38
+          }
+        ]
+      },
+      {
+        "level": 50,
+        "pool": [
+          {
+            "value": "the_vault:classic_vault_dark_cavern",
+            "weight": 9
+          },
+          {
+            "value": "the_vault:classic_vault_tropical",
+            "weight": 20
+          },
+          {
+            "value": "the_vault:classic_vault_sweet",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_ice",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_ice_cave",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_cave",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_cave_deepslate",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_cave_geode",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_cave_wasteland",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_lush_cave",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_living_cave",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_desert",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_sandy_cave",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_beach",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_flooded",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_haunted",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_shipwreck",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_sea_floor",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_mushroom",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_fairy_ring",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_poison",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_mesa",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_deep_mesa",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_nether_crimson",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_nether_warped",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_nether_blackstone",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_nether_soul",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_void",
+            "weight": 7
+          },
+          {
+            "value": "the_vault:classic_vault_end_void",
+            "weight": 7
+          },
+          {
+            "value": "the_vault:classic_vault_factory_void",
+            "weight": 7
+          },
+          {
+            "value": "the_vault:classic_vault_festive",
             "weight": 0
           },
           {
-            "value": "the_vault:classic_vault_blood",
+            "value": "the_vault:classic_vault_gingerbread",
+            "weight": 3
+          },
+          {
+            "value": "the_vault:classic_vault_easter_egg",
+            "weight": 5
+          },
+          {
+            "value": "the_vault:classic_vault_easter_pastel",
+            "weight": 5
+          },
+          {
+            "value": "the_vault:classic_vault_blood_moon",
             "weight": 20
+          },
+          {
+            "value": "the_vault:classic_vault_flesh",
+            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_season_spring",
@@ -480,7 +649,7 @@
         ]
       },
       {
-        "level": 10,
+        "level": 10, 
         "pool": [
           {
             "value": "the_vault:raw_vault_cave_lvl10",
@@ -1437,6 +1606,113 @@
         ]
       }
     ],
+    "the_vault:unhinged_default": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "type": "boss",
+              "objective_probability": 0.25,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 6,
+                "max": 8
+              }
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "monolith",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 5
+              }
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "haunted_braziers",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 7,
+                "max": 10
+              }
+            },
+            "weight": 1
+          },
+          {
+            "value": {
+              "type": "enchanted_elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "unhinged_scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "brutal_bosses",
+              "objective_probability": 0.25,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 6,
+                "max": 8
+              }
+            },
+            "weight": 2
+          },
+          {
+            "value": {
+              "type": "ballistic_bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 2
+          }
+        ]
+      }
+    ],
     "the_vault:ascension": [
       {
         "level": 0,
@@ -1454,6 +1730,13 @@
               "objective_probability": 0.3
             },
             "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 2
           }
         ]
       }
@@ -1479,6 +1762,213 @@
     ]
   },
   "SEALS": {
+    "the_vault:crystal_seal_spirits": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 5
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      },
+      {
+        "level": 20,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 7
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      },
+      {
+        "level": 50,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 7
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      },
+      {
+        "level": 70,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 5,
+            "max": 8
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      },
+      {
+        "level": 90,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "haunted_braziers",
+          "objective_probability": 1.0,
+          "target": {
+            "type": "uniform",
+            "min": 6,
+            "max": 10
+          }
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_cave_deepslate"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "woldsvaults:ghost_town",
+              "count": 1
+            },
+            {
+              "modifier": "the_vault:haunting",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        }
+      }
+    ],
+    "woldsvaults:crystal_seal_warrior": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "offering_boss",
+          "objective_probability": 0.0
+        }
+      }
+    ],
+    "woldsvaults:crystal_seal_zealot": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "zealot",
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 5
+          }
+        }
+      }
+    ],
+    "the_vault:crystal_seal_doomsayer": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "ballistic_bingo",
+          "objective_probability": 0.5
+        }
+      }
+    ],
     "the_vault:crystal_seal_executioner": [
       {
         "level": 0,
@@ -1691,6 +2181,218 @@
         }
       }
     ],
+    "the_vault:crystal_seal_titan": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 1,
+            "max": 3
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 10,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 2,
+            "max": 4
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 40,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 5
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 60,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 3,
+            "max": 5
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 90,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "brutal_bosses",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 5
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 1,
+            "max": 2
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      }
+    ],
     "the_vault:crystal_seal_herald": [
       {
         "level": 100,
@@ -1724,6 +2426,38 @@
             "type": "constant",
             "count": 96000
           }
+        }
+      }
+    ],
+    "the_vault:crystal_seal_enchanter": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.5
+        }
+      },
+      {
+        "level": 30,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.5
+        }
+      },
+      {
+        "level": 65,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "enchanted_elixir",
+          "objective_probability": 0.3
         }
       }
     ],
@@ -1851,7 +2585,37 @@
         ],
         "objective": {
           "type": "bingo",
+          "objective_probability": 0.5
+        }
+      }
+    ],
+    "the_vault:crystal_seal_unhinged": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "unhinged_scavenger",
           "objective_probability": 1.0
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_chaos"
+        }
+      },
+      {
+        "level": 30,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "unhinged_scavenger",
+          "objective_probability": 0.75
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_chaos"
         }
       }
     ],
