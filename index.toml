@@ -17617,6 +17617,10 @@ file = "mods/IntegratedTunnels-1.18.2-1.8.19.jar"
 hash = "001266a06f674ed81682c449c02a7762f956e7533742c4a610e95a3f8625e54e"
 
 [[files]]
+file = "mods/InventoryProfilesNext-forge-1.18.2-1.10.11.jar"
+hash = "392d93161a5c1501893fb5b2bfdbc9aaad2cc81306ee20df60e2c39e2708a1e7"
+
+[[files]]
 file = "mods/IronGenerators-2.0.2-1.18.2.jar"
 hash = "57d1e667f514fc4ed6996cebb35338b742e63e984501d3e827a3530f335d3caa"
 
@@ -17877,16 +17881,16 @@ file = "mods/appliedcooking-1.0.3.jar"
 hash = "dd32f871cfb98bd154d0c2bf5c0db87e38e896fe5d28a88585da912c99195e70"
 
 [[files]]
-file = "mods/appliedenergistics2-forge-11.7.0.jar"
-hash = "c5d8cff63d3ff1870948073adfd2e617712876b0d99bb928b6787494b46b3c3d"
+file = "mods/appliedenergistics2-forge-11.7.6.jar"
+hash = "86f06ffdd7b73848cbb82ff23cf6bba6b2949e0562ae8a5f68bf0eed86eba8d2"
 
 [[files]]
 file = "mods/architectury-4.10.88-forge.jar"
 hash = "dbadee4fac7a091d804481188586ee973113e9a7cb5651258bbeeb95b06e56ed"
 
 [[files]]
-file = "mods/armourersworkshop-forge-1.18.2-3.0.0-beta.25.jar"
-hash = "4d7b682db2fb23c4d3c0dde090947606a9d5c79a1cbb45d8cf531f689157bfc8"
+file = "mods/armourersworkshop-forge-1.18.2-3.1.5-beta.jar"
+hash = "bbd998a3a63ed5e904dcf382f0c2f4f37f60203688bcf609941ac1a36a164daa"
 
 [[files]]
 file = "mods/auudio_forge_1.0.3_MC_1.18-1.18.2.jar"
@@ -18059,10 +18063,6 @@ hash = "92cced7db7bdeadc4a06b2441510bb1cc19f4cc731d6f7949f8ea4a50e16dea2"
 [[files]]
 file = "mods/design_decor-0.2a-1.18.2.jar"
 hash = "3c731613cb4422b999e4f9c551f38af097413dd9f055748cbadb9ae8d0b9548c"
-
-[[files]]
-file = "mods/desktop.ini"
-hash = "316eecb0fa95e67b884c41e281be2b49449ca1b31faf535fd99450776740afbb"
 
 [[files]]
 file = "mods/draggablebookmarks-jei9-1.0.2.jar"
@@ -18281,6 +18281,10 @@ file = "mods/morevaulttables-1.3.jar"
 hash = "5a3cc2a89d86dcc6deba1f77e97b0913c8a9908707ed7a52f1901572e0c2c2aa"
 
 [[files]]
+file = "mods/morevillagers-forge-1.18.2-3.3.2.jar"
+hash = "0ab8037831a4fab35d3ae648f950e67ca2c02c39b442be74711969c015bfdc61"
+
+[[files]]
 file = "mods/neoncraft2-2.2.jar"
 hash = "b6f6b55dbe21fc28cc2e8a8b07d48ba3c14738180ebf3a8468b538b51071529e"
 
@@ -18441,10 +18445,6 @@ file = "mods/the_vault-1.18.2-3.15.2.3663.jar"
 hash = "6dfabb9c92701a378c8338fc8971e4ffa0a5a62b3f372f4b81e1fd07edf5ab2d"
 
 [[files]]
-file = "mods/the_vault_jei-0.5.jar"
-hash = "dc88f96d555cd25a27d5383ed553fcc798f9eb4358044486bab034b39d222391"
-
-[[files]]
 file = "mods/thermal_expansion-1.18.2-9.1.0.18.jar"
 hash = "61ec76b864582c72bb824bb4e38eaa94329df99d2c4f4d77c522a2f7c194aaf0"
 
@@ -18481,8 +18481,8 @@ file = "mods/twigs-1.1.4-patch4+1.18.2-forge.jar"
 hash = "20b9ca87e9a9ffbef0e89239c3dc22db0812362bcf9f6d34d2516346f5dceb8f"
 
 [[files]]
-file = "mods/unobtainium-1.6.2.jar"
-hash = "f85673c96becb52cb2056b4c0e552df63c4cddadf1b7d302e4568aa58dee4682"
+file = "mods/unobtainium-1.8.1.jar"
+hash = "be4d08486dae6dc2a7fe2277ae8bdf836df62b65ace2ba58abbc0851ce5e37aa"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.4.jar"
@@ -18497,20 +18497,20 @@ file = "mods/vault_hunters_better_junk_controller-1.2.1.jar"
 hash = "f15032beebdd8d8db015604d7bbf9798e7d847e5226513a94245fd0086d8532d"
 
 [[files]]
-file = "mods/vault_hunters_jewel_sorting-2.7.1.jar"
-hash = "10bed9582fdd811ef5aa3b75d257fb001d18c85f1898993c637cf6012579524f"
+file = "mods/vault_hunters_jewel_sorting-2.7.4.jar"
+hash = "ad37f97bd3deedb2b35cf507e06bc6a9df74aa5d34ed067f2b34bbeca4a6bc7e"
 
 [[files]]
 file = "mods/vault_hunters_sync_server_config-1.0.0.jar"
 hash = "50ffd627d5f0fb72754c518888712cccd158de89e6a0eb19bb1ab79f7b306e72"
 
 [[files]]
-file = "mods/vaultadditions-1.12.0.jar"
-hash = "615073375261c6f52491009634d475df2075279c3658a5a2b01dfb942e87b127"
+file = "mods/vaultadditions-1.13.2.jar"
+hash = "09fc11a376accc2c04069a6c393902c8e20b79d4f3dbe7667eff2e257f9ea1f1"
 
 [[files]]
-file = "mods/vaultcoinpouch-1.6.1.jar"
-hash = "0f10d4754d1d2e37896eed85e2852c160d75360aba45604de1288452c3ac6c64"
+file = "mods/vaultcoinpouch-1.6.2.jar"
+hash = "6c635146c28292ea9c001dc3bb962aae772b7b4767621d2db01bb76c76e9002b"
 
 [[files]]
 file = "mods/vaultcompassenhancements-1.1.0-3.15.1.jar"
@@ -18537,8 +18537,8 @@ file = "mods/vaultjp-1.0.jar"
 hash = "9b01f36a8220b6107d6693b77dfaf0a7a8ee67b1581e75aa7560d4c5a8b40abd"
 
 [[files]]
-file = "mods/vaultkeychain-2.0.0.jar"
-hash = "7ab98181b332f30f53252bb53c3bf026268295438daea0003845e21d08351234"
+file = "mods/vaultkeychain-2.1.0.jar"
+hash = "32cefa52b463288c99b0ee8625b3dcad614d373f5d170f17a59f4c19003e5847"
 
 [[files]]
 file = "mods/vaultmapper-1.7.0.jar"
@@ -18549,12 +18549,12 @@ file = "mods/vhapi-3.3.3.jar"
 hash = "d4fd9ee8c42174e378175f403c256b770ccbf5605c45e031210cd72b7dca1ffd"
 
 [[files]]
-file = "mods/vhatcaniroll-1.4.jar"
-hash = "f9e5975828a8160d5432e9f186438d7f91dba3cae30f1ad70440f0319d344ed9"
+file = "mods/vhatcaniroll-1.5.jar"
+hash = "8cff3a08560214d1ed826a81f3bed656be27ff6ea86da29a108b607aaa19f1e9"
 
 [[files]]
-file = "mods/voicechat-forge-1.18.2-2.5.25.jar"
-hash = "abd0268501a69608edfb7221cc93223dab7dd8ca97c94cf3ad92f09d4dfcdd40"
+file = "mods/voicechat-forge-1.18.2-2.5.27.jar"
+hash = "6bcea9ed7a055fe644f01b9a2b2aaefb92eb3a1bd9aaf012f2522a908e655dc7"
 
 [[files]]
 file = "mods/waystones-forge-1.18.2-10.2.2.jar"
@@ -18565,8 +18565,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaults-0.15.2.jar"
-hash = "b5d7d0f30edb4484b6e7d368e299c22c27d5333989b69bd26e18f8cddd039d1f"
+file = "mods/woldsvaultsstandalone-0.15.9.jar"
+hash = "d65e03d0ffa1fff4e452eaa62b0b2fdf2eec7ad53ccd9e20555622dd4e5dca23"
 
 [[files]]
 file = "mods/worldborderfixer-2024.5.4.jar"
