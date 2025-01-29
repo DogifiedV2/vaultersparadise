@@ -18201,6 +18201,10 @@ file = "mods/lazydfu-1.0-1.18+.jar"
 hash = "0f2cd2caba33e696fd810c8ea1c27c2e0a651bbeec54c7ac971840f238e40513"
 
 [[files]]
+file = "mods/libIPN-forge-1.18.2-4.0.2.jar"
+hash = "f3835354dbde85ad8a5523a0656a6f21546916abaf08eb96da79a9472cd22df9"
+
+[[files]]
 file = "mods/libnonymous-2.1.0.jar"
 hash = "28766ce614bc8987b7feca15fac928aa53f8e974b63674cc49eb783a276c4e58"
 
