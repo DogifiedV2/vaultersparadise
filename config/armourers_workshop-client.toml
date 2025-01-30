@@ -38,7 +38,7 @@
 	renderDistanceMannequinEquipment = 64
 	#The maximum number of threads that will be used to bake models. 
 	#Range: 1 ~ 16
-	modelBakingThreadCount = 16
+	modelBakingThreadCount = 8
 	#The maximum number of threads that will be used to build model vertexes. 
 	#Range: 1 ~ 16
 	vertexCompileThreadCount = 2
@@ -128,4 +128,6 @@
 	#3 = model_replace_aw (render using a aw model - faster, less compatible)
 	#Range: -1 ~ 2
 	texturePaintingType = 0
+	#Shows resource register/unregister in logs.
+	resource = false
 

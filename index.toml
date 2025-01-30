@@ -1058,11 +1058,11 @@ hash = "7aa83bc76d0ca4acc2bb3733aba472a56a48d38338baa56af352f1b2f7469759"
 
 [[files]]
 file = "config/armourers_workshop-client.toml"
-hash = "ad76d88d686c90038ef53fd94121a2804de2ec23085dd629a9c3e714444aceba"
+hash = "f1f6e4208c91db4181f83ea00d00a4c85620c872a5ab26c5448dcfd83b997cb9"
 
 [[files]]
 file = "config/armourers_workshop-common.toml"
-hash = "1c11dad3b3ed849d7cbadfa42f1917b7bcc7c68646a5b31784776be2619e5eba"
+hash = "bafed4e9f3d28a4cdcea474ebcef6f8c47fed7ce486fba49f8b482df570677ba"
 
 [[files]]
 file = "config/auxiliaryblocks/waterlog.json"
@@ -1078,7 +1078,7 @@ hash = "9376911f8431f28c6d7cef493ac8466491a79961793096385ad2e88aea4ffdf2"
 
 [[files]]
 file = "config/betterdeserttemples-forge-1_18_2.toml"
-hash = "82382a6c3bbc76cb91d13cf406a141ffc6c91cc890a3dfc0cda2bcc1fb014c48"
+hash = "ed522e6f2b8ffc180021fb1455c6ecaabd12eccf2fe16f8bb5e4858e2a431fcc"
 
 [[files]]
 file = "config/betterdeserttemples/README.txt"
@@ -1190,7 +1190,7 @@ hash = "703d8517c6aa5f598d4822b48cd0594d7580b6eec14f787fde459f2d88bc48bd"
 
 [[files]]
 file = "config/bocchud.json"
-hash = "f6153d7c1cd54a340cd6f65b65dd7cb27f4e9f0f11f7c501cb16ad9d54d5493f"
+hash = "c46a50a190107b3faf5f020c8305ec0ffe295e72407930e618ac64c99e30f78e"
 
 [[files]]
 file = "config/botania-client.toml"
@@ -1199,6 +1199,10 @@ hash = "3e96d7f471846a8349c319e8ea876146e8216530b977f830c86b016b5a76ab89"
 [[files]]
 file = "config/botania-common.toml"
 hash = "a400c337d6385a6ade2f43475a8877a882af2a690bb74f433d40633227529492"
+
+[[files]]
+file = "config/botanypotstiers-common.toml"
+hash = "a1a8aef2d698b41dfbf0236ea156242c8d942b679fd46a5e425429a5228b02a6"
 
 [[files]]
 file = "config/buildinggadgets-client.toml"
@@ -1494,7 +1498,7 @@ hash = "01af8e1acbe71cdf87a2d2190c8d86d55906b137fe049721317f11b517b15a87"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "9f55852076158d5ea06cc74893d3cd309cad89e5234832d5560349e9e06e985d"
+hash = "1afe21c7025623d891add6f34fbf95543b46bfdfff7146379ae63ce8b5764c91"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -1518,7 +1522,7 @@ hash = "1eab49670e52d33fb63c14c6f5eec9d8abf735d9ee24679ba00f2ca19b96c2d0"
 
 [[files]]
 file = "config/equipmentcompare-common.toml"
-hash = "043f75a8f1da465d21357dd118f52efda26b16f7607756593b7c8e47dd2ae73b"
+hash = "5c25616fa129e466171bdd7e0ff8fb0029eb21f426490ce19b73464a93e8edcf"
 
 [[files]]
 file = "config/everycomp-registry-1.toml.bak"
@@ -1615,6 +1619,10 @@ hash = "b95a419f93c9acc91206db0716147b1a21493bcab10afdf42e7ff3bceb37f3d6"
 [[files]]
 file = "config/industrialforegoing/machine-resource-production.toml"
 hash = "aea38fdf85ac3470d63d0c6d8ea6a9d01437d1fb7bfe1d271be314ecbd6c7122"
+
+[[files]]
+file = "config/infernalmobs.cfg"
+hash = "15af84b4e317f51f0d69598ad1b514885b7da28223a475eca1319d40dd8ad844"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
@@ -1738,7 +1746,7 @@ hash = "d53707bca34d3d11ef17642d819a4444550bf5d1c3557d0d8c19c5d47e46bbc4"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
-hash = "621fa10d5516efca2f718891231e4464443c9db83166589970589ba61889220d"
+hash = "d40f81acb84de1757871be40c57461455b29325ddcbad389276b3e48fba17b8a"
 
 [[files]]
 file = "config/lightmanscurrency/ATMData.json"
@@ -2222,7 +2230,7 @@ hash = "4dcd309dabd34d89958c2bd24ddb15345494d1ab637fb8fb319911d0db05f19c"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
-hash = "23804e7e478dc09acd9dbeb6bb94b522b2b7ddf016f8089240a78fffe0a01242"
+hash = "787d7e25dae21afa55fa4f7b0a5033825c3f06b30d1282a41ecb2b38d309bc74"
 
 [[files]]
 file = "config/the_vault/catalyst_infusion_table.json"
@@ -2814,7 +2822,7 @@ hash = "611ea26b14b215aa35b88a9e601ba4859721342b7f1dc1ee35cfcadeae0e63c4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/digsite_sand_0.json"
-hash = "6af39108aaef983c40bd46e0b775839e235641cf19bde0d28c0b75f1c26a40c2"
+hash = "033b2d8863099f292d8139c17483bb4242d29c42ec72a2151e1768d429a39164"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_pedestal_50.json"
@@ -14606,7 +14614,7 @@ hash = "66c89c85cccd88316325d597592b37815a296ea04dc7d463ff4a1035af755b8c"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "4eab59ae4a2358c9b67943d647886f180fce65423cbaa9b055a6266118c10b67"
+hash = "255929b7b373ec662b360acfcee08b139bc43344dc0279eb65269d71646e7945"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
@@ -15014,7 +15022,7 @@ hash = "c98a703fe6ffe7ccb4ff523d3ddad7b4397fb08bc4b89bf23d9456b3a35f237c"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "fb7ca03adea5fc9862fc8c1a1af6a0bb975b2019375ff69daeb431a3487c832a"
+hash = "ce6ea723d77c03a6fc67a115252c458f5dd1c31e3716fa61f5b364ca9f7a9955"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -17617,10 +17625,6 @@ file = "mods/IntegratedTunnels-1.18.2-1.8.19.jar"
 hash = "001266a06f674ed81682c449c02a7762f956e7533742c4a610e95a3f8625e54e"
 
 [[files]]
-file = "mods/InventoryProfilesNext-forge-1.18.2-1.10.11.jar"
-hash = "392d93161a5c1501893fb5b2bfdbc9aaad2cc81306ee20df60e2c39e2708a1e7"
-
-[[files]]
 file = "mods/IronGenerators-2.0.2-1.18.2.jar"
 hash = "57d1e667f514fc4ed6996cebb35338b742e63e984501d3e827a3530f335d3caa"
 
@@ -18541,8 +18545,8 @@ file = "mods/vaultkeychain-2.1.0.jar"
 hash = "32cefa52b463288c99b0ee8625b3dcad614d373f5d170f17a59f4c19003e5847"
 
 [[files]]
-file = "mods/vaultmapper-1.7.0.jar"
-hash = "74d4543453458a59547699bccbf3749ee538a3d87058c99f7ee4b7eed10c7a8f"
+file = "mods/vaultmapper-1.7.2.jar"
+hash = "325da2469f95b1ac95d4e68c0f3dd6eee9b17d1246ae6e02527b7aaab57ab493"
 
 [[files]]
 file = "mods/vhapi-3.3.3.jar"
@@ -18566,7 +18570,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.15.9.jar"
-hash = "d65e03d0ffa1fff4e452eaa62b0b2fdf2eec7ad53ccd9e20555622dd4e5dca23"
+hash = "f67f7a16245a3412006c5d691b79d4828e2b6a9bc74e5e17209f97c14e43b9f9"
 
 [[files]]
 file = "mods/worldborderfixer-2024.5.4.jar"
