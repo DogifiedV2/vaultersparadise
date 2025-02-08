@@ -17749,8 +17749,8 @@ file = "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
 hash = "67fc0b05ca0fa755dda681c20aaf29e55b8845841451efc6c40631b91b95d9d2"
 
 [[files]]
-file = "mods/QOL Hunters-0.29.0-1.18.2.jar"
-hash = "a7fdeeea22cf1404511a30b56e85e2f6cd2eedaa13b75d658d5fb8dc9509facf"
+file = "mods/QOL Hunters-0.29.1-1.18.2.jar"
+hash = "51b1e67ea60706605f06d50bf14b9acbad6b83eaf304eec003734d84adae494a"
 
 [[files]]
 file = "mods/Quark-3.2-358.jar"
@@ -18275,6 +18275,10 @@ hash = "760f823a691c84079322b483297a6dbbbdc1d0610aa45681d8812bc897993472"
 [[files]]
 file = "mods/more_vault_keybinds-1.0.0.jar"
 hash = "0156d7e29478e48e4311ac46150564b469bc96ba6d598153b004697608f75925"
+
+[[files]]
+file = "mods/morevaulttables-1.3.3-millennium.jar"
+hash = "6eed8bed4b368a2909c37f73b1b7cab3847fc186f903bf314accfa1560bcba84"
 
 [[files]]
 file = "mods/morevillagers-forge-1.18.2-3.3.2.jar"
