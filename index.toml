@@ -15333,6 +15333,10 @@ file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
+file = "kubejs/assets.zip"
+hash = "d643f4b29c416005513318a88e61a5f0b061fc702541ebf4cd260a22b1b617a5"
+
+[[files]]
 file = "kubejs/assets/curios/textures/slot/shard_pouch.png"
 hash = "4279f08dfa10057c0003b7e7bd3b717a7e19c00d5375b9a87e7f8783540324a1"
 
@@ -16955,6 +16959,18 @@ hash = "0e8c5b71bb7af5ec2d7e492ae315dd619176a45a1b12c4554b2c2c4e2af689f8"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/vault_salvager.png"
 hash = "15d5ed4474ec61b02009d726360b13d0a063bf6963c7b6a17b2e43aceb36125f"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/skills/bettertools.png"
+hash = "ca0ce26392cc0445347192f50d39aa5e1c1ba6ad4dd8093cb69c6e4183ba96bf"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/skills/craftsman.png"
+hash = "ddb84a2a31ed9feaae70a4576172af279ea86e6110a115191334778d86144e3a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/skills/wisdom.png"
+hash = "30726a972f9cba6e57905a216992fff0fe687f567f192de53c2aabcbb0693e09"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/skills/zephyrs.mcmeta"
@@ -18646,7 +18662,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.15.10.jar"
-hash = "be00079920374103e0426d9f4e3b9ee36cf06da8b53feed727ca7e6a2b868c62"
+hash = "5c93345c490022a31115dd364f5b31687d93c2fa0da70f883ddaea11d11c7424"
 
 [[files]]
 file = "mods/worldborderfixer-2024.5.4.jar"
