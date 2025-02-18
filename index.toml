@@ -2330,7 +2330,7 @@ hash = "291dd18b7e1839b5a873cb8975bc8d3f982b2384204d9ab1b4307488cf65577b"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
-hash = "8072cf7e62176944d8dda12f16561f41f240961907e9f545002c0d4e9555dece"
+hash = "d183194069bbe0f426f97a01451f023052cee3d01c225fa0e2d4e4bc8fd06518"
 
 [[files]]
 file = "config/the_vault/eyesore.json"
@@ -14778,7 +14778,7 @@ hash = "dcf2d161601ba964a5524d2859c9473f9368b773d417faf7b55aa3ad0e9c30ca"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "7cf69342a5f21d97599bcc351f7e3a91c9ce38ea37fc21f32a10e681df133d9a"
+hash = "adff615586666edbb84f8a89008f4e88c04decdbee001b8e3bd9c7fced9b91ca"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
@@ -16526,11 +16526,19 @@ hash = "b436dc1804ffbb538e9e896ffe9ff5a859e207714e125de4e979637579dcc2a7"
 
 [[files]]
 file = "kubejs/assets/the_vault/lang/en_us.json"
-hash = "1696c98ccf7a8f12421ef685dd461392eeb53c2d3f6ad3569a1e263a99f5540e"
+hash = "156d5d560448ce18cc88de1f73a17db585426977429e8d371a9321bf9205ed1f"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/ancient_copper_block_1.png"
 hash = "f7b496a3c6a130a231694205d397f29be0d90ca588a26d8e9ef314de96599078"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/artifact_grayscale/vault_artifact_2.png"
+hash = "7f1674f305f230508a180c4db3640ff98afab57973983853b74e3a7b82cbf6f6"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/artifact_grayscale/vault_artifact_9.png"
+hash = "2a998f4f54dcfce1caba55917f1a49c88eab6f577b8613e59009753e9117db05"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/block_gem_alexandrite.png"
@@ -16594,7 +16602,7 @@ hash = "95918166928643869f2ae29e207abd5b2ec85dd8524045df59b8b36da90be3af"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/block_gem_iskallium.png.mcmeta"
-hash = "46a1ffb48bef008b5e95dcff62ba4c7baa4846b93b166a6f952ca27e53d34d93"
+hash = "b85efefc23a5531264d18bb62234a3fd36f8735a4aef0f2f3bb7cdd555cd8995"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/block_gem_larimar.png"
@@ -16681,6 +16689,30 @@ file = "kubejs/assets/the_vault/textures/block/mossy_bone_block_top_1.png"
 hash = "674d50d80e81e57e6f3c882877f136e904233513dfc02a5f98770bb837fdee77"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/stone/iskallium.png"
+hash = "a0919c1911af172337d113b0b3cdc827120c4e750b2686a4668929206669b737"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/stone/iskallium.png.mcmeta"
+hash = "aeb6706df185544f65ddff3f373cc2315067a9da0acc1cdde01c14cc2f41fbf2"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/vault_stone/iskallium.png"
+hash = "8ad4f6c51696947aa1ce869138501e3eb3a849f5d97c8f2ff1e6e8787402e168"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/vault_stone/iskallium.png.mcmeta"
+hash = "aeb6706df185544f65ddff3f373cc2315067a9da0acc1cdde01c14cc2f41fbf2"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/white/iskallium.png"
+hash = "fc6c042341a6c26312e784a4285d842cc1e1056cd0a332de86c70231247d373e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/white/iskallium.png.mcmeta"
+hash = "aeb6706df185544f65ddff3f373cc2315067a9da0acc1cdde01c14cc2f41fbf2"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/block/ornate_block_1.png"
 hash = "d76d2d065e3e02cb51454d98217ada8f48d31c0f82b9154331c87393163f5449"
 
@@ -16699,6 +16731,10 @@ hash = "fe6256715079efe028f3a667a8beb738ca8ff720eb731d0f61b9132cb6e03402"
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/silver_scrap_2.png"
 hash = "8e17f5053b7d0196349ff08e4bb17ac6e0b481c04fcc6aaabdb959e7725e911e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/treasure_doors/iskallium.png"
+hash = "d686ab135c2f55c133db7a3e1b947c88fe0996b098147a91599bad84b2958c0d"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/vault_artifact_2.png"
@@ -16975,6 +17011,42 @@ hash = "b0d3b0b0392671c3e77c6910fbb68062e839c6dd4ab62f05645b01ebba5d496f"
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/catalyst/prosperous_catalyst.png"
 hash = "ee13c0497974238584c68b563646b33fb955561be89b51bbaaadf4697dab32b4"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/chunk_iskallium.png"
+hash = "8a484230ddbdd8a3d760ddbe9d3fdb733b481bb8094d76639cde4b53a2d2a87c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/chunk_iskallium.png.mcmeta"
+hash = "ccae14555a2f227dbecba32c68580a73c9d151a99446445c94de41278671c7cb"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/cluster_iskallium.png"
+hash = "e1752fa4e5157a952eaf6de7b9b28250b03a7c3e3262107bf1253b2d6364a2ff"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/cluster_iskallium.png.mcmeta"
+hash = "59baece448c0c48bbbdf25dd1fcf5f985e4053e49d2beb8d8eb8e9813c0b454d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/sword/skallified_sword.png"
+hash = "d3415018f2ebf5bca560046f4ebcd5acabfa535ba9e9da7217b99c85430383f0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/wand/iskallium.png"
+hash = "9c3b37298f116b5e7a910be78118500e9df1edef1e035ae6be86593675a5c879"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gem_iskallium.png"
+hash = "fc027823be88fc615d753cb576033826e0085576c95f782d296260ad028503d0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gem_iskallium.png.mcmeta"
+hash = "a56fca95e9b14352649794acbe4f5a49e80f94992bad5a94ab8a4bfba5f8e420"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/key_iskallium.png"
+hash = "77178af77a2e8c71c3c917ed6b794df4da3f2ba7c78827a79fd4e4b222303428"
 
 [[files]]
 file = "kubejs/assets/vaultersparadise/lang/en_us.json"
@@ -18526,7 +18598,7 @@ hash = "aaac1b321e5ea6f38d766f7310ad2a7500501546b999a5b1a130f1bad1ea27e3"
 
 [[files]]
 file = "mods/vaultersparadise-1.0.0-dev.jar"
-hash = "d68cc2da9aef388e42ecfafde61df2fa947fb76a1324addfa6f036f0a7b7e55a"
+hash = "012752c79adcdbf5d213a8e9114ae2789f9698f5da8ba1cbd35396f5ed83aaff"
 
 [[files]]
 file = "mods/vaultfaster-2.2.2.jar"
@@ -18573,8 +18645,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaultsstandalone-0.15.9.jar"
-hash = "f67f7a16245a3412006c5d691b79d4828e2b6a9bc74e5e17209f97c14e43b9f9"
+file = "mods/woldsvaultsstandalone-0.15.10.jar"
+hash = "be00079920374103e0426d9f4e3b9ee36cf06da8b53feed727ca7e6a2b868c62"
 
 [[files]]
 file = "mods/worldborderfixer-2024.5.4.jar"

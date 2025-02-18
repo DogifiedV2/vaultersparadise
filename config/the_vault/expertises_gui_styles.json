@@ -1,92 +1,92 @@
 {
   "styles": {
     "Lucky_Altar": {
-      "x": 210,
-      "y": 140,
+      "x": 165,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/lucky_altar"
     },
     "Bartering": {
-      "x": 140,
-      "y": 70,
+      "x": 325,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/bartering"
     },
     "Artisan": {
-      "x": 280,
-      "y": 70,
+      "x": 555,
+      "y": 65,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/blacksmithing"
     },
     "Jeweler": {
-      "x": 350,
-      "y": 70,
+      "x": 555,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/jeweller"
     },
     "Angel": {
-      "x": 210,
-      "y": 70,
+      "x": 25,
+      "y": 215,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/angel"
     },
     "Bounty_Hunter": {
-      "x": 280,
-      "y": 140,
+      "x": 395,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/bounty_hunter"
     },
     "Marketer": {
-      "x": 350,
-      "y": 140,
+      "x": 95,
+      "y": 285,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/marketer"
     },
     "Unbreakable": {
-      "x": 70,
-      "y": 70,
+      "x": 485,
+      "y": 215,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/unbreakable"
     },
     "Divine": {
-      "x": 280,
-      "y": 0,
+      "x": 325,
+      "y": 250,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/divine"
     },
     "Trinketer": {
-      "x": 210,
-      "y": 0,
+      "x": 255,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/trinketer"
     },
     "Mystic": {
-      "x": 140,
-      "y": 0,
+      "x": 95,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/mystic"
     },
     "Infuser": {
-      "x": 70,
-      "y": 0,
+      "x": 25,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/infuser"
     },
     "Experienced": {
-      "x": 140,
-      "y": 140,
+      "x": 165,
+      "y": 215,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/experienced"
     },
     "Fortunate": {
-      "x": 70,
-      "y": 140,
+      "x": 95,
+      "y": 215,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/fortunate"
     },
     "Fortuitous_Finesse": {
-      "x": 350,
-      "y": 0,
+      "x": 625,
+      "y": -5,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/fortuitous_finesse"
     }

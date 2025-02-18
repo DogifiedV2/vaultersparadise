@@ -7,19 +7,19 @@
       "descriptionData": {
         "description": [
           {
-            "text": "Welcome to the next season of Vault Hunters!",
+            "text": "Welcome to the next season of Vaulters Paradise",
             "color": "$text"
           },
           {
-            "text": "\n\nThis modpack is still Vault Hunters 3rd Edition at it's core, but we have made many changes to the base pack.",
+            "text": "\n\nThe modpack is still centered around Vault Hunters, however many changes have been made to create our own version of it.",
             "color": "$text"
           },
           {
-            "text": "\n\nWith all the new changes to the pack, we have done our best to include ",
+            "text": "\n\nMost items regarding vault hunters now have ",
             "color": "$text"
           },
           {
-            "text": "JEI tooltips ",
+            "text": "JEI info ",
             "color": "blue"
           },
           {
@@ -31,92 +31,16 @@
             "color": "white"
           },
           {
-            "text": "where needed to help provide small tidbits of information on different things. This quest line can also serve as a place to get information as we've added new quests and made some changes to existing ones.",
+            "text": "in order to provide enough information to get you going. The quest book has also been modified, and new quests have been added.",
             "color": "$text"
           },
           {
-            "text": "\n\nBefore you start playing, make sure to set your game difficulty to suit how you want to play.  Normal is the default difficulty and if you don't want to play on normal, you can change your difficulty at anytime via command by typing ",
+            "text": "\n\nThe default difficulty on the server is Normal, but you can change this to whatever you'd like by running the following command",
             "color": "$text"
           },
           {
             "text": "\n\n/the_vault local_difficulty PlayerName difficulty",
             "color": "$manaCost"
-          },
-          {
-            "text": ".\n\nThe different difficulties from easiest to hardest are:\n",
-            "color": "$text"
-          },
-          {
-            "text": "Piece of Cake",
-            "color": "$pink"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Easy",
-            "color": "blue"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Normal",
-            "color": "$normal"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Hard",
-            "color": "yellow"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Impossible",
-            "color": "$impossible"
-          },
-          {
-            "text": ", and ",
-            "color": "$text"
-          },
-          {
-            "text": "Fragged",
-            "color": "$idona"
-          },
-          {
-            "text": ".\n\nIn addition to different difficulties, you can also select your gamemode. Vault Hunters features three game modes; Normal, Casual and Hardcore with Normal being the default gamemode. Your gamemode can be set using the /gamerule vaultMode.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nNormal",
-            "color": "$manaCost"
-          },
-          {
-            "text": " - death after level twenty causes a spirit to spawn at your spawn point, using a spirit extractor you can buy back your lost items",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCasual",
-            "color": "$manaCost"
-          },
-          {
-            "text": " - death after level twenty does not cause item loss, you just take some durability damage instead",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nHardcore",
-            "color": "$manaCost"
-          },
-          {
-            "text": " - death after level twenty causes permanent loss of items and inventory",
-            "color": "$text"
           },
           {
             "text": "\n\n/party invite playername ",
@@ -157,15 +81,15 @@
       "descriptionData": {
         "description": [
           {
-            "text": "There is an active worldborder on the server and it can be expanded with the help of two items.",
+            "text": "The world border on the server will start off small and can be expanded using a ",
             "color": "$text"
           },
           {
-            "text": "\n\nPower Crystal",
+            "text": "Power Crystal",
             "color": "light_purple"
           },
           {
-            "text": ":\nPower Crystals are found commonly in ",
+            "text": ":\n\nPower Crystals are found commly in ",
             "color": "$text"
           },
           {
@@ -181,7 +105,7 @@
             "color": "$wooden"
           },
           {
-            "text": " and are to be submitted to the ",
+            "text": ". Submit these crystals at the",
             "color": "$text"
           },
           {
@@ -189,7 +113,7 @@
             "color": "aqua"
           },
           {
-            "text": "at spawn. Upon submission the border will be expanded 1 block per crystal (2 diameter).",
+            "text": "near spawn. Each crystal will expand the border by one block.",
             "color": "$text"
           },
           {
@@ -197,27 +121,19 @@
             "color": "red"
           },
           {
-            "text": ": You can also submit these crystals stacks at a time",
+            "text": ": Right click the ",
             "color": "$text"
           },
           {
-            "text": "\n\nGlobe Expander",
+            "text": "Globe Expander",
             "color": "aqua"
           },
           {
-            "text": ":\nThe Globe Expander will sit at spawn and accept ",
+            "text": " with your bare hand to see the current world border.",
             "color": "$text"
           },
           {
-            "text": "Power Crystals",
-            "color": "light_purple"
-          },
-          {
-            "text": ". If you are curious about the current size of the world border, you can right click on the block with an empty hand.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nSubmit a Power Gem to the Globe Expander",
+            "text": "\n\nSubmit a Power Crystal at the Globe Expander",
             "color": "$heal"
           }
         ]
@@ -243,7 +159,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "As you explore the world, you will notice naturally spawning portal frames. Every now and then, these portals will become active and a message will appear in chat that looks like the following: ",
+            "text": "Throughout the world, there are new portal frames, similar to ruined portals but for vaults! Randomly, the portals will become active and display their coordinates in chat. ",
             "color": "$text"
           },
           {
@@ -251,22 +167,17 @@
             "color": "light_purple"
           },
           {
-            "text": "a Dimension ",
+            "text": "(dimension) ",
             "color": "yellow"
           },
           {
-            "text": "at 1XX XX 3XX",
+            "text": "at 4XX XX 1XX",
             "color": "light_purple"
           },
           {
-            "text": ".\n\nThese portals can appear in all 3 main Minecraft dimensions, but the coordinates in the message will be partially hidden giving you only hints to it's location!\n\nOnce you have found the portal, you can enter to experience one of many different vault types each with their own sets of modifiers.",
+            "text": ".\n\nAlthough the coordinates are hidden, using a Vault Compass will point to the nearest active portal!",
             "color": "$text"
           },
-          {
-            "text": "\n\nOh and by the way...sometimes if a portal is open for too long....mobs and even bosses may leak from the portal. Surely this isn't that big of an issue....right?",
-            "color": "$text"
-          },
-
           {
             "text": "\n\n",
             "color": "$qhighlight"
@@ -274,67 +185,6 @@
         ]
       },
       "icon": "the_vault:gui/quests/raw_vault",
-      "targetId": "the_vault:100",
-      "targetProgress": 1.0,
-      "unlockedBy": "welcome_quest",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_silver"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "checkmark",
-      "id": "woldsvaults",
-      "name": "Wolds Vaults",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "One of the mods that we have added is ",
-            "color": "$text"
-          },
-          {
-            "text": "Wolds Vaults",
-            "color": "$white"
-          },
-          {
-            "text": ". This mod is an addon to Vault Hunters made by the man, the myth, the legend ",
-            "color": "$text"
-          },
-          {
-            "text": "iwolfking ",
-            "color": "dark_purple"
-          },
-          {
-            "text": "himself.\n\nThis mod adds new vault gear, vault objectives, vault crafting ingredients, loot boxes, and much more.",
-            "color": "$text"
-          },
-          {
-            "text": ".\n\nWe've added both ",
-            "color": "$text"
-          },
-          {
-            "text": "JEI Tooltips ",
-            "color": "blue"
-          },
-          {
-            "text": "and ",
-            "color": "$text"
-          },
-          {
-            "text": "item Tooltips ",
-            "color": "white"
-          },
-          {
-            "text": "to help provide information on all the new things.",
-            "color": "$text"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/wolds",
       "targetId": "the_vault:100",
       "targetProgress": 1.0,
       "unlockedBy": "welcome_quest",
@@ -907,7 +757,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "Unlike normal Vault Hunters, coin pouches exist. Like the name says, the coin pouch can store a mass amount of coins. This pouch acts as a compacting drawer and automatically converts platinum to bronze and visa versa.",
+            "text": "In this pack, vault coin pouches exist. This pouch will store your vault currency and can automatically convert silver to gold and such, and can be used in tables.",
             "color": "$text"
           },
           {
@@ -919,7 +769,7 @@
             "color": "$soulchance"
           },
           {
-            "text": "added if desired.",
+            "text": "added.",
             "color": "$text"
           },
           {
@@ -1216,34 +1066,6 @@
             "color": "$text"
           },
           {
-            "text": "\n\nEach jewel is given a ",
-            "color": "$text"
-          },
-          {
-            "text": "size",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " which can roll from ",
-            "color": "$text"
-          },
-          {
-            "text": "10-35",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " and this decides how much of the ",
-            "color": "$text"
-          },
-          {
-            "text": "capacity",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " of your Tool will be used up.",
-            "color": "$text"
-          },
-          {
             "text": "\n\nAcquire a Jewel Applicator",
             "color": "$heal"
           }
@@ -1301,137 +1123,6 @@
         "vaultExp": 0
       }
     },
-    {
-      "type": "collection",
-      "id": "obtain_vault_trident",
-      "name": "Vault Trident",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The Vault trident is a new piece of vault gear that is similar to vanilla tridents but instead of enchanting to obtain ",
-            "color": "$text"
-          },
-          {
-            "text": "Loyalty",
-            "color": "dark_aqua"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Riptide",
-            "color": "dark_red"
-          },
-          {
-            "text": ", or ",
-            "color": "$text"
-          },
-          {
-            "text": "Channeling",
-            "color": "red"
-          },
-          {
-            "text": ", they will roll as implicits instead.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Loyalty",
-            "color": "dark_aqua"
-          },
-          {
-            "text": " and ",
-            "color": "$text"
-          },
-          {
-            "text": "Riptide",
-            "color": "dark_red"
-          },
-          {
-            "text": " are mutually exclusive and cannot roll alongside one another, but ",
-            "color": "$text"
-          },
-          {
-            "text": "Channeling ",
-            "color": "red"
-          },
-          {
-            "text": "can roll alongside either of the two.\n\nKeep in mind that vault tridents may be used as a melee weapon, but will do twice the damage when thrown.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Channeling ",
-            "color": "red"
-          },
-          {
-            "text": "works a little different than it's vanilla counterpart. You will need the ",
-            "color": "$text"
-          },
-          {
-            "text": "% Channeling Chance Modifier ",
-            "color": "light_purple"
-          },
-          {
-            "text": "on the trident to gain a chance of triggering the effect.  When successful, lightning will strike with a chance to proc any effect clouds and do twice the damage of a thrown trident to those hit with the bolt.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nObtain a Unidentified Vault Trident",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/trident",
-      "targetId": "the_vault:trident",
-      "targetProgress": 1.0,
-      "unlockedBy": "enter_vault",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "obtain_vault_battlestaff",
-      "name": "Vault Battlestaff",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The Vault Battlestaff is a new piece of vault gear that is also used in the main hand. Vault Battlestaffs can roll many implicits and are the best when it comes to raw base ",
-            "color": "$text"
-          },
-          {
-            "text": "Attack Speed",
-            "color": "$speed"
-          },
-          {
-            "text": ".\n\nUnfortunately because of this high rate of attack, battlestaffs will do a bit less damage than a normal Vault Sword.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nObtain a Unidentified Vault Battlestaff",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/battlestaff",
-      "targetId": "the_vault:battlestaff",
-      "targetProgress": 1.0,
-      "unlockedBy": "enter_vault",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-
     {
       "type": "level_up",
       "id": "level_five",
@@ -1559,107 +1250,6 @@
           {
             "item": "the_vault:wild_focus",
             "amount": 8
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "modify_gear",
-      "id": "wild_focus",
-      "name": "Rerolling Gear - Chapter 1",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Rerolling and modifying gear is a very important part of Vault Hunters and it all starts with placing ",
-            "color": "$text"
-          },
-          {
-            "text": "Vault Bronze",
-            "color": "$gilded"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Vault Plating",
-            "color": "white"
-          },
-          {
-            "text": ", and a ",
-            "color": "$text"
-          },
-          {
-            "text": "Foci ",
-            "color": "$highlight"
-          },
-          {
-            "text": "into an Artisan Station.\n\nThere are many foci that you will obtain throughout your playthrough and they will be introduced accordingly, but the three main and 1 additional ",
-            "color": "$text"
-          },
-          {
-            "text": "foci ",
-            "color": "$highlight"
-          },
-          {
-            "text": "that are important are the following."
-          },
-          {
-            "text": "\n\nWild Focus",
-            "color": "gold"
-          },
-          {
-            "text": ": This focus will re-roll all prefixes and suffixes.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nAmplifying Focus",
-            "color": "dark_purple"
-          },
-          {
-            "text": ": This focus will randomly add a prefix or suffix to an empty slot.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nNullifying Focus",
-            "color": "light_purple"
-          },
-          {
-            "text": ": This focus will randomly remove a prefix or suffix.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nFaceted Focus",
-            "color": "blue"
-          },
-          {
-            "text": ": This focus will ensure you get a specific modifier while re-rolling all prefixes and suffixes.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nClicking the Reforge button next to the desired focus will apply new modifiers onto your gear/weapon. This is the starting steps to creating gear fit for your build style",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nReroll a Gear Piece with a Wild Focus",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/reroll",
-      "targetId": "the_vault:reforge_all",
-      "targetProgress": 1.0,
-      "unlockedBy": "artisan_table",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_plating",
-            "amount": 12
-          },
-          {
-            "item": "the_vault:vault_bronze",
-            "amount": 32
           }
         ],
         "vaultExp": 0
