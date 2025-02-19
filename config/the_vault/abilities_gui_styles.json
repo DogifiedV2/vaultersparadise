@@ -82,7 +82,7 @@
        
     "Mana_Shield": {
       "x": 380,
-      "y": 54,
+      "y": 62,
       "specializationStyles": {
         "Mana_Shield_Base": {
           "icon": "the_vault:gui/abilities/mana_shield"
