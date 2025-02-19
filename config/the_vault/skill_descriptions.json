@@ -12779,22 +12779,32 @@
         "text": " to not apply a negative modifier.\n\n1 "
       },
       {
-        "text": "20%",
+        "text": "15%",
         "color": "#FFEB07"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "40%",
+        "text": "30%",
         "color": "#FFEB07"
       },
       {
         "text": "\n3 "
       },
       {
+        "text": "45%",
+        "color": "#FFEB07"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
         "text": "60%",
         "color": "#FFEB07"
+      },
+      {
+        "text": "\n\nMore coming soon.."
       }
     ],
     "Mystic": [
@@ -12825,6 +12835,9 @@
       {
         "text": "+30",
         "color": "#FFEB07"
+      },
+      {
+        "text": "\n\nMore coming soon.."
       }
     ],
     "Trinketer": [
@@ -12869,22 +12882,25 @@
         "text": " to not consume crafting potential when reforging gear in the Artisan Station.\n\n1 "
       },
       {
-        "text": "20%",
+        "text": "15%",
         "color": "#FFEB07"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "40%",
+        "text": "30%",
         "color": "#FFEB07"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "60%",
+        "text": "50%",
         "color": "#FFEB07"
+      },
+      {
+        "text": "\n\nMore coming soon.."
       }
     ],
     "Experienced": [
@@ -12929,33 +12945,25 @@
         "text": " to have the altar roll Lucky when crafting a crystal, making the crystal completely free.\n\n1 "
       },
       {
-        "text": "20%",
+        "text": "15%",
         "color": "#FFEB07"
       },
       {
         "text": "\n2 "
       },
       {
-        "text": "40%",
+        "text": "30%",
         "color": "#FFEB07"
       },
       {
         "text": "\n3 "
       },
       {
-        "text": "60%",
+        "text": "50%",
         "color": "#FFEB07"
       },
       {
-        "text": "\n4 "
-      },
-      {
-        "text": "80%",
-        "color": "#FFEB07"
-      },
-      {
-        "text": " Requires Prestige 1!",
-        "color": "#D9FF00"
+        "text": "\n\nMore coming soon.."
       }
     ],
     "Blight": [
@@ -13424,7 +13432,7 @@
         "text": "\n3 "
       },
       {
-        "text": "45%",
+        "text": "50%",
         "color": "yellow"
       }
     ],
@@ -13448,6 +13456,13 @@
       },
       {
         "text": "+2",
+        "color": "#8BD0C9"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+3",
         "color": "#8BD0C9"
       }
     ],
@@ -14901,6 +14916,20 @@
       {
         "text": "+2",
         "color": "green"
+      },
+      {
+        "text": "\n3 "
+      },
+      {
+        "text": "+3",
+        "color": "green"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+4",
+        "color": "green"
       }
     ],
     "Haste": [
@@ -15217,6 +15246,23 @@
       {
         "text": "+30%",
         "color": "#B2F44B"
+      },
+      {
+        "text": "\n4 "
+      },
+      {
+        "text": "+340%",
+        "color": "#B2F44B"
+      },
+      {
+        "text": "\n5 "
+      },
+      {
+        "text": "+50%",
+        "color": "#B2F44B"
+      },
+      {
+        "text": "This category looks empty .. but that will change. "
       }
     ],
     "Vault Rings": [
@@ -15336,49 +15382,14 @@
         "text": " and gain the ability to "
       },
       {
-        "text": "re-roll the offers",
+        "text": "purchase from 3 additional slots",
         "color": "#FFEB07"
       },
       {
-        "text": " during its cycle.\n\n1 "
+        "text": "\n\n1 "
       },
       {
-        "text": "1 re-roll",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n2 "
-      },
-      {
-        "text": "2 re-rolls",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n3 "
-      },
-      {
-        "text": "3 re-rolls",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n4 "
-      },
-      {
-        "text": "4 re-rolls",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n5 "
-      },
-      {
-        "text": "5 re-rolls",
-        "color": "#FFEB07"
-      },
-      {
-        "text": "\n6 "
-      },
-      {
-        "text": "6 re-rolls",
+        "text": "Unlocks the 3 additional slots",
         "color": "#FFEB07"
       }
     ],

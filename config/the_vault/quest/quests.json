@@ -89,7 +89,7 @@
             "color": "light_purple"
           },
           {
-            "text": ":\n\nPower Crystals are found commly in ",
+            "text": ":\n\nPower Crystals are found in ",
             "color": "$text"
           },
           {
@@ -97,7 +97,7 @@
             "color": "white"
           },
           {
-            "text": "and uncommonly in ",
+            "text": "and in ",
             "color": "$text"
           },
           {
@@ -105,7 +105,7 @@
             "color": "$wooden"
           },
           {
-            "text": ". Submit these crystals at the",
+            "text": ". Take these crystals to the ",
             "color": "$text"
           },
           {
@@ -117,11 +117,7 @@
             "color": "$text"
           },
           {
-            "text": "\n\nNote",
-            "color": "red"
-          },
-          {
-            "text": ": Right click the ",
+            "text": ":Right click the ",
             "color": "$text"
           },
           {
@@ -773,6 +769,10 @@
             "color": "$text"
           },
           {
+            "text": "\n\nThis is a different pouch than the wallet used for the currency system.",
+            "color": "$heal"
+          },
+          {
             "text": "\n\nCraft a Coin Pouch",
             "color": "$heal"
           }
@@ -791,6 +791,43 @@
         "vaultExp": 0
       }
     },
+    {
+      "type": "checkmark",
+      "id": "lightmans_currency",
+      "name": "Lightmans Currency",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "For most shop purposes this season, we will be using ",
+            "color": "$text"
+          },
+          {
+            "text": "Lightmans Currency",
+            "color": "#9664FD"
+          },
+          {
+            "text": ".\n\nThis mod allows the use of buying and selling items through physical and virtual means, such as vending machines.\n\nFor more information on how to use this mod, please check the guide on Discord."
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/lightmanscurrency",
+      "targetId": "the_vault:any",
+      "targetProgress": 1.0,
+      "unlockedBy": "welcome_quest",
+      "reward": {
+        "items": [
+          {
+            "item": "lightmanscurrency:copper_wallet",
+            "amount": 1
+          },
+          {
+            "item": "lightmanscurrency:atm",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      }
+    },    
     {
       "type": "collection",
       "id": "complete_bounty",

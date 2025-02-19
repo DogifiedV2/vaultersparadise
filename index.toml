@@ -2326,7 +2326,7 @@ hash = "d005294e57ace5c44b96ac6238d7d0096ee1804c197437b94f61c330181cc046"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "291dd18b7e1839b5a873cb8975bc8d3f982b2384204d9ab1b4307488cf65577b"
+hash = "d0ce60b939a3c1862cc7a0ec99fb5de5cd767b29620a26aabd87024cfec9a739"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
@@ -14778,7 +14778,7 @@ hash = "dcf2d161601ba964a5524d2859c9473f9368b773d417faf7b55aa3ad0e9c30ca"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "adff615586666edbb84f8a89008f4e88c04decdbee001b8e3bd9c7fced9b91ca"
+hash = "427c60a33d5325385e35992727ad35ef520b2797e8322f0dc8a6cf415b76d707"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
@@ -14862,7 +14862,7 @@ hash = "12cd6b8f26cc38f5bf6bcf9205755c6a13cad8b4f5e2aea2216f51b3f801af5c"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "3a1889dfc176481093f6f34f27d0cbce92434e1e97d34435f8d768f10e9278c6"
+hash = "38d758fef0e8dbcf5a5bde6195c4c05ef13d407e838141d88c240225e366f05a"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -14898,7 +14898,7 @@ hash = "0ab5a4de706f95212c1d273851e23245b2dcb4c1e63e808bc5335a22579ab04a"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "b45bed1989f2b33647feb52df9588e0935968f88b40aecf6bf07176a16b45798"
+hash = "f62fc286337ed076bbffc76dbfdbf9f6bad115e6281d7718d7bde3b71bd2cb30"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
@@ -14926,7 +14926,7 @@ hash = "0ff91556602b68d3b308d0d8023218da4a856897dee1c42053f0be86d30e79f8"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "0a710a8cb7c420f6a07eb82223faaac494a8ade3fa8c09e2b5ac624b362685a1"
+hash = "f9c7c14485d00677b3c096b8f83aa1c48613ba8603d9c01f411790b2c95c8a90"
 
 [[files]]
 file = "config/the_vault/tooltip_config.json"
@@ -15331,10 +15331,6 @@ hash = "251f0ef1974ff96a59f79aabe721ff5954ae823f907375b652021ffbf05d0cd3"
 [[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
-
-[[files]]
-file = "kubejs/assets.zip"
-hash = "d643f4b29c416005513318a88e61a5f0b061fc702541ebf4cd260a22b1b617a5"
 
 [[files]]
 file = "kubejs/assets/curios/textures/slot/shard_pouch.png"
@@ -16883,6 +16879,10 @@ hash = "1acfb81cd8d8b345a00da3789a6c8ad33bd1248875f6a44bb46276456a37fc23"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/quests/level90.png"
 hash = "30cc1901c311298d1ddd595219508f5fe986243a2bd022f5c99279eec9002656"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/lightmanscurrency.png"
+hash = "b786c235c2d4ffc331c1fdc8aec7a692df2213c75a75637916ecb116ba0d0ef3"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/quests/loot_sack.png"
@@ -18577,16 +18577,16 @@ file = "mods/twigs-1.1.4-patch4+1.18.2-forge.jar"
 hash = "20b9ca87e9a9ffbef0e89239c3dc22db0812362bcf9f6d34d2516346f5dceb8f"
 
 [[files]]
-file = "mods/unobtainium-1.8.1.jar"
-hash = "be4d08486dae6dc2a7fe2277ae8bdf836df62b65ace2ba58abbc0851ce5e37aa"
+file = "mods/unobtainium-1.10.2.jar"
+hash = "3483dc588fe218f61367e79d05c60a344dc2739953429e4392f137959e3dd729"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.4.jar"
 hash = "8b36021b0159e475649fdeaefc94ddfb76149cd07129077b14936f89763149fd"
 
 [[files]]
-file = "mods/vault_gui_upgrade-1.0.jar"
-hash = "01bf3899fcefa26381ffe26b07d888844c0fd4bbbebdad6c44f617009c23f3ce"
+file = "mods/vault_gui_upgrade-1.1.jar"
+hash = "000173cfb67ed4891441f40b670898d74382b363207b080f917c4a4ecb87784c"
 
 [[files]]
 file = "mods/vault_hunters_better_junk_controller-1.2.1.jar"
@@ -18601,8 +18601,8 @@ file = "mods/vault_hunters_sync_server_config-1.0.0.jar"
 hash = "50ffd627d5f0fb72754c518888712cccd158de89e6a0eb19bb1ab79f7b306e72"
 
 [[files]]
-file = "mods/vaultadditions-1.13.2.jar"
-hash = "09fc11a376accc2c04069a6c393902c8e20b79d4f3dbe7667eff2e257f9ea1f1"
+file = "mods/vaultadditions-1.14.0.jar"
+hash = "d8b6542ff3ea29009cc346e8d5e2749b4a77201b9726a40164bc752497919d2f"
 
 [[files]]
 file = "mods/vaultcoinpouch-1.6.2.jar"
@@ -18614,7 +18614,7 @@ hash = "aaac1b321e5ea6f38d766f7310ad2a7500501546b999a5b1a130f1bad1ea27e3"
 
 [[files]]
 file = "mods/vaultersparadise-1.0.0-dev.jar"
-hash = "8e7724b85795ce31cd7f5361d7567a8f3afb9d06d99e2eec76cc561d2dfd3614"
+hash = "d433bf91cc174e94857eec5b6ba318263f80a6a7a1daa70b37eaca1443eacd17"
 
 [[files]]
 file = "mods/vaultfaster-2.2.2.jar"
