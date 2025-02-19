@@ -1,8 +1,8 @@
 {
   "styles": {
     "Stonefall": {
-      "x": 532,
-      "y": 12,
+      "x": 380,
+      "y": 72,
       "specializationStyles": {
         "Stonefall_Base": {
           "icon": "the_vault:gui/abilities/stonefall"
@@ -16,19 +16,16 @@
       }
     },
     "Hunter": {
-      "x": 418,
-      "y": 12,
+      "x": 380,
+      "y": 24,
       "specializationStyles": {
         "Hunter_Base": {
           "icon": "the_vault:gui/abilities/hunter"
-        },
-        "Javelin_Sight": {
-          "icon": "the_vault:gui/abilities/hunter_wooden"
         }
       }
     },
     "Ghost_Walk": {
-      "x": 114,
+      "x": 260,
       "y": 12,
       "specializationStyles": {
         "Ghost_Walk_Base": {
@@ -40,8 +37,8 @@
       }
     },
     "Taunt": {
-      "x": 494,
-      "y": 12,
+      "x": 300,
+      "y": -100,
       "specializationStyles": {
         "Taunt_Base": {
           "icon": "the_vault:gui/abilities/taunt"
@@ -55,7 +52,7 @@
       }
     },
     "Mega_Jump": {
-      "x": 190,
+      "x": 500,
       "y": 12,
       "specializationStyles": {
         "Mega_Jump_Base": {
@@ -68,8 +65,8 @@
     },
 
     "Nova": {
-      "x": 0,
-      "y": 12,
+      "x": 300,
+      "y": 112,
       "specializationStyles": {
         "Nova_Base": {
           "icon": "the_vault:gui/abilities/nova"
@@ -82,12 +79,10 @@
         }
       }
     },
-    
-
-
+       
     "Mana_Shield": {
-      "x": 570,
-      "y": 12,
+      "x": 420,
+      "y": -100,
       "specializationStyles": {
         "Mana_Shield_Base": {
           "icon": "the_vault:gui/abilities/mana_shield"
@@ -96,8 +91,8 @@
       }
     },
     "Implode": {
-      "x": 798,
-      "y": 12,
+      "x": 580,
+      "y": 112,
       "specializationStyles": {
         "Mana_Shield_Implode": {
           "icon": "the_vault:gui/abilities/implode"
@@ -106,8 +101,8 @@
       }
     },
     "Retribution": {
-      "x": 836,
-      "y": 12,
+      "x": 540,
+      "y": 112,
       "specializationStyles": {
         "Shield_Bash": {
           "icon": "the_vault:gui/abilities/retribution"
@@ -118,8 +113,10 @@
         
       }
     },
+    
+    
     "Heal": {
-      "x": 304,
+      "x": 340,
       "y": 12,
       "specializationStyles": {
         "Heal_Base": {
@@ -134,7 +131,7 @@
       }
     },
     "Vein_Miner": {
-      "x": 38,
+      "x": 300,
       "y": 12,
       "specializationStyles": {
         "Vein_Miner_Base": {
@@ -149,7 +146,7 @@
       }
     },
     "Empower": {
-      "x": 342,
+      "x": 460,
       "y": 12,
       "specializationStyles": {
         "Empower_Base": {
@@ -164,7 +161,7 @@
       }
     },
     "Dash": {
-      "x": 152,
+      "x": 420,
       "y": 12,
       "specializationStyles": {
         "Dash_Base": {
@@ -179,8 +176,8 @@
       }
     },
     "Totem": {
-      "x": 266,
-      "y": 12,
+      "x": 380,
+      "y": -100,
       "specializationStyles": {
         "Totem_Base": {
           "icon": "the_vault:gui/abilities/totem"
@@ -197,8 +194,8 @@
       }
     },
     "Rampage": {
-      "x": 76,
-      "y": 12,
+      "x": 460,
+      "y": 112,
       "specializationStyles": {
         "Rampage_Base": {
           "icon": "the_vault:gui/abilities/rampage"
@@ -212,8 +209,8 @@
       }
     },
     "Farmer": {
-      "x": 684,
-      "y": 12,
+      "x": 500,
+      "y": -100,
       "specializationStyles": {
         "Farmer_Base": {
           "icon": "the_vault:gui/abilities/farmer"
@@ -230,8 +227,8 @@
       }
     },
     "Javelin": {
-      "x": 380,
-      "y": 12,
+      "x": 420,
+      "y": 112,
       "specializationStyles": {
         "Javelin_Base": {
           "icon": "the_vault:gui/abilities/javelin"
@@ -241,13 +238,15 @@
         },
         "Javelin_Scatter": {
           "icon": "the_vault:gui/abilities/javelin_scatter"
+        },
+        "Javelin_Sight": {
+          "icon": "the_vault:gui/abilities/javelin_sight"
         }
-        
       }
     },
     "Smite": {
-      "x": 456,
-      "y": 12,
+      "x": 220,
+      "y": 112,
       "specializationStyles": {
         "Smite_Base": {
           "icon": "the_vault:gui/abilities/smite_hand2"
@@ -258,8 +257,8 @@
       }
     },
     "Shell": {
-      "x": 228,
-      "y": 12,
+      "x": 500,
+      "y": 112,
       "specializationStyles": {
         "Shell_Base": {
           "icon": "the_vault:gui/abilities/shell"
@@ -273,8 +272,8 @@
       }
     },
     "Fireball": {
-      "x": 722,
-      "y": 12,
+      "x": 340,
+      "y": 112,
       "specializationStyles": {
         "Fireball_Base": {
           "icon": "the_vault:gui/abilities/fireball"
@@ -288,8 +287,8 @@
       }
     },
     "Storm_Arrow": {
-      "x": 646,
-      "y": 12,
+      "x": 180,
+      "y": 112,
       "specializationStyles": {
         "Storm_Arrow_Base": {
           "icon": "the_vault:gui/abilities/thunderstorm"
@@ -300,8 +299,8 @@
       }
     },
     "Ice_Bolt": {
-      "x": 760,
-      "y": 12,
+      "x": 260,
+      "y": 112,
       "specializationStyles": {
         "Ice_Bolt_Base": {
           "icon": "the_vault:gui/abilities/ice_bolt"
@@ -312,8 +311,8 @@
       }
     },
     "Battle_Cry": {
-      "x": 608,
-      "y": 12,
+      "x": 340,
+      "y": -100,
       "specializationStyles": {
         "Battle_Cry_Base": {
           "icon": "the_vault:gui/abilities/battle_cry"

@@ -3,7 +3,7 @@
     {
       "type": "checkmark",
       "id": "welcome_quest",
-      "name": "Vault Hunters Introduction",
+      "name": "Vaulters Paradise Introduction",
       "descriptionData": {
         "description": [
           {
@@ -208,7 +208,7 @@
             "color": "$qhighlight"
           },
           {
-            "text": " of Vault Hunters, ",
+            "text": " of Vaulters Paradise, ",
             "color": "$text"
           },
           {
@@ -416,7 +416,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "Before you get in to your first vault, we want to inform you about a few important parts of Vault Hunters. Vault Hunters has an in-depth Ability and Talent system that you will utilise to make your Vault experience much more enjoyable.\n\nAbilities typically focus on giving you powerful active skills that significantly change how you play the game; ranging from damaging abilities like Nova or Rampage, healing abilities like Heal and Totem and survivability abilities such as Dash and Ghost Walk.\n\nTalents provide the player with passive buffs. There is a wide variety of Talents to check out, each built to level up specific aspects of your experience.\n\nCheck the Vault UI by pressing 'H' by default and click on the second and third tabs at the top to view Abilities and Talents respectively.\n\nYour reward for this quest is ",
+            "text": "Before you get in to your first vault, we want to inform you about a few important parts of Vaulters Paradise. Vaulters Paradise has an in-depth Ability and Talent system that you will utilise to make your Vault experience much more enjoyable.\n\nAbilities typically focus on giving you powerful active skills that significantly change how you play the game; ranging from damaging abilities like Nova or Rampage, healing abilities like Heal and Totem and survivability abilities such as Dash and Ghost Walk.\n\nTalents provide the player with passive buffs. There is a wide variety of Talents to check out, each built to level up specific aspects of your experience.\n\nCheck the Vault UI by pressing 'H' by default and click on the second and third tabs at the top to view Abilities and Talents respectively.\n\nYour reward for this quest is ",
             "color": "$text"
           },
           {
@@ -459,7 +459,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "In Vault Hunters, Enchantments are a bit different than in Vanilla Minecraft. Protection and Offensive enchantments have been disabled, in order to allow higher scaling of defensive and offensive attributes down the line. There are however some enchantments that work both on vanilla tools and gear, as well as vault tools and gear.",
+            "text": "Enchantments are a bit different than in Vanilla Minecraft. Protection and Offensive enchantments have been disabled, in order to allow higher scaling of defensive and offensive attributes down the line. There are however some enchantments that work both on vanilla tools and gear, as well as vault tools and gear.",
             "color": "$text"
           },
           {
@@ -1445,7 +1445,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "It can be rather stressful to make decisions when it comes to which abilities and what talents to take throughout your playthrough, but, don't stress!\n\nVault Hunters have a mechanic for regretting your decisions using ",
+            "text": "It can be rather stressful to make decisions when it comes to which abilities and what talents to take throughout your playthrough, but, don't stress!\n\nVaulters Paradise has a mechanic for regretting your decisions using ",
             "color": "$text"
           },
           {
@@ -1646,7 +1646,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "Obtaining and using Knowledge Stars is one of the key aspects to the Vault Hunters progression as it is the key component to unlocking new mods. Pressing the 'H' Key and selecting the Researches tab at the top will show you all the stuff you can unlock. Note that purchasing some of these will increase the price of subsequent unlocks within that group of unlocks.\n\nYour reward for this quest is a Mod Box! When used, the Mod Box awards a random item from your unlocked mods",
+            "text": "Obtaining and using Knowledge Stars is one of the key aspects to the Vaulters Paradise progression as it is the key component to unlocking new mods. Pressing the 'H' Key and selecting the Researches tab at the top will show you all the stuff you can unlock. Note that purchasing some of these will increase the price of subsequent unlocks within that group of unlocks.\n\nYour reward for this quest is a Mod Box! When used, the Mod Box awards a random item from your unlocked mods",
             "color": "$text"
           },
           {
@@ -1676,7 +1676,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "Reaching level 20 marks the end of the tutorial stage of Vault Hunters!\n\n",
+            "text": "Reaching level 20 marks the end of the tutorial stage of Vaulters Paradise!\n\n",
             "color": "$text"
           },
           {
@@ -2530,7 +2530,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "The world of Vault Hunters also hosts mystical ",
+            "text": "The world of Vaulters Paradise also hosts mystical ",
             "color": "$text"
           },
           {
@@ -3161,7 +3161,7 @@
             "color": "$text"
           },
           {
-            "text": "CANNOT ",
+            "text": "cant ",
             "color": "dark_red"
           },
           {
@@ -3177,14 +3177,6 @@
             "color": "$text"
           },
           {
-            "text": "\n\nNote",
-            "color": "red"
-          },
-          {
-            "text": ": Early on, a small chest will work just fine, but as dolls become more and more stacked with loot, you may need to switch to a bigger storage solution.",
-            "color": "$text"
-          },
-          {
             "text": "\n\nCraft a Doll Juicer",
             "color": "$heal"
           }
@@ -3192,63 +3184,6 @@
       },
       "icon": "the_vault:gui/quests/doll_juicer",
       "targetId": "morevaulttables:doll_dismantling_block",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "obtain_jewel_pouch_id_table",
-      "name": "Jewel Pouch ID Table",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The Jewel Pouch ID Table is a new block that will allow users to quickly open up jewel pouches. Once you click into the block, the interface is split into 3 sections.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nMiddle",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ": The middle is the selection area. Jewel pouches will be automatically moved here from the left side when empty. This is where decisions on which jewel you want will be made.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nLeft Side",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ": The left side is where additionally placed/shift clicked unopened jewel pouches will go if the selection area is occupied.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nRight Side",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ": The right side is where jewels end up after a selection is made.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nWith this new station, the handling of jewel pouches can be faster and less overwhelming while also assisting with the de-looting process of vaults.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCraft A Jewel Pouch ID Table",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/jewel_id",
-      "targetId": "morevaulttables:jewel_sack_opener_block",
       "targetProgress": 1.0,
       "unlockedBy": "reach_level_20",
       "reward": {
@@ -3275,11 +3210,7 @@
             "color": "$text"
           },
           {
-            "text": "\n\nNote",
-            "color": "red"
-          },
-          {
-            "text": ": The Jewel Purposer will keep its inventory when broken.",
+            "text": ":\n\nThe Jewel Purposer will keep its inventory when broken.",
             "color": "$text"
           },
           {
@@ -3343,68 +3274,6 @@
           {
             "item": "minecraft:bamboo",
             "amount": 12
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "checkmark",
-      "id": "tier_2_focus",
-      "name": "Rerolling Gear - Chapter 2",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Now that you've reached level 40, a couple more ",
-            "color": "$text"
-          },
-          {
-            "text": "foci ",
-            "color": "$highlight"
-          },
-          {
-            "text": "are available that you can use to modify gear. ",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nFundamental Focus",
-            "color": "green"
-          },
-          {
-            "text": ": This focus will re-roll gear implicits.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nResilient Focus",
-            "color": "blue"
-          },
-          {
-            "text": ": This focus will re-roll the total repair slots of a gear piece.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nOpportunistic Focus",
-            "color": "yellow"
-          },
-          {
-            "text": ": This focus will reset the crafting potential of a gear piece.",
-            "color": "$text"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/reroll",
-      "targetId": "the_vault:reforge_all",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_40",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_plating",
-            "amount": 12
-          },
-          {
-            "item": "the_vault:vault_silver",
-            "amount": 16
           }
         ],
         "vaultExp": 0
@@ -3563,303 +3432,6 @@
         "items": [
           {
             "item": "the_vault:gem_pog"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "craft_zealot_seal",
-      "name": "Seal of the Zealot",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "With the God's now noticing you, a new vault objective is available.\n\nApplying a Seal of the ",
-            "color": "$text"
-          },
-          {
-            "text": "Zealot ",
-            "color": "green"
-          },
-          {
-            "text": "to a crystal will change the objective of the vault to ",
-            "color": "$text"
-          },
-          {
-            "text": "Zealot ",
-            "color": "green"
-          },
-          {
-            "text": ".\n\nTo complete this objective, you will need to finish a certain amount of gold altars before exiting the vault.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nThis objective is very straight forward and can even be an alternative vault objective when reputation running (rep running).",
-            "color": "$text"
-          },
-
-          {
-            "text": "\n\nCraft a Seal of the Zealot",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/crystal_seal_zealot",
-      "targetId": "woldsvaults:crystal_seal_zealot",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_40",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "divine_paradox_seal",
-      "name": "Architect's Vault Rock",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Now that you know a bit about the gods and understand their altars, it's time to let you know about the ",
-            "color": "$text"
-          },
-          {
-            "text": "Divine Paradox",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "!\n\nThe ",
-            "color": "$text"
-          },
-          {
-            "text": "Divine Paradox",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " is a vault designed completely by you! It can be revisited once every day, and can be ",
-            "color": "$text"
-          },
-          {
-            "text": "customized",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " to fully suit your needs.\n\nIn order to get started, you will need a ",
-            "color": "$text"
-          },
-          {
-            "text": "Architect's Vault Rock",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " which you can place on a vault altar to create a ",
-            "color": "$text"
-          },
-          {
-            "text": "Divine Paradox Architect Crystal",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", letting you buy rooms for ",
-            "color": "$text"
-          },
-          {
-            "text": "vault gold",
-            "color": "$gold"
-          },
-          {
-            "text": " to extend your vault.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nEach room is associated with a god, and will require you to have the sufficient ",
-            "color": "$text"
-          },
-          {
-            "text": "reputation",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " with that god to build. Every time you add a room of any god, the ",
-            "color": "$text"
-          },
-          {
-            "text": "reputation requirement",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " from that god goes up.\n\nThe ",
-            "color": "$text"
-          },
-          {
-            "text": "build realm",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " of the Divine Paradox is empty in terms of loot and mobs, it exists solely for you to design and extend it,",
-            "color": "$text"
-          },
-          {
-            "text": "Craft an Architect's Vault Rock",
-            "color": "$heal"
-          }
-        ]
-
-      },
-      "icon": "the_vault:gui/quests/architectrock",
-      "targetId": "the_vault:crystal_seal_ordinator_build",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_40",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_diamond",
-            "amount": 9
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "divine_paradox_seal_run",
-      "name": "Paradox's Vault Rock",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Once you have built a few rooms in your Divine Paradox, it's time to run the vault!\n\nYou can do this only once every ",
-            "color": "$text"
-          },
-          {
-            "text": "20 hours",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", and since the Divine Paradox is a personal vault, you can not bring your friends.\n\nThe Divine Paradox starts out with ",
-            "color": "$text"
-          },
-          {
-            "text": "10 minutes",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " on the timer, as opposed to the 25 minutes of a regular vault. ",
-            "color": "$text"
-          },
-          {
-            "text": "Relics",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " and ",
-            "color": "$text"
-          },
-          {
-            "text": "Extended Modifiers",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " can increase the time.\n\nThe goal of running your Divine Paradox is to collect ",
-            "color": "$text"
-          },
-          {
-            "text": "Blessings",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " from each god, they appear in chests, coin piles and ores in a room blessed by the corresponding god. Collect the required amount and return to your start room to sacrifice them to the correct god to complete the Divine Paradox!\nThis will be difficult in the beginning, as you may not have enough rooms of each god to complete the vault, however, as you extend your Divine Paradox it becomes easier and easier to complete, and completing it is good, because the gods will always bless you with an ",
-            "color": "$text"
-          },
-          {
-            "text": "Artifact",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "!\n\nOnce you have built a few rooms in the build realm of the Divine Paradox, craft a ",
-            "color": "$text"
-          },
-          {
-            "text": "Paradox's Vault Rock",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " and turn it in to a Paradox Vault Crystal by completing it on the Vault Altar.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCraft a Paradox's Vault Rock",
-            "color": "$heal"
-          }
-        ]
-
-
-      },
-      "icon": "the_vault:gui/quests/paradoxrock",
-      "targetId": "the_vault:crystal_seal_ordinator_run",
-      "targetProgress": 1.0,
-      "unlockedBy": "divine_paradox_seal",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold",
-            "amount": 64
-          },
-          {
-            "item": "the_vault:vault_gold",
-            "amount": 64
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "checkmark",
-      "id": "paradoxical_gem",
-      "name": "Resetting your Divine Paradox",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "If you ever feel like you want to ",
-            "color": "$text"
-          },
-          {
-            "text": "reset your progress",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " of your Divine Paradox, and start over, you can!\n\nYou will need a pool of ",
-            "color": "$text"
-          },
-          {
-            "text": "Void Liquid",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", and then simply drop an Architect's Divine Paradox Vault Crystal in it. This will void all progress and allow you to start over!\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "BEWARE, this does not refund any gold spent to unlock rooms!",
-            "color": "$warning"
-          }
-        ]
-
-
-
-      },
-      "icon": "the_vault:gui/quests/resetdivine",
-      "targetId": "the_vault:vault_stone",
-      "targetProgress": 1.0,
-      "unlockedBy": "divine_paradox_seal_run",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold"
           }
         ],
         "vaultExp": 0
@@ -4042,145 +3614,6 @@
           {
             "item": "the_vault:crystal_seal_prophet",
             "amount": 1
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "checkmark",
-      "id": "tier_3_rolling",
-      "name": "Rerolling Gear - Chapter 3",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "By reaching level 50, you will now gain access to the rest of the ",
-            "color": "$text"
-          },
-          {
-            "text": "Foci ",
-            "color": "$highlight"
-          },
-          {
-            "text": "needed to re-roll and modify gear pieces.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nChaotic Focus",
-            "color": "aqua"
-          },
-          {
-            "text": ": This focus will randomly re-roll the tier of a random modifier.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nWaxing Focus",
-            "color": "dark_aqua"
-          },
-          {
-            "text": ": This focus will re-roll the prefixes while leaving the suffixes the same.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nWaning Focus",
-            "color": "dark_aqua"
-          },
-          {
-            "text": ": This focus will re-roll the suffixes while leaving the prefixes the same.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nEmpowered Chaotic Focus",
-            "color": "gold"
-          },
-          {
-            "text": ": This focus will slightly improve a random modifier. This can be done indefinitely until a modifier is maxed out.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCryonic Focus",
-            "color": "blue"
-          },
-          {
-            "text": ": This focus will freeze (permanently attatch) a random modifier to the gear piece. This can only be used once per piece and ",
-            "color": "$text"
-          },
-          {
-            "text": "CANNOT ",
-            "color": "dark_red"
-          },
-
-          {
-            "text": "be undone.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nPyretic Focus",
-            "color": "red"
-          },
-          {
-            "text": ": This focus will upgrade the tier of a gear piece by 1 stage.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nVorpal Focus",
-            "color": "dark_red"
-          },
-          {
-            "text": ": This focus is used to ",
-            "color": "$text"
-          },
-          {
-            "text": "Corrupt ",
-            "color": "dark_red"
-          },
-          {
-            "text": "a vault gear piece and make it no longer modifiable. The vorpal focus will do one of four things to the gear piece.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n1. A random ",
-            "color": "$text"
-          },
-          {
-            "text": "Corrupted ",
-            "color": "dark_red"
-          },
-          {
-            "text": "implicit will be added to the item.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n2. A random ",
-            "color": "$text"
-          },
-          {
-            "text": "Corrupted ",
-            "color": "dark_red"
-          },
-          {
-            "text": "implicit will be added to the item and the item will be completely re-rolled.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n3. A random modifier will be increased to it's maximum tier, and then be upgraded by 1.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n4. Nothing will happen.",
-            "color": "$text"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/reroll",
-      "targetId": "the_vault:reforge_all",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold",
-            "amount": 8
           }
         ],
         "vaultExp": 0
@@ -5122,62 +4555,6 @@
       }
     },
     {
-      "type": "collection",
-      "id": "vaultaddition_events",
-      "name": "Server Events",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Once the ",
-            "color": "$text"
-          },
-          {
-            "text": "Globe Expander ",
-            "color": "aqua"
-          },
-          {
-            "text": "has accepted a certain number of ",
-            "color": "$text"
-          },
-          {
-            "text": "Power Crystals ",
-            "color": "light_purple"
-          },
-          {
-            "text": "it will fall dormant. Occasionally it will wake up for 1 of 2 reasons.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\n1. To give a boost to the vaults for the day in exchange for a relatively large amount of ",
-            "color": "$text"
-          },
-          {
-            "text": "Power Crystals",
-            "color": "light_purple"
-          },
-          {
-            "text": ".It is recommended to work with others in order to obtain the submit all the crystals in order to obtain the boost.\n\n2. To re-open border expansion in the same manner as before.\n\nAll of these event dates are pre-determined and more specifics about the events can be found in Discord.",
-            "color": "$text"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/event",
-      "targetId": "vaultadditions:power_crystal",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_65",
-      "reward": {
-        "items": [
-          {
-            "item": "vaultadditions:power_crystal",
-            "amount": 32
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-
-
-    {
       "type": "level_up",
       "id": "reach_level_90",
       "name": "Level 90",
@@ -5242,66 +4619,11 @@
     {
       "type": "checkmark",
       "id": "consume_power_crystal",
-      "name": "Power Points",
+      "name": "Prestiging",
       "descriptionData": {
         "description": [
           {
-            "text": "Now that you're level 100 you have reached the beginnings of the end game and the new ",
-            "color": "$text"
-          },
-          {
-            "text": "Power Point ",
-            "color": "dark_red"
-          },
-          {
-            "text": "system.\n\nFirst things first, ",
-            "color": "$text"
-          },
-          {
-            "text": "Power Crystals ",
-            "color": "light_purple"
-          },
-          {
-            "text": "are now consumable and will give you ",
-            "color": "$text"
-          },
-          {
-            "text": "Power Points",
-            "color": "white"
-          },
-          {
-            "text": ". These points can be spent in the new ",
-            "color": "$text"
-          },
-          {
-            "text": "Power Menu ",
-            "color": "red"
-          },
-          {
-            "text": "located next to the research tab.\n\nThe ",
-            "color": "$text"
-          },
-          {
-            "text": "Power Menu ",
-            "color": "red"
-          },
-          {
-            "text": "contains a bunch of different player attributes that you can buy to permanently upgrade your character and ultimately change how you approach vaults.\n\nFor example, lets say you are a AP build that is reliant on spells. ",
-            "color": "$text"
-          },
-          {
-            "text": "Maybe you'll spend some points on ",
-            "color": "$text"
-          },
-          {
-            "text": "Cooldown Reduction ",
-            "color": "$cdr"
-          },
-          {
-            "text": " so that you can use the suffixes on your gear for something else.\n\n"
-          },
-          {
-            "text": "There are so many options and it will be exciting too see what builds people come up with. Have a look around the menu to see whats available and begin the grind to truly max your character out..",
+            "text": "You seem to be a little early.. ",
             "color": "$text"
           }
         ]
@@ -5328,7 +4650,7 @@
       "descriptionData": {
         "description": [
           {
-            "text": "You have completed all current available quests in Vault Hunters! More may be added in the future, so keep checking back here whenever you update your game!",
+            "text": "You have completed all current available quests in Vaulters Paradise! More may be added in the future, so keep checking back here whenever you update your game!",
             "color": "$text"
           },
           {
