@@ -817,12 +817,7 @@
       "reward": {
         "items": [
           {
-            "item": "lightmanscurrency:copper_wallet",
-            "amount": 1
-          },
-          {
-            "item": "lightmanscurrency:atm",
-            "amount": 1
+            "item": "the_vault:vault_platinum"
           }
         ],
         "vaultExp": 0
