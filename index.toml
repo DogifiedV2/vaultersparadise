@@ -13066,11 +13066,11 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "da39ccacf3e1f76801ae98b5c7d8a617d4c19071b5689e93c0e77821882406f3"
+hash = "cf6c960680751ed73ed3966716d28372a677fb47c662216a8dd84b8bf218f2de"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "6ffcde2652ff5b0137261dcb5c1f1e4ad6b7db9c85a360909008cbe04c526c25"
+hash = "686f733eea147fe37f3271f01f372fef282dadc1430f83c05f6cd2dd2a731cfe"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -13078,7 +13078,7 @@ hash = "9ca8ddd2b367f783bf100448133ff0c03af33076851aebd78ab4bf35517a048b"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "74a582223b83cca96ed426d8f656ad77e1375375578047fb8d5df8ee1e1fcb4b"
+hash = "94257e22be47684a05b28d4daa5fc460424eb611af2e05f7798a97c878204b09"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -13130,11 +13130,11 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "618b60c383e955668494089c98d2c611e691f29c731b1ac78daa4940c7ad5667"
+hash = "4c615b731b8cfa3a563e181120c09ecfaa69812e77b854f3ff2629cbd9e1e560"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "6598b39b4b02b2341ec8f14674067b47ad1128dd2a637ee21113256ddb96f8e3"
+hash = "253e6e24ee2eefe129655c239e9831702df9015f8e94becf54c7d1b6f2df2a2c"
 
 [[files]]
 file = "config/the_vault/skill_scrolls.json"
@@ -13937,6 +13937,10 @@ file = "mods/blockcarpentry-1.18-0.3.0.jar"
 hash = "8348730a945089a00abb4616caf39954ec6f4e3d3058fd66e2523a4aa6506631"
 
 [[files]]
+file = "mods/bonsaitrees3-3.2.1.jar"
+hash = "67661fd4a459c9274fd3d24a1cba896743e5e754d68953904d058a65ac0572ae"
+
+[[files]]
 file = "mods/buildinggadgets-3.13.2-build.21+mc1.18.2.jar"
 hash = "5eae7d0201adc89c4d6cdf80defb2807768a269090bb4ce7bc7c901cd208813a"
 
@@ -14318,7 +14322,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.20.2.jar"
-hash = "0c1faa89c87f398fb798ff8d0b0ed7c10495d7d38bbcdd2452e27b0c3bdade5e"
+hash = "4ec5ee26a423f6032ca8a5addcb56593ca1c24affa2bb48b8e55140f2667c816"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

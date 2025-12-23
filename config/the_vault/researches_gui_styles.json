@@ -24,6 +24,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/easy_villagers"
     },
+    "Bonsai Pots": {
+      "x": 200,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/bonsai_pots"
+    },
     "Integrated Dynamics": {
       "x": 10,
       "y": 320,

@@ -93,6 +93,19 @@
     "Thorns_Chance": [{"text":"Increases the "},{"text":"chance","color":"#FFE400"},{"text":" to trigger thorns when being attacked.\nThis stacks with any other thorns chance additions, the total can be seen in your statistics tab.\n\n"},{"text":"1 ","color":"#484848"},{"text":"+3%","color":"#FFE400"},{"text":"\n"},{"text":"2 ","color":"#484848"},{"text":"+6%","color":"#FFE400"},{"text":"\n"},{"text":"3 ","color":"#484848"},{"text":"+9%","color":"#FFE400"},{"text":"\n"},{"text":"4 ","color":"#484848"},{"text":"+12%","color":"#FFE400"}],
     "Carapace": [{"text":"Passively further increases your damage reduction by providing a sum of extra "},{"text":"resistance ","color":"#FFBD3F"},{"text":"on incoming damage.\n\n"},{"text":"1","color":"#484848"},{"text":" 1%","color":"#FFBD3F"},{"text":"\n"},{"text":"2","color":"#484848"},{"text":" 2%","color":"#FFBD3F"},{"text":"\n"},{"text":"3","color":"#484848"},{"text":" 3%","color":"#FFBD3F"},{"text":"\n"},{"text":"4","color":"#484848"},{"text":" 4%","color":"#FFBD3F"},{"text":"\n"},{"text":"5","color":"#484848"},{"text":" 5%","color":"#FFBD3F"}],
 
+    "Bonsai Pots": [
+      {
+        "text": "Unlocks the "
+      },
+      {
+        "text": "Bonsai Pots",
+        "color": "yellow"
+      },
+      {
+        "text": " mod!\n\nThese pots can automate any tree in the game very easily by growing them in tiny pots."
+      }
+    ],
+
     "LaserIO": [
       {
         "text": "\n"
