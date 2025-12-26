@@ -48,8 +48,7 @@
         "Create",
         "Mekanism",
         "Thermal Expansion",
-        "Botania",
-        "Integrated Dynamics"
+        "Botania"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -125,7 +124,8 @@
         "Iron Furnaces",
         "Dark Utilities",
         "Vault Filters",
-        "LaserIO"
+        "LaserIO",
+        "Integrated Dynamics"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
