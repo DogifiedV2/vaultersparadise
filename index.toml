@@ -14785,6 +14785,10 @@ file = "patchouli_data.json"
 hash = "67f9392a5dd16c0ef628721bfd20daef52ecdd733a35ec020ea6398df5662ae7"
 
 [[files]]
+file = "resourcepacks/Qiyanas_valley_V5.zip"
+hash = "9b679dacc79be952f022bb95741a04b4da629d5bff5897d902c925f9e76c3192"
+
+[[files]]
 file = "scripts/00_remove_recipes.zs"
 hash = "4fe1ce56b38b542beab2c8c53d33166ac3bb23d25df41f2507cbb99556d1a3ab"
 
