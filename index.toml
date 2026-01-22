@@ -13449,6 +13449,10 @@ file = "config/the_vault/wild_spawner.json"
 hash = "00858369bdab807e4e18609bcd062e036d80b3a44977649aa70558a53c4a1473"
 
 [[files]]
+file = "config/the_vault/zarith_charm.json"
+hash = "6fb66c1544f9b44c2c706c2d6dc116b781d79f77ac4baeadff6585a12109c2d2"
+
+[[files]]
 file = "config/thermal-client.toml"
 hash = "b48eb3e404c14595b185228f8c76a292a5c355d2e114427755096306acd96c4d"
 
@@ -14363,6 +14367,10 @@ hash = "ee0279380265771bce2762b4a92224a756c6f1d2f2741df3c0f00800368e0ce3"
 [[files]]
 file = "mods/vault_hunters_jewel_sorting-2.7.4.jar"
 hash = "ad37f97bd3deedb2b35cf507e06bc6a9df74aa5d34ed067f2b34bbeca4a6bc7e"
+
+[[files]]
+file = "mods/vaultchaosgod-1.0.jar"
+hash = "21beb05a60dda1ec23dc39f1e7d7489b6584f4a1a9b16418b916cc65b5fff3ad"
 
 [[files]]
 file = "mods/vaultfilters-1.32.4.jar"
