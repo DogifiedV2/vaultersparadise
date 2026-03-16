@@ -13949,8 +13949,8 @@ file = "mods/buildinggadgets-3.13.2-build.21+mc1.18.2.jar"
 hash = "5eae7d0201adc89c4d6cdf80defb2807768a269090bb4ce7bc7c901cd208813a"
 
 [[files]]
-file = "mods/buildscape-1.18.2-forge-v2.0.5.jar"
-hash = "62ab9e2bdb9f1a432da2f24d7c5df65bf45d45ef72ffd402f8e317bf557470d7"
+file = "mods/buildscape-3.0.0.jar"
+hash = "bc3c7b239589731f5338418f9f00b67324ad25c01ed831084df2b7539e846ecb"
 
 [[files]]
 file = "mods/cagerium-1.18.2-1.1.6.jar"
@@ -14395,10 +14395,6 @@ hash = "26d0e83ed96b6146ae3680132cb2ef77eeb7f70c0abe4172a66926dd01429fd4"
 [[files]]
 file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
-
-[[files]]
-file = "mods/worldedit-mod-7.2.10.jar"
-hash = "3d7f06f7a208f58e212e8d0dd7cdb0f14e8f0b8a448f8358f872777fb0bfad4d"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
