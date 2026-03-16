@@ -13613,6 +13613,10 @@ file = "mods/AutoRegLib-1.7-53.jar"
 hash = "41ece668218c074bf2f30be5883cd90ad1a48dad6537a7fefca720230f688140"
 
 [[files]]
+file = "mods/BBLib-1.0.3.jar"
+hash = "11833dcf3c6b75ccb9cf7449e205cae88bb52fbfa5f840af3be06f57c076db8f"
+
+[[files]]
 file = "mods/BetterCompatibilityChecker-1.1.21-build.48+mc1.18.2.jar"
 hash = "a6733c9dd43167c4929af5d800103c41c47ed014da326bd898edc1f477b9bc33"
 
@@ -14195,6 +14199,10 @@ hash = "6d0cde3d2d5ccbffb2697a3ddd7994f00f070419e4b69e7edff5468fa6b95ffd"
 [[files]]
 file = "mods/modular-routers-1.18.2-9.1.2.jar"
 hash = "760f823a691c84079322b483297a6dbbbdc1d0610aa45681d8812bc897993472"
+
+[[files]]
+file = "mods/mounts-1.0.jar"
+hash = "5361ba79f6ac233aa834a8b981b9f9212acb582988b698d0a7b8aee58776c236"
 
 [[files]]
 file = "mods/neoncraft2-2.2.jar"
