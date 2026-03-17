@@ -14210,7 +14210,7 @@ hash = "760f823a691c84079322b483297a6dbbbdc1d0610aa45681d8812bc897993472"
 
 [[files]]
 file = "mods/mounts-1.0.jar"
-hash = "2af879a199af433dc03ac90390267a407489c9e4e4449f59b30bf04b70ef3d07"
+hash = "14008b783a63e77dd96729ef599067889f78f275c761018b252a6198cdd34290"
 
 [[files]]
 file = "mods/neoncraft2-2.2.jar"
@@ -14234,11 +14234,15 @@ hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
 [[files]]
 file = "mods/playershops-1.0.jar"
-hash = "f7751e0e05ef1d8d598234042b91eeeccd421a95866315d91e77287e4b7568dc"
+hash = "7f3f332d96c91c22ccd0756d2d0a7df99bab7f79fdc3d0f579ad2357e8325e64"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.50.jar"
 hash = "9ae8862912415b4c35b0b37d71ae67acc56007fdb22024c08348d9a62ff4b903"
+
+[[files]]
+file = "mods/prismcraft-1.0.jar"
+hash = "ebdfd622cc89769b6cd5428f0e6116ad60aafa98e119856176d6818783710c92"
 
 [[files]]
 file = "mods/rechiseled-1.1.6-forge-mc1.18.jar"
@@ -14286,7 +14290,7 @@ hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
 
 [[files]]
 file = "mods/serverportals-1.18.2-1.5.jar"
-hash = "e364a6b71f796386b3e3feef5bbee84bc6487d93496e4ff49bb71aae50bdd831"
+hash = "7df773d7e30b5399a8cf8b76e77fc0e8fc9a3f487ffe8322cd6d581d3b4e7a83"
 
 [[files]]
 file = "mods/servertransfer-1.0.jar"
