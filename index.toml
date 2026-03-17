@@ -13941,6 +13941,10 @@ file = "mods/bdlib-1.19.3.7-mc1.18.2.jar"
 hash = "3ce4d0bdeabcffc6c7551a00e13ce925a498e08ee2747b6cc84d6e01fe25fe49"
 
 [[files]]
+file = "mods/blockcanvas-1.0.jar"
+hash = "b322f40eee037b47afbd4bafdfc4d59b7b888b35f3d1762b546df835cc91e517"
+
+[[files]]
 file = "mods/blockcarpentry-1.18-0.3.0.jar"
 hash = "8348730a945089a00abb4616caf39954ec6f4e3d3058fd66e2523a4aa6506631"
 
@@ -14193,6 +14197,10 @@ file = "mods/mininggadgets-1.11.1.jar"
 hash = "c549a04272f849aafba7e45ac340f70458258fff828c35ef92ca62a234b53241"
 
 [[files]]
+file = "mods/mobprocessor-1.0.jar"
+hash = "d6636612756d7e9b71811a22fc3b0a97aa4c4de70ce4953144652a58c72f0dd8"
+
+[[files]]
 file = "mods/modernfix-forge-5.18.0+mc1.18.2.jar"
 hash = "6d0cde3d2d5ccbffb2697a3ddd7994f00f070419e4b69e7edff5468fa6b95ffd"
 
@@ -14202,7 +14210,7 @@ hash = "760f823a691c84079322b483297a6dbbbdc1d0610aa45681d8812bc897993472"
 
 [[files]]
 file = "mods/mounts-1.0.jar"
-hash = "5361ba79f6ac233aa834a8b981b9f9212acb582988b698d0a7b8aee58776c236"
+hash = "2af879a199af433dc03ac90390267a407489c9e4e4449f59b30bf04b70ef3d07"
 
 [[files]]
 file = "mods/neoncraft2-2.2.jar"
@@ -14223,6 +14231,10 @@ hash = "72c19c08b9f2a2ea5fb85d111167831d8d62eb4615352eaf939e60cdab0f055d"
 [[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
 hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
+
+[[files]]
+file = "mods/playershops-1.0.jar"
+hash = "8993606d5730eb4d1fd16b61f7bd5e18773261b484fd458d72fab7128d515b3e"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.50.jar"
@@ -14278,7 +14290,7 @@ hash = "e364a6b71f796386b3e3feef5bbee84bc6487d93496e4ff49bb71aae50bdd831"
 
 [[files]]
 file = "mods/servertransfer-1.0.jar"
-hash = "bad73f6c94b1f3923bb9030604734636854b8a6c2c9111b18dd137c98d6fd9cd"
+hash = "ff6810398b8e10c301fb73b223735e2d2a5d07996e023e7810c348b81388f568"
 
 [[files]]
 file = "mods/shetiphiancore-forge-1.18.2-3.10.20.jar"
