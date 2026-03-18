@@ -12,6 +12,7 @@
     "Thermal Expansion": [{"text":""},{"text":"Grants Transmog!","color":"#90FF00"},{"text":"\n"},{"text":"Unlocks the "},{"text":"Thermal Expansion","color":"yellow"},{"text":" mod!\n\nA multipurpose mod that can double ores, increase efficiency of wood logs as well as produce some items from scratch!"},{"text":"\n\nAdds rewards to "},{"text":"Mod Boxes","color":"aqua"},{"text":"!"}],
     "Laser Bridges": [{"text":""},{"text":"Unlocks the "},{"text":"Laser Bridges","color":"yellow"},{"text":" mod!\n\nThis mod introduces futuristic-looking laser bridges, doors, and fences, which are formed when a laser source block is activated by a redstone signal. The length of these structures depends on the redstone signal strength and updates dynamically."}],
     "Entangled": [{"text":""},{"text":"Unlocks the "},{"text":"Entangled","color":"yellow"},{"text":" mod!\n\nThis mod provides you with a block that you can bind to any other block and let it function as it!"}],
+    "Mob Processor": [{"text":""},{"text":"Unlocks the "},{"text":"Mob Processor","color":"yellow"},{"text":" mod!\n\nThis mod provides you with a block that can fit 27 total mobs and will output the items from their loot tables, like a powerful combination of iSpawners and Cagerium! Comes with speed, looting, storage and player upgrades!"}],
 
     "Thermal Dynamos": [{"text":"Unlocks the "},{"text":"Thermal Dynamos","color":"yellow"},{"text":" from Thermal Expansion!\n\nDynamos are easy to use "},{"text":"Forge Energy (FE)","color":"aqua"},{"text":" generators that can be upgraded and generate power out of most things, even food and enchanted books!"},{"text":"\n\nAdds rewards to "},{"text":"Mod Boxes","color":"aqua"},{"text":"!"}],
     "Mekanism QIO": [{"text":"Unlocks the "},{"text":"Mekanism QIO","color":"yellow"},{"text":" from Mekanism!\n\nThis part of Mekanism is a full blown storage system, with massive digital storage disks, powerful and intelligent item transfer and highly customisable crafting utilities Mekanism QIO is a beast of any storage systems."}],
@@ -447,54 +448,6 @@
   ,"CommanderPower": [{"text":"Doubles the duration of your "},{"text":"Companion's","color":"#FFD700"},{"text":" "},{"text":"Temporal Modifier","color":"#00FFFF"}]
   ,"MasterfulPower": [{"text":"Doubles any "},{"text":"extra skill levels","color":"#FFA500"},{"text":" gained by gear, cards, trinkets or any other sources"}]
   ,"Companion_Loyalty": [{"text":"Decreases the "},{"text":"cooldown","color":"#008080"},{"text":" of your "},{"text":"companions","color":"#FFFF55"},{"text":" by\n1 "},{"text":"10%","color":"#008080"},{"text":"\n2 "},{"text":"20%","color":"#008080"},{"text":"\n3 "},{"text":"30%","color":"#008080"}]
-  ,"Vault Filters": [{"text":"Unlocks the "},{"text":"Vault Filters","color":"yellow"},{"text":" mod!\n\nThis mod allows you to deep filter vault items, including but not limited to jewels, vault gear and cards, which enables rich automation in machines like "},{"text":"Modular Routers","color":"aqua"},{"text":", "},{"text":"Create","color":"aqua"},{"text":" and your digital storage!"}],
-    "CryonicPower": [
-      {"text":"Cryonic Focuses "},
-      {"text":"always freeze","color":"#00FFFF"},
-      {"text":" a "},
-      {"text":"legendary","color":"#FFD700"}
-    ],
-    "LegendaryGearPower": [
-      {"text":"Increases the "},
-      {"text":"chance","color":"#00FF00"},
-      {"text":" of "},
-      {"text":"legendary gear","color":"#FFD700"},
-      {"text":" by 3%"}
-    ],
-    "CooldownCapPower": [
-      {"text":"Raises the "},
-      {"text":"cooldown reduction cap","color":"#008080"},
-      {"text":" from "},
-      {"text":"80%","color":"#FF5555"},
-      {"text":" to "},
-      {"text":"90%","color":"#00FF00"}
-    ],
-    "CraftedLegendaryPrestigePower": [
-      {"text":"Allows crafted gear to roll"},
-      {"text":" legendary modifiers","color":"#FFD700"},
-      {"text":" using your existing "},
-      {"text":"legendary chance","color":"#00FF00"}
-    ],
-    "ToolCapacityPower": [
-      {"text":"Adds 100 "},
-      {"text":"capacity","color":"#00FF00"},
-      {"text":" to all "},
-      {"text":"crafted tools","color":"#AAAAAA"}
-    ],
-    "BreachingPower": [
-      {"text":"Permanently grants "},
-      {"text":"Breaching","color":"#FF5555"},
-      {"text":" regardless of tool"}
-    ],
-    "CardEfficiencyPower": [
-      {"text":"Doubles all "},
-      {"text":"card efficiency","color":"#00FF00"},
-      {"text":" (e.g., "},
-      {"text":"1%","color":"#FFFF55"},
-      {"text":" becomes "},
-      {"text":"2%","color":"#FFFF55"},
-      {"text":")"}
-    ]
-
+  ,"Vault Filters": [{"text":"Unlocks the "},{"text":"Vault Filters","color":"yellow"},{"text":" mod!\n\nThis mod allows you to deep filter vault items, including but not limited to jewels, vault gear and cards, which enables rich automation in machines like "},{"text":"Modular Routers","color":"aqua"},{"text":", "},{"text":"Create","color":"aqua"},{"text":" and your digital storage!"}]
   }
 }

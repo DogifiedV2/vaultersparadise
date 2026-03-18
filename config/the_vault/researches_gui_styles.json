@@ -247,6 +247,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mob_spawners"
     },
+    "Mob Processor": {
+      "x": 250,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/mobprocessor"
+    },
     "Phytogenic Insulator": {
       "x": 250,
       "y": 280,

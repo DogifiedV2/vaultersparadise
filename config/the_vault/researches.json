@@ -517,6 +517,23 @@
     },
     {
       "modIds": [
+        "mobprocessor"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Mob Processor",
+      "cost": 6,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "botania"
       ],
       "restrictions": {
