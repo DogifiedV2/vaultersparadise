@@ -449,6 +449,10 @@ file = "config/buildinggadgets-client.toml"
 hash = "fb2aefb30badac6654b0d73e4b50689539e6a442d4b264e488f1482b47099628"
 
 [[files]]
+file = "config/byg/trades.json5"
+hash = "f0c7398837fd982ae6478afc4d0a7d114a3d900f6e212fd4bd0403b541e5f505"
+
+[[files]]
 file = "config/cagerium-common.toml"
 hash = "94f836ae0e8fb045a304a9013ae616612a4efa8b74a4979b3248966c9afe4b40"
 
