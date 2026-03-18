@@ -87,19 +87,3 @@ size = 1
 visible = true
 cosmetic = false
 icon = "the_vault:gui/slot/curios/vault_compass"
-
-[[curiosSettings]]
-identifier = "coin_pouch"
-priority = 13
-size = 1
-visible = true
-cosmetic = false
-icon = "the_vault:gui/slot/curios/coinpouch"
-
-[[curiosSettings]]
-identifier = "shard_pouch"
-priority = 14
-size = 1
-visible = true
-cosmetic = false
-icon = "the_vault:gui/slot/curios/shard"
