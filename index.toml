@@ -13573,40 +13573,40 @@ file = "kubejs/assets/decocraft/lang/en_us.json"
 hash = "78bb04633cd233d130b3a970e3ed2c712c9cf706c6e9e454c813ec81326943d1"
 
 [[files]]
-file = "kubejs/assets/the_vault/gui/researches/bonsai_pots.png"
+file = "kubejs/assets/the_vault/lang/en_us.json"
+hash = "a4d1d9000f860f40ca455f87297a25cc3317c0bccf311fbeb91643f921e88ae8"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/bonsai_pots.png"
 hash = "387a394be02230f0e4a63ad07944426610a02da882e912075e7aa17d25e61bc4"
 
 [[files]]
-file = "kubejs/assets/the_vault/gui/researches/create_crafts_and_additions.png"
+file = "kubejs/assets/the_vault/textures/gui/researches/create_crafts_and_additions.png"
 hash = "d48f94e6c9bb9bc0f9c02c3f4edfa97deba7917ff4a8bbb9daa3daec7491ec27"
 
 [[files]]
-file = "kubejs/assets/the_vault/gui/researches/integrated_dynamics.png"
+file = "kubejs/assets/the_vault/textures/gui/researches/integrated_dynamics.png"
 hash = "24fd61b7b3bce5973cfce54f6c66ec676e0a5330546cbf8cbc53aefad85da2e9"
 
 [[files]]
-file = "kubejs/assets/the_vault/gui/researches/laserio.png"
+file = "kubejs/assets/the_vault/textures/gui/researches/laserio.png"
 hash = "ced9641d641318ab32a922f47becca79f28aca0bbf41b71eaad197d837f55565"
 
 [[files]]
-file = "kubejs/assets/the_vault/gui/researches/mobprocessor.png"
+file = "kubejs/assets/the_vault/textures/gui/researches/mobprocessor.png"
 hash = "0fa1afdc5752609f8d7da74b231fd9e2952087ca6df9492b571092583a556914"
 
 [[files]]
-file = "kubejs/assets/the_vault/gui/researches/tiab.png"
+file = "kubejs/assets/the_vault/textures/gui/researches/tiab.png"
 hash = "df7abd24cc27d1ccd6e52e3d3a1c62662fec841a37d2c9fc9c289c0dcd12fed7"
 
 [[files]]
-file = "kubejs/assets/the_vault/gui/slot/curios/coinpouch.png"
+file = "kubejs/assets/the_vault/textures/gui/slot/curios/coinpouch.png"
 hash = "dfeafe7ec8c70ec5038556d9b83fb5d3cc0cef7ae513cb72465f14102f54943d"
 
 [[files]]
-file = "kubejs/assets/the_vault/gui/slot/curios/shard.png"
+file = "kubejs/assets/the_vault/textures/gui/slot/curios/shard.png"
 hash = "4279f08dfa10057c0003b7e7bd3b717a7e19c00d5375b9a87e7f8783540324a1"
-
-[[files]]
-file = "kubejs/assets/the_vault/lang/en_us.json"
-hash = "a4d1d9000f860f40ca455f87297a25cc3317c0bccf311fbeb91643f921e88ae8"
 
 [[files]]
 file = "kubejs/data/curios/tags/item/tiab.json"
