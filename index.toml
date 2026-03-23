@@ -1189,6 +1189,10 @@ file = "config/mininggadgets-common.toml"
 hash = "a44eb3c126d28f1500f7b81111e8590cfeca6f2e02111139f71241827f453e95"
 
 [[files]]
+file = "config/mobprocessor-common.toml"
+hash = "e20eb54a02731bf22ffff0b3c4371f66ce076da8fa4a5c08422fa183cd57e5f7"
+
+[[files]]
 file = "config/modularrouters-client.toml"
 hash = "7922f789cf41444b7ce28bcc7df415f94b765e9a01a817ea468487ca539dc3fc"
 
@@ -14222,7 +14226,7 @@ hash = "c549a04272f849aafba7e45ac340f70458258fff828c35ef92ca62a234b53241"
 
 [[files]]
 file = "mods/mobprocessor-1.0.jar"
-hash = "d6636612756d7e9b71811a22fc3b0a97aa4c4de70ce4953144652a58c72f0dd8"
+hash = "79f545edee9ee43866705dc4bcb40393c49ed2693b80661c2270fa5f9f22e786"
 
 [[files]]
 file = "mods/modernfix-forge-5.18.0+mc1.18.2.jar"
@@ -14234,7 +14238,7 @@ hash = "760f823a691c84079322b483297a6dbbbdc1d0610aa45681d8812bc897993472"
 
 [[files]]
 file = "mods/mounts-1.0.jar"
-hash = "9c55e066ff7015afeda9258c8a6725e468e89b610028538aae396fcef0b6b0b2"
+hash = "e6549a31127c8529b098b379c275915510afff78e4b402d8daa4ad4e4f342e0a"
 
 [[files]]
 file = "mods/neoncraft2-2.2.jar"
@@ -14258,7 +14262,7 @@ hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
 [[files]]
 file = "mods/playershops-1.0.jar"
-hash = "ed19119a68c34b979d341af8caa7eee8d0a82e86a42b230533d2c9e57e50b39a"
+hash = "6df8ca5bc5b760b16dc1cb0cd12dd231d5a0e902c57cd8c5b8f5818ed2cdc400"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.50.jar"
