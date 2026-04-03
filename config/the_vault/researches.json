@@ -1072,6 +1072,23 @@
     },
     {
       "itemRestrictions": {
+        "the_vault:augment_station": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true,
+            "BLOCK_INTERACTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Augment Station",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
         "vaultintegrations:altar_conduit": {
           "restricts": {
             "HITTABILITY": true,
@@ -1490,22 +1507,6 @@
       "entityRestrictions": {},
       "name": "Botania Flux Field",
       "cost": 2,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
-        "create:attribute_filter": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Vault Filters",
-      "cost": 12,
       "usesKnowledge": true
     },
     {

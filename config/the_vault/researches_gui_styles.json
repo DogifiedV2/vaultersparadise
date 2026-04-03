@@ -6,12 +6,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/tiab"
     },
-    "Digital Waystones": {
-      "x": 630,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/waystones"
-    },
     "LaserIO": {
       "x": 110,
       "y": 320,
@@ -37,7 +31,7 @@
       "icon": "the_vault:gui/researches/integrated_dynamics"
     },
     "Create Crafts and Additions": {
-      "x": 680,
+      "x": 630,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/create_crafts_and_additions"
@@ -174,6 +168,12 @@
       "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/markers"
+    },
+    "Augment Station": {
+      "x": 390,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/augment_station"
     },
     "Vault Map": {
       "x": 490,
@@ -324,12 +324,6 @@
       "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/iron_furnaces"
-    },
-    "Vault Filters": {
-      "x": 60,
-      "y": 280,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/filters"
     },
     "Potions": {
       "x": 390,
