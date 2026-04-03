@@ -15082,51 +15082,59 @@ hash = "348a65bb5bf2dacfbb610d5ca480297d7a9f12349b4b00efb8c52638f371895a"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
-hash = "c0e74b0b2397f6681659e4561798dc3247515b08e8e0981c2bf637bc92959580"
+hash = "f8d557a33e995afe2112881b52d8259f6f0423843b983a1add401a2ce6b96977"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/discord.json"
-hash = "2983f86608032a70331f8a3d7a680b23f30ebe5032ee51e1f84a637499ada1bc"
+hash = "dcd9dcba3ad8effa57df4a5a583c42f52502f120d6fdaa08f9343e9b4b060936"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/language.json"
-hash = "a323b49667eab3456d75f988f641433c05b13d950c5f192b3c36612dea73709b"
+hash = "aa4d9e9276f2d9e526af2590717a3d16a065fbaa7a5e57c38c26050a294d9435"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "1a3daa52a9ac47c06761742c96828ee22f30b1a4303dce228f686810237dbe0d"
+hash = "b7b13c4cd207aaa2f586d8a9a91d48c221536a261073eddc0641bdbc4a059962"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
-hash = "39abd8b63f65606afe26a23179badb79db34e84beac690eda4ad54908b7cc771"
+hash = "06629636135cd2c81f0471ba848fbbe69e60bc05de96dea3c377eca021494e43"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/options.json"
-hash = "344e61a281da9b49cb15ed5d77d5dd3e544ea8f1bf2d9c43fce33bda2d9da192"
+hash = "13fe7a630182b3422fddaa554a695f722fa74782b93ff2a2b3644093110f36c2"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/patchnotes.json"
+hash = "481c81bc4c5587b5bbc14d705cdf3cd00a78193a86af6bf1f5c2fc79669e7e85"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
-hash = "fddb9a4dc5576d5b3b39d37055c5472a041d01eabcf90aea3dd718e94fc76bc7"
+hash = "1a4f3b08dd7b3a56421194704fa53ddbdc2e36b09825d0c8adb87621c42cd9a4"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/reloadbutton.json.disable"
-hash = "e2e094afa3a1daab0ba3e0945c094c46ddab02751d4d662821a3d87b1b59bafe"
+hash = "cd751512f196a72b0d4ec51408590fec154d43598d88b2d0dbc5133650cd17de"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
-hash = "f6029c99318eca4b5012e740acfad2afeb9766d05553184d899864e5bd9409de"
+hash = "ad6bef09111f858417d8d82a9945e961ce278d83874564505b7a821a4e2d6c51"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/vh.json"
-hash = "f587de8d3781368512fdd909b974406eb5e3518abb229ad95049e8b38edaa9f3"
+hash = "3e50aea5bc4396b5496fb0ffda367c8f96bd25b005bbb35103ad748cb2388a26"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/vhwiki.json"
-hash = "027474378f2535c37c6195c2028f72475e696450951097d700ce5d617997efbe"
+hash = "05c2cf51968ca7d5c5080ea88785f07c19c21b77f10563dc2d5ba8f3f12dd613"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/wiki.json"
+hash = "4b9a91e7842a8457a1d9d45cb05f34a0401aa1997b9781e94018051aae87feed"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "db62d22717022e888a2b94884af887964e9a2f6e5fb301358f690de4b7cf24db"
+hash = "0852d2fa8a205c2385073525c947a66eb97e23b31474c51d696166dd8d4107f2"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/texts/supporters.txt"
@@ -15142,7 +15150,7 @@ hash = "497f65f931a35c262f41ce88b9231171f30f36b5baa98e19c3beffb86711dbff"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
-hash = "59a36415d01fa5b552e8b2568b34a1becb1e7d5d031769f2df7d60bde31db3ee"
+hash = "d67cd4304dee955f033d644484abf622ac02578345a8fc2bcaa843cdaf9472e1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background_old.png"
@@ -15167,6 +15175,10 @@ hash = "ff1785923391cfdfbfd3ee035c7411a578d7a4859b651acf6b8d7773a113db6b"
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/button98.png"
 hash = "fc4a01af820a3f09cf2118c5e780124f3a37d1f38cb630d686d450bcd8db41c4"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/loading_splash.png"
+hash = "3ff0ee4c079c61aa4edce57d8d8b23bd1d8606d55a9753c737584936e7529514"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
@@ -15197,6 +15209,26 @@ file = "packmenu/resources/assets/packmenu/textures/gui/test-splash.png"
 hash = "59a36415d01fa5b552e8b2568b34a1becb1e7d5d031769f2df7d60bde31db3ee"
 
 [[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/vh_button_accessibility.png"
+hash = "c8e214b47a016a30acc5b07303df44150125c22d8e8de5e18d7697f70803d4e5"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/vh_button_language.png"
+hash = "21d684383f5ce3ddde4333cd7adaf4eadacb33248978e47d5fb9ca699672f6b1"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/vh_button_large.png"
+hash = "368f606461b8f0235234c9e61f4636ab3f1ed13d28fff39dcc93fc03f4062bfc"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/vh_button_small.png"
+hash = "e68fbd18497fe493a76c154c4125365db60e55f70070ce31bae17123b3a4f8bf"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/vh_logo.png"
+hash = "895acdd1fc43e4b7e9c416853c7b1835b048c185adeb343040d7b1aaf38aaec0"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/vhbutton.png"
 hash = "fedcc28371ea21ac4da58252285dc57036fea93e8f78eb558e32849438438af2"
 
@@ -15206,7 +15238,7 @@ hash = "3ead62662303c19e2dde83bea45513c75dc894293eeafcc4badac1cbc3922d49"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"
-hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
+hash = "157a33d968ad30a59edae72d0a1b870a9d8b1867601f45494072f9773e7bc21d"
 
 [[files]]
 file = "packmenu/resources/pack.png"
@@ -15214,7 +15246,7 @@ hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 
 [[files]]
 file = "packmenu/resources/packmenu.cfg"
-hash = "99959e4e950755e3a333ac506eb3281c9d386833837185b06069c756ff676bcc"
+hash = "21864a61ddd04b3b361074da80f204dfe0252dc3f04aab9fe5ccbd6ca4a4f95a"
 
 [[files]]
 file = "patchouli_books/the_vault_main_guide/book.json"

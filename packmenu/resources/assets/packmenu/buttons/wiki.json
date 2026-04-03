@@ -1,10 +1,11 @@
 {
-	"x": 2,
-	"y": 108,
+	"x": -100,
+	"y": 48,
 	"width": 98,
 	"height": 20,
-	"langKey": "menu.quit",
-	"action": "QUIT",
+	"langKey": "packmenu.wiki",
+	"action": "OPEN_URL",
+	"data": "https://wiki.vaulthunters.gg/",
 	"texture": "packmenu:textures/gui/vh_button_small.png",
 	"u": 0,
 	"v": 0,
@@ -13,6 +14,6 @@
 	"texWidth": 98,
 	"texHeight": 40,
 	"fontColor": -1,
-	"hoverFontColor": 14294283,
+	"hoverFontColor": -1,
 	"dropShadow": false
 }
