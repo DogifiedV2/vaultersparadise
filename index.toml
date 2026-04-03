@@ -874,7 +874,7 @@ hash = "fb45813dd89baa84dbdc5e1fc489e855abd5e1528074f9fa8e51b1c21bbafb29"
 
 [[files]]
 file = "config/drippyloadingscreen/customization/VH.dllayout"
-hash = "2bb505f7fb55baab332423176b3ed8ef198fbcf996d921a106f3c6274334229e"
+hash = "15dc6f978d1dd0b23064bf6b77f600d30433633ee33fd64e64a71d36e9186e02"
 
 [[files]]
 file = "config/drippyloadingscreen/locals/en_us.local"
@@ -1242,7 +1242,7 @@ hash = "4c4dd50adbf4fe38e9dcab981704f3f45326337401b91dbc20544171206a2a07"
 
 [[files]]
 file = "config/packmenu.cfg"
-hash = "d43814c234e47dc20dbe53541b48615134820b6587c5c8a874582320e79a72a4"
+hash = "b0c171fe40a5c38c3f04686b59b3e3ced75fbf8bb22293332baf5b72b7c8a833"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -15093,10 +15093,6 @@ file = "packmenu/resources/assets/packmenu/buttons/language.json"
 hash = "aa4d9e9276f2d9e526af2590717a3d16a065fbaa7a5e57c38c26050a294d9435"
 
 [[files]]
-file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "b7b13c4cd207aaa2f586d8a9a91d48c221536a261073eddc0641bdbc4a059962"
-
-[[files]]
 file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
 hash = "06629636135cd2c81f0471ba848fbbe69e60bc05de96dea3c377eca021494e43"
 
@@ -15121,14 +15117,6 @@ file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
 hash = "ad6bef09111f858417d8d82a9945e961ce278d83874564505b7a821a4e2d6c51"
 
 [[files]]
-file = "packmenu/resources/assets/packmenu/buttons/vh.json"
-hash = "3e50aea5bc4396b5496fb0ffda367c8f96bd25b005bbb35103ad748cb2388a26"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/vhwiki.json"
-hash = "05c2cf51968ca7d5c5080ea88785f07c19c21b77f10563dc2d5ba8f3f12dd613"
-
-[[files]]
 file = "packmenu/resources/assets/packmenu/buttons/wiki.json"
 hash = "4b9a91e7842a8457a1d9d45cb05f34a0401aa1997b9781e94018051aae87feed"
 
@@ -15141,40 +15129,8 @@ file = "packmenu/resources/assets/packmenu/texts/supporters.txt"
 hash = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
 
 [[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/accessibility.png"
-hash = "e100d3c203db3d649e2216fdb61ab6b0d952a0a421a1464d78ac9ec7df6c566b"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/background-back.png"
-hash = "497f65f931a35c262f41ce88b9231171f30f36b5baa98e19c3beffb86711dbff"
-
-[[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
 hash = "d67cd4304dee955f033d644484abf622ac02578345a8fc2bcaa843cdaf9472e1"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/background_old.png"
-hash = "26d0de8db87cea83f869e939cd59d974cec760c3177813b097c51894b23c5057"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/bisectLogo.png"
-hash = "353706197a2c2a1b5f5f9f9477d6d9d07c0d3f66b17a6ced363ba0daa922c862"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/button104.png"
-hash = "ea6c62d46c1c9e9e28a64578fea8b5ea74cf7c5182fde68c01c1158a1db44bcc"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/button206.png"
-hash = "9beaed1848cdb2c37cd86b1e805eafdb5c490becbfdc6cdecb4be1e7a6222d1c"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/button206_black.png"
-hash = "ff1785923391cfdfbfd3ee035c7411a578d7a4859b651acf6b8d7773a113db6b"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/button98.png"
-hash = "fc4a01af820a3f09cf2118c5e780124f3a37d1f38cb630d686d450bcd8db41c4"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/loading_splash.png"
@@ -15183,30 +15139,6 @@ hash = "3ff0ee4c079c61aa4edce57d8d8b23bd1d8606d55a9753c737584936e7529514"
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
 hash = "4f96932a7bfd9f0196947b3680f77720980088e9f9b5335e7e1583b77186ab29"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/logo_u17.png"
-hash = "6e0d1416e8d3e2a9f52f5bf6005f5887c1e51e4b4e77a1b3cc60e873620d7564"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/logo_u18.png"
-hash = "69318244a21b4d087fb8f480655ccedb76b358cd82c17c6ff6df03e934e5fedf"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/logo_u19.png"
-hash = "0c7345a31a2ac89e8c21501cafc12d57d5d283399fa4396b240dd254acd8b15c"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/logo_u20.png"
-hash = "9a705624fb47edf34a2310e754a5bb5b4c07abea7bd908a6b5f1222c50948000"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/test-splash-real-back.png"
-hash = "8f6ed083751f02a871403242317a18faf0f31544c143321ff015b5e2f66516d1"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/test-splash.png"
-hash = "59a36415d01fa5b552e8b2568b34a1becb1e7d5d031769f2df7d60bde31db3ee"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/vh_button_accessibility.png"
@@ -15227,14 +15159,6 @@ hash = "e68fbd18497fe493a76c154c4125365db60e55f70070ce31bae17123b3a4f8bf"
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/vh_logo.png"
 hash = "895acdd1fc43e4b7e9c416853c7b1835b048c185adeb343040d7b1aaf38aaec0"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/vhbutton.png"
-hash = "fedcc28371ea21ac4da58252285dc57036fea93e8f78eb558e32849438438af2"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/widgets.png"
-hash = "3ead62662303c19e2dde83bea45513c75dc894293eeafcc4badac1cbc3922d49"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"
