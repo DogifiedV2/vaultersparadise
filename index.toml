@@ -437,6 +437,10 @@ file = "config/blockcarpentry-common.toml"
 hash = "96690dd4028bb97beb48bbb4781ebc9a4ddc0da9a80bc7f30b1703362fe77c63"
 
 [[files]]
+file = "config/bonsaitrees3-client.toml"
+hash = "3499b3dc1722ec85b96d3e77aa79b53ad846dc134861130a4ebd69e25d934540"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "5e38c477a64a95b443be83f366f9f50dae9793df58942344e1e6305744b3a4f0"
 
@@ -14481,10 +14485,6 @@ file = "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
 hash = "67fc0b05ca0fa755dda681c20aaf29e55b8845841451efc6c40631b91b95d9d2"
 
 [[files]]
-file = "mods/QOL Hunters-0.39.0.jar"
-hash = "dd75bd8b6807b8a0c6bf9d3f26258776111b00bd499a500ce6599b1265d428db"
-
-[[files]]
 file = "mods/Quark-3.2-358.jar"
 hash = "046c5cbc31259eb175d010bac36aa82cf6678254caca79cd65022f5b28e031cd"
 
@@ -15002,7 +15002,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "650acc6cea2240c75531a7d3b11d9cf2740529710c2573f53c25750278807f7a"
+hash = "47e8229bf70e26a39c432dcd1f7879b9b315eec1d97a297fdfdf432f054f5506"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
