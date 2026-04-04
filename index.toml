@@ -13658,7 +13658,7 @@ hash = "f614adfaca60fc32400a3d180913ca71c586e1f8281b3657612225c67a763b33"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
-hash = "455760d844dc87f01264ee5cde84ae09dc725123de25bc5a37b43ccad743e35f"
+hash = "314d9899112de73f497517b0e884f6edec803e61bc58d575b19cf420a7eb7f16"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_recipes.json"
@@ -13882,7 +13882,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "6d7ec24babd96fe6a94463d078c837d82c24fe6da62194a737e36e29246c8307"
+hash = "8de686cf4112cffcdc116c97c8b0324ad08f21c0be7a33a243590068889db3f8"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -14150,7 +14150,7 @@ hash = "417032b4cd2ccd36a6718c7f371de82a0247f7c7ded9dfe385001ee859fda8a6"
 
 [[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
-hash = "6ef3e4d5b171cca2def7756c11b28753567f7e5e1f60624f34b62f0b1b16f6fa"
+hash = "183411b8c08164b4c554825dbdcc063bf1b1258e8c886ad62b08ae17aeb09fcd"
 
 [[files]]
 file = "defaultconfigs/pickupnotifier/pickupnotifier-server.toml"
@@ -14243,6 +14243,10 @@ hash = "9dd028d7b2ff06825b0b645f4746a4098b6bafa689f2af0a9be31538d22c9fd3"
 [[files]]
 file = "mods/AEInfinityBooster-1.18.2-1.1.0+9.jar"
 hash = "d28c99fc2e2762fadf30cd015e82a7ebf3358a51f510037ea86865dcafb9f547"
+
+[[files]]
+file = "mods/AdvancedPeripherals-1.18.2-0.7.31r(1).jar"
+hash = "9e32fd56605faa471763eecf68aa2f66ec9a1a732180e2aacbc6579243dc5125"
 
 [[files]]
 file = "mods/AdvancementPlaques-1.18.2-1.4.5.1.jar"
@@ -14613,6 +14617,10 @@ file = "mods/camera-1.18.2-1.0.6.jar"
 hash = "f521b4d5eb12f02456f810023532352a0cf74d13e0bcfc6e8ed2b2990a5876c1"
 
 [[files]]
+file = "mods/cc-tweaked-1.18.2-1.101.3.jar"
+hash = "9426fda1c9373a2317aa9f377185301ad2474d3536073c3177eba4b8b71d74ee"
+
+[[files]]
 file = "mods/cfm-7.0.0-pre35-1.18.2.jar"
 hash = "48d55a12e01d5d2de970b4be4f3eea188202f8a95058c8bb47b50f12d61661b2"
 
@@ -14874,7 +14882,7 @@ hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
 [[files]]
 file = "mods/playershops-1.0.jar"
-hash = "2bead747b6bccc165ed88e0e5b7e85d9fd1e87196dac5e819e36036ef1c996ae"
+hash = "0e3296f3cc85f1ba7019c8e828bc4805764e6a4726e7b3013713f37f4e8861b2"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.50.jar"
@@ -15002,7 +15010,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "47e8229bf70e26a39c432dcd1f7879b9b315eec1d97a297fdfdf432f054f5506"
+hash = "0e85c12c98bf071f3bd35042fe5416c95a31a1a7dec7f39f932a5b10a3e739e0"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -15053,12 +15061,16 @@ file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
 hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
 
 [[files]]
-file = "mods/vhapi-4.5.0.jar"
-hash = "a51099e81b1753082cbeeaa4fea64191d607590b4c9d853bc8a72d12babbae15"
+file = "mods/vhapi-4.5.1.jar"
+hash = "68912a106d326b7fde828ce1c319cdb990f120c7a99c2ee659aa1de1530f167e"
 
 [[files]]
 file = "mods/vhatcaniroll-1.13.0.jar"
 hash = "c7088cc354e5c394852ca314134d63b4c08e485734d8fb956d0ea18e7a590ea7"
+
+[[files]]
+file = "mods/vhcctweaks-2.2.13.jar"
+hash = "ec368d3e8ea926481b232cada7f4b1425811910289c68b720bbd2d3a2289967a"
 
 [[files]]
 file = "mods/voicechat-forge-1.18.2-2.6.5.jar"
