@@ -13682,7 +13682,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "109fb883ac2da35886165e16df2c83ae04eb3a3a7ce9689813e786a626aa9046"
+hash = "04d3ff41b7861342a82e980c2b87345952449bdeaa0ea284bf9dcd3b27e3d23b"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -13694,7 +13694,7 @@ hash = "9ca8ddd2b367f783bf100448133ff0c03af33076851aebd78ab4bf35517a048b"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "44bcbb1ed71cd56a7091a8459e33ce3cf2ba43c70874fbfcb05ab90199392453"
+hash = "bf247981dbaa946bea3700ba2ec35f33285177ec2bde69379e5d0c25131e7254"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -14489,6 +14489,10 @@ file = "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
 hash = "67fc0b05ca0fa755dda681c20aaf29e55b8845841451efc6c40631b91b95d9d2"
 
 [[files]]
+file = "mods/QOL Hunters-0.42.2.jar"
+hash = "76562776e2915887b9152abc5963efc0ee55e14c21e59b0c90c8becd73497396"
+
+[[files]]
 file = "mods/Quark-3.2-358.jar"
 hash = "046c5cbc31259eb175d010bac36aa82cf6678254caca79cd65022f5b28e031cd"
 
@@ -14721,6 +14725,10 @@ file = "mods/everycomp-1.18.2-1.5.18.jar"
 hash = "8d0df6d98e4ece282b8b6417d4ade6bff26fb985182ee00803ad79e393812658"
 
 [[files]]
+file = "mods/extremesoundmuffler-3.30_forge-1.18.2.jar"
+hash = "70d49bb3147828e3256bc88f79dd16c6f89c1419a3f197deb1ac5b5569979013"
+
+[[files]]
 file = "mods/fairylights-5.0.0-1.18.2.jar"
 hash = "7b2603657628b8fea9edf508eb7dbcd187bc0439c92c0036e724b5b7eaead443"
 
@@ -14882,7 +14890,7 @@ hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
 [[files]]
 file = "mods/playershops-1.0.jar"
-hash = "d2c06e29a987055f4062346a5eeccbdbc19195bd3c16dace86979efe7d4aa4cd"
+hash = "484535f06a1b0b0174dafbbd5c7c1debd4ef714a5213a4577912f76b0e2406d9"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.50.jar"
@@ -14938,7 +14946,7 @@ hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
 
 [[files]]
 file = "mods/serverportals-1.18.2-1.5.jar"
-hash = "7df773d7e30b5399a8cf8b76e77fc0e8fc9a3f487ffe8322cd6d581d3b4e7a83"
+hash = "d2742d2719d38d10f17689569756a60d8d284aed024d9d478151d7f5665ee8d3"
 
 [[files]]
 file = "mods/servertransfer-1.0.jar"
@@ -15010,7 +15018,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "0e85c12c98bf071f3bd35042fe5416c95a31a1a7dec7f39f932a5b10a3e739e0"
+hash = "d71e197ef3d49361289567856fd085e332f246295b67f9ba492b5acba598cc04"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -15041,8 +15049,8 @@ file = "mods/twigs-1.1.4-patch4+1.18.2-forge.jar"
 hash = "20b9ca87e9a9ffbef0e89239c3dc22db0812362bcf9f6d34d2516346f5dceb8f"
 
 [[files]]
-file = "mods/twitchspawn_1.18.2-1.9.3.jar"
-hash = "ee0279380265771bce2762b4a92224a756c6f1d2f2741df3c0f00800368e0ce3"
+file = "mods/twitchspawn_1.18.2-1.9.4.jar"
+hash = "bcc09f58a17ddcc6044e49051f35ef229a619b5c04e041ea73347276cbd25836"
 
 [[files]]
 file = "mods/vault_hunters_jewel_sorting-2.7.4.jar"
@@ -15057,6 +15065,10 @@ file = "mods/vaultfilters-1.32.4.jar"
 hash = "6763952a6e737617aa59442eaad65621a528306412ab6f1488d983b1b32e70ce"
 
 [[files]]
+file = "mods/vaultfilters-1.33.0.jar"
+hash = "1e51cc442b207286eabb9011839ba08bf1fc09900cc06399b3fe5e3e7931063f"
+
+[[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
 hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
 
@@ -15065,8 +15077,8 @@ file = "mods/vhapi-4.5.1.jar"
 hash = "68912a106d326b7fde828ce1c319cdb990f120c7a99c2ee659aa1de1530f167e"
 
 [[files]]
-file = "mods/vhatcaniroll-1.13.0.jar"
-hash = "c7088cc354e5c394852ca314134d63b4c08e485734d8fb956d0ea18e7a590ea7"
+file = "mods/vhatcaniroll-1.14.1.jar"
+hash = "a9adc6040cdde53ff786bd93f5bb76581b5d0a7e1adbeb920ae6072e0612bbcf"
 
 [[files]]
 file = "mods/vhcctweaks-2.2.13.jar"

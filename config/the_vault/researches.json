@@ -776,7 +776,7 @@
           "restricts": {
             "HITTABILITY": true,
             "USABILITY": true,
-            "CRAFTABILITY": true
+            "CRAFTABILITY": false
           }
         },
         "irongenerators:gold_generator": {
