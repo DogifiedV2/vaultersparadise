@@ -26,8 +26,8 @@
       "objective": {
         "type": "bingo",
         "objective_probability": 1.0,
-        "width": 5,
-        "height": 5,
+        "width": 4,
+        "height": 4,
         "blackout": true
       },
       "modifiers": {
@@ -97,8 +97,8 @@
       "objective": {
         "type": "bingo",
         "objective_probability": 1.0,
-        "width": 5,
-        "height": 5,
+        "width": 4,
+        "height": 4,
         "blackout": true
       },
       "time": {
@@ -132,7 +132,7 @@
     "rune_master": {
       "objective": {
         "type": "rune_boss",
-        "objective_probability": 1.0,
+        "objective_probability": 0.05,
         "minimum_runes": {
           "type": "constant",
           "count": 50
@@ -179,6 +179,12 @@
         },
         "required_multiplier_amount": 100
       },
+      "layout": {
+        "type": "vault_royale",
+        "radius": 10,
+        "tunnel_span": 1,
+        "boss_room_pool": "the_vault:vault/rooms/special/boss"
+      },
       "time": {
         "type": "value",
         "roll": {
@@ -190,6 +196,10 @@
       "modifiers": {
         "type": "default",
         "list": [
+          {
+            "modifier": "the_vault:royale",
+            "count": 1
+          },
           {
             "modifier": "the_vault:shortened",
             "count": 10
@@ -433,8 +443,8 @@
       "objective": {
         "type": "bingo",
         "objective_probability": 1.0,
-        "width": 5,
-        "height": 5
+        "width": 4,
+        "height": 4
       },
       "time": {
         "type": "value",

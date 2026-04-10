@@ -275,11 +275,35 @@
       "layout": [
         {
           "value": [
-              "XOOOOOX",
-              "OOOXOOO",
-              "OOXAXOO",
-              "OOOXOOO",
-              "XOOOOOX"
+            "XOOOOOX",
+            "OOOXOOO",
+            "OOXAXOO",
+            "OOOXOOO",
+            "XOOOOOX"
+          ],
+          "weight": 1.0
+        }
+      ],
+      "socketCount": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "treasureplus": {
+      "model": "the_vault:deck/treasure_deck#inventory",
+      "name": "The Treasure+ Deck",
+      "essence": {
+        "min": 4,
+        "max": 4
+      },
+      "layout": [
+        {
+          "value": [
+            "XOOOOOX",
+            "OOOOOOO",
+            "OOOXOOO",
+            "OOOOOOO",
+            "XOOOOOX"
           ],
           "weight": 1.0
         }

@@ -1145,6 +1145,30 @@
       },
       "modifierTags": [],
       "weight": 1
+    },
+    "the_vault:treasure_magnet": {
+      "name": "Treasure Magnet",
+      "item": "the_vault:magnet",
+      "models": [
+        {
+          "value": "the_vault:gear/magnets/treasure_magnet",
+          "weight": 1
+        }
+      ],
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:magnet_base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:u_treasure_magnet_range",
+          "the_vault:base_velocity",
+          "the_vault:u_pull_floating_items"
+        ],
+        "PREFIX": [],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "weight": 1
     }
   },
   "pools": {
@@ -1263,6 +1287,9 @@
     "the_vault:quickstone": {
       "the_vault:quickstone": 1
     },
+    "the_vault:treasure_magnet": {
+      "the_vault:treasure_magnet": 1
+    },
     "the_vault:crafted": {
       "the_vault:jester": 1,
       "the_vault:castle": 1,
@@ -1335,7 +1362,8 @@
       "the_vault:butcher_axe": 1,
       "the_vault:honey_stick": 1,
       "the_vault:inflated_justice": 1,
-      "the_vault:quickstone": 1
+      "the_vault:quickstone": 1,
+      "the_vault:treasure_magnet": 1
     }
   }
 }

@@ -338,7 +338,7 @@
       "icon": "the_vault:gui/researches/mixture"
     },
     "Brews": {
-      "x": 490,
+      "x":490,
       "y": 240,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/brew"

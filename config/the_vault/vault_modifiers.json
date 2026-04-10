@@ -3467,9 +3467,8 @@
         "properties": {
           "children": {
             "the_vault:tiny_mob_speed": 1,
-            "the_vault:tiny_mob_increase": 1,
-            "the_vault:mob_damage_25": 1,
-            "the_vault:mob_health_5": 1
+            "the_vault:cake_mob_increase": 1,
+            "the_vault:mob_damage_25": 1
           }
         },
         "display": {
@@ -3777,6 +3776,19 @@
           "description": "The mobs are visiting daycare and have shrunk by half their size, and have 50% less damage!",
           "descriptionFormatted": "The mobs are visiting daycare and have shrunk by %d%% size, and have half their damage!",
           "icon": "the_vault:gui/modifiers/daycare"
+        }
+      },
+      "the_vault:greed_trial": {
+        "properties": {
+          "children": {
+            "the_vault:rotten": 1
+          }
+        },
+        "display": {
+          "name": "Greed Trial",
+          "color": "#1e31b0",
+          "description": "This vault is a Greed Trial, you will face the increasingly powerful Vessel.",
+          "icon": "the_vault:gui/modifiers/greed"
         }
       }
     },

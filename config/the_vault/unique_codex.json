@@ -55,7 +55,8 @@
         "the_vault:frozen_heart"
       ],
       "MAGNET": [
-        "the_vault:quickstone"
+        "the_vault:quickstone",
+        "the_vault:treasure_magnet"
       ]
     }
   },
@@ -1127,6 +1128,32 @@
         ]
       },
       "uniqueId": "the_vault:quickstone",
+      "isNewInUpdate": true
+    },
+    {
+      "title": {
+        "description": {
+          "text": "Treasure Magnet",
+          "color": "#7D520E"
+        }
+      },
+      "description": {
+        "description": [
+          {
+            "text": "An enchanted magnet capable of drawing in floating treasure items from across the room.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nDrops in: ",
+            "color": "$text"
+          },
+          {
+            "text": "Treasure Objective",
+            "color": "#7D520E"
+          }
+        ]
+      },
+      "uniqueId": "the_vault:treasure_magnet",
       "isNewInUpdate": true
     }
   ]

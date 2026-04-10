@@ -114,6 +114,14 @@
         "poolId": "greed_catalysts_t1",
         "minCoinCost": 24,
         "maxCoinCost": 39
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "4": [
@@ -164,6 +172,14 @@
         "poolId": "greed_catalysts_t1",
         "minCoinCost": 26,
         "maxCoinCost": 41
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "5": [
@@ -228,6 +244,14 @@
         "poolId": "greed_catalysts_t1",
         "minCoinCost": 28,
         "maxCoinCost": 43
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "6": [
@@ -299,6 +323,21 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 25,
         "maxCoinCost": 42
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 40,
+        "maxCoinCost": 60
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "7": [
@@ -370,6 +409,21 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 27,
         "maxCoinCost": 46
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 42,
+        "maxCoinCost": 62
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "8": [
@@ -441,6 +495,21 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 29,
         "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 44,
+        "maxCoinCost": 64
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "9": [
@@ -512,6 +581,21 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 31,
         "maxCoinCost": 54
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 46,
+        "maxCoinCost": 66
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "10": [
@@ -590,6 +674,21 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 33,
         "maxCoinCost": 58
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 48,
+        "maxCoinCost": 68
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "11": [
@@ -668,6 +767,21 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 35,
         "maxCoinCost": 62
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 50,
+        "maxCoinCost": 70
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ],
     "12": [
@@ -746,10 +860,35 @@
         "poolId": "greed_catalysts_t2",
         "minCoinCost": 37,
         "maxCoinCost": 66
+      },
+      {
+        "type": "pool",
+        "weight": 2,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 52,
+        "maxCoinCost": 72
+      },
+      {
+        "type": "xp_burger",
+        "weight": 1,
+        "minAmount": 2000000,
+        "maxAmount": 10000000,
+        "minCoinCost": 40,
+        "maxCoinCost": 90
       }
     ]
   },
   "pools": {
+    "greed_trinkets": [
+      {
+        "weight": 10,
+        "minGreedTier": 6,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:greed_trinket"
+        }
+      }
+    ],
     "catalyst_t1": [
       {
         "type": "catalyst",
@@ -1067,11 +1206,6 @@
     ],
     "OMEGA": [
       {
-        "pool": "the_vault:vault/rooms/omega/digsite",
-        "weight": 1,
-        "model": 6
-      },
-      {
         "pool": "the_vault:vault/rooms/omega/painting",
         "weight": 10,
         "model": 10
@@ -1160,7 +1294,7 @@
         "weight": 3
       },
       {
-        "modifier": "the_vault:bonus_wooden",
+        "modifier": "the_vault:wooden_bonus",
         "weight": 4
       }
     ],
@@ -1212,7 +1346,7 @@
         "weight": 6
       },
       {
-        "modifier": "the_vault:bonus_wooden",
+        "modifier": "the_vault:wooden_bonus",
         "weight": 6
       }
     ],

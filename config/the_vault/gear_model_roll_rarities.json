@@ -552,7 +552,8 @@
         "the_vault:gear/magnets/magnet_blue_tiny"
     ],
     "UNIQUE": [
-      "the_vault:gear/magnets/quickstone"
+      "the_vault:gear/magnets/quickstone",
+      "the_vault:gear/magnets/treasure_magnet"
     ],
     "SPECIAL": [
       "the_vault:gear/magnets/spring_magnet",

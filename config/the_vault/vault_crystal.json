@@ -1434,7 +1434,7 @@
       {
         "level": 40,
         "pool": [
-
+         
           {
             "value": {
               "type": "scavenger",
@@ -2356,7 +2356,7 @@
         "objective": {
           "type": "treasure",
           "items_per_room": 12,
-          "chest_loot_table": "the_vault:treasure_chest_lvl50",
+          "chest_loot_table": "the_vault:treasure_chest_lvl50_objective",
           "pillar_loot_table": "the_vault:treasure_pillar",
           "objective_probability": 1.0
         },
@@ -2364,7 +2364,7 @@
           "type": "value",
           "roll": {
             "type": "constant",
-            "count": 6000
+            "count": 7200
           }
         },
         "modifiers": {
@@ -2392,7 +2392,10 @@
             }
           ],
           "random_modifiers": false
-        }
+        },
+        "exhausted": true,
+        "clearModifiers": true,
+        "clearCapacity": true
       }
     ]
   },

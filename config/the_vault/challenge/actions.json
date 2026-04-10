@@ -1403,6 +1403,12 @@
           { "value": "ornate_chest_big", "weight": 100 },
           { "value": "living_chest_big", "weight": 100 },
           { "value": "coin_pile_big", "weight": 100 }
+        ] },
+        { "level": 50, "pool": [
+          { "value": "gilded_chest_big", "weight": 100 },
+          { "value": "ornate_chest_big", "weight": 100 },
+          { "value": "living_chest_big", "weight": 100 },
+          { "value": "coin_pile_big", "weight": 100 }
         ] }
       ]
     },
@@ -1410,6 +1416,12 @@
       "type": "pool",
       "levels": [
         { "level": 0, "pool": [
+          { "value": "gilded_chest_big", "weight": 100 },
+          { "value": "ornate_chest_big", "weight": 100 },
+          { "value": "living_chest_big", "weight": 100 },
+          { "value": "coin_pile_big", "weight": 100 }
+        ] },
+        { "level": 50, "pool": [
           { "value": "gilded_chest_big", "weight": 100 },
           { "value": "ornate_chest_big", "weight": 100 },
           { "value": "living_chest_big", "weight": 100 },

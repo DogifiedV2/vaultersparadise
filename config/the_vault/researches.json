@@ -346,7 +346,7 @@
           "HITTABILITY": false,
           "BLOCK_INTERACTABILITY": true,
           "USABILITY": true,
-          "CRAFTABILITY": true,
+          "CRAFTABILITY": false,
           "ENTITY_INTERACTABILITY": false
         }
       },
