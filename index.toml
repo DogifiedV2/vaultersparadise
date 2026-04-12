@@ -1786,7 +1786,7 @@ hash = "2beaec69e5fb651161af17bb05163043a92a12cc7ea8f323648899deb7dbcc0e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
-hash = "9e626c63bb39522dd3a7795700041f7023f79abf84524e559b1b05d75defae45"
+hash = "470989f1c1bd5801451eb13d207a497de85bd80650eac7098fa20ec8d5e92662"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
@@ -13270,7 +13270,7 @@ hash = "771889269adff1c6e114251870b2b6c063cfd167dac8b8b0ae36db5c645185a7"
 
 [[files]]
 file = "config/the_vault/greed/greed_cauldron.json"
-hash = "dcc2df4ed696b0c7c9f072728ef4a0ee5cc22f80fb1acb78ef86477e0d94b379"
+hash = "3133bc2a5c3ee7ecd367be52c8b6bbacc5ba5c451296af38b4bee72fb3647e6b"
 
 [[files]]
 file = "config/the_vault/greed/greed_gui_styles.json"
@@ -13946,7 +13946,7 @@ hash = "b36a3d44070c3e408f97b6f96b7680619721f1cb51078adf7b7cb8fdd8c66ec4"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "a5ac03a8d1d312af267219805f289b0780e2641cceca51aa593f06925e788865"
+hash = "dfbbc5440046e1e26ebe0dd0e80cdd2f20d9266816db39af37ddb683845eb4ec"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
@@ -15034,7 +15034,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "74157d0435e13571a345cefeac2a8c43cbe9da6016573910ba8be7a5a9ef0fdf"
+hash = "d679ef0299fa3fc29aacf4d1aa7e1793cbe037b4cdfadfa48c8c69dc271fc392"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -15095,10 +15095,6 @@ hash = "68912a106d326b7fde828ce1c319cdb990f120c7a99c2ee659aa1de1530f167e"
 [[files]]
 file = "mods/vhatcaniroll-1.14.1.jar"
 hash = "a9adc6040cdde53ff786bd93f5bb76581b5d0a7e1adbeb920ae6072e0612bbcf"
-
-[[files]]
-file = "mods/vhcctweaks-2.2.13.jar"
-hash = "ec368d3e8ea926481b232cada7f4b1425811910289c68b720bbd2d3a2289967a"
 
 [[files]]
 file = "mods/vhcctweaks-2.2.23.jar"
