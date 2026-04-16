@@ -37,21 +37,7 @@
         "tiers": [
           {
             "type": "lucky_altar",
-            "luckyAltarChance": 0.1,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "lucky_altar",
             "luckyAltarChance": 0.2,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "lucky_altar",
-            "luckyAltarChance": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -65,8 +51,8 @@
           },
           {
             "type": "lucky_altar",
-            "luckyAltarChance": 0.5,
-            "learnPointCost": 1,
+            "luckyAltarChance": 0.6,
+            "learnPointCost": 2,
             "regretPointCost": 0,
             "unlockLevel": 0
           }
@@ -79,21 +65,14 @@
         "tiers": [
           {
             "type": "shop_pedestal",
-            "costReduction": 0.15,
+            "costReduction": 0.25,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "shop_pedestal",
-            "costReduction": 0.3,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "shop_pedestal",
-            "costReduction": 0.45,
+            "costReduction": 0.5,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -107,22 +86,29 @@
         "tiers": [
           {
             "type": "crafting_potential",
-            "reducePotentialAmount": 0.15,
+            "chanceToNotConsumePotential": 0.2,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "crafting_potential",
-            "reducePotentialAmount": 0.3,
+            "chanceToNotConsumePotential": 0.4,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "crafting_potential",
-            "reducePotentialAmount": 0.45,
+            "chanceToNotConsumePotential": 0.6,
             "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "crafting_potential",
+            "chanceToNotConsumePotential": 0.8,
+            "learnPointCost": 2,
             "regretPointCost": 0,
             "unlockLevel": 0
           }
@@ -137,7 +123,7 @@
             "type": "creative_flight",
             "learnPointCost": 1,
             "regretPointCost": 0,
-            "unlockLevel": 50
+            "unlockLevel": 20
           }
         ]
       },
@@ -182,32 +168,8 @@
         "tiers": [
           {
             "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction_cap",
-            "value": 0.05,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction_cap",
-            "value": 0.1,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction_cap",
-            "value": 0.15,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "gear_attribute",
-            "attribute": "the_vault:durability_wear_reduction_cap",
-            "value": 0.2,
+            "attribute": "the_vault:durability_wear_reduction",
+            "value": 0.06,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -215,7 +177,31 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.25,
+            "value": 0.12,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:durability_wear_reduction",
+            "value": 0.18,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:durability_wear_reduction",
+            "value": 0.24,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:durability_wear_reduction",
+            "value": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -380,13 +366,20 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "fortunate",
+            "additionalFortuneLevels": 3,
+            "learnPointCost": 2,
+            "regretPointCost": 0,
+            "unlockLevel": 0
           }
         ]
       },
       {
         "type": "tiered",
-        "id": "Jeweler",
-        "name": "Jeweler",
+        "id": "Lapidarist",
+        "name": "Lapidarist",
         "tiers": [
           {
             "type": "jeweler",
@@ -425,30 +418,6 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          },
-          {
-            "type": "marketer",
-            "timeReductionInMinutes": 0,
-            "numberOfRolls": 4,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "marketer",
-            "timeReductionInMinutes": 0,
-            "numberOfRolls": 5,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "marketer",
-            "timeReductionInMinutes": 0,
-            "numberOfRolls": 6,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
           }
         ]
       },
@@ -468,6 +437,13 @@
             "type": "fortuitous_finesse",
             "extraLegendaryChance": 0.02,
             "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "fortuitous_finesse",
+            "extraLegendaryChance": 0.03,
+            "learnPointCost": 2,
             "regretPointCost": 0,
             "unlockLevel": 0
           }

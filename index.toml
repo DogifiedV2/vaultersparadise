@@ -1386,7 +1386,7 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "1cc4346715104142077d8dc8348bd5d38b4bd2d6524fedefb695840ec879556a"
+hash = "b03036f2fe5e62bf302a9a82521c0e9c7306a99870cf663157802a54c2407701"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
@@ -1402,7 +1402,7 @@ hash = "fadc74a84a946b7bd1b977e02e65d666756eb9a2b2695ceaac9e5ed487e26759"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "7d69de0facc3ef093afd7caaa4186986b568e3d6875e55dc4d655de68f44badb"
+hash = "9d373471d2335f28271af2d6de0239941c92aa5cb5c07c7cf03727c5eb5afb68"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -1522,7 +1522,7 @@ hash = "8afdef0d4d66e2cb5e7f60b1310afcd30b75969a5f3b123579e84afb2ed1e27d"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
-hash = "1e00eb295e2a68412d36615649a6818fbebd0e1689b41293eea32896039bc7bb"
+hash = "fb301d2b62db7fad42f905db9a0894494fa84aa6592ac5e4fe59f9951f98b00d"
 
 [[files]]
 file = "config/the_vault/card/conditions.json"
@@ -1538,7 +1538,7 @@ hash = "b081a3508ec46d71cc3ae599881410dcacf2eb2d3fc7ead5917fd6061e9f1a65"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "4ba80c5a7481dc2c864f77d8f704079c980a0ad334504cd44719705e755bd0d7"
+hash = "5a60522f11df92bc3ff0daa829fed465b05a0bc1863833aea8a24017c939a794"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -1546,7 +1546,7 @@ hash = "c6a67d7f092407d21e18d6d6c1e872a1d487fa949eed2ddb62e66292919ffe7a"
 
 [[files]]
 file = "config/the_vault/card/tasks.json"
-hash = "f0189ee919d329035ff17779c11725c30114a6535317312486847b9b6ad46f22"
+hash = "8bb14bf443176c873d1f728b13cb983dd18e46064e08eb77496eca7cd5fdfa66"
 
 [[files]]
 file = "config/the_vault/card_essence_extractor.json"
@@ -1678,11 +1678,11 @@ hash = "737c74f66be6d81da841827533a27eeb8f37cf6687f88d25b747027a79589d42"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "6ed722a26e91d6050889eee5e47f39e53ec9323801dcddb209e168384cd50ae1"
+hash = "98f07dcfd634c78ce03ea18dd1fb9024038e4dbebde411a2b9f0add872801c85"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
-hash = "d237e21dd99fef6b800fd2f20355c0483c163f71e70ad64d08fc0e902f965131"
+hash = "4a841c87e6e38ef40c1351ef6d09d5514506fbe921ab6a5b59801c9ae68063dd"
 
 [[files]]
 file = "config/the_vault/eyesore.json"
@@ -1737,6 +1737,10 @@ file = "config/the_vault/gear_modifiers/axe.json"
 hash = "29240baf7cb401112f1fa26b0ae033248ac0d68015f767fd44b7becc2850b90f"
 
 [[files]]
+file = "config/the_vault/gear_modifiers/battlestaff.json"
+hash = "acec15548dbd7678927cad5e45a7963d6bfa26dc971774716acf2bccd4d7a427"
+
+[[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
 hash = "4bcf9643af45d74214de0bc21e2096e10361567ac366a85e642488d29cce223a"
 
@@ -1785,8 +1789,20 @@ file = "config/the_vault/gear_modifiers/leggings.json"
 hash = "2beaec69e5fb651161af17bb05163043a92a12cc7ea8f323648899deb7dbcc0e"
 
 [[files]]
+file = "config/the_vault/gear_modifiers/loot_sack.json"
+hash = "c98e3d9c29d3a97d1e5a5d95b400ed66b1fc2302b3df6ae97944ddbae082dfdc"
+
+[[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
-hash = "470989f1c1bd5801451eb13d207a497de85bd80650eac7098fa20ec8d5e92662"
+hash = "88b37554d7f480c9435e289f7ea8b7afdf44317f2f251b16024840db82cc5051"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/plushie.json"
+hash = "892ba5295e8d75d28e4cc40dd9d55c6b78ea62721e105aa456c6fa918eec0dce"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/rang.json"
+hash = "8f81d425142ae44e1cb9d0168e46ac7be9b7aba59ebbb11ddaa1026c1226e820"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
@@ -1795,6 +1811,10 @@ hash = "62d8ccd174c9bd7992ab5f16bc6a99707d396d8e1e3bdf1496a93cc0bea8f826"
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
 hash = "7ebc2c8ef6e2e93b32862836d619a3d7bd068a2902a1957fd4f27e2bbf5f440f"
+
+[[files]]
+file = "config/the_vault/gear_modifiers/trident.json"
+hash = "332855a91b55693f8bf827cfa0fdaa2bcf9cbd471288d5f8f15b19c9cdf93715"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -1819,6 +1839,10 @@ hash = "6285d67fe55063854e9dccd2ad50acac4a33cdd5c6684ea2bf811e0a861d5cc1"
 [[files]]
 file = "config/the_vault/gear_workbench/axe.json"
 hash = "b44db790554dc87c683af350a01d4afe54d7883ca63f26ecb60332259c44ba35"
+
+[[files]]
+file = "config/the_vault/gear_workbench/battlestaff.json"
+hash = "95f4533c89bc87c09cd563750258d81c698daeb4c83ae728c37e258731f61769"
 
 [[files]]
 file = "config/the_vault/gear_workbench/boots.json"
@@ -1857,8 +1881,20 @@ file = "config/the_vault/gear_workbench/leggings.json"
 hash = "dad8aff5897fb5c5ac3e1075a96649d6652e14f0f4da173b6eae3d3b716bea68"
 
 [[files]]
+file = "config/the_vault/gear_workbench/loot_sack.json"
+hash = "d99b839398c324c7505f37b185ca042cc7a314597a02fe850a7c47a30503dac9"
+
+[[files]]
 file = "config/the_vault/gear_workbench/magnet.json"
 hash = "42b3367f627dd8c61d6c8a10c2bcf0ba2a99c8a3c5ee0388ef34db92333d931a"
+
+[[files]]
+file = "config/the_vault/gear_workbench/plushie.json"
+hash = "dea041c4fb9380f10aa3bd290bdd16e369391f097190e990d9e93dcea0836385"
+
+[[files]]
+file = "config/the_vault/gear_workbench/rang.json"
+hash = "5260bc39fddb8b51cd4221cbeeb18fc418d080326fd1c8e5a25f48c7d0d66c7f"
 
 [[files]]
 file = "config/the_vault/gear_workbench/shield.json"
@@ -1867,6 +1903,10 @@ hash = "ec52c937e57c347d5ecfa86c53a4fe5a6cd40b7b5810f28db82889511b47307a"
 [[files]]
 file = "config/the_vault/gear_workbench/sword.json"
 hash = "86b72bf06b7f138bdd12a1df963e5f2e7e116dd7ef48ff8897a1f5911e543961"
+
+[[files]]
+file = "config/the_vault/gear_workbench/trident.json"
+hash = "76fa2718bd533a5d18c1b6d56a33437e71f5e9df1cb3a5e300f68a2299129978"
 
 [[files]]
 file = "config/the_vault/gear_workbench/wand.json"
@@ -13786,11 +13826,11 @@ hash = "b62a85e5036e7108a112271dadf1fdb402dcc1f82ad2aea5feed850443b79829"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "d836b962c5d13064d0e4c23b826cf930532498be8deedc24886dad8c7feb3378"
+hash = "8b684adf2d16b0ace9d923a664d3d70623c343e5644e9ad7079b0b5b1a0265fd"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
-hash = "3b1cd015134cfdec393ac560a56433c32b901c1774e8ca82610319354a3c6603"
+hash = "44ec735167477b368c8efaf0dc81f0fe7d97002a91a4761e3b2c3918886df472"
 
 [[files]]
 file = "config/the_vault/team_tasks.json"
@@ -14210,7 +14250,395 @@ hash = "78bb04633cd233d130b3a970e3ed2c712c9cf706c6e9e454c813ec81326943d1"
 
 [[files]]
 file = "kubejs/assets/the_vault/lang/en_us.json"
-hash = "a4d1d9000f860f40ca455f87297a25cc3317c0bccf311fbeb91643f921e88ae8"
+hash = "015c2d219472d1ed6bfdd68d3e161361886a8d5e29c685c0202595e9c35b0b9d"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/block/vendor_door/top.json"
+hash = "a0a8822805e356fa87a2a654fdca297807be3f898219a9abe3abb141818cbddf"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/bladefrenzy.json"
+hash = "89b5da0a434408a630b2f93dab7e91e4d27889dfd8e0f935452bdcb006aaeb8c"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/colossus.json"
+hash = "9869ae5e18b06616480f8a38c7c756a4a539e280a6a853d5ff173b984b217cae"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/effect_duration.json"
+hash = "ce86f173d5c67ba6d1ad376b54ed674146974a86a44a722b30443c6c7af59c89"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/fortify.json"
+hash = "e2d57dc85b81eb0169a4ce262265c022b2ffd4134a4956697ba66b64eabde651"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/levitate.json"
+hash = "980477dfd54fe55be7ab6a149159c31cf7ac8f2282fc06e130dabc403e7dc0f5"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/mana_shield.json"
+hash = "e780f577f143d5d0454ca0f9fc317df2559dd7669da2ac5a8198d3584dd76d5a"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/shield_wall.json"
+hash = "1f0059235c04c69c1f800fc86300f532e1305c9da8b6da36dedf422a94059c5f"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/sneaky_getaway.json"
+hash = "e9554030aa5d5c1b1806ff28b15071f85211b402c3408d68ee9263357ed4ea71"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/vein_miner_chain.json"
+hash = "979c61fc331e3aacff6f94002f792128a1a4bd5ab92e333af31a18d8e5a39ad2"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/catalyst/95.json"
+hash = "993122683e77fe677b7e1ad8402731e73ea42de2f1d199b4eed16ede6c34fb97"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/catalyst/96.json"
+hash = "806dfa4a6c1e316ccb69ce23fc8e4553fccd9e27de309c0b9dbf7e82f001b21d"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/catalyst/97.json"
+hash = "4b30154b256e058bdc4bdaa918c224fa38ff3421bd5c6163dec19aff5de7f568"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/catalyst/98.json"
+hash = "23c1d422718ce299172a1dcd076bf3bc453bd71957aac17a8c7f08a26ea77d6e"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/catalyst/99.json"
+hash = "5c54be875e3096bbed02b62e3d9eb480f7ef1efd7689c4ca6644e70d96262ff5"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/choice_flask/colossus.json"
+hash = "0593a5e31671732e9ac3eec0a84be53b75147234790c340448a7287436126bed"
+
+[[files]]
+file = "kubejs/assets/the_vault/optifine/cit/ff/ff-channeling.properties"
+hash = "e143f8abb6fb126a5c737d38884520a51e588273d631cf3f47dabfbc8e0ae029"
+
+[[files]]
+file = "kubejs/assets/the_vault/optifine/cit/ff/ff-duraReduce.properties"
+hash = "2fec2e8e1c0651182d517f6c6538d47daed1e11482e1eb39fadbb40bead76eba"
+
+[[files]]
+file = "kubejs/assets/the_vault/optifine/cit/ff/ff-piercing.properties"
+hash = "4906403d65801cb7253b70da5a7e6ccd988bc3aa22e88d5fc680954e084448a5"
+
+[[files]]
+file = "kubejs/assets/the_vault/optifine/cit/ff/ff-reaving.properties"
+hash = "d1071823c5239f198be4d17d35f1d9cfffffe1b74b5001759b14a0c74a1ce7cf"
+
+[[files]]
+file = "kubejs/assets/the_vault/optifine/cit/ff/ff-returnDamage.properties"
+hash = "1243677e6e4b212acd09e1f723b2df83e5c29bb77333bf0483bdfc6b5220290a"
+
+[[files]]
+file = "kubejs/assets/the_vault/optifine/cit/ff/ff-windup.properties"
+hash = "8661dbdba682f83e4d5caea892457f9666128e50e89f4f8e2e30f284a5a522a2"
+
+[[files]]
+file = "kubejs/assets/the_vault/optifine/cit/flask/cf-colossus.properties"
+hash = "9602ff1862098024873f9578230f4003df6a1c8fa773dce490a5f288087f5eb2"
+
+[[files]]
+file = "kubejs/assets/the_vault/skills/zephyrs_grace.png"
+hash = "2d7e5c5c827d7c32d621b921e2d63a9805e89de24333365500fef2c6c72d4d45"
+
+[[files]]
+file = "kubejs/assets/the_vault/skills/zephyrs_grace.png.mcmeta"
+hash = "ef77f146f92b1dfe38504a6cd4699ff8855b1052131db119860edda8551772d1"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ancient_copper_block_1.png"
+hash = "f7b496a3c6a130a231694205d397f29be0d90ca588a26d8e9ef314de96599078"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/artifact_grayscale/vault_artifact_2.png"
+hash = "7f1674f305f230508a180c4db3640ff98afab57973983853b74e3a7b82cbf6f6"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/artifact_grayscale/vault_artifact_9.png"
+hash = "2a998f4f54dcfce1caba55917f1a49c88eab6f577b8613e59009753e9117db05"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/block_gem_pog.mcmeta"
+hash = "c9e700b89322f63b7b2bb026fb065202d339545c31f185679afea9e29fe35c68"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/block_gem_pog.png"
+hash = "9e00a1cd308566def84793653b1f6234c66e7d1b9a3b07e5f95a6abeebed60d8"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/block_gem_pog.png.mcmeta"
+hash = "27336aae468c5e8ff15f87cf33caa495f3c47fb94fe4b8e9e7ad04325529e161"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/gilded_block_1.png"
+hash = "1d2f12d7f691e37c58a65117ac5250b2a05102d1dbfc0f4e1c7a323a7cabb2a5"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/living_rock_block_cobble_1.png"
+hash = "b623376ead7065842a69f5470d60226008d2c311a606cc33c9c9b615f809e541"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/magic_silk_block_1.png"
+hash = "8ba5109f247469c5fa136bf5e927f305e0101f29768341048ad87946e171ee1c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/mossy_bone_block_1.png"
+hash = "6cc7dec05a5b6ccc6d03051b8e9be061dbc4e9f85289993a1a76a8eff36b99b2"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/mossy_bone_block_top_1.png"
+hash = "674d50d80e81e57e6f3c882877f136e904233513dfc02a5f98770bb837fdee77"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ore/white/puffium.png"
+hash = "efa1b62c77c00c1e8f33baa394eb028cc16fc170dc6dcf9abc3c70805f516979"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/ornate_block_1.png"
+hash = "d76d2d065e3e02cb51454d98217ada8f48d31c0f82b9154331c87393163f5449"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/rotten_meat_block_1.png"
+hash = "5c814c7073109713f05e786fb242d633db290825f54b1e6f6d9b8a03c2dce8f7"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/sandy_block_1.png"
+hash = "61b09a40b5e24e4839167599ba385734f5503d18b7ab4f0351f21e5b9f77c5c3"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/silver_scrap_1.png"
+hash = "fe6256715079efe028f3a667a8beb738ca8ff720eb731d0f61b9132cb6e03402"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/silver_scrap_2.png"
+hash = "8e17f5053b7d0196349ff08e4bb17ac6e0b481c04fcc6aaabdb959e7725e911e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/treasure_doors/puffium.png"
+hash = "5a228e52972d9825bdf35fe9451584d6d34d741cb804ed6613623376fb860ea7"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vault_artifact_2.png"
+hash = "754fa1d25578b31559d44e9c91a529d9aa118a6d93e566fd896913eb580ef1d9"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vault_artifact_9.png"
+hash = "691293f5b8eb78dbc0588cbf680fd1b6484ba0c8822c8e5445beb1fdb61b4d22"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vault_cobblestone_1.png"
+hash = "2dec5ab1facd26905ea1f1dc84e68e3981f924159d05ff31c0be1d6b8c2b2623"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vault_cobblestone_2.png"
+hash = "4daa548e68ff6f2a095ebb18876f455d809837ffb3ee87d165d2c49cf26dd873"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vault_plating_block.png"
+hash = "b14c6c67a26dfd3a91e0cc04fec96f9fb87f7c806b9d90390383f485b5cdffca"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vault_plating_block_1.png"
+hash = "ef866b57d1f0506aa3e4cdf17371ec2e596cbb661757699921af33762d7187c6"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vault_stone_1.png"
+hash = "44688daf32dd81507d4c7df122cb3f4085234c67121a29746785f668479103ad"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vault_stone_2.png"
+hash = "7e66e2bf6513a7b413815be30f08cd69035eea099cc770ae3623d7af8db581ad"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/velvet_block_1.png"
+hash = "803f5c34189d7eb0ba4d24ae8e631cc14c91612b52b591e5252df753f21b9628"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/block/vendor_door/top.png"
+hash = "11d4e362f22db57813b6f15477004d969b12490322f8739d871a377d896c5fe3"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/entity/bed/velvet.png"
+hash = "c60d50d777405eb20d6fc7dc7feeb83b019f68e76587ea1f763f482a5649969a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/abilities/bladefrenzy.png"
+hash = "78e713b73ae9142ca6449ebfb8874403fc2809049102f3e380127f3fe848672d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/abilities/fortify.png"
+hash = "9a3816f2e87539c09324f688f635061809009130d56f37467c736e0442ca0215"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/abilities/shield_wall.png"
+hash = "1764327da0c3be7aa762d331290aa193481de333b26b5fd6a042a260662af55d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/bingo/shopping.png"
+hash = "be2f2837d269acbae76cdff58f395bfa81939d4e24238d49a0b4890f642879c9"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/bingo/vindicator.png"
+hash = "dc835a2d4dc175d9cd680b856f35ef62094e53d24abac95e49709effb35f1f6e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/mob_groups/dread.png"
+hash = "b5a6a9c7bdc38e55f58650687a29a6470fceba126246cf63d38c712980ed88bb"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/modifiers/power.png"
+hash = "9ecb835971c5b41d10a3452079f7152226aeec4c51f1649f7c2b877ae732eea9"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/modifiers/tree.png"
+hash = "c456b715c61a0a02a01b52db18e6061df9278fc075bf4cd1ef9abe97b0b3dedf"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/battlestaff.png"
+hash = "2249061868e4056b8c94b5f61c6b4426802814d60b92884600973bb1c79b87d9"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/card_id.png"
+hash = "276237be660e21c280ea74c3fe312fcca460de717b49253d02dec6928fc55843"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/card_id.png.mcmeta"
+hash = "32874c9347f4a83c911ae81cd7c29c7cc7ab083abaf7e13fa9ef6294e5d74e4d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/coin_pouch.png"
+hash = "ceb707388cf04e99c3f098397a795e42c0e5bbc45e4f02ce0f1507b687dd22a7"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_doomsayer.png"
+hash = "1505cfa2908467265bea57c6f62b7fadb84dc4739392d104e85a5b2a232cc310"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_doomsayer.png.mcmeta"
+hash = "705c9cfca323c09712c3b9a1595116e0571702b544e407831951ab7849e743c0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_enchanter.png"
+hash = "4a17bb0f0690a42fcf9efdb0ff615aef19b2b87bdc943a2f99fcd55fd255ea27"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_enchanter.png.mcmeta"
+hash = "705c9cfca323c09712c3b9a1595116e0571702b544e407831951ab7849e743c0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_spirits.png"
+hash = "2b70d7a6df8a7d802b17e1b4fe56c56a73f8b6928d89c14ff8fdb7320fd4af2e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_spirits.png.mcmeta"
+hash = "705c9cfca323c09712c3b9a1595116e0571702b544e407831951ab7849e743c0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_titan.png"
+hash = "52df56573e916e6ff6e6db580eca0cb7b1a19e22d2d9d32a4159a19ca55b5025"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_titan.png.mcmeta"
+hash = "f57c9534539511aa7a9598fcf0408c6c9ae212eb8dfe703382f8164954e411c5"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_unhinged.png"
+hash = "c4ece986d8c4fe169e7622964005d996434d6df17021d0e73eec7b73ec707488"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_unhinged.png.mcmeta"
+hash = "705c9cfca323c09712c3b9a1595116e0571702b544e407831951ab7849e743c0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_zealot.png"
+hash = "bd015707041028b6c216838843898184405c07fb194ff63733ea29669df30b98"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/crystal_seal_zealot.png.mcmeta"
+hash = "705c9cfca323c09712c3b9a1595116e0571702b544e407831951ab7849e743c0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/doll_juicer.png"
+hash = "6bcdc4850912e2318aa9227cfede69c8bcaa2067f1170981e1b51c49dd1f3707"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/event.png"
+hash = "c456b715c61a0a02a01b52db18e6061df9278fc075bf4cd1ef9abe97b0b3dedf"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/globe_expander.png"
+hash = "3e8cb5f6fef2cd11c8b2821d02bf677103f013855ecb67ad67e3be6ccd4be0ff"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/jewel_id.png"
+hash = "9716f5ac4f13049d2b194421cabf872d814a0a0eae22aa672f07cb8c7b250262"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/level100.png"
+hash = "b51e9eb1682f71587a5d843f48120e23bff958f84f96df6c78ca4d2cadf2777c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/level65.png"
+hash = "1acfb81cd8d8b345a00da3789a6c8ad33bd1248875f6a44bb46276456a37fc23"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/level90.png"
+hash = "30cc1901c311298d1ddd595219508f5fe986243a2bd022f5c99279eec9002656"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/loot_sack.png"
+hash = "6e6247ddcc5eb83c52d5246a5bc9808d9acacae75d8d7af0d2b087dac6c700a6"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/plushie.png"
+hash = "ec926510de728863541042e7f9e75ca4fb806157c1075f50449fd39a4a4576d4"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/power_crystal.png"
+hash = "c48e1236ec2f0571dbc8603d38fcc0755ff8c62e8fa226892e70a2549ef3f1a5"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/purposer.png"
+hash = "5bc04bc0199ec57f9855b7a451d7f0f565a387d8423fb6031b71ad699b5a9068"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/rang.png"
+hash = "131a56f491da88053aca83debb42117c2b71c744a76584152e56f6a96eb8f232"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/raw_vault.png"
+hash = "0e4e4a4d87127bc25c6a876d5cdaf285e1dcafd181e270067273fa8cf73e728f"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/seal_enchanter.png"
+hash = "79205fd164df2379d1899df57bb76c5a7310d9aa972ac41a0d597ed61dfb39f3"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/seal_spirits.png"
+hash = "9c39a68aeba2ee58c6707fbbde30425691e5d053eee2cfdc3cba9c0956f0e107"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/seal_titan.png"
+hash = "d232d719547aa6a61448697253d1ce09ddb4da40b21d445afd932a5b7acf6516"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/trident.png"
+hash = "7f0e6e2392fe3f0320cb6d6fe2c4b44c825c114b73909f11a2083957f947d0da"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/quests/wolds.png"
+hash = "c12135f609171d74fb32acfeef26c1788a4a605ec4618af167cd082de9f5999c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/appmek.png"
+hash = "c81ad25f8a0a07320cbddc1d7383536f88f780b61872e9227875f7b3181c3868"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/bonsai_pots.png"
@@ -14219,6 +14647,14 @@ hash = "387a394be02230f0e4a63ad07944426610a02da882e912075e7aa17d25e61bc4"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/create_crafts_and_additions.png"
 hash = "d48f94e6c9bb9bc0f9c02c3f4edfa97deba7917ff4a8bbb9daa3daec7491ec27"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/easy_blocks.png"
+hash = "522b44d2a57f61e0143461489f7e3e7f4d063e414bfedc94ec85f0e4849c81f4"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/functional_storage.png"
+hash = "072d58210472b08ef15271134e8b8c55942cc6f414dee156986359412b4314b5"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/integrated_dynamics.png"
@@ -14233,8 +14669,32 @@ file = "kubejs/assets/the_vault/textures/gui/researches/mobprocessor.png"
 hash = "0fa1afdc5752609f8d7da74b231fd9e2952087ca6df9492b571092583a556914"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/prismatic_angel_ring.png"
+hash = "8081fca06eb163fa46b4e783fb55a0df13f640116b2c7c47c6553412aa0c5022"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/prismatic_angel_ring.png.mcmeta"
+hash = "a1e81ad7f18bcff07c05550cbef39e51603c8985e5f97707f4629b726aa51e8a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/sophisticated_storage.png"
+hash = "2b70f8a9878b61b807d650871ccdfcdf970898b35bb8cddab7fc399b206afbe4"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/tiab.png"
 hash = "df7abd24cc27d1ccd6e52e3d3a1c62662fec841a37d2c9fc9c289c0dcd12fed7"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/vault_rings1.png"
+hash = "0e8c5b71bb7af5ec2d7e492ae315dd619176a45a1b12c4554b2c2c4e2af689f8"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/vault_salvager.png"
+hash = "15d5ed4474ec61b02009d726360b13d0a063bf6963c7b6a17b2e43aceb36125f"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/skills/zephyrs.png"
+hash = "230db3216f9e5603c6aa5299a25b0bdf594f58b82199d627a90cc386f1563a70"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/slot/curios/coinpouch.png"
@@ -14243,6 +14703,450 @@ hash = "dfeafe7ec8c70ec5038556d9b83fb5d3cc0cef7ae513cb72465f14102f54943d"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/slot/curios/shard.png"
 hash = "4279f08dfa10057c0003b7e7bd3b717a7e19c00d5375b9a87e7f8783540324a1"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/brazier_ember.png"
+hash = "356a6cc9a2fcd6d298d1eb586372a05f7a637594aa9d33f5adcc0af7a56eb688"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/candy_bar.png"
+hash = "d47cb7b5d54427caa6f659527e6d806878a56f7bb9777d83844875244c4ae608"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/bladefrenzy.png"
+hash = "78e713b73ae9142ca6449ebfb8874403fc2809049102f3e380127f3fe848672d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/colossus.png"
+hash = "d58b407c281ae2c3ea13ab8a77247c98f1bd590e6fcb1c4165593e38b779f469"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/effect_duration.png"
+hash = "91ae4189fee797fbc55958c872fe0fd0d584c5887f8ccdbb5c215c1941150321"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/fortify.png"
+hash = "9a3816f2e87539c09324f688f635061809009130d56f37467c736e0442ca0215"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/levitate.png"
+hash = "161483523ecd1a5f51fb49135cc196658337dfe0f81c2129471024e5de113f5b"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/mana_shield.png"
+hash = "27d9e3bb24613a9e3bd5ba84f4eba4accee2f84bf31893751c3e4a047f6b3758"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/shield_wall.png"
+hash = "1764327da0c3be7aa762d331290aa193481de333b26b5fd6a042a260662af55d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/sneaky_getaway.png"
+hash = "3625fda1ae1f4e8d067ba4d83391a68d62e6ac9157998f7f3b4ced8bc0275966"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/vein_miner_chain.png"
+hash = "6a2a1b8744224de062a89ad004876009fedb14e3318ec5217046bafb4e0cb71f"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/catalyst/95.png"
+hash = "baad1fd7ee7f76767049e0cc425257d8a3c5be88de03c5b677b6ab8ba80a9f6c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/catalyst/95.png.mcmeta"
+hash = "cb69593ca1d458ad0f8a962b4b88939d090199287e109dfdb327d1bb4b977d1a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/catalyst/96.png"
+hash = "a2d238153410621b04ada373f524db985cc93db2cc5f445c9ec64a075020aa4e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/catalyst/97.png"
+hash = "524a8ac8da4629adb570b84fe18d3107df8b41fde51f93b82f0df9d4e4ac4798"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/catalyst/98.png"
+hash = "b26df37ee40659e587391c6f7ddff85840a215153904dbbcb482375e35b9a412"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/catalyst/99.png"
+hash = "ad5acb8859ec3d90d1a97942686b1938fb7580cd444dc5daac4969981d7244ee"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/charm/unidentified_grand.png"
+hash = "d735c6b8ffc12ff59265f0109eb9309352be7b6353a7d9976a60998cecda8a2a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/charm/unidentified_large.png"
+hash = "38735d0b5cc29625b6f1b9b391f5bcaa42a2141773010677b896b252844ac018"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/charm/unidentified_majestic.png"
+hash = "410e46b49485df1386afbc09c650ba1e23de7894bbe19ba333bea280d7c505f7"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/charm/unidentified_small.png"
+hash = "fa564b2efda9e982e661bf33d910fbc36ba8a550752e9c644c48a5a42c8a9c9b"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/choice_flask/cf-colossus.png"
+hash = "ba6fc87732ec754fb77d0d47fe17abe08f51ec5740476a48d67ea59c44c2eb2e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/cobalt_apple.png"
+hash = "ce06745f4c166b1dad1251a64393f3eb45595156fb726fad3302ca68c26295bf"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/dragon_scale.png"
+hash = "28f54fae962b84e90950ae47e260f9ffcfc5475c2b4be528204097d955a79026"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/ff/channeling.png"
+hash = "a6c6f83ee1b3e89d22f2278ac5de596bd8c172b2b434aa8c818c84d9a1b74a9d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/ff/duraReduce.png"
+hash = "71a8a3fe780f767412d10741f6f433f04ebe2989347e9438d69166698ed58594"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/ff/piercing.png"
+hash = "f114fc162fea1b8330a497c74e08d26e91805f4098002c85b6fc416a1f326526"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/ff/reaving.png"
+hash = "f917ebd88c6d8fc057f1b7fe2a632d556b057a1119bb91567967f3fc50b5ad1a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/ff/returnDamage.png"
+hash = "f0912a43991066334c4504bae0f7167559aea68e397060b7ed81c8a52853f93a"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/ff/windup.png"
+hash = "ece0ac97af8e7bd7cbbf2017b31ec34dfac36f400a563bf169cd9b6e54baa14f"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/gear/sword/skallified_sword.png"
+hash = "d3415018f2ebf5bca560046f4ebcd5acabfa535ba9e9da7217b99c85430383f0"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/ghost_apple.png"
+hash = "07cba50a0c7bcb643491704c0d37487838b10c102f61ca765259fc4d405a934c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/goblin_ear.png"
+hash = "1925629cf22f616a2657de3cece91722d44cb03a55cb6ae1023d967b98c8d06e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/golem_apple.png"
+hash = "fe81114b4dc44e219315719034a1f88eba754452ab06cadf254ee2e74edda42b"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/inscription/99.png"
+hash = "392a9ed396959ad2bfb97711e72734769e4150aeb5e581585611d4cf2ee5f7c1"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/jade_apple.png"
+hash = "f4b35bc81cb12ad23471d1a79e6879f49415a5d0f1e73108d5b01ae182f37688"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/key_puffium.png"
+hash = "d6500a106aa84b104deee0f222fe72200962cca7d85f67ebf5f570004e14d076"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/key_puffium.png.mcmeta"
+hash = "16f4b3804286fa9791a15a737fb7b51627500a897874ab974c22e186c322e9e3"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/lucky_apple.png"
+hash = "740ed2ed7392f0027fcc7a9012fe17270f426069b911e9aa3d7ca98685792aeb"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/millennium_token.png"
+hash = "c2904cbb819526cc3745268fc64452a25d73dba734f60230ee8fc8b71628bd0c"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/offering_template.png"
+hash = "42f14b1ed354330961d77521f0daeba27611da483a4652e229758b714637ab92"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/pixie_apple.png"
+hash = "95bf23bc5e4bfb81f103e4f217787b3d02ab67dfe19118a035bdd28aae37ee6f"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/power_apple.png"
+hash = "b8791a74e55f974826600624b2691f5b4d7b8a7de76d0b275fd65c718efc2758"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/power_bar.png"
+hash = "578f734224cbf9606163acc085eb42b91eb102934e0cab2a48b9d8cb318c365d"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/sweet_apple.png"
+hash = "3f4edd7f0e368a6f41b0941649018f5496a9fc1cb5cfa277789603dc6ae648f1"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/treasure_apple.png"
+hash = "d99a7c70d6a5b4233cfec0e3d97f2ca24af9b263bf29aa3682ebc3620d80ffc7"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/unknown_item.png"
+hash = "c21d9df06c109e6ae7a9370bd4f3aa6a1c54969bfa5fe5c09b41a48044cb3168"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/vault_apple.png"
+hash = "639c2515163c7453c570c5aa6f87bb7c451b1d8ef265a5f01af6cd7d09a9cec2"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/vaulthalla_token.png"
+hash = "509b22afe6adc6a44cb777e8ebeda8fd6e58af11b5928a4e425368d3e6c9e8ad"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/wirts_leg.png"
+hash = "ef6d40f4238e6dfebc119d4b822a9f06d502ce181aaaff0bbd646e54b45af2ac"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/black_pack.json"
+hash = "b91cae10f3ab115f74d966f0f587a3f174ea5dd69e2fe01126cecef4e6381237"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/black_pack_ripped.json"
+hash = "c32f857b91d9b18746aab258d7fe40bd147771b80ae874f56f90c8006954e5ed"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/blue_pack.json"
+hash = "529df8e960f6c9c2f5fcccd56a67bfbcae0d52aa0fbf43254e4a17c94f3ac3f8"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/blue_pack_ripped.json"
+hash = "fb240c505fef748fb4aba3d565b43b789bda9afec7b59c87437611dee607b7da"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/champion_pack.json"
+hash = "bba162afadd1fcb9c268564cb0b0c8c5a037fe552f73fb3c432644fc88c03bcc"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/champion_pack_ripped.json"
+hash = "2eb3901e1a8a01142a99ed025e6bfda1a0687ed60950ef68b34f0ede8e401216"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/dungeon_pack.json"
+hash = "39e18e400f880d10d12e8bb6df940ed8db7c8b710ce6bd9ea4988b4b7ba74f79"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/dungeon_pack_ripped.json"
+hash = "99bafa96cdcdcdfbce803f633ac1e1bf3fbbca1e01f0bba942c2bbcd61595cf6"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/green_pack.json"
+hash = "b46f5acfd7519ee482112898152280517d4434b1639f3984564038667ca789b8"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/green_pack_ripped.json"
+hash = "f5455a26ac52db1410cc7ee5543ec2a67857a2c748d031fdfc42275a356b681f"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/lost_pack.json"
+hash = "438250e0756149f9eda592f12a0fdaf73f28868e61c318f5e14424adc4040a2a"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/lost_pack_ripped.json"
+hash = "dc9b006e9c7f3c8d44142b352dfcad70154c0a333fdee59b48ab3d9d748d4ef5"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/merchant_pack.json"
+hash = "ca9f141e42626dff868e4145894c4e31d16cd1cf4ae9cbf36024412f615f0888"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/merchant_pack_ripped.json"
+hash = "4717478b8bd6008563637b3b1ec613489a7e00a3e187f543b9304fb3b8ccf3bb"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/red_pack.json"
+hash = "6ceefd799e521e137afc3ab5c4862f0f0ec93091ab68a38640e96836e146760f"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/red_pack_ripped.json"
+hash = "9775c760de42cfb14a3cd2dd9d5f0d301b4e3528fddd05fcf34312f28889aabe"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/treasure_pack.json"
+hash = "8c76f923477b18ea3330fd85689477533a3a7d5b92948a5640af296634097d38"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/treasure_pack_ripped.json"
+hash = "264e0098bc9146a446ded4bf47af49f87665673ec0917618705ce9fcd1a3ade0"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/yellow_pack.json"
+hash = "19d263f3fffd86fc5650504c1707ec69201ade9a4524aae72a50fdd1f0f0ccd1"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/yellow_pack_ripped.json"
+hash = "060b567eab5c2b36dd1b962b461a1554aa45fe2a2887f0a3fbc22114ac885290"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/deck/brazier.json"
+hash = "15c9de0333acc1fead4dcbd59df8986a02b4ef90168065780877f4d700f7f764"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/deck/dragon.json"
+hash = "7b17cd161f1f76ef9b058d18171fc99b7d46755f4872c5dad5e284509a82f354"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/deck/goblin.json"
+hash = "d50e499caae47ee008ccb25846f8ba6cf5a70283b5183793cfce54c3214968dc"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/deck/millennium.json"
+hash = "69fc95aa716e63ed8cf7eea3939f6b15aa9d143d83e5f600c688a012485afdcb"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/deck/vaulthalla.json"
+hash = "84012f69bde15157b43509bce70f982499bf717df7f16ffc60f718ef1329831f"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/black_pack.png"
+hash = "7451c3a101b99e59be14309e150756b00c733174118bc0d671958229d12b8482"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/black_pack.png.mcmeta"
+hash = "32874c9347f4a83c911ae81cd7c29c7cc7ab083abaf7e13fa9ef6294e5d74e4d"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/black_pack_ripped.png"
+hash = "0b19769ec517b6ef25568bf81515c8ebcb6b8891fc12c23f8c918bc851d8c51c"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/blue_pack.png"
+hash = "2137826e812079a19e812ac8ce8863e6213739109440868d4d0e79ed242a485f"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/blue_pack.png.mcmeta"
+hash = "b193d8d9173aa317a16439e5cf2617d6ff7b0fb0f052410e09a9b0bd1b5a2f8e"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/blue_pack_ripped.png"
+hash = "f11ec43726696ca66e8078dc1ba0f8582d258f28b72381722f9420e3effe15b8"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/champion_pack.png"
+hash = "b779891c12d59b2a32d643b28d3d2b3a40d4f157154844b5c6d6276b6cfce2ab"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/champion_pack.png.mcmeta"
+hash = "32874c9347f4a83c911ae81cd7c29c7cc7ab083abaf7e13fa9ef6294e5d74e4d"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/champion_pack_ripped.png"
+hash = "0fd2968a3a560a9d4decd838520fbd6300182d3b68030bdafafd00e9116053d6"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/dungeon_pack.png"
+hash = "a782b13b1b420a97b86ab439efce6f37ec43880ba4c03945f136a78c504a551f"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/dungeon_pack.png.mcmeta"
+hash = "32874c9347f4a83c911ae81cd7c29c7cc7ab083abaf7e13fa9ef6294e5d74e4d"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/dungeon_pack_ripped.png"
+hash = "ec21cba6f3c300d7e8bc7a1e3bb7749619ade0969d20dba38f0280757a9743de"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/green_pack.png"
+hash = "c5527409ab17c948ddd7c6ea5744a51a7b2a523d8de11aa0f76addba8ee92b82"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/green_pack.png.mcmeta"
+hash = "b193d8d9173aa317a16439e5cf2617d6ff7b0fb0f052410e09a9b0bd1b5a2f8e"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/green_pack_ripped.png"
+hash = "2a6e41df1638436b1b210339cd053e5eefcc26921f16f44c82f59df5cf5b1b07"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/lost_pack.png"
+hash = "86157f2dc211b8faddd5b0683eacce35f8c358066e4ee08c4dc51099b80c0c7f"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/lost_pack.png.mcmeta"
+hash = "32874c9347f4a83c911ae81cd7c29c7cc7ab083abaf7e13fa9ef6294e5d74e4d"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/lost_pack_ripped.png"
+hash = "e92ca8ae87f80470f3e266aab8285fe46ab6067a2ed8ed698c02bd8398d9b34b"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/merchant_pack.png"
+hash = "9af4d8bb282e39dac2601727705f6915fb8b2ed77433548d6c9e98c8cd3906da"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/merchant_pack.png.mcmeta"
+hash = "32874c9347f4a83c911ae81cd7c29c7cc7ab083abaf7e13fa9ef6294e5d74e4d"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/merchant_pack_ripped.png"
+hash = "70c894ad156c38d3767b5db976065ef9c5dd4b61aece465ec3803a56c3bb3167"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/red_pack.png"
+hash = "03388f40852e6748d9d5ed22aaace7a3e1715203f97259a373c6440755445302"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/red_pack.png.mcmeta"
+hash = "b193d8d9173aa317a16439e5cf2617d6ff7b0fb0f052410e09a9b0bd1b5a2f8e"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/red_pack_ripped.png"
+hash = "c8ac5e894409ac7670d712b691ffe0f856f202963b4ee95faad6ca01e04805eb"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/treasure_pack.png"
+hash = "0c759d8d2b88201adc58439ec6a574c40105fce5eff4a77180ed1c7c3d0e85e0"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/treasure_pack.png.mcmeta"
+hash = "32874c9347f4a83c911ae81cd7c29c7cc7ab083abaf7e13fa9ef6294e5d74e4d"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/treasure_pack_ripped.png"
+hash = "b04306ba28a8cf6d4efcb8f9071209d3f11764f66cb2f22ebe597cb57ce3704e"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/yellow_pack.png"
+hash = "823afc5559869fd2fc6af281f72bdb6cc626f16bac648f72c236f1d9115799df"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/yellow_pack.png.mcmeta"
+hash = "b193d8d9173aa317a16439e5cf2617d6ff7b0fb0f052410e09a9b0bd1b5a2f8e"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/yellow_pack_ripped.png"
+hash = "5619977dd10e52bf5c9dc98b7ae5f1c152a1dff780fd24b2ce6966bf10cada89"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/deck/brazier.png"
+hash = "4e93ce8c06b24693577e899d621045436d99c15287168efd7a1cde7f4b4e29cd"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/deck/brazier.png.mcmeta"
+hash = "396f569f1f4f959be71370c7c754c24204bc70a498a6df20dec8803be6ae5b54"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/deck/dragon.png"
+hash = "f30116505b3766e91270340bccb0bc7c94b8010ec2b0b021993382cf12b24c6d"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/deck/goblin.png"
+hash = "094e0f867877c185b46e6b51af08f7dda61525aa0ac299b95e74b48d03fd8f96"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/deck/millennium.png"
+hash = "e8272a1958dbd5941631183fc14209d0a4c94a8fb8041430a53816fc094d6844"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/deck/vaulthalla.png"
+hash = "054036dcb4f7bd3a59f2d88cb2093bea3391340df701c945454dab32c56436a0"
 
 [[files]]
 file = "kubejs/data/curios/tags/item/tiab.json"
@@ -14271,6 +15175,10 @@ hash = "d2d937229a6c21f08c9cd705d88c4ff7c369781f68851d3e7ef19646070fede9"
 [[files]]
 file = "mods/AkashicTome-1.5-20.jar"
 hash = "156c495d55c312522ca51e46db272dbfba209d0c2fc70c95466d1cd487859f92"
+
+[[files]]
+file = "mods/AngelRing2-1.18.2-2.0.4.jar"
+hash = "4626bc68ce2a6747dcaa9dc4f7187e210d8807e5a46a61691afde9ff50a2885a"
 
 [[files]]
 file = "mods/Architects-Palette-1.18.2-1.3.2.1.jar"
@@ -14901,6 +15809,10 @@ file = "mods/open-parties-and-claims-forge-1.18.2-0.23.6.jar"
 hash = "72c19c08b9f2a2ea5fb85d111167831d8d62eb4615352eaf939e60cdab0f055d"
 
 [[files]]
+file = "mods/overvaults-1.6.0-1.18.2.jar"
+hash = "b0f6051bbc5e1293f1fd19a055f8c4541afe47b1380f269602a5da94b5b0b0a1"
+
+[[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
 hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
@@ -15034,7 +15946,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "d679ef0299fa3fc29aacf4d1aa7e1793cbe037b4cdfadfa48c8c69dc271fc392"
+hash = "1756a117a76f0b09c2b7167e33e23edc166d02a40fe84dc08d4cdd0a2ea00e79"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -15071,6 +15983,10 @@ hash = "bcc09f58a17ddcc6044e49051f35ef229a619b5c04e041ea73347276cbd25836"
 [[files]]
 file = "mods/vault_hunters_jewel_sorting-2.7.4.jar"
 hash = "ad37f97bd3deedb2b35cf507e06bc6a9df74aa5d34ed067f2b34bbeca4a6bc7e"
+
+[[files]]
+file = "mods/vaultadditions-1.21.0.jar"
+hash = "e791d2b3a3c8ff1811aec08241ce0f4c1ac573b2023120c643996f325fe0f97a"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
@@ -15111,6 +16027,10 @@ hash = "26d0e83ed96b6146ae3680132cb2ef77eeb7f70c0abe4172a66926dd01429fd4"
 [[files]]
 file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
+
+[[files]]
+file = "mods/woldsvaultsstandalone-0.22-all.jar"
+hash = "735a9ebc1fc64460375e73f72b9000ac5c2331ed3facf2bb127d3ac79d8fa65d"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
