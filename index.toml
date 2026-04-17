@@ -458,19 +458,19 @@ hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
-hash = "9f26815c038d5658989e4c31e288cda727b42c02eca4328ab586998d921137d3"
+hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
 
 [[files]]
 file = "config/byg/byg-biome-dictionary.json"
-hash = "8a38cf9e8a05593844a4ac01223f89e76688e3a39299ba489f432bb1f00041a4"
+hash = "0b9f1505782c9c3b54fcbf2f0592b1230917092bd2da3ef1b940c095845a21e4"
 
 [[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
-hash = "5498a454221a399a1245953f057f3e8be72ef7b41792e796b0668480ac5c90a7"
+hash = "3205bffab22f58f8651520495ee109bb2f509e0a34d875762d97de388ffd2abf"
 
 [[files]]
 file = "config/byg/config_versions.json5"
-hash = "9b23aa03768198031d369dc98a74b4b9878b3a54a60c818aede4203730f2401a"
+hash = "b7145901f650508f5c188bfb2069779beb32a46fc30679a33e9fb95ec686050f"
 
 [[files]]
 file = "config/byg/end-biomes.json5"
@@ -478,7 +478,7 @@ hash = "3b87b394a1450169bb680fde2665612c54f6dd8f2e874709dc3104f075fb31fb"
 
 [[files]]
 file = "config/byg/growing-patterns.json5"
-hash = "f51f967e55a9c4bb3be6cdb7faf8d103034a4d4a822dd2005b8fcb4031f7d9de"
+hash = "bea88ca5271c38ab4fdce4a3d2f3607f149bfbc68d8593c5caf078bbe4ffb82a"
 
 [[files]]
 file = "config/byg/nether-biomes.json5"
@@ -486,123 +486,123 @@ hash = "f417cceb8b367d01acb7b70822773525617d5d189d47c5f777b480ef4a4bbfaa"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
-hash = "aa21fb45aaaa1ef49c4ef5fa1aa535a6a626e1f8ab3af0a7ca3cd2d9ea9a070f"
+hash = "42c1a37db078ac421a9ed5539fe4070e7a3a0ebe5d8ec5544cc87aa2756cb3a4"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5"
-hash = "0d09e9f80878eae9d1948ec7f3a3bad14925753d6c97c4497c79cb84a6dbf3a7"
+hash = "6dd230fc4c56de80747e8e9c55b819c30a90c04b27694111f0318f6988ca1d33"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5"
-hash = "e5e60fd164cac4da65b1560dfc11a3e2a6095ab187d306ff656de6a9bb5e0d4c"
+hash = "498379b746679a6a8d3d504e39137c46a0ab4fc7e4e7a348e11ab7145a89d94b"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5"
-hash = "f67d29c221d04178cd6066c04b6712078306039ec88633579b1a5e04ddf84fb2"
+hash = "47f92d5d73f96fd28dc2e2328efce6bd25a614d1ef35b38e99fe095337dab05c"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5"
-hash = "d1b628917e5bcbdc02a386dc3d625a2c6bc9a30a48a6e3268f6b80cc3270593a"
+hash = "9788dfd410e0574b18b30357a0ef070a6d298ca920a7014b332dceb90c11411a"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5"
-hash = "4cc72268c3ac7e2557fc84b29905532bdf96e1301cd2ff95a1d40846b62ecf19"
+hash = "f78eacc414033fd7f75d1515835e6952225b9eeb8527db35927f6aba19be2db6"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5"
-hash = "f435fdb1f84cfb8dd2faa26585b67aa0189f79d6f9e4557256152336d4748079"
+hash = "2c98b46f5859bfad90f6381cba3072bc272ea49c59036e85d4bc19c4d78e3bcb"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/oceans/oceans_1.json5"
-hash = "97414730209e0a7d35f733797fe081a30bf7abcacad935ca51a6a3d15fe67d6f"
+hash = "15eefb2eb101d0ae7e317c16607787a42da09c083cab0ca18449afddad7f69f0"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5"
-hash = "94fff2421ced513f3a1ef9845e6c79aa0dc0c16acf9b45741bcd26268b2bd748"
+hash = "e759bdca66716ef1c839a0da99b2dbc30983ac49411773f67df86efc2967575c"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5"
-hash = "e8795ebb090bec7cfbb64d8e24d05308f4a8dfc9b5a3c129c7c9d3952aedff8d"
+hash = "27c4f1ac223676791f862d972f7383be1bbb05dd303e92c910f99ed341d32a1f"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5"
-hash = "c6b7b36dc5cf925ce5de4334052b80a4303e55a9892727eabf00350a443f3da8"
+hash = "1d67c6d3f53e21ea538ff516c56301e334ca509b461e4d0a5cb914e48388e1e9"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5"
-hash = "47bf57e6c5a0372d7c1479fe699247a975d189d130969d0e7e869ce06a873797"
+hash = "5eb3f8ee44e14ad8ad7952bf38af861585022222c0458b5241d163adeb1aca2c"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5"
-hash = "8af5892c22de2b4d3a4cc54007affcdda85c6a67df1b416a00eb03a11cddb238"
+hash = "ca2ab4127f58816c0ab0ad1dbc2a87bbefe3620b9d8adfbf8038f11c271c49cc"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5"
-hash = "bfbab228293fbfbebaefa7a2fe4a42e6c1ee20a0588b1037650e76da28a189e8"
+hash = "81e7e5301a05ac24b4099eb406a5fe1c0a757e785329d073a7517b3f209fd7d4"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5"
-hash = "bfbab228293fbfbebaefa7a2fe4a42e6c1ee20a0588b1037650e76da28a189e8"
+hash = "81e7e5301a05ac24b4099eb406a5fe1c0a757e785329d073a7517b3f209fd7d4"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5"
-hash = "fc7ddfb81994ea09dd76ba4121f8a2a3949e106bfad6149a3c39c3efa9aa49d0"
+hash = "01e9ef99c0ce3d25dbd4f70244add31a7538bd844878de320cd903c74eee36ef"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5"
-hash = "697805720329bbda88529dc1330205eb22ec74a80c46f4334220b038cdcb0846"
+hash = "efcd0e3145f0b2a9853609e0a89161da94f68bb48104cd105dd61e8eda313c79"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5"
-hash = "c5d5c99b43353d10a0b32e9632264d0ad68d6553fbe93c45d93cde34119b5905"
+hash = "1af3e3dfc20312ec48227dec225ad4ef2922e5b5fb3e402be3e56ffae73514dd"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5"
-hash = "98a475d8886557d5822b74fe0c1e7fd31a0c33124dd3d7062a09e002189d5142"
+hash = "0ba37f84e834fc492cbd1e95e8a4876fa9bd75b9a6a2777ca3402b60a031e482"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5"
-hash = "0d5479004d08089bd3093bf797d46ee36fe4b3c8174f0e3c7812eca681ec8a77"
+hash = "49119e306636691780508164929efd5846fb03c9f2c8be13e3b7ee7406563d32"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5"
-hash = "1d2491b6cf298aa20271fd8abbc34d15d2e23b15a8c045f0adb325109a0773db"
+hash = "115c27d732c71b6fcc7daa358607f0ae1f27ac447485f0523e385cd2f085a584"
 
 [[files]]
 file = "config/byg/overworld/byg-overworld-biomes.json5"
-hash = "c0f7bf583afbdccc60efbd07b29bc915d5dfbdbf031403d930969e157c84f010"
+hash = "36979e8631491446dbc5de230cb3aadf7c6440b7a20fcbae045497ba4f3932e5"
 
 [[files]]
 file = "config/byg/overworld/regions/rare_region_1.json5"
-hash = "8fcb7ce98a7e4e0c910364c69bff78e43f06fec1f395f6b642290f488361b4d0"
+hash = "851179fafbeedbc39bfc88e45619911b26e8414e81310caa0880b8c70e5ef0d6"
 
 [[files]]
 file = "config/byg/overworld/regions/region_1.json5"
-hash = "568f5176b11390210c39dbd6f86f13c6b2245e0024c848f4b7d5dcd4c61ce2d7"
+hash = "714f1a362f60ac968f32ba5c593a6831235f26d3c7977ed9b048adafccf0239f"
 
 [[files]]
 file = "config/byg/overworld/regions/region_2.json5"
-hash = "1dd7757c18a4b2d0fc175f9be7557b34f48f4f69d35e25330f68b560ec72850a"
+hash = "e9d107cc77c0f771458d80c4c852d19d7fbaa4eeb25cab58e866910e04843c00"
 
 [[files]]
 file = "config/byg/overworld/regions/region_3.json5"
-hash = "1a61f5a38c6153b7c80d526fefc4d88c92768d690f682e9dac7da5e31f0496b1"
+hash = "9ee80b14ed7e84ced12108e7abcf5f4979b5e98d7faffe37c95385920eedb5b1"
 
 [[files]]
 file = "config/byg/settings.json5"
-hash = "8a41e4bcc16b10e0d870dda559c28105bbcdd0e39f405ca768750196433e4e36"
+hash = "c60d4e23d3d8a9c84b97b54a35d02fd822ee7b2d7ce10f45b9daa6185013f4cb"
 
 [[files]]
 file = "config/byg/surface_rules/end_surface_rules.json5"
-hash = "21e3e8d6549cd816fe0a10d3c16ba5410406501a72c4d06566066b5f7545a758"
+hash = "3515ed2d93cf2664da9548beb6871e9f059ff2fcc2d42c52e7aa84307dafc2b2"
 
 [[files]]
 file = "config/byg/surface_rules/nether_surface_rules.json5"
-hash = "3840cfe7c63cd647de0e53578a7a87ed52e14f471f0deaf3cedd6d0724a79002"
+hash = "1c2e8e069f5b766411dabbe843d0fc905ad94785eaa111a56806e8f96c692461"
 
 [[files]]
 file = "config/byg/surface_rules/overworld_surface_rules.json5"
-hash = "e8018e5049d5447cee4744baefd48ebb377188ba18bc1e601f7505eab25768ad"
+hash = "bfc984d665a724ec097a16745db6be175550c3727bafee373fa73d6a07132e63"
 
 [[files]]
 file = "config/byg/trades.json5"
