@@ -1481,6 +1481,14 @@ file = "config/shetiphiancore.toml"
 hash = "a85dcd484bd8efd18207a7f0700c2ce6d700eedaa1b4677067d65031498327fd"
 
 [[files]]
+file = "config/shift_mods/fruitbag/fruitbag-common.shift"
+hash = "a1ee2dd44f56560dd0bf132838f807ab7a6050b12611c7c0a15dddf298556d0d"
+
+[[files]]
+file = "config/shift_mods/fruitbag/fruitbag-common.shift.orig"
+hash = "38506497e4e7c8e2f1cb05afc3a74ff6bda7d6c2a77f265e702ef611cac1cadc"
+
+[[files]]
 file = "config/snad-common.toml"
 hash = "f7258b8b7860c4d0652b1f8bd740853dd321ecd5a02e20c3cb152c3a587a11ce"
 
@@ -13978,7 +13986,7 @@ hash = "b62a85e5036e7108a112271dadf1fdb402dcc1f82ad2aea5feed850443b79829"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "8b684adf2d16b0ace9d923a664d3d70623c343e5644e9ad7079b0b5b1a0265fd"
+hash = "0bc160e34b9d54a46cb803570580d04282fe6b0447cbee78f9033a750f5bc5e0"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
@@ -15345,6 +15353,10 @@ file = "mods/BBLib-1.0.3.jar"
 hash = "11833dcf3c6b75ccb9cf7449e205cae88bb52fbfa5f840af3be06f57c076db8f"
 
 [[files]]
+file = "mods/BetterAdvancements-1.18.2-0.1.2.125.jar"
+hash = "8f34a284b364472b7b0bf21532b13c935b222396d8efa214770695cb9952883c"
+
+[[files]]
 file = "mods/BetterCompatibilityChecker-1.1.21-build.48+mc1.18.2.jar"
 hash = "a6733c9dd43167c4929af5d800103c41c47ed014da326bd898edc1f477b9bc33"
 
@@ -15355,6 +15367,18 @@ hash = "bd58b42c45b86af2cecda75ac68c3be7da5ecd7d37c055238d44d309743c21ea"
 [[files]]
 file = "mods/BetterModsButton-v3.2.4-1.18.2-Forge.jar"
 hash = "e35990a13856ff24b2bc6bf790f0fb630272cced1cfd460823ba9291d2b36268"
+
+[[files]]
+file = "mods/BetterPingDisplay-1.18.2-1.1.jar"
+hash = "04b3153b495ae19abb21ed73ea3c9b206b8a980e208eb49651888a2a6fbc298d"
+
+[[files]]
+file = "mods/BetterWaystonesMenu-1.2.0+mc1.18.2.jar"
+hash = "69e53aa3b5d18326895d4c30118e8386ed3057ceeaa592e9a5ce8009d1985185"
+
+[[files]]
+file = "mods/BoccHUD-0.1.7-mc1.18.2.jar"
+hash = "a7d5f48c481e1e5c13428c6f30b042966180e4a7737666469ef39675560e12fa"
 
 [[files]]
 file = "mods/Bookshelf-Forge-1.18.2-13.3.56.jar"
@@ -15433,6 +15457,10 @@ file = "mods/Decorative Blocks-forge-1.18.2-2.1.2.jar"
 hash = "361f3bef0deeb3aeb5a13916eacfa3e4cd4d7210e7d2f7a975ca701fde095548"
 
 [[files]]
+file = "mods/Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
+hash = "4ffd05ae2ec725f0ad10fc6c6186619601ecb1664dec49f5f5038ab9a5faf600"
+
+[[files]]
 file = "mods/EquipmentCompare-1.18.2-forge-1.3.3.jar"
 hash = "0d72589635f19cb8853ddd8fc43a6b9efde181dffad327ef852cca9ce56b02ac"
 
@@ -15455,6 +15483,14 @@ hash = "07be413ba4304f51663a58f20d84e8e1b834b6a1424b8dd3921b0c688f6d3323"
 [[files]]
 file = "mods/ForgeClientResetPacket-0.1.1.jar"
 hash = "a4375252cd2235d75c120bf572f3e07d957cead612d3e2d4a859168f14edcc56"
+
+[[files]]
+file = "mods/GPUTape-1.0.0-1.18-1.20.4.jar"
+hash = "7fd4f139a4a2cea6232e508477015f836f86a57de86b15f449dd2d7c3cf93f56"
+
+[[files]]
+file = "mods/GeckoLibOculusCompat-Forge-1.0.1.jar"
+hash = "d2047c888aa0ded9ba13a24d3eafd37239e28a9eea0b18d20a3e3e74a3a19250"
 
 [[files]]
 file = "mods/Highlighter-1.18.1-1.1.2.jar"
@@ -15487,6 +15523,10 @@ hash = "b7fe0b9414f34de0a8321ea4a5aaf609bed3f4fbedd900559ef89b64efdcc7e6"
 [[files]]
 file = "mods/IronGenerators-2.0.2-1.18.2.jar"
 hash = "57d1e667f514fc4ed6996cebb35338b742e63e984501d3e827a3530f335d3caa"
+
+[[files]]
+file = "mods/ItemBorders-1.18.1-1.1.5.jar"
+hash = "4626ce3f88fb9fcfc5c336b2d4aec14550d9c6b1a659a2317851f2a53f6fdd55"
 
 [[files]]
 file = "mods/JEITweaker-1.18.2-3.0.0.9.jar"
@@ -15535,6 +15575,10 @@ hash = "f092cf2bf00d4298ed20fd80718fd20154041e7b39a026870d2773d6ecc23344"
 [[files]]
 file = "mods/NaturesCompass-1.18.2-1.9.7-forge.jar"
 hash = "f6efa4d29917f5d6acd8bb904aa5393824c0871059fe5dbfe76f6eedb557134f"
+
+[[files]]
+file = "mods/Neruina-2.1.2-forge+1.18.2.jar"
+hash = "31e0aa4b3deba9681e457805ed4796cf4847c7fe16afc3375b9549f2cc8dc6d0"
 
 [[files]]
 file = "mods/Oh_The_Biomes_You'll_Go-forge-1.18.2-1.5.1.jar"
@@ -15613,6 +15657,10 @@ file = "mods/Snad-1.18.2-1.22.04.15a.jar"
 hash = "540dd2ef7240bdb4fc3cf2a0e6cc4ea85c53ac6b1cf9e9009b835c3c54d241d7"
 
 [[files]]
+file = "mods/Statues-1.18.2-0.1.9.jar"
+hash = "4a4ab73cb83f6cb1c034e650a68d9a0406c0d8cb6c4293dfcaebc026badfd402"
+
+[[files]]
 file = "mods/Stoneworks-v3.0.0-1.18.2-Forge.jar"
 hash = "7c4f7919d2f8089ec1b1b0e1fc78b215c478796b181112cbab53b4dc124a8d15"
 
@@ -15635,6 +15683,10 @@ hash = "678ac6b833a85c129302a2982e572291f6e75f4eb2955d0a207c954d80e47861"
 [[files]]
 file = "mods/Waddles-1.18.2-0.8.19.jar"
 hash = "e2df75ba9fca97bb419558e085e521e7a599e378cf0715b19e2eaa49f06b21d5"
+
+[[files]]
+file = "mods/XNetGases-1.18.2-3.0.1.jar"
+hash = "c2b65dcec024f777f69e436f59ec2f36d4fa9aa3e8c4dc601512480cc53d58cf"
 
 [[files]]
 file = "mods/XaerosWorldMap_1.39.12_Forge_1.18.2.jar"
@@ -15669,6 +15721,10 @@ file = "mods/architectury-4.12.94-forge.jar"
 hash = "e5fee3917f1abd665a3a4402358d9e65cd988964c1b099a522baa22056234397"
 
 [[files]]
+file = "mods/armor-visibility-4.0.1+1.18.2-forge.jar"
+hash = "fd60a48a98290f68e739d9ae06f8f49feb74d6f239b41f4e742d543300ad3e84"
+
+[[files]]
 file = "mods/armourersworkshop-forge-1.18.2-3.1.5-beta.jar"
 hash = "bbd998a3a63ed5e904dcf382f0c2f4f37f60203688bcf609941ac1a36a164daa"
 
@@ -15693,12 +15749,20 @@ file = "mods/betterfpsdist-1.18.2-1.5.jar"
 hash = "b1a8a2896e057e185ec0ae97559d27dcff7ca7ef3ba9b223c12e1db6d4c2d1a7"
 
 [[files]]
+file = "mods/betterstats-2.2.2+1.18.2.jar"
+hash = "81f3d1f12067052aac9ccc09abf5a2d83b330beb816e88737f7e6fc16eccde57"
+
+[[files]]
 file = "mods/blockcanvas-1.0.jar"
 hash = "170f33aff02328e9f4a020e83b0330e6c4456c9101b06957a2563842dbdf350a"
 
 [[files]]
 file = "mods/blockcarpentry-1.18-0.3.0.jar"
 hash = "8348730a945089a00abb4616caf39954ec6f4e3d3058fd66e2523a4aa6506631"
+
+[[files]]
+file = "mods/bobby-1.18.2_v5.0.1.jar"
+hash = "d9cc86500b2c171ea6ee1ed12d8f08e9404a26d59d6c003b69e4048706d233f8"
 
 [[files]]
 file = "mods/buildinggadgets-3.13.2-build.21+mc1.18.2.jar"
@@ -15723,6 +15787,10 @@ hash = "9426fda1c9373a2317aa9f377185301ad2474d3536073c3177eba4b8b71d74ee"
 [[files]]
 file = "mods/cfm-7.0.0-pre35-1.18.2.jar"
 hash = "48d55a12e01d5d2de970b4be4f3eea188202f8a95058c8bb47b50f12d61661b2"
+
+[[files]]
+file = "mods/chibis-1.0.7.jar"
+hash = "e379b6c2ef3ac6ef9ed60b77e80f5c4d95fff4aee1c2686852bf8c8ffca35e53"
 
 [[files]]
 file = "mods/citadel-1.11.3-1.18.2.jar"
@@ -15793,6 +15861,10 @@ file = "mods/drippyloadingscreen_forge_3.0.12_MC_1.18.2.jar"
 hash = "b755af38ed79c266dc28c237dbd6bae5efd63cb595e0856e414361287aff4aae"
 
 [[files]]
+file = "mods/dynamiclightsreforged-1.18.2_v1.3.3.jar"
+hash = "6443ac136868b0c56036efd2572cc3686429ad676c23c95ff8237fc031245c15"
+
+[[files]]
 file = "mods/easy_piglins-1.18.2-1.0.4.jar"
 hash = "26b25f13e434ece60e319066e426291dc4ca152333da76f64028bd02df56d2b0"
 
@@ -15815,6 +15887,18 @@ hash = "13692c1b8eea33aa059c0ffff1f5351e15d748e9ebb45ab55eef637b8ab1f400"
 [[files]]
 file = "mods/entangled-1.3.20-forge-mc1.18.jar"
 hash = "4a63993d405855890927f422640841702895bdfe1d4aa95befab0467c9d13217"
+
+[[files]]
+file = "mods/entity_model_features_forge_1.18.2-2.0.2.jar"
+hash = "1915d7f7d68c59cf19ffa36420923251a843a1334625d8dfd91547e341aa8eaa"
+
+[[files]]
+file = "mods/entity_texture_features_forge_1.18.2-6.0.1.jar"
+hash = "7accbc5c7df155493ff7574b0bab69f30e87a103f6c82d8f215b7e573133eedc"
+
+[[files]]
+file = "mods/entityculling-forge-1.6.1-mc1.18.2.jar"
+hash = "2a83b7a06c234bd68f0786d7c30b9f456dbf9a70fe272a10a5cd7a01bb6e09cb"
 
 [[files]]
 file = "mods/everycomp-1.18.2-1.5.18.jar"
@@ -15941,6 +16025,10 @@ file = "mods/melody_forge_1.0.1_MC_1.18.2.jar"
 hash = "5029f2936d858bbf776a9bdff61718ff09641a83247a1802d538bd367ecae7cf"
 
 [[files]]
+file = "mods/memoryleakfix-forge-1.17+-1.1.2.jar"
+hash = "a5d2087f8a785244efe1ec894a09fe49f6e4fb9956a00b113df8e6a265cc5549"
+
+[[files]]
 file = "mods/merequester-1.18.2-1.1.2.jar"
 hash = "29d228021b880617022b8d2e46ad84c96e06f2c8b5382bfa118f30a4d9fe05eb"
 
@@ -15953,12 +16041,20 @@ file = "mods/mobprocessor-1.0.jar"
 hash = "79f545edee9ee43866705dc4bcb40393c49ed2693b80661c2270fa5f9f22e786"
 
 [[files]]
+file = "mods/moddeditemborders-1.0.jar"
+hash = "40f67fed388d9f9776ec2c9db6f40606d84336673b787bd3c712b7b96516b05b"
+
+[[files]]
 file = "mods/modernfix-forge-5.18.0+mc1.18.2.jar"
 hash = "6d0cde3d2d5ccbffb2697a3ddd7994f00f070419e4b69e7edff5468fa6b95ffd"
 
 [[files]]
 file = "mods/modular-routers-1.18.2-9.1.2.jar"
 hash = "760f823a691c84079322b483297a6dbbbdc1d0610aa45681d8812bc897993472"
+
+[[files]]
+file = "mods/more_vault_keybinds-1.0.0.jar"
+hash = "0156d7e29478e48e4311ac46150564b469bc96ba6d598153b004697608f75925"
 
 [[files]]
 file = "mods/mounts-1.0.jar"
@@ -15981,8 +16077,8 @@ file = "mods/oculus-mc1.18.2-1.6.4.jar"
 hash = "7731a22424f21f2637a6ad565c12d9b063bbefc4d516a292cb80d9e0ac9798ba"
 
 [[files]]
-file = "mods/open-parties-and-claims-forge-1.18.2-0.23.6.jar"
-hash = "72c19c08b9f2a2ea5fb85d111167831d8d62eb4615352eaf939e60cdab0f055d"
+file = "mods/open-parties-and-claims-forge-1.18.2-0.24.0.jar"
+hash = "ad4cdc91e63396fc95fb101629aa59fb1d8da77269064fee9dc3a2cf848a59d2"
 
 [[files]]
 file = "mods/overvaults-1.6.0-1.18.2.jar"
@@ -16041,6 +16137,10 @@ file = "mods/rubidium-0.5.6.jar"
 hash = "116d428573d4748beba9e1b998cdd1cfcac91636b16ffbc1c98a8b38f1059b23"
 
 [[files]]
+file = "mods/saturn-mc1.18.2-0.1.5.jar"
+hash = "5516235e8d80c94e458f7e927de24a59827c0ddee3cc32c2b3dceccf7ddf4f7f"
+
+[[files]]
 file = "mods/selene-1.18.2-1.17.17.jar"
 hash = "b06590edf24f91d655bb59f585950c11ef8c72c798b7d40dc6a4c16fbf2603a3"
 
@@ -16075,6 +16175,10 @@ hash = "797008879bb74da4c41fe99763c05e9d1442e6a7e883df8552af0045c9414dfd"
 [[files]]
 file = "mods/skinfighters-2.3.jar"
 hash = "66d98d8721479107b7da7d7ed03cb1e59135b91f9c8e4ea8faee442d44602a9a"
+
+[[files]]
+file = "mods/skinlayers3d-forge-1.6.7-mc1.18.2.jar"
+hash = "8b3cd5c3a99c03719074b94c53049c4591d3a30234426fc3a9f78dd74250cc8f"
 
 [[files]]
 file = "mods/smoothboot(reloaded)-mc1.18.2-0.0.4.jar"
@@ -16157,8 +16261,8 @@ file = "mods/twitchspawn_1.18.2-1.9.4.jar"
 hash = "bcc09f58a17ddcc6044e49051f35ef229a619b5c04e041ea73347276cbd25836"
 
 [[files]]
-file = "mods/vault_hunters_jewel_sorting-2.7.4.jar"
-hash = "ad37f97bd3deedb2b35cf507e06bc6a9df74aa5d34ed067f2b34bbeca4a6bc7e"
+file = "mods/vault_hunters_item_sorting-3.1.0.jar"
+hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
 file = "mods/vaultadditions-1.21.0.jar"
@@ -16175,6 +16279,10 @@ hash = "6763952a6e737617aa59442eaad65621a528306412ab6f1488d983b1b32e70ce"
 [[files]]
 file = "mods/vaultfilters-1.33.0.jar"
 hash = "1e51cc442b207286eabb9011839ba08bf1fc09900cc06399b3fe5e3e7931063f"
+
+[[files]]
+file = "mods/vaultfruitbag-1.0.0.jar"
+hash = "5be7284d4bf53804c641b0d2f230db2c12296f18faa518992b7eb68f90861734"
 
 [[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
