@@ -16097,6 +16097,10 @@ file = "mods/prismcraft-1.0.jar"
 hash = "ebdfd622cc89769b6cd5428f0e6116ad60aafa98e119856176d6818783710c92"
 
 [[files]]
+file = "mods/rebindnarrator-forge-1.18.x-1.2.2.jar"
+hash = "4a22b0740930d957b7caa4aa1459f664157e6056439e5f0283e84952e3adeb39"
+
+[[files]]
 file = "mods/rechiseled-1.1.6-forge-mc1.18.jar"
 hash = "8f675e83dfc35c0fbd73d8cfab30c5856af1d9ab239a61f361811126056510aa"
 
@@ -16277,8 +16281,8 @@ file = "mods/vaultfilters-1.33.0.jar"
 hash = "1e51cc442b207286eabb9011839ba08bf1fc09900cc06399b3fe5e3e7931063f"
 
 [[files]]
-file = "mods/vaultfruitbag-1.0.0.jar"
-hash = "5be7284d4bf53804c641b0d2f230db2c12296f18faa518992b7eb68f90861734"
+file = "mods/vaultfruitbag-1.0.1.jar"
+hash = "2f9b6cecd93c3d2f2490071067771f5c7d352cad31132b4025399a90cb6e4224"
 
 [[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
