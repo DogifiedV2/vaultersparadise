@@ -15197,6 +15197,14 @@ file = "mods/BetterCompatibilityChecker-1.1.21-build.48+mc1.18.2.jar"
 hash = "a6733c9dd43167c4929af5d800103c41c47ed014da326bd898edc1f477b9bc33"
 
 [[files]]
+file = "mods/BetterF3-3.0.0-Forge-1.18.2.jar"
+hash = "bd58b42c45b86af2cecda75ac68c3be7da5ecd7d37c055238d44d309743c21ea"
+
+[[files]]
+file = "mods/BetterModsButton-v3.2.4-1.18.2-Forge.jar"
+hash = "e35990a13856ff24b2bc6bf790f0fb630272cced1cfd460823ba9291d2b36268"
+
+[[files]]
 file = "mods/Bookshelf-Forge-1.18.2-13.3.56.jar"
 hash = "f9af6c0177c0de060047a00435ca6f1057f694b3c5e3fe0cd0738aef4146c18f"
 
@@ -15525,6 +15533,10 @@ file = "mods/bdlib-1.19.3.7-mc1.18.2.jar"
 hash = "3ce4d0bdeabcffc6c7551a00e13ce925a498e08ee2747b6cc84d6e01fe25fe49"
 
 [[files]]
+file = "mods/betterfpsdist-1.18.2-1.5.jar"
+hash = "b1a8a2896e057e185ec0ae97559d27dcff7ca7ef3ba9b223c12e1db6d4c2d1a7"
+
+[[files]]
 file = "mods/blockcanvas-1.0.jar"
 hash = "170f33aff02328e9f4a020e83b0330e6c4456c9101b06957a2563842dbdf350a"
 
@@ -15799,6 +15811,10 @@ hash = "e6549a31127c8529b098b379c275915510afff78e4b402d8daa4ad4e4f342e0a"
 [[files]]
 file = "mods/neoncraft2-2.2.jar"
 hash = "b6f6b55dbe21fc28cc2e8a8b07d48ba3c14738180ebf3a8468b538b51071529e"
+
+[[files]]
+file = "mods/notenoughcrashes-4.2.0+1.18.2-forge.jar"
+hash = "fa45ae84eb64e13cc235e06f05050ee3e3846d775d543d2bf7d74fa4657093d4"
 
 [[files]]
 file = "mods/observable-2.2.3-forge.jar"
