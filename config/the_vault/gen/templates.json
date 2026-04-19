@@ -11586,6 +11586,22 @@
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/overworld_inscriptions/vh_wallpaper_portal.nbt"
       }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/hellish1",
+      "name": "Omega Hellish 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/hellish1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/garden1",
+      "name": "Omega Garden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/garden1.nbt"
+      }
     }
   ]
 }
