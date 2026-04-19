@@ -2713,7 +2713,7 @@
             "regretPointCost": 1,
             "unlockLevel": 0
           },
-           {
+          {
             "type": "lightning_stun",
             "stunChance": 0.6,
             "stunDuration": 6,
@@ -3872,108 +3872,108 @@
         "maxSpentLearnPoints": 4,
         "children": [
           {
-        "type": "tiered",
-        "id": "Treasure_Seeker",
-        "name": "Treasure Seeker",
-        "tiers": [
-          {
-            "type": "high_health_gear_attribute",
-            "attribute": "the_vault:item_rarity",
-            "healthThreshold": 0.9,
-            "value": 0.25,
-            "effect": "the_vault:treasure_seeker",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 25,
-            "id": "bountifulharvest_1"
+            "type": "tiered",
+            "id": "Treasure_Seeker",
+            "name": "Treasure Seeker",
+            "tiers": [
+              {
+                "type": "high_health_gear_attribute",
+                "attribute": "the_vault:item_rarity",
+                "healthThreshold": 0.9,
+                "value": 0.25,
+                "effect": "the_vault:treasure_seeker",
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "unlockLevel": 25,
+                "id": "bountifulharvest_1"
+              },
+              {
+                "type": "high_health_gear_attribute",
+                "attribute": "the_vault:item_rarity",
+                "healthThreshold": 0.9,
+                "value": 0.5,
+                "effect": "the_vault:treasure_seeker",
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "unlockLevel": 50,
+                "id": "bountifulharvest_2"
+              },
+              {
+                "type": "high_health_gear_attribute",
+                "attribute": "the_vault:item_rarity",
+                "healthThreshold": 0.9,
+                "value": 0.75,
+                "effect": "the_vault:treasure_seeker",
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "unlockLevel": 75,
+                "id": "bountifulharvest_3"
+              },
+              {
+                "type": "high_health_gear_attribute",
+                "attribute": "the_vault:item_rarity",
+                "healthThreshold": 0.9,
+                "value": 1.0,
+                "effect": "the_vault:treasure_seeker",
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "unlockLevel": 100,
+                "id": "bountifulharvest_4"
+              }
+            ]
           },
           {
-            "type": "high_health_gear_attribute",
-            "attribute": "the_vault:item_rarity",
-            "healthThreshold": 0.9,
-            "value": 0.5,
-            "effect": "the_vault:treasure_seeker",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 50,
-            "id": "bountifulharvest_2"
-          },
-          {
-            "type": "high_health_gear_attribute",
-            "attribute": "the_vault:item_rarity",
-            "healthThreshold": 0.9,
-            "value": 0.75,
-            "effect": "the_vault:treasure_seeker",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 75,
-            "id": "bountifulharvest_3"
-          },
-          {
-            "type": "high_health_gear_attribute",
-            "attribute": "the_vault:item_rarity",
-            "healthThreshold": 0.9,
-            "value": 1.0,
-            "effect": "the_vault:treasure_seeker",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 100,
-            "id": "bountifulharvest_4"
-          }
-        ]
-      },
-          {
-        "type": "tiered",
-        "id": "Bountiful_Harvest",
-        "name": "Bountiful Harvest",
-        "tiers": [
-          {
-            "type": "high_health_gear_attribute",
-            "attribute": "the_vault:item_quantity",
-            "healthThreshold": 0.9,
-            "value": 0.25,
-            "effect": "the_vault:bountiful_harvest",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 25,
-            "id": "bountifulharvest_1"
-          },
-          {
-            "type": "high_health_gear_attribute",
-            "attribute": "the_vault:item_quantity",
-            "healthThreshold": 0.9,
-            "value": 0.5,
-            "effect": "the_vault:bountiful_harvest",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 50,
-            "id": "bountifulharvest_2"
-          },
-          {
-            "type": "high_health_gear_attribute",
-            "attribute": "the_vault:item_quantity",
-            "healthThreshold": 0.9,
-            "value": 0.75,
-            "effect": "the_vault:bountiful_harvest",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 75,
-            "id": "bountifulharvest_3"
-          },
-          {
-            "type": "high_health_gear_attribute",
-            "attribute": "the_vault:item_quantity",
-            "healthThreshold": 0.9,
-            "value": 1.0,
-            "effect": "the_vault:bountiful_harvest",
-            "learnPointCost": 1,
-            "regretPointCost": 1,
-            "unlockLevel": 100,
-            "id": "bountifulharvest_4"
-          }
+            "type": "tiered",
+            "id": "Bountiful_Harvest",
+            "name": "Bountiful Harvest",
+            "tiers": [
+              {
+                "type": "high_health_gear_attribute",
+                "attribute": "the_vault:item_quantity",
+                "healthThreshold": 0.9,
+                "value": 0.25,
+                "effect": "the_vault:bountiful_harvest",
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "unlockLevel": 25,
+                "id": "bountifulharvest_1"
+              },
+              {
+                "type": "high_health_gear_attribute",
+                "attribute": "the_vault:item_quantity",
+                "healthThreshold": 0.9,
+                "value": 0.5,
+                "effect": "the_vault:bountiful_harvest",
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "unlockLevel": 50,
+                "id": "bountifulharvest_2"
+              },
+              {
+                "type": "high_health_gear_attribute",
+                "attribute": "the_vault:item_quantity",
+                "healthThreshold": 0.9,
+                "value": 0.75,
+                "effect": "the_vault:bountiful_harvest",
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "unlockLevel": 75,
+                "id": "bountifulharvest_3"
+              },
+              {
+                "type": "high_health_gear_attribute",
+                "attribute": "the_vault:item_quantity",
+                "healthThreshold": 0.9,
+                "value": 1.0,
+                "effect": "the_vault:bountiful_harvest",
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "unlockLevel": 100,
+                "id": "bountifulharvest_4"
+              }
 
-        ]
-      }
+            ]
+          }
         ]
       },
 
@@ -6982,75 +6982,75 @@
         "maxSpentLearnPoints": 8,
         "children": [
           {
-        "type": "tiered",
-        "id": "Crit_Hit_Chance",
-        "name": "Crit Hit Chance",
-        "tiers": [
-          {
-            "type": "crit_hit_chance",
-            "percentCritHitChance": 0.0625,
-            "learnPointCost": 2,
-            "regretPointCost": 2,
-            "unlockLevel": 50
+            "type": "tiered",
+            "id": "Crit_Hit_Chance",
+            "name": "Crit Hit Chance",
+            "tiers": [
+              {
+                "type": "crit_hit_chance",
+                "percentCritHitChance": 0.0625,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "unlockLevel": 50
+              },
+              {
+                "type": "crit_hit_chance",
+                "percentCritHitChance": 0.125,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "unlockLevel": 75
+              },
+              {
+                "type": "crit_hit_chance",
+                "percentCritHitChance": 0.1875,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "unlockLevel": 100
+              },
+              {
+                "type": "crit_hit_chance",
+                "percentCritHitChance": 0.25,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "unlockLevel": 125
+              }
+            ]
           },
           {
-            "type": "crit_hit_chance",
-            "percentCritHitChance": 0.125,
-            "learnPointCost": 2,
-            "regretPointCost": 2,
-            "unlockLevel": 75
-          },
-          {
-            "type": "crit_hit_chance",
-            "percentCritHitChance": 0.1875,
-            "learnPointCost": 2,
-            "regretPointCost": 2,
-            "unlockLevel": 100
-          },
-          {
-            "type": "crit_hit_chance",
-            "percentCritHitChance": 0.25,
-            "learnPointCost": 2,
-            "regretPointCost": 2,
-            "unlockLevel": 125
+            "type": "tiered",
+            "id": "Crit_Hit_Damage",
+            "name": "Crit Hit Damage",
+            "tiers": [
+              {
+                "type": "crit_hit_damage",
+                "percentCritHitDamage": 0.0625,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "unlockLevel": 50
+              },
+              {
+                "type": "crit_hit_damage",
+                "percentCritHitDamage": 0.125,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "unlockLevel": 75
+              },
+              {
+                "type": "crit_hit_damage",
+                "percentCritHitDamage": 0.1875,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "unlockLevel": 100
+              },
+              {
+                "type": "crit_hit_damage",
+                "percentCritHitDamage": 0.25,
+                "learnPointCost": 2,
+                "regretPointCost": 2,
+                "unlockLevel": 125
+              }
+            ]
           }
-        ]
-      },
-          {
-        "type": "tiered",
-        "id": "Crit_Hit_Damage",
-        "name": "Crit Hit Damage",
-        "tiers": [
-          {
-            "type": "crit_hit_damage",
-            "percentCritHitDamage": 0.0625,
-            "learnPointCost": 2,
-            "regretPointCost": 2,
-            "unlockLevel": 50
-          },
-          {
-            "type": "crit_hit_damage",
-            "percentCritHitDamage": 0.125,
-            "learnPointCost": 2,
-            "regretPointCost": 2,
-            "unlockLevel": 75
-          },
-          {
-            "type": "crit_hit_damage",
-            "percentCritHitDamage": 0.1875,
-            "learnPointCost": 2,
-            "regretPointCost": 2,
-            "unlockLevel": 100
-          },
-          {
-            "type": "crit_hit_damage",
-            "percentCritHitDamage": 0.25,
-            "learnPointCost": 2,
-            "regretPointCost": 2,
-            "unlockLevel": 125
-          }
-        ]
-      }
         ]
       }
 
