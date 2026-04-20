@@ -1231,11 +1231,6 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/crystal_caves.json"
     },
     {
-      "id": "the_vault:vault/rooms/challenge/digsite",
-      "name": "Dig Site",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/digsite.json"
-    },
-    {
       "id": "the_vault:vault/rooms/challenge/dragon",
       "name": "Dragon",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/dragon.json"
@@ -1524,11 +1519,6 @@
       "id": "the_vault:vault/decor/factory/crate1",
       "name": "Factory Crate 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/factory/crate1.json"
-    },
-    {
-      "id": "the_vault:vault/decor/challenge_digsite/fossil1",
-      "name": "Challenge Digsite Fossil 1",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/challenge_digsite/fossil1.json"
     },
     {
       "id": "the_vault:vault/decor/omega_digsite/fossil1",
@@ -1861,11 +1851,6 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/vendor_rooms/vendor_rooms.json"
     },
     {
-      "id": "the_vault:arena/arena",
-      "name": "Arena",
-      "1.0": "config/the_vault/gen/1.0/template_pools/arena/arena.json"
-    },
-    {
       "id": "the_vault:vault/rooms/cave_common_rooms",
       "name": "Cave Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cave_common_rooms.json"
@@ -2112,11 +2097,6 @@
       "name": "Center Spawner",
       "1.1": "config/the_vault/gen/1.0/template_pools/vault/decor/factory/center_spawner.json",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/factory/center_spawner.json"
-    },
-    {
-      "id": "the_vault:arena/gladiator_arena",
-      "name": "Gladiator Arena",
-      "1.0": "config/the_vault/gen/1.0/template_pools/arena/gladiator_arena.json"
     },
     {
       "id": "the_vault:vault/decor/raw/farm/farm1",

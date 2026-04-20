@@ -221,31 +221,6 @@
       "1.0": "config/the_vault/gen/1.0/palettes/universal_intermediary.json"
     },
     {
-      "id": "the_vault:arena/classic",
-      "name": "Arena Classic",
-      "1.0": "config/the_vault/gen/1.0/palettes/arena/classic.json"
-    },
-    {
-      "id": "the_vault:arena/fairy",
-      "name": "Arena Fairy",
-      "1.0": "config/the_vault/gen/1.0/palettes/arena/fairy.json"
-    },
-    {
-      "id": "the_vault:arena/soul_flame",
-      "name": "Arena Soul Flame",
-      "1.0": "config/the_vault/gen/1.0/palettes/arena/soul_flame.json"
-    },
-    {
-      "id": "the_vault:arena/terrarium",
-      "name": "Arena Terrarium",
-      "1.0": "config/the_vault/gen/1.0/palettes/arena/terrarium.json"
-    },
-    {
-      "id": "the_vault:arena/vampiric",
-      "name": "Arena Vampiric",
-      "1.0": "config/the_vault/gen/1.0/palettes/arena/vampiric.json"
-    },
-    {
       "id": "the_vault:generic/coin_stack_placeholder",
       "name": "Coin Stack Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/coin_stack_placeholder.json"
@@ -629,16 +604,6 @@
       "id": "the_vault:laboratory/base",
       "name": "Laboratory Base",
       "1.0": "config/the_vault/gen/1.0/palettes/laboratory/base.json"
-    },
-    {
-      "id": "the_vault:challenge_digsite/base",
-      "name": "Challenge Digsite Base",
-      "1.0": "config/the_vault/gen/1.0/palettes/challenge_digsite/base.json"
-    },
-    {
-      "id": "the_vault:challenge_digsite/spawner_settings",
-      "name": "Challenge Digsite Spawner Settings",
-      "1.0": "config/the_vault/gen/1.0/palettes/challenge_digsite/spawner_settings.json"
     },
     {
       "id": "the_vault:omega_digsite/base",

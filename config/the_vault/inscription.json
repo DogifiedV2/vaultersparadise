@@ -30,28 +30,6 @@
             "value": {
               "entries": [
                 {
-                  "pool": "the_vault:vault/rooms/challenge/digsite",
-                  "count": 1,
-                  "color": 16711935
-                }
-              ],
-              "size": {
-                "type": "uniform",
-                "min": 10,
-                "max": 10
-              },
-              "model": {
-                "type": "uniform",
-                "min": 0,
-                "max": 6
-              }
-            },
-            "weight": 16
-          },
-          {
-            "value": {
-              "entries": [
-                {
                   "pool": "the_vault:vault/rooms/challenge/dragon",
                   "count": 1,
                   "color": 16711935
