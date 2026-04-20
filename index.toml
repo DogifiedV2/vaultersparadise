@@ -16765,6 +16765,10 @@ file = "mods/laserio-1.4.5.jar"
 hash = "5eecb26dfcb6ec5593c39770942643b154f4e9406a54313bd97ec0d21d548121"
 
 [[files]]
+file = "mods/launchfaster-1.0.jar"
+hash = "e7594e83836e7f1aefd2533cebad7f22deb7682a35796e810042f34164f59bfc"
+
+[[files]]
 file = "mods/lazydfu-1.0-1.18+.jar"
 hash = "0f2cd2caba33e696fd810c8ea1c27c2e0a651bbeec54c7ac971840f238e40513"
 
@@ -17018,7 +17022,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "39df0eceb6277c2dedf5acebf91a2cbfce7f66a3165501f6498b3b9e3777b028"
+hash = "7ac9c87d52630ecd751ee72ee41582b472de0b8642c1ed87471fa15b28e087b9"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
