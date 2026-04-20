@@ -436,9 +436,10 @@
     ,"util_t3_skillpoint_1": [{"text":"Grants "},{"text":"+1 Skill Point","color":"gold"},{"text":"."}]
     ,"util_t3_unique_1": [{"text":"Grants "},{"text":"10%","color":"#00FFFF"},{"text":" chance to "},{"text":"skip ability cooldowns","color":"#00FFFF"},{"text":"."}]
     ,"util_t3_cryonic_1": [{"text":"Your "},{"text":"Cryonic Focus","color":"#00FFFF"},{"text":" will always freeze a "},{"text":"Legendary","color":"gold"},{"text":" modifier."}]
-    ,"util_t2_greed_reputation": [{"text":"25%","color":"gold"},{"text":" chance to gain an extra "},{"text":"Greed Reputation","color":"gold"},{"text":" when killing "},{"text":"Greed Assassins","color":"#B54AE7"},{"text":"."}]
-
-    ,"ChainMiner": [{"text":"Allows you to "},{"text":"mine blocks and chests","color":"#FFD700"},{"text":" that aren't physically connected in a vein but have an "},{"text":"air gap","color":"#00FFFF"},{"text":" inbetween them"}]
+    ,"util_t2_greed_reputation": [{"text":"25%","color":"gold"},{"text":" chance to gain an extra "},{"text":"Greed Reputation","color":"gold"},{"text":" when killing "},{"text":"Greed Assassins","color":"#B54AE7"},{"text":"."}],
+    "off_t2_xp_gain_1": [{"text":"Increases your "},{"text":"XP Gain","color":"gold"},{"text":" by "},{"text":"20%","color":"gold"},{"text":"."}]
+  ,"off_t1_xp_path_1": [{"text":"Increases your "},{"text":"Attack Damage","color":"gold"},{"text":" by "},{"text":"4%","color":"gold"},{"text":" and your "},{"text":"Ability Power","color":"gold"},{"text":" by "},{"text":"3%","color":"gold"}],
+    "ChainMiner": [{"text":"Allows you to "},{"text":"mine blocks and chests","color":"#FFD700"},{"text":" that aren't physically connected in a vein but have an "},{"text":"air gap","color":"#00FFFF"},{"text":" inbetween them"}]
     ,"CrateTier": [{"text":"Grants "},{"text":"+1 Crate Tier","color":"#FFD700"},{"text":" on vault completion"}]
     ,"BlackMarketer": [{"text":"Gain access to the "},{"text":"depth","color":"#8000A8"},{"text":" of the "},{"text":"Black Market","color":"#8000A8"},{"text":", selling very "},{"text":"special items","color":"#FFD700"},{"text":" indeed"}]
     ,"MovementSpeedMultiplier": [{"text":"All "},{"text":"Movement Speed","color":"#00FFFF"},{"text":" bonuses are "},{"text":"increased by 25%","color":"#FFD700"}]

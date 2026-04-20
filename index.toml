@@ -2190,11 +2190,11 @@ hash = "5a19e7925582feef8de9d52a3f6d88b5d3d1148a7bf5f83639d686709fdd30c4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/cardboard_box.json"
-hash = "de7ba7129cfb46adc13e61a918daf861650732625f99e3e102d48dab2af5b358"
+hash = "fd19b0ebc11c3d20f74d5d7383df3a423e0a25a95df2320cb79e4166f7a69083"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/cardboard_box_dull.json"
-hash = "400fa9ca9b9459edd314a0d030a4ae822df913403a3a21ca8fe0c78cc3a0cc9f"
+hash = "e5f44c87a11a6ffffd4682cd75bd0aa828760faf0946a6fcbad4062485f14501"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl0.json"
@@ -2586,7 +2586,7 @@ hash = "298e041f47fe1df9d76dff7377e6f4b6bd34e96bb122f22d2844a3024f2a8b99"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50_objective.json"
-hash = "ae9c4184330ecec6f321e152df45740fc3c0688a1497f0ee605176d31955a803"
+hash = "ebef44b17c92d18f8ed4e1cea7407e3b9caec1d937dd3747685e1962d222f250"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_pillar.json"
@@ -13798,7 +13798,7 @@ hash = "281047d11bc9f412887e69a13a11d486779740fc5662bff2ac4a2b79b37a01af"
 
 [[files]]
 file = "config/the_vault/lang/es_es/skill_descriptions.json"
-hash = "b09e5c7448e350d7f0af07c78046b74fe76c664729bcb6300b805116564d0d62"
+hash = "b2eef53b7d63fbf72728404b5b199ac80dc25bd517e8bee6a4f0f0c26901b1e7"
 
 [[files]]
 file = "config/the_vault/lang/es_es/tooltip.json"
@@ -14362,7 +14362,7 @@ hash = "b36a3d44070c3e408f97b6f96b7680619721f1cb51078adf7b7cb8fdd8c66ec4"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "dfbbc5440046e1e26ebe0dd0e80cdd2f20d9266816db39af37ddb683845eb4ec"
+hash = "0846cf6bfb2d011774fe83901a33619cb710a86f51fb0572d2d5e1cadacc97c1"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
