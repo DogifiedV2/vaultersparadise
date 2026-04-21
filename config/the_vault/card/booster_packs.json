@@ -1303,6 +1303,214 @@
       ]
     },
 
+    "the_vault:knack_pack": {
+      "name": {
+        "text": "Knack Booster Pack"
+      },
+      "model": {
+        "unopened": "vhapi:booster_pack/knack_pack#inventory",
+        "opened": "vhapi:booster_pack/knack_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 3,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "RED",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@knack",
+              "colors": [],
+              "groups": [],
+              "scaler": "",
+              "condition": "@knack",
+              "probability": 1.0
+            }
+          ],
+          "weight": 9.0
+        },
+        {
+          "value": [
+            {
+              "modifier": "@knack",
+              "colors": [],
+              "groups": [
+                "Foil"
+              ],
+              "scaler": "",
+              "condition": "@knack",
+              "probability": 1.0
+            }
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
+    "the_vault:deluxe_knack_pack": {
+      "name": {
+        "text": "Deluxe Knack Booster Pack"
+      },
+      "model": {
+        "unopened": "vhapi:booster_pack/deluxe_knack_pack#inventory",
+        "opened": "vhapi:booster_pack/knack_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 3,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "RED",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@deluxe_knack",
+              "colors": [],
+              "groups": [],
+              "scaler": "",
+              "condition": "@deluxe_knack",
+              "probability": 1.0
+            }
+          ],
+          "weight": 9.0
+        },
+        {
+          "value": [
+            {
+              "modifier": "@deluxe_knack",
+              "colors": [],
+              "groups": [
+                "Foil"
+              ],
+              "scaler": "",
+              "condition": "@deluxe_knack",
+              "probability": 1.0
+            }
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
+    "the_vault:mega_knack_pack": {
+      "name": {
+        "text": "Mega Knack Booster Pack"
+      },
+      "model": {
+        "unopened": "vhapi:booster_pack/mega_knack_pack#inventory",
+        "opened": "vhapi:booster_pack/mega_knack_pack_ripped#inventory"
+      },
+      "roll": [
+        {
+          "value": 5,
+          "weight": 1.0
+        }
+      ],
+      "tier": [
+        {
+          "value": 1,
+          "weight": 1.0
+        }
+      ],
+      "color": [
+        {
+          "value": "RED",
+          "weight": 1.0
+        },
+        {
+          "value": "YELLOW",
+          "weight": 1.0
+        },
+        {
+          "value": "GREEN",
+          "weight": 1.0
+        },
+        {
+          "value": "BLUE",
+          "weight": 1.0
+        }
+      ],
+      "card": [
+        {
+          "value": [
+            {
+              "modifier": "@knack",
+              "colors": [],
+              "groups": [],
+              "scaler": "",
+              "condition": "@knack",
+              "probability": 1.0
+            }
+          ],
+          "weight": 9.0
+        },
+        {
+          "value": [
+            {
+              "modifier": "@knack",
+              "colors": [],
+              "groups": [
+                "Foil"
+              ],
+              "scaler": "",
+              "condition": "@knack",
+              "probability": 1.0
+            }
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
+
     "the_vault:temporal_pack": {
       "name": {
         "text": "Temporal Booster Pack"
