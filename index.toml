@@ -17101,8 +17101,8 @@ file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
-file = "mods/vaultadditions-1.21.0.jar"
-hash = "e791d2b3a3c8ff1811aec08241ce0f4c1ac573b2023120c643996f325fe0f97a"
+file = "mods/vaultadditions-1.21.5.jar"
+hash = "87ff0476754a9f4feec24947e95e17a1d02894832ba1da74a89695e8a4c0c5f1"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
@@ -17679,6 +17679,14 @@ hash = "6e8234a2213c5a35238582d15dcc286584a029fbf42a993c1220188054799224"
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
 hash = "66061b3c5b4843e31bc9a7562a7ac697a51bb77c73defc7071f996b783efacce"
+
+[[files]]
+file = "shaderpacks/Solas Shader V3.5.zip"
+hash = "f576390b1761d8c9ae6b96e2a1456bd892557b8de81a48299ed11f5af5abee79"
+
+[[files]]
+file = "shaderpacks/Solas Shader V3.5.zip.txt"
+hash = "4699641a47ea092f1d12109ccd63787565cb330a283003e16cc346a5a83fa98d"
 
 [[files]]
 file = "vault_pickup_notifier.json"
