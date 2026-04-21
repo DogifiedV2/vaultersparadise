@@ -1682,11 +1682,11 @@ hash = "8afdef0d4d66e2cb5e7f60b1310afcd30b75969a5f3b123579e84afb2ed1e27d"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
-hash = "fb301d2b62db7fad42f905db9a0894494fa84aa6592ac5e4fe59f9951f98b00d"
+hash = "8e9af2191c397cae109744008095a9df43cc5eb8acef68122a439e066339ad2c"
 
 [[files]]
 file = "config/the_vault/card/conditions.json"
-hash = "ccf9f8235a093dc95d9d66a30176d02198bf345ac3eda02fb2b28dffb18eb504"
+hash = "b6f321e55114d311711979dd83e7150fa8717ae90c770ab0f8cd95730e255766"
 
 [[files]]
 file = "config/the_vault/card/deck_modifiers.json"
@@ -4042,7 +4042,7 @@ hash = "e2f4d5e4758da92db7517e250e074ddc1126c78bbe9a7ac4e69d0db348d8cb52"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/trove/base.json"
-hash = "090ec25fb50a26b74ea7c7453fcc3a1dc39b78c90ea5159e6dd4a7fd49760cec"
+hash = "f3dda50b9d30f4c4f4550e14aacf2efefc2c3fca34549d14a334e3876aa09470"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_alpha.json"
@@ -9902,7 +9902,7 @@ hash = "6b52255f2d7ceee9561c0ba3acd3c5176ea6a64a79f903b542d47334452d7472"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/cove2.nbt"
-hash = "c1b4e7f0628d05b5dd3bc6c1683eb61ebb8c29f1521093b1150e48925b20aa8c"
+hash = "924984ab02f3c56f252eb4b23488627c65cbf608078e714eff1fcc5abd33a0dd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/cozy1.nbt"
@@ -9962,7 +9962,7 @@ hash = "7f80178c72c3084b4138a74d7f70f38ce9d72ff67d575156f53943a7dbba35bf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/trove.nbt"
-hash = "b376c3d7a615506177664b7f544b7416eb7fdf3bcdfb5ab06b87bd97d68d07c7"
+hash = "1b870bddd7591b49a8d99a35f44e901279d558f8bdc72bee03b8222e7b7f86f5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/rooms/omega/vendor1.nbt"
@@ -12134,19 +12134,19 @@ hash = "f5a3370d5143dcfcbf1bf28d7a9db4aa7b7d361d31ae528557e93f6250fd986d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms.json"
-hash = "5f7c674cad79945f9ad489ded8688172fad2122af8f421dd55ed2b5fc6c99077"
+hash = "2ce1786d4e72fc76ed1d07a3ef86e5cb27dba04ab5df3739926834ba290bb299"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms_blood.json"
-hash = "0ba10f7ec4f2ca6110e7cabdb5224c8380ebcee6b3b35b73c3f5026b7875baa1"
+hash = "0fa1dd0e7ab996081fda681445a283c7ae512d4a8a89ff5862763e5a8536bce0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms_nether.json"
-hash = "c14bf5a616cff0d1cd33883cf263b13fc747a1f19fef32630698b3a72f097f59"
+hash = "bcc2c94b4ba1d0fe236cf8973288bef3d5819e4d1f9071fb7fa31e564feb4bcd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms_void.json"
-hash = "4173c0f3b28dde37a3248d6fcb87e6227a287a26d478c2ca50522d54d854bfb9"
+hash = "5a3e12cbce37fe44dc5cd7aa2a9404decdb4c861bd238f0eb6f23645c917db50"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/crystal_caves.json"
@@ -15513,6 +15513,10 @@ file = "kubejs/assets/vhapi/models/item/booster_pack/champion_pack_ripped.json"
 hash = "2eb3901e1a8a01142a99ed025e6bfda1a0687ed60950ef68b34f0ede8e401216"
 
 [[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/deluxe_knack_pack.json"
+hash = "03ad180c64917304b3be9f25cc183971816c290420a4c004e483d3ed998e642c"
+
+[[files]]
 file = "kubejs/assets/vhapi/models/item/booster_pack/dungeon_pack.json"
 hash = "39e18e400f880d10d12e8bb6df940ed8db7c8b710ce6bd9ea4988b4b7ba74f79"
 
@@ -15529,12 +15533,28 @@ file = "kubejs/assets/vhapi/models/item/booster_pack/green_pack_ripped.json"
 hash = "f5455a26ac52db1410cc7ee5543ec2a67857a2c748d031fdfc42275a356b681f"
 
 [[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/knack_pack.json"
+hash = "28ad7ab7634a2c58a3b1f66825921e3d50b584513a37128ab014a91355727752"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/knack_pack_ripped.json"
+hash = "250196b1b2245c8e1e8a3b9879a702575e34d4a4dfca23319f7cab0bfb32f2ff"
+
+[[files]]
 file = "kubejs/assets/vhapi/models/item/booster_pack/lost_pack.json"
 hash = "438250e0756149f9eda592f12a0fdaf73f28868e61c318f5e14424adc4040a2a"
 
 [[files]]
 file = "kubejs/assets/vhapi/models/item/booster_pack/lost_pack_ripped.json"
 hash = "dc9b006e9c7f3c8d44142b352dfcad70154c0a333fdee59b48ab3d9d748d4ef5"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/mega_knack_pack.json"
+hash = "71a399f8805d26bc200c8f8fef513d5ea80ce7c2954fb821e375cb729115335a"
+
+[[files]]
+file = "kubejs/assets/vhapi/models/item/booster_pack/mega_knack_pack_ripped.json"
+hash = "2a7cb74213d413ad2b7d226c697ef8bcb82a968930bc9c852c1d7486032f9b60"
 
 [[files]]
 file = "kubejs/assets/vhapi/models/item/booster_pack/merchant_pack.json"
@@ -15625,6 +15645,10 @@ file = "kubejs/assets/vhapi/textures/item/booster_pack/champion_pack_ripped.png"
 hash = "0fd2968a3a560a9d4decd838520fbd6300182d3b68030bdafafd00e9116053d6"
 
 [[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/deluxe_knack_pack.png"
+hash = "287dc82b341780d709ec0b554f4022f77d6430633da463acf3a15b9a5752c5bf"
+
+[[files]]
 file = "kubejs/assets/vhapi/textures/item/booster_pack/dungeon_pack.png"
 hash = "a782b13b1b420a97b86ab439efce6f37ec43880ba4c03945f136a78c504a551f"
 
@@ -15649,6 +15673,14 @@ file = "kubejs/assets/vhapi/textures/item/booster_pack/green_pack_ripped.png"
 hash = "2a6e41df1638436b1b210339cd053e5eefcc26921f16f44c82f59df5cf5b1b07"
 
 [[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/knack_pack.png"
+hash = "d3813656db1922886e1fbf3ec060d0d45dfcf1d832f95c8330a76bfe48b160df"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/knack_pack_ripped.png"
+hash = "d5671c3daf4b0f02c41233bd96acdc3dbe90307808338eb58185a6fa7dbf1143"
+
+[[files]]
 file = "kubejs/assets/vhapi/textures/item/booster_pack/lost_pack.png"
 hash = "86157f2dc211b8faddd5b0683eacce35f8c358066e4ee08c4dc51099b80c0c7f"
 
@@ -15659,6 +15691,14 @@ hash = "32874c9347f4a83c911ae81cd7c29c7cc7ab083abaf7e13fa9ef6294e5d74e4d"
 [[files]]
 file = "kubejs/assets/vhapi/textures/item/booster_pack/lost_pack_ripped.png"
 hash = "e92ca8ae87f80470f3e266aab8285fe46ab6067a2ed8ed698c02bd8398d9b34b"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/mega_knack_pack.png"
+hash = "b5a60441a241fd0d0d9de511a69727be36b84aff1cff522ec25970610ab9d63d"
+
+[[files]]
+file = "kubejs/assets/vhapi/textures/item/booster_pack/mega_knack_pack_ripped.png"
+hash = "b959df7b97f4e7e49f82af849e7fffca43053bcb15a7c65993371294e7c29570"
 
 [[files]]
 file = "kubejs/assets/vhapi/textures/item/booster_pack/merchant_pack.png"
