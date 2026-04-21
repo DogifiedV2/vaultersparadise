@@ -37,6 +37,10 @@
   },
   {
     "weight": 1,
+    "reference": "the_vault:vault/rooms/omega/trove"
+  },
+  {
+    "weight": 1,
     "reference": {
       "id": "the_vault:vault/rooms/omega/warehouse",
       "conditions": [

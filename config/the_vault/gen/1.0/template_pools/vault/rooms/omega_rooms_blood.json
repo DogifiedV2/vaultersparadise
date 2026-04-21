@@ -36,6 +36,14 @@
     "reference": "the_vault:vault/rooms/omega/library"
   },
   {
+    "weight": 7,
+    "reference": "the_vault:vault/rooms/omega/pixel"
+  },
+  {
+    "weight": 1,
+    "reference": "the_vault:vault/rooms/omega/trove"
+  },
+  {
     "weight": 1,
     "reference": {
       "id": "the_vault:vault/rooms/omega/warehouse",
@@ -47,13 +55,5 @@
         }
       ]
     }
-  },
-  {
-    "weight": 0,
-    "reference": "the_vault:vault/rooms/omega/vendor"
-  },
-  {
-    "weight": 7,
-    "reference": "the_vault:vault/rooms/omega/pixel"
   }
 ]
