@@ -156,7 +156,7 @@
       "x": 0,
       "y": 65,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/skills/dweller_mastery"
+      "icon": "the_vault:gui/skills/dweller_dmg"
     },
     "Nether_Mastery": {
       "x": 0,
@@ -174,7 +174,7 @@
       "x": 70,
       "y": 65,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/skills/tank_mastery"
+      "icon": "the_vault:gui/skills/tank_dmg"
     },
     "Javelin_Talent": {
       "x": 280,
