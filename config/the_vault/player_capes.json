@@ -1,0 +1,9 @@
+{
+  "capes": {
+    "twitch": {
+      "displayName": "Twitch Cape",
+      "texture": "the_vault:textures/entity/cape/twitch.png",
+      "description": "A cape granted to Twitch streamers."
+    }
+  }
+}
