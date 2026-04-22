@@ -14357,6 +14357,26 @@ file = "config/the_vault/vault_vending.json"
 hash = "13fd32803f074951a172b51fa7d6a7dcec5ae6813a5c2f5da2e7fc8a5ebc4ba5"
 
 [[files]]
+file = "config/the_vault/vaultadditions_statue_arena.json"
+hash = "fe7df39df50049a1d8595b06d1b7f09251b6e9ba658947b846ba437f89ad8eb1"
+
+[[files]]
+file = "config/the_vault/vaultadditions_statue_gift.json"
+hash = "830b275019eabe9d7357ddb57f5a4b49505395e5d6b308a23fd6bf029a7d14a4"
+
+[[files]]
+file = "config/the_vault/vaultadditions_statue_mega_gift.json"
+hash = "823268379dfb2b0f246aa98c2a428bce625a0383e70c61119644a3d3fc262618"
+
+[[files]]
+file = "config/the_vault/vaultadditions_statue_omega.json"
+hash = "bfb1b50bab418b43679a4f08667f6cf4f798fd7c8eb7d3e62f1b814fa27df2ea"
+
+[[files]]
+file = "config/the_vault/vaultadditions_statue_vault.json"
+hash = "fc0cceaac9ae19738d2d62904f085c7c1b1c106fa65880178e61913c8e7b00f7"
+
+[[files]]
 file = "config/the_vault/void_crucible.json"
 hash = "09eabc7d251b27df2473bd9d7e7a455a1ea6f479100e2261a4d7b2e642256ebf"
 
