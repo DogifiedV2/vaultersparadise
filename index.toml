@@ -1070,7 +1070,7 @@ hash = "565290ccd9238fa1ccbe10c2d3bbca192ec3e5b63afb8d7be82d2d30af6978ca"
 
 [[files]]
 file = "config/everycomp-registry.toml"
-hash = "4464e891e1b1f00c863774569be33413d74b7f60725c9139b5b07de6f0a5ba75"
+hash = "6281f39fadc4817bc76d0b3aa5787f2784a531e23b83f38791ab0b17612e19fb"
 
 [[files]]
 file = "config/fairylights-client.toml"
@@ -14042,19 +14042,19 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "c6c23b6f6e91786349012d08495b34a4d1d77013ca140f288992c1dfc1ce4c43"
+hash = "f9fc414ac9ef7bf7afe1c176e8e3fd5dc4a69f47ca6ff46a756e90404bfb6e06"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "8d89bcbc4c4c23a2e6c554a9cf4aa313dc1bc727714c9cd05d387ac480f7ce64"
+hash = "0cc47f16814fbd0ec8873ee8741b8889a40e71be83f964a468281a3c5020e55a"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "9ca8ddd2b367f783bf100448133ff0c03af33076851aebd78ab4bf35517a048b"
+hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "e3994537bd432751662d31978fe54e907c24c6856131c2cb76d2b1b993660fdb"
+hash = "77c5b8dd1d46f7e84c801c540f17b144fb69a72408e417d6fa3460571b2c7f2f"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -14106,11 +14106,11 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "b210f101b9402fe1176a8cfaae11832d3cc701e8b88042c2cc82006a932f3260"
+hash = "b67b3f2554b141e98c6713b23583ab09c5a280bf3a1d5232a9378e62cda064c5"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "7f3f4318a06c765c31e60e7d2e46af6350552717fd20fac963ec44e1c26bdde0"
+hash = "0dad9eb4e3e2efce046415ad043eb4c6f70554820b1f90bad518f1a05da8c856"
 
 [[files]]
 file = "config/the_vault/skill_scrolls.json"
@@ -14506,7 +14506,7 @@ hash = "bac016e1e35444e70e96f6cbddd6cb8ebf8dd0504975a088b0f838179d64aac2"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
-hash = "417032b4cd2ccd36a6718c7f371de82a0247f7c7ded9dfe385001ee859fda8a6"
+hash = "2bd0fc55fdd70a4d8a61233031c424e4efb26b33835402bb878f26e4368be730"
 
 [[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
