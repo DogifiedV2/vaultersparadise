@@ -9,6 +9,13 @@
             }
         },
         {
+            "type": "weighted_target",
+            "target": "minecraft:yellow_glazed_terracotta",
+            "output": {
+                "the_vault:living_chest{LootTable:\"the_vault:mushroom_mushroom\"}": 1
+            }
+        },
+        {
             "type": "reference",
             "id": "the_vault:generic/room_base"
         }

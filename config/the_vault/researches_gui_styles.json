@@ -49,59 +49,35 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/mekanism_qio"
     },
-    "Stack Upgrading": {
-      "x": 200,
-      "y": -40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/stackupgrading"
-    },
-    "Auto Refill": {
-      "x": 250,
-      "y": -40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/autorefill"
-    },
-    "Auto Feeding": {
-      "x": 300,
-      "y": -40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/autofeeding"
-    },
-    "Double Pouches": {
-      "x": 200,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/double_pouches"
-    },
-    "Belts": {
-      "x": 250,
-      "y": 0,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/belts"
-    },
     "Backpacks": {
-      "x": 300,
+      "x": 200,
       "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/backpacks"
     },
     "Big Backpacks": {
-      "x": 200,
-      "y": 40,
+      "x": 250,
+      "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/big_backpacks"
     },
-    "Soul Harvester": {
+    "XL Backpacks": {
+      "x": 300,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/big_backpacks"
+    },
+    "Stack Upgrading": {
+      "x": 200,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/stackupgrading"
+    },
+    "Better Recycling": {
       "x": 250,
       "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/soul_harvester"
-    },
-    "Junk Management": {
-      "x": 300,
-      "y": 40,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/researches/vault_looter"
     },
     "Botania": {
       "x": 200,

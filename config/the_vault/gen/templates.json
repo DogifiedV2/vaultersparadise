@@ -1872,14 +1872,6 @@
       }
     },
     {
-      "id": "the_vault:vault/rooms/challenge/challenge_digsite1",
-      "name": "Challenge Digsite 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/rooms/challenge/challenge_digsite1.nbt"
-      }
-    },
-    {
       "id": "the_vault:vault/rooms/omega/vendor1",
       "name": "Omega Vendor 1",
       "1.0": {
@@ -4080,38 +4072,6 @@
       }
     },
     {
-      "id": "the_vault:vault/decor/challenge_digsite/fossil1",
-      "name": "Challenge Digsite Fossil 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/challenge_digsite/fossil1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/challenge_digsite/fossil2",
-      "name": "Challenge Digsite Fossil 2",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/challenge_digsite/fossil2.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/challenge_digsite/fossil3",
-      "name": "Challenge Digsite Fossil 3",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/challenge_digsite/fossil3.nbt"
-      }
-    },
-    {
-      "id": "the_vault:vault/decor/challenge_digsite/fossil4",
-      "name": "Challenge Digsite Fossil 4",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/vault/decor/challenge_digsite/fossil4.nbt"
-      }
-    },
-    {
       "id": "the_vault:vault/decor/omega_digsite/fossil1",
       "name": "Omega Digsite Fossil 1",
       "1.0": {
@@ -4556,14 +4516,6 @@
       }
     },
     {
-      "id": "the_vault:arena/arena1",
-      "name": "Arena 1",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/arena/arena1.nbt"
-      }
-    },
-    {
       "id": "the_vault:vault/decor/x-spot/redstone_spawner1",
       "name": "Redstone Spawner 1",
       "1.0": {
@@ -4721,14 +4673,6 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/factory/center_spawner1.nbt"
-      }
-    },
-    {
-      "id": "the_vault:arena/gladiator_arena",
-      "name": "Gladiator Arena",
-      "1.0": {
-        "type": "structure",
-        "path": "config/the_vault/gen/1.0/structures/arena/gladiator_arena.nbt"
       }
     },
     {
@@ -11585,6 +11529,22 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/overworld_inscriptions/vh_wallpaper_portal.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/hellish1",
+      "name": "Omega Hellish 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/hellish1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/garden1",
+      "name": "Omega Garden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/garden1.nbt"
       }
     }
   ]

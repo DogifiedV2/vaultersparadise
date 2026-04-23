@@ -110,23 +110,18 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
-      "Belts": {
-        "dependsOn": [{ "type": "constant", "id": "Double Pouches" }],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
-      "Double Pouches": {
-        "dependsOn": [],
-        "ignoreArrow": true,
-        "lockedBy": []
-      },
       "Backpacks": {
-        "dependsOn": [{ "type": "constant", "id": "Belts" }],
+        "dependsOn": [],
         "ignoreArrow": true,
         "lockedBy": []
       },
       "Big Backpacks": {
         "dependsOn": [{ "type": "constant", "id": "Backpacks" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "XL Backpacks": {
+        "dependsOn": [{ "type": "constant", "id": "Big Backpacks" }],
         "ignoreArrow": true,
         "lockedBy": []
       },
@@ -149,11 +144,9 @@
         "dependsOn": [
           { "type": "constant", "id": "Mekanism QIO" },
           { "type": "constant", "id": "Applied Energistics" },
-          { "type": "constant", "id": "Double Pouches" },
-          { "type": "constant", "id": "Belts" },
           { "type": "constant", "id": "Backpacks" },
           { "type": "constant", "id": "Big Backpacks" },
-          { "type": "constant", "id": "Junk Management" },
+          { "type": "constant", "id": "XL Backpacks" },
           { "type": "constant", "id": "Iron Generators" },
           { "type": "constant", "id": "Powah" },
           { "type": "constant", "id": "Flux Networks" },

@@ -529,7 +529,7 @@
         }
       },
       "name": "Mob Processor",
-      "cost": 6,
+      "cost": 16,
       "usesKnowledge": true
     },
     {
@@ -1265,57 +1265,6 @@
     },
     {
       "itemRestrictions": {
-        "the_vault:vault_charm_controller": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "the_vault:vault_charm": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "the_vault:vault_charm_upgrade_tier_1": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "the_vault:vault_charm_upgrade_tier_2": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "the_vault:vault_charm_upgrade_tier_3": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Junk Management",
-      "cost": 2,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/dank/helmet",
-        "the_vault:gear/armor/dank/chestplate",
-        "the_vault:gear/armor/dank/leggings",
-        "the_vault:gear/armor/dank/boots"
-      ]
-    },
-
-    {
-      "itemRestrictions": {
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1362,84 +1311,6 @@
     },
     {
       "itemRestrictions": {
-        "sophisticatedbackpacks:refill_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:advanced_refill_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Auto Refill",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
-        "sophisticatedbackpacks:feeding_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:advanced_feeding_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Auto Feeding",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
-        "sophisticatedbackpacks:iron_backpack": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Double Pouches",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
-        "sophisticatedbackpacks:gold_backpack": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        }
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Belts",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
         "sophisticatedbackpacks:diamond_backpack": {
           "restricts": {
             "HITTABILITY": false,
@@ -1476,6 +1347,22 @@
         "the_vault:gear/armor/scout/boots"
       ]
     },
+    {
+      "itemRestrictions": {
+        "woldsvaults:xl_backpack": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "XL Backpacks",
+      "cost": 5,
+      "usesKnowledge": true
+    },
 
     {
       "itemRestrictions": {
@@ -1485,11 +1372,18 @@
             "USABILITY": true,
             "CRAFTABILITY": true
           }
+        },
+        "woldsvaults:vault_salvager": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
         }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
-      "name": "Soul Harvester",
+      "name": "Better Recycling",
       "cost": 2,
       "usesKnowledge": true
     },

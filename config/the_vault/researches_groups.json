@@ -88,16 +88,11 @@
     "Looting": {
       "title": "Looting",
       "research": [
-        "Belts",
-        "Double Pouches",
         "Backpacks",
         "Big Backpacks",
-        "Junk Management",
+        "XL Backpacks",
         "Stack Upgrading",
-        "Auto Feeding",
-        "Auto Refill",
-        "Soul Harvester"
-
+        "Better Recycling"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

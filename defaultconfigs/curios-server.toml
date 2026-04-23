@@ -1,4 +1,5 @@
 
+
 #List of curio slot type settings
 [[curiosSettings]]
 identifier = "head"
@@ -55,15 +56,6 @@ cosmetic = false
 icon = "curios:item/empty_cosmetic_slot"
 
 [[curiosSettings]]
-identifier = "tiab"
-priority = 9
-size = 1
-visible = true
-cosmetic = false
-icon = "curios:item/empty_cosmetic_slot"
-
-
-[[curiosSettings]]
 identifier = "charm"
 priority = 9
 size = 1
@@ -87,3 +79,60 @@ size = 1
 visible = true
 cosmetic = false
 icon = "the_vault:gui/slot/curios/vault_compass"
+
+[[curiosSettings]]
+identifier = "coin_pouch"
+priority = 13
+size = 1
+visible = true
+cosmetic = false
+icon = "the_vault:gui/slot/curios/coin_pouch"
+
+[[curiosSettings]]
+identifier = "shard_pouch"
+priority = 14
+size = 1
+visible = true
+cosmetic = false
+icon = "the_vault:gui/slot/curios/shard_pouch"
+
+[[curiosSettings]]
+identifier = "antique_book"
+priority = 15
+size = 1
+visible = true
+cosmetic = false
+icon = "the_vault:gui/slot/curios/antique_book"
+
+[[curiosSettings]]
+identifier = "vault_map"
+priority = 16
+size = 1
+visible = true
+cosmetic = false
+icon = "the_vault:gui/slot/curios/vault_map"
+
+[[curiosSettings]]
+identifier = "tiab"
+priority = 17
+size = 1
+visible = true
+cosmetic = false
+icon = "curios:item/empty_cosmetic_slot"
+
+[[curiosSettings]]
+identifier = "wireless_terminal"
+priority = 18
+size = 1
+visible = true
+cosmetic = false
+icon = "curios:slot/wireless_terminal"
+
+
+[[curiosSettings]]
+identifier = "glasses"
+priority = 0
+size = 0
+visible = false
+cosmetic = false
+override = true
