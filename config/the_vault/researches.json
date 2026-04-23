@@ -45,23 +45,6 @@
     },
     {
       "modIds": [
-        "bonsaitrees3"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Bonsai Pots",
-      "cost": 2,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "laserio"
       ],
       "restrictions": {
