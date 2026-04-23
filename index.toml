@@ -14569,6 +14569,14 @@ file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
+file = "kubejs/assets/curios/textures/slot/companionslot.png"
+hash = "0c1f4e29c3ae9c5b2752dd449dbd6dd36bde5dd440f03c79c7487f4a31f0d9ac"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/tiab.png"
+hash = "c394ebb9fdc37ee3bfb9ea64ff543f813da9539258981a568e8e836d645f2f99"
+
+[[files]]
 file = "kubejs/assets/curios/textures/slot/wireless_terminal.png"
 hash = "59cf2e60907d0926344a2e94de11ecd07e7d96253e7971364214c2a9b9a3a651"
 
@@ -17090,7 +17098,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "4c4a6c7248712396958e59719a6fccc5891b8418ea04b7df2da1e5fd06bf456e"
+hash = "76c1949bbac5b1316bed90290e9c5f508fb8778d6a8ce380cfdf8147d418b29d"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
