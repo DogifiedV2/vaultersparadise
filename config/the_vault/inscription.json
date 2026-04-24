@@ -30,6 +30,28 @@
             "value": {
               "entries": [
                 {
+                  "pool": "the_vault:vault/rooms/challenge/digsite",
+                  "count": 1,
+                  "color": 16711935
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 0,
+                "max": 6
+              }
+            },
+            "weight": 16
+          },
+          {
+            "value": {
+              "entries": [
+                {
                   "pool": "the_vault:vault/rooms/challenge/dragon",
                   "count": 1,
                   "color": 16711935
@@ -91,28 +113,6 @@
               }
             },
             "weight": 16
-          },
-          {
-            "value": {
-              "entries": [
-                {
-                  "pool": "the_vault:vault/rooms/challenge/wildwest",
-                  "count": 1,
-                  "color": 16711935
-                }
-              ],
-              "size": {
-                "type": "uniform",
-                "min": 10,
-                "max": 10
-              },
-              "model": {
-                "type": "uniform",
-                "min": 0,
-                "max": 6
-              }
-            },
-            "weight": 0
           },
           {
             "value": {
@@ -3711,7 +3711,7 @@
         ]
       }
     ],
-    "the_vault:personal": [
+    "the_vault:garden": [
       {
         "level": 0,
         "pool": [
@@ -3719,21 +3719,49 @@
             "value": {
               "entries": [
                 {
-                  "pool": "the_vault:vault/rooms/omega/mush_room",
+                  "pool": "the_vault:vault/rooms/omega/garden",
                   "count": 1,
                   "color": 7012096
                 }
               ],
-              "isSuper": true,
-              "time": {
-                "min": 100,
-                "max": 300,
-                "type": "uniform"
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
               },
               "model": {
                 "type": "uniform",
-                "min": 2,
-                "max": 2
+                "min": 97,
+                "max": 97
+              }
+            },
+            "weight": 16
+          }
+        ]
+      }
+    ],
+    "the_vault:hellish_digsite": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "entries": [
+                {
+                  "pool": "the_vault:vault/rooms/omega/hellish_digsite",
+                  "count": 1,
+                  "color": 7012096
+                }
+              ],
+              "size": {
+                "type": "uniform",
+                "min": 10,
+                "max": 10
+              },
+              "model": {
+                "type": "uniform",
+                "min": 96,
+                "max": 96
               }
             },
             "weight": 16
@@ -3768,7 +3796,9 @@
     "the_vault:vault/rooms/challenge/memory": 23,
     "the_vault:vault/rooms/challenge/horderush": 24,
     "the_vault:vault/rooms/challenge/protect_villager": 25,
-    "the_vault:vault/rooms/challenge/companion_rush": 24
+    "the_vault:vault/rooms/challenge/companion_rush": 24,
+    "the_vault:vault/rooms/omega/hellish": 96,
+    "the_vault:vault/rooms/omega/garden": 97
   },
   "ringWeights": [ 50, 40, 7, 3 ]
 }

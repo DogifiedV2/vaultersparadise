@@ -1121,6 +1121,90 @@
             }
         ]
         },
+        "Alpha": {
+        "displayName": "Alpha",
+        "colour": 4513092,
+        "description": [
+            {
+                "description": [
+                    { "text": "Perk: ", "color": "gray" },
+                    { "text": "Back to the ", "color": "white" },
+                    { "text": "Beginning", "color": "$name" },
+                    { "text": "\n", "color": "white" }
+                ]
+            },
+            {
+                "description": [
+                    { "text": "Hordes", "color": "gray" },
+                    { "text": " | ", "color": "$darkgray" },
+                    { "text": "░░░", "color": "gray" },
+                    { "text": "░\n", "color": "$darkgray" },
+                    { "text": " Rocklings ", "color": "white" },
+                    { "text": "🗡", "color": "$orange" },
+                    { "text": " 1", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "❤", "color": "red" },
+                    { "text": " 3", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "♝", "color": "$speed" },
+                    { "text": " 1", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "⚔", "color": "gray" },
+                    { "text": "\n", "color": "gray" },
+
+                    { "text": "Assassins", "color": "gray" },
+                    { "text": " | ", "color": "$darkgray" },
+                    { "text": "░░", "color": "gray" },
+                    { "text": "░░\n", "color": "$darkgray" },
+                    { "text": " Ashen Rogue ", "color": "white" },
+                    { "text": "🗡", "color": "$orange" },
+                    { "text": " 2", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "❤", "color": "red" },
+                    { "text": " 1", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "♝", "color": "$speed" },
+                    { "text": " 2", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "⚔", "color": "gray" },
+                    { "text": "\n", "color": "gray" },
+                    { "text": " Moltfish ", "color": "white" },
+                    { "text": "🗡", "color": "$orange" },
+                    { "text": " 1", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "❤", "color": "red" },
+                    { "text": " 1", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "♝", "color": "$speed" },
+                    { "text": " 1", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "⚔", "color": "gray" },
+                    { "text": "\n", "color": "gray" },
+
+                    { "text": "Tanks", "color": "gray" },
+                    { "text": " | ", "color": "$darkgray" },
+                    { "text": "░", "color": "gray" },
+                    { "text": "░░░\n", "color": "$darkgray" },
+                    { "text": " Rock Hulk ", "color": "white" },
+                    { "text": "🗡", "color": "$orange" },
+                    { "text": " 2", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "❤", "color": "red" },
+                    { "text": " 5", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "♝", "color": "$speed" },
+                    { "text": " 1", "color": "white" },
+                    { "text": " | ", "color": "gray" },
+                    { "text": "⚔ 🛡", "color": "gray" },
+
+                    { "text": "\nDwellers", "color": "gray" },
+                    { "text": " | ", "color": "$darkgray" },
+                    { "text": "░░░", "color": "gray" },
+                    { "text": "░", "color": "$darkgray" }
+                ]
+            }
+        ]
+        },
         "Spooky": {
         "displayName": "Spooky",
         "colour": 4078914,
@@ -1302,6 +1386,9 @@
         ],
         "Spooky":[
             "the_vault:classic_vault_gloom"
+        ],
+        "Alpha":[
+            "the_vault:classic_vault_alpha"
         ]
     }
 }

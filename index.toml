@@ -1626,7 +1626,11 @@ hash = "c2b07047565e72f025fa5be4eeca1034b995981cf96f9534ab0e79b25c275b9c"
 
 [[files]]
 file = "config/the_vault/augment.json"
-hash = "ecd04e50410e3f879e37bfaba93738947648c85578af1d726400f3314b86169f"
+hash = "2665d8c3557fc43c89f36c3d86e6d36f88b0b3a67a1b940129b1403c42987121"
+
+[[files]]
+file = "config/the_vault/augment_box.json"
+hash = "926756c6ab471ac39595d1b10800d9303e53b305eb3386f69614045d041775d2"
 
 [[files]]
 file = "config/the_vault/augment_station.json"
@@ -1719,6 +1723,10 @@ hash = "e25d31c5de856a288c3c31c7ff406e64734b86451e40f4c3c58d05011a92fd04"
 [[files]]
 file = "config/the_vault/catalyst.json"
 hash = "ec35ebb486e419a7f0f5931d89c7cdd60d7db3600af5c0404302b0cd4f17d9e3"
+
+[[files]]
+file = "config/the_vault/catalyst_box.json"
+hash = "23804e7e478dc09acd9dbeb6bb94b522b2b7ddf016f8089240a78fffe0a01242"
 
 [[files]]
 file = "config/the_vault/catalyst_infusion_table.json"
@@ -2075,6 +2083,10 @@ hash = "76fa2718bd533a5d18c1b6d56a33437e71f5e9df1cb3a5e300f68a2299129978"
 [[files]]
 file = "config/the_vault/gear_workbench/wand.json"
 hash = "e9dd456647780006df1f9b752ce7e805a8dcf5fedb6f37ec6f8e7d5f61cd07c0"
+
+[[files]]
+file = "config/the_vault/gem_box.json"
+hash = "2dd95b04f52d512ff97f595ceb3ebb55a344f3e428677e4ccf02585512faf2a7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_pools/idona_altar.json"
@@ -13666,7 +13678,11 @@ hash = "c77805342a6e47652394d5711ac16aac1ca0bc3b435b64610625367aa76c40a8"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "cf6fa94773e9c1b9c06be050b78f6b95df9b2cb82f1cda985a7f67807742e1fa"
+hash = "e6848ee32fcdfe09944169b2a50fda4a0e5dae84b7b7a8102ac8c895696be07b"
+
+[[files]]
+file = "config/the_vault/inscription_box.json"
+hash = "e674e637cb1ac08ec302ba69b328faddc9a78543b8f5c4d37882b8e1bc312ac0"
 
 [[files]]
 file = "config/the_vault/item_groups.json"
@@ -13945,6 +13961,10 @@ file = "config/the_vault/old_notes.json"
 hash = "cf991056fa34449297cc84021dc9b970b4b0153b051d383e7b1b6297f378ec6f"
 
 [[files]]
+file = "config/the_vault/omega_box.json"
+hash = "385c09a6547c11b84f5cd36963a21b0b24c22560965b2276d654b56247670520"
+
+[[files]]
 file = "config/the_vault/omega_soul_shard.json"
 hash = "7fc8bd99287881e5a1f809c229c6f2c1114677508da4263e5c2eea2f3a961914"
 
@@ -14002,7 +14022,7 @@ hash = "ed54af22f8edf2fd90753f8cd1c818c519c884cdd1634957c7d1373064a2635a"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "453abdeb0fb724b6a1b165879be4a04a30a2c448ec7efa26a6fcec47bdc7e501"
+hash = "f1e530673797f1aee9c6dcab17bfa4d7c083821d6240c4598a4d9a372a4d30f6"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
@@ -14145,6 +14165,10 @@ file = "config/the_vault/statue_loot.json"
 hash = "b62a85e5036e7108a112271dadf1fdb402dcc1f82ad2aea5feed850443b79829"
 
 [[files]]
+file = "config/the_vault/supply_box.json"
+hash = "0ab5a4de706f95212c1d273851e23245b2dcb4c1e63e808bc5335a22579ab04a"
+
+[[files]]
 file = "config/the_vault/talents.json"
 hash = "010436d664875108c0d0cc6e3b257b647af95e308610880e7b9b0294819107fb"
 
@@ -14162,7 +14186,7 @@ hash = "64e0e34b9d4bc78a036d8bbbd2dab83786579c4d36ce355a2b65aa37d8beae23"
 
 [[files]]
 file = "config/the_vault/theme_augment_lore.json"
-hash = "8248cdaf9f709d2250c6e0be4b00ac58a5391db18c65d48ba47bd77cd4e3e806"
+hash = "857e2b3618d5d9e5c77d5e78694e80eee8290ddca31d6979fe1113844f58f8a2"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
@@ -14230,7 +14254,7 @@ hash = "434309460c76e1fd8b23ef3ad8e1a11bec1f43c045e6c9e2e5447477ae7a1b7d"
 
 [[files]]
 file = "config/the_vault/vault_altar/vault_altar_ingredients.json"
-hash = "b4093551becf408c73d80fbc0330124763dbad261527b65f64f23882a6e297f7"
+hash = "39c2390faaea524d477d1f4d8f3722ab150ec6644643fbad3dcebf5970fe5489"
 
 [[files]]
 file = "config/the_vault/vault_bonus_chest.json"
@@ -14258,7 +14282,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "bde54724446a61160e19e930b88e94eacbe24e8019638408eb5f791c37b2d228"
+hash = "d262d700567d42f1325873d1792bbbe0799f024260a541a6bedf403a52ec6a49"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -14391,6 +14415,10 @@ hash = "bfb1b50bab418b43679a4f08667f6cf4f798fd7c8eb7d3e62f1b814fa27df2ea"
 [[files]]
 file = "config/the_vault/vaultadditions_statue_vault.json"
 hash = "fc0cceaac9ae19738d2d62904f085c7c1b1c106fa65880178e61913c8e7b00f7"
+
+[[files]]
+file = "config/the_vault/vaultar_box.json"
+hash = "b3edc988c4572d7bff65b9aadb2d21b897fc378d95beb7b0af526b3618d3847e"
 
 [[files]]
 file = "config/the_vault/void_crucible.json"
@@ -16517,10 +16545,6 @@ file = "mods/SimpleBackups-1.18.2-1.1.17.jar"
 hash = "add5266da5d78c227c5e72288b03368dca165a4e48ab99be2c5843e76c0fc32b"
 
 [[files]]
-file = "mods/SimpleStorageNetwork-1.18.2-1.7.1.jar"
-hash = "da6485474e4c17735af43f901a580398752f491bc9c6cc267f5632fe4057b833"
-
-[[files]]
 file = "mods/Snad-1.18.2-1.22.04.15a.jar"
 hash = "540dd2ef7240bdb4fc3cf2a0e6cc4ea85c53ac6b1cf9e9009b835c3c54d241d7"
 
@@ -17005,14 +17029,6 @@ file = "mods/rechiseledcreate-1.0.2-forge-mc1.18.jar"
 hash = "c3ded56f8353767148d08a54d9008c87707be02f1813407a3c4783e73cb9d057"
 
 [[files]]
-file = "mods/refinedstorage-1.10.6.jar"
-hash = "92157fdaa3e0f4541ff020f1721408167e453cbb4ff50c966ceeece970867512"
-
-[[files]]
-file = "mods/refinedstorageaddons-0.8.2.jar"
-hash = "87bb2fef3ddfaada6af5086cb7c4cf9429af5b9ca6f2417eaf928df3bba93828"
-
-[[files]]
 file = "mods/rftoolsbase-1.18-3.0.12.jar"
 hash = "bf3bc751aa624a0ac8a7d0e850fb95e2a59fa53a7f9fab327da2ddd2e61f2faf"
 
@@ -17089,6 +17105,14 @@ file = "mods/sophisticatedcore-1.18.2-0.6.4.604.jar"
 hash = "25a32678b13b06c1b1aa0ed9e9e244eb1b33d5095989758684e51dc014125627"
 
 [[files]]
+file = "mods/sophisticatedstorage-1.18.2-0.9.8.915.jar"
+hash = "3965b3af65ebd0244ead0bdab23cd3224e41a616b73049d2294053504a452060"
+
+[[files]]
+file = "mods/sophisticatedstorageutils-1.0.jar"
+hash = "2dac4606194a3272c1ad0f023142ad6f250fbed853f7f958beb6a9c77146f3aa"
+
+[[files]]
 file = "mods/sophisticatedvaultupgrades-1.18(1).jar"
 hash = "9ec6914c32e494f4642eb29ebea1ceb045f771d5675cd55d04dcec7ff1c6e728"
 
@@ -17122,7 +17146,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "76c1949bbac5b1316bed90290e9c5f508fb8778d6a8ce380cfdf8147d418b29d"
+hash = "dae5597bcf15af3f2fb9c34fcb96471f22305efbedca66a48594ca8230a2563c"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

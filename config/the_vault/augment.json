@@ -156,6 +156,7 @@
       "minecraft:air": 1
     },
     "the_vault:classic_vault_chaos": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_alpha\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_aurora_cave\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_beach\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_blank\"}": 0,
@@ -204,6 +205,7 @@
       "the_vault:augment{theme:\"the_vault:classic_vault_white\"}": 0
     },
     "the_vault:classic_vault_chaos_cake": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_alpha\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_aurora_cave\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_beach\"}": 5,
       "the_vault:augment{theme:\"the_vault:classic_vault_blank\"}": 0,
@@ -295,6 +297,9 @@
     "the_vault:classic_vault_intermediary": {
       "the_vault:augment{theme:\"the_vault:classic_vault_intermediary\"}": 5
     },
+    "the_vault:classic_vault_alpha": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_alpha\"}": 5
+    },
     "the_vault:random": {
       "the_vault:augment{theme:\"the_vault:classic_vault_sweet\"}": 10,
       "the_vault:augment{theme:\"the_vault:classic_vault_ice\"}": 9,
@@ -334,7 +339,8 @@
       "the_vault:augment{theme:\"the_vault:classic_vault_season_fall\"}": 29,
       "the_vault:augment{theme:\"the_vault:classic_vault_season_winter\"}": 9,
       "the_vault:augment{theme:\"the_vault:classic_vault_aurora_cave\"}": 9,
-      "the_vault:augment{theme:\"the_vault:classic_vault_plastic\"}": 0
+      "the_vault:augment{theme:\"the_vault:classic_vault_plastic\"}": 0,
+      "the_vault:augment{theme:\"the_vault:classic_vault_alpha\"}": 9
     }
   }
 }
