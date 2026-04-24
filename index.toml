@@ -1630,7 +1630,7 @@ hash = "2665d8c3557fc43c89f36c3d86e6d36f88b0b3a67a1b940129b1403c42987121"
 
 [[files]]
 file = "config/the_vault/augment_box.json"
-hash = "926756c6ab471ac39595d1b10800d9303e53b305eb3386f69614045d041775d2"
+hash = "ecbde2deec8ba80954b9f67913d70715b5463d49622caaafa33e30b89bdb9cbf"
 
 [[files]]
 file = "config/the_vault/augment_station.json"
@@ -14282,7 +14282,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "d262d700567d42f1325873d1792bbbe0799f024260a541a6bedf403a52ec6a49"
+hash = "df7f742b6bc103e314d90f01eae10a9ed7137bd85b606d0d10819c524ef57836"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -14539,6 +14539,10 @@ hash = "dbf37c560d621956e3a6ee8bd9c3198abdfc863d060a70e876b329f7841b87f3"
 [[files]]
 file = "config/vaultintegrations/altar_conduit.json"
 hash = "6be6e956e6daa5d6d2b7a2eed01072ef61366eceffd4ade443ab199888a53d8a"
+
+[[files]]
+file = "config/vaultlootbeams.json"
+hash = "fb732b14b3f0f6de50a7eb6e244d3e1715e7b60973ec58d7e4149d529c925818"
 
 [[files]]
 file = "config/voicechat/translations.properties"

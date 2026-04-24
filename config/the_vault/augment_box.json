@@ -363,7 +363,79 @@
     {
       "value": {
         "id": "the_vault:augment",
-        "nbt": "{theme:\"the_vault:classic_vault_alpha\"}",
+        "nbt": "{theme:\"the_vault:classic_vault_aurora_cave\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_blood\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_plastic\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_plastic_playtime\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_wendarr\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_velara\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_tenos\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_idona\"}",
+        "amountMin": 1,
+        "amountMax": 1
+      },
+      "weight": 1
+    },
+    {
+      "value": {
+        "id": "the_vault:augment",
+        "nbt": "{theme:\"the_vault:classic_vault_intermediary\"}",
         "amountMin": 1,
         "amountMax": 1
       },
