@@ -41,13 +41,12 @@
             "radius": 15,
             "type": "circle"
           },
+          "sigil": {
+            "type": "legend"
+          },
           "modifiers": [
             {
               "modifierId": "the_vault:overvault_portal_spp",
-              "amount": 1
-            },
-            {
-              "modifierId": "the_vault:sigil_legend",
               "amount": 1
             }
           ],
@@ -94,13 +93,12 @@
             "radius": 10,
             "type": "circle"
           },
+          "sigil": {
+            "type": "veteran"
+          },
           "modifiers": [
             {
               "modifierId": "the_vault:overvault_portal_sp",
-              "amount": 1
-            },
-            {
-              "modifierId": "the_vault:sigil_veteran",
               "amount": 1
             }
           ],
@@ -147,13 +145,12 @@
             "radius": 10,
             "type": "circle"
           },
+          "sigil": {
+            "type": "master"
+          },
           "modifiers": [
             {
               "modifierId": "the_vault:overvault_portal_s",
-              "amount": 1
-            },
-            {
-              "modifierId": "the_vault:sigil_master",
               "amount": 1
             }
           ],
@@ -212,13 +209,12 @@
             "radius": 10,
             "type": "circle"
           },
+          "sigil": {
+            "type": "expert"
+          },
           "modifiers": [
             {
               "modifierId": "the_vault:overvault_portal_a",
-              "amount": 1
-            },
-            {
-              "modifierId": "the_vault:sigil_expert",
               "amount": 1
             }
           ],
@@ -277,13 +273,12 @@
             "radius": 10,
             "type": "circle"
           },
+          "sigil": {
+            "type": "adept"
+          },
           "modifiers": [
             {
               "modifierId": "the_vault:overvault_portal_b",
-              "amount": 1
-            },
-            {
-              "modifierId": "the_vault:sigil_adept",
               "amount": 1
             }
           ],
