@@ -1509,6 +1509,10 @@ file = "config/spark/activity.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
+file = "config/spark/config.json"
+hash = "230ef74f58b4ebfb809cc474e881be3462ede61d56a86437e935b4a3a1ac99f3"
+
+[[files]]
 file = "config/storagedrawers-client.toml"
 hash = "408d6e9ab08e514d6d1e72aaf818afe26a62cf379057c203db0176c96af4d9ad"
 
@@ -17714,7 +17718,7 @@ hash = "b416e4dd3d34d07a54b903beb1e49db0b42d9eedc811eeca48bfa09cdbc21e7b"
 
 [[files]]
 file = "servers.dat"
-hash = "a745c18bd7397195027daaf8d1b3b7e8a33cd5dc0d4bad1afb981e8a1664e7d0"
+hash = "99e1011ad8d892c697b41815f8eeefeb10fb770b589d921345a103368bce11eb"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3.zip"
