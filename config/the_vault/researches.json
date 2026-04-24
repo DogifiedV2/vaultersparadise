@@ -1393,6 +1393,56 @@
       "name": "Vault Decks",
       "cost": 12,
       "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "woldsvaults:chromatic_iron_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:chromatic_gold_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:chromatic_steel_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:black_chromatic_steel_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "woldsvaults:prismatic_angel_ring": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Vault Rings",
+      "cost": 16,
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/armor/angel/helmet",
+        "the_vault:gear/armor/angel/chestplate",
+        "the_vault:gear/armor/angel/leggings",
+        "the_vault:gear/armor/angel/boots"
+      ]
     }
   ]
 }

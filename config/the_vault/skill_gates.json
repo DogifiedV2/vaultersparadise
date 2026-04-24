@@ -168,6 +168,7 @@
           { "type": "constant", "id": "Elevators" },
           { "type": "constant", "id": "Vault Compass" },
           { "type": "constant", "id": "Altar Automation" },
+          { "type": "constant", "id": "Vault Rings" },
           { "type": "constant", "id": "Building Gadgets" },
           { "type": "constant", "id": "Weirding Gadgets" },
           { "type": "constant", "id": "Mining Gadgets" },

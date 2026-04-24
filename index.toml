@@ -14058,11 +14058,11 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "7fe1e671ec648504426b34e4d415848d8b93ab2b2e0e614adcaaa283105e3018"
+hash = "aa580f770b34afdf185905675ea6dbf039418ee9bbb5a223bae59ca0435c2fb1"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "6c2a84445d523a020104481cb6b193b48eea1468c6181f0c2a69b8e56b76eb0c"
+hash = "705b432da5db0bfa58d9319c445bfc759454c2f9a8ede3d7cefd03965e173af8"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -14070,7 +14070,7 @@ hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "edf19e6ea6fc0aa851946ea75dd64e3997a460ea0418dac8a078b5acf67c5580"
+hash = "c7e391d7c72d481c63465ea297d29fa2df6dc19eed8abbe03d05a0883356566a"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -14122,11 +14122,11 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "1c66b96eea066c9d756c5a56c84ad44cbfa3d8bd902788df8082a4a3d0ad7d26"
+hash = "2fc7a434519577456850413746c744509aa8d72e59cd297ced2db7ede22ff9cb"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "569c9881ab6fbebb9083704100dd06a5939b65c332c068e86ebe68dc63dde2c5"
+hash = "bcb5043bf3b52d23f94f4578624375204ee934824878322fc3bc10b95d163052"
 
 [[files]]
 file = "config/the_vault/skill_scrolls.json"
@@ -16234,7 +16234,7 @@ hash = "69e53aa3b5d18326895d4c30118e8386ed3057ceeaa592e9a5ce8009d1985185"
 
 [[files]]
 file = "mods/BlackMarketTweaks-1.6.jar"
-hash = "de5eccb4510f147c362de17a4480ec55524f9cabc67b2924509cd3aaccb5a601"
+hash = "1ef1d3b9f0d6c56e397c8de8eb01c43ed26134907baf5fbacc61600e761931c4"
 
 [[files]]
 file = "mods/BoccHUD-0.1.7-mc1.18.2.jar"
@@ -16267,10 +16267,6 @@ hash = "33f6147c4e1351a563b634ffbda61f9af8187a5b91073787625fcf24d14fb9d1"
 [[files]]
 file = "mods/CarbonConfig-1.18.2-1.2.7.1.jar"
 hash = "049605232192afacfd459a638eb7946e4fb484033935e5d25d8c5685bce93e72"
-
-[[files]]
-file = "mods/Chunk-Pregenerator-1.18.2-4.4.5.jar"
-hash = "b696fb1915e703d7adf37a640551601baf7436842f1ea794ba5e442d432b2553"
 
 [[files]]
 file = "mods/ChunkyMcChunkFace-1.18.2-0.3.4.jar"
