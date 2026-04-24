@@ -13682,7 +13682,7 @@ hash = "e6848ee32fcdfe09944169b2a50fda4a0e5dae84b7b7a8102ac8c895696be07b"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
-hash = "e674e637cb1ac08ec302ba69b328faddc9a78543b8f5c4d37882b8e1bc312ac0"
+hash = "0dab5eb96545f4855f81e7d541072075da9c36556e2d000e6c58b4ecdee4d9cc"
 
 [[files]]
 file = "config/the_vault/item_groups.json"
@@ -14142,7 +14142,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "fdbaf2563a9e94cf402836547090966ead83700a65df1c0b4e6ca42a0376a217"
+hash = "40070add5486c6a8f37b13448e9eab7ec04948d40424abdffd0e30b36ffc8800"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -14186,7 +14186,7 @@ hash = "64e0e34b9d4bc78a036d8bbbd2dab83786579c4d36ce355a2b65aa37d8beae23"
 
 [[files]]
 file = "config/the_vault/theme_augment_lore.json"
-hash = "857e2b3618d5d9e5c77d5e78694e80eee8290ddca31d6979fe1113844f58f8a2"
+hash = "ff7c5dd3ea94fc17a79f1b711cdb292da39dad2e5391ab95cb64095d4d53c32a"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
@@ -17602,7 +17602,7 @@ hash = "9b679dacc79be952f022bb95741a04b4da629d5bff5897d902c925f9e76c3192"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "4fe1ce56b38b542beab2c8c53d33166ac3bb23d25df41f2507cbb99556d1a3ab"
+hash = "3e7e843b65645740e6a26e4a60e81aefc59e4f2af8c877a9f886ce328214bab4"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -17703,10 +17703,6 @@ hash = "144bb1d7e18bab0b2681b9664a4f7d6129aab1debc97fc5abcd1840d8f105838"
 [[files]]
 file = "scripts/Routers.zs"
 hash = "97cf6ceb4b27f371def0dbe6cc2a69cf5f3f83b95c2d65abe713d50ae8bc33b9"
-
-[[files]]
-file = "scripts/SimpleStorage.zs"
-hash = "55b964080ca5587080fbdbcb79371a997d2bcc186770598f5e5f70e544d551c8"
 
 [[files]]
 file = "scripts/Snad.zs"

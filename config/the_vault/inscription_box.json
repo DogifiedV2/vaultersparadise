@@ -90,24 +90,6 @@
       },
       "weight": 128
     },
-    {
-      "value": {
-        "id": "the_vault:inscription",
-        "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/hellish_digsite\"}],model: 96, size: 10}}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 128
-    },
-    {
-      "value": {
-        "id": "the_vault:inscription",
-        "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/hellish_digsite\"}],model: 96, size: 5}}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 128
-    },
 
 
     {
