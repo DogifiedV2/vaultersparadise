@@ -14070,7 +14070,7 @@ hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "8e7b9bde081d948a391cd47730ead309271915cdf74f02ae44e994dae4030515"
+hash = "c59182edb5314439904539503d39280e6cd1c51e319d4f3f3b5bcbcac54a6b0b"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -15291,6 +15291,10 @@ hash = "24fd61b7b3bce5973cfce54f6c66ec676e0a5330546cbf8cbc53aefad85da2e9"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/laserio.png"
 hash = "ced9641d641318ab32a922f47becca79f28aca0bbf41b71eaad197d837f55565"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/locker.png"
+hash = "0fb3a0f236e43ad6c4c79bba6f3037dadc97515cf346246c2452b0d4766dffdb"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/mobprocessor.png"
