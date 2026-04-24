@@ -1662,11 +1662,11 @@ hash = "ba78db849e67738c3041e26a2a3e2a8b32b8d8e22e7e29e91224392578315819"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "be2b66aee756769d3c8c6e19c5f2c7ecbb7c35aaf77b51d7f7bc82bba0e2279c"
+hash = "3304244376cc87a694150f050f639fc5b776640421351ce3070e383aac20ea30"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
-hash = "dbc6df811fcf094c42b3efe3c99dc2c6f8eb42a454ff7251fa3e914a971bd3dc"
+hash = "2a99378898a5c7bd3a26e8526ce9684622c900b7efda223e1895228858f1883f"
 
 [[files]]
 file = "config/the_vault/bounty/task/damage_entity.json"
