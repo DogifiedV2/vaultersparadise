@@ -3,6 +3,32 @@
     {
       "roll": {
         "type": "uniform",
+        "min": 1,
+        "max": 1
+      },
+      "pool": [
+        {
+          "weight": 1,
+          "pool": [
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:eternal_soul",
+                "count": {
+                  "type": "uniform",
+                  "min": 2,
+                  "max": 4
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "roll": {
+        "type": "uniform",
         "min": 2,
         "max": 2
       },
@@ -28,8 +54,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 3,
-        "max": 3
+        "min": 2,
+        "max": 2
       },
       "pool": [
         {
@@ -238,8 +264,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 3,
-        "max": 3
+        "min": 1,
+        "max": 1
       },
       "pool": [
         {
@@ -274,7 +300,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 3
+                  "max": 2
                 }
               }
             }
@@ -285,8 +311,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 3,
-        "max": 3
+        "min": 1,
+        "max": 1
       },
       "pool": [
         {
@@ -323,7 +349,7 @@
                 "id": "the_vault:vault_gold",
                 "count": {
                   "type": "uniform",
-                  "min": 7,
+                  "min": 5,
                   "max": 10
                 }
               }
@@ -335,8 +361,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 2,
-        "max": 2
+        "min": 1,
+        "max": 1
       },
       "pool": [
         {
@@ -407,8 +433,8 @@
     {
       "roll": {
         "type": "uniform",
-        "min": 3,
-        "max": 3
+        "min": 2,
+        "max": 2
       },
       "pool": [
         {
@@ -562,7 +588,7 @@
       "roll": {
         "type": "uniform",
         "min": 2,
-        "max": 3
+        "max": 2
       },
       "pool": [
         {
@@ -591,7 +617,7 @@
               }
             },
             {
-              "weight": 12,
+              "weight": 16,
               "item": {
                 "id": "woldsvaults:gem_box",
                 "count": {
@@ -602,13 +628,24 @@
               }
             },
             {
-              "weight": 8,
+              "weight": 12,
               "item": {
                 "id": "woldsvaults:catalyst_box",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
+                  "min": 1,
                   "max": 2
+                }
+              }
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "woldsvaults:omega_box",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
                 }
               }
             }
@@ -629,7 +666,7 @@
               }
             },
             {
-              "weight": 12,
+              "weight": 6,
               "item": {
                 "id": "the_vault:sour_orange",
                 "count": {
@@ -681,6 +718,17 @@
               "weight": 6,
               "item": {
                 "id": "the_vault:capstone_dungeon_hunter",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            },
+            {
+              "weight": 1,
+              "item": {
+                "id": "the_vault:capstone_treasure_hunter",
                 "count": {
                   "type": "uniform",
                   "min": 1,
@@ -741,9 +789,6 @@
               "weight": 6,
               "item": {
                 "id": "woldsvaults:inscription_box",
-                "nbt": {
-                  "pool": "the_vault:random"
-                },
                 "count": {
                   "type": "uniform",
                   "min": 1,

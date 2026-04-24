@@ -8,7 +8,15 @@ settings.logErroringRecipes = true
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
 onEvent('recipes', event => {
-	// Change recipes here
+	event.shaped(Item.of('the_vault:bm_token'),
+		[
+			' C ',
+			'CVC',
+			' C '
+		], {
+			C: 'vaultadditions:power_crystal',
+			V: 'the_vault:soul_vortex'
+		})
 })
 
 onEvent('item.tags', event => {

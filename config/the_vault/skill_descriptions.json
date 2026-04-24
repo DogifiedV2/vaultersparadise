@@ -406,6 +406,7 @@
     "util_t2_fruit_eff_2": [{"text":"Increases your "},{"text":"Fruit Effectiveness","color":"#DE3163"},{"text":" by "},{"text":"10%","color":"#DE3163"},{"text":"."}],
     "util_t2_imbuement_1": [{"text":"Increases your "},{"text":"Imbuement Chance","color":"#9664FD"},{"text":" by "},{"text":"15%","color":"#9664FD"},{"text":"."}],
     "util_t3_skillpoint_1": [{"text":"Grants "},{"text":"+1 Skill Point","color":"gold"},{"text":"."}],
+    "Companion Locker": [{"text":"Unlocks the "},{"text":"Companion Locker ","color":"yellow"},{"text":"block!\n\nDesigned to make companion management simple, clean, and space-efficient. It introduces a dedicated storage block that helps you keep your base organized while giving you full control over your companions."}],
     "util_t3_unique_1": [{"text":"Grants "},{"text":"10%","color":"#00FFFF"},{"text":" chance to "},{"text":"skip ability cooldowns","color":"#00FFFF"},{"text":"."}],
     "util_t3_cryonic_1": [{"text":"Your "},{"text":"Cryonic Focus","color":"#00FFFF"},{"text":" will always freeze a "},{"text":"Legendary","color":"gold"},{"text":" modifier."}],
     "util_t2_greed_reputation": [{"text":"25%","color":"gold"},{"text":" chance to gain an extra "},{"text":"Greed Reputation","color":"gold"},{"text":" when killing "},{"text":"Greed Assassins","color":"#B54AE7"},{"text":"."}],
