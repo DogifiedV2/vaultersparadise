@@ -1838,11 +1838,11 @@ hash = "737c74f66be6d81da841827533a27eeb8f37cf6687f88d25b747027a79589d42"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "028bfda70d4d717c56d3996c3bf7c5113a420b8048ef77371890b6a999021189"
+hash = "736dac0b4f1464992b6a9b598e101cc4e5a0f2ecab75bef85173884e465b61a1"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
-hash = "00510683c13ba276abda1c6b9ca965f23db3785017d0c657ebf88f660ed78a10"
+hash = "c4a655f9c95e6af7b96a5aa99c17594ad6b18bbce9c3dc4fa9534016c2bd7c11"
 
 [[files]]
 file = "config/the_vault/eyesore.json"
@@ -13949,6 +13949,14 @@ file = "config/the_vault/overlevel_enchant.json"
 hash = "8e29ddb4e2705f946280853807a4ea884d1c20f76e2e11df35988ce3843f909e"
 
 [[files]]
+file = "config/the_vault/overvaults_general.json"
+hash = "d16d98cbc0e24d353bfc8861b6964b0f26c0942695df7b0d368c4268cace1212"
+
+[[files]]
+file = "config/the_vault/overvaults_portals.json"
+hash = "034e4f87a6f2d63a8437e5b45cd18ff3c4d108c233e63cf2385b3eec8328c5c5"
+
+[[files]]
 file = "config/the_vault/pandoras_box.json"
 hash = "216a945afb0a5aaadc86fb8f194613ce22c39ed850f45da7e37312c0bf0ca587"
 
@@ -14314,7 +14322,7 @@ hash = "e8e147f8ff34ad7d31ed39711286c4fc1bd5ba2c5962f0a345f263404112334b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "d888682cdbdfc664dcee912f9b8ea6bed6fcd74d16eb9bdb7b7c09614e890d2d"
+hash = "7f106eb227e20f42c01092b38bdc92a8982b493681132eeb4e9482e3d0bd6c04"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -16949,8 +16957,8 @@ file = "mods/open-parties-and-claims-forge-1.18.2-0.24.0.jar"
 hash = "ad4cdc91e63396fc95fb101629aa59fb1d8da77269064fee9dc3a2cf848a59d2"
 
 [[files]]
-file = "mods/overvaults-1.6.0-1.18.2.jar"
-hash = "b0f6051bbc5e1293f1fd19a055f8c4541afe47b1380f269602a5da94b5b0b0a1"
+file = "mods/overvaults-1.6.5-1.18.2.jar"
+hash = "72aa65dc7e1e7f87a310a8a8847e2f2f4d4e66f06b9fca4f5b2b9e821a5323f5"
 
 [[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"

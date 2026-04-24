@@ -27,20 +27,6 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 50
-          },
-          {
-            "type": "companion_cooldown",
-            "cooldownReduction": 0.4,
-            "learnPointCost": 5,
-            "regretPointCost": 0,
-            "unlockLevel": 100
-          },
-          {
-            "type": "companion_cooldown",
-            "cooldownReduction": 0.5,
-            "learnPointCost": 10,
-            "regretPointCost": 0,
-            "unlockLevel": 150
           }
         ]
       },
@@ -51,7 +37,21 @@
         "tiers": [
           {
             "type": "lucky_altar",
+            "luckyAltarChance": 0.1,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "lucky_altar",
             "luckyAltarChance": 0.2,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "lucky_altar",
+            "luckyAltarChance": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -65,8 +65,8 @@
           },
           {
             "type": "lucky_altar",
-            "luckyAltarChance": 0.6,
-            "learnPointCost": 2,
+            "luckyAltarChance": 0.5,
+            "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           }
@@ -97,20 +97,6 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          },
-          {
-            "type": "shop_pedestal",
-            "costReduction": 0.60,
-            "learnPointCost": 2,
-            "regretPointCost": 0,
-            "unlockLevel": 100
-          },
-          {
-            "type": "shop_pedestal",
-            "costReduction": 0.75,
-            "learnPointCost": 3,
-            "regretPointCost": 0,
-            "unlockLevel": 125
           }
         ]
       },
@@ -121,31 +107,24 @@
         "tiers": [
           {
             "type": "crafting_potential",
-            "chanceToNotConsumePotential": 0.2,
+            "chanceToNotConsumePotential": 0.15,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "crafting_potential",
-            "chanceToNotConsumePotential": 0.4,
+            "chanceToNotConsumePotential": 0.30,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "crafting_potential",
-            "chanceToNotConsumePotential": 0.6,
+            "chanceToNotConsumePotential": 0.45,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          },
-          {
-            "type": "crafting_potential",
-            "chanceToNotConsumePotential": 0.8,
-            "learnPointCost": 5,
-            "regretPointCost": 0,
-            "unlockLevel": 100
           }
         ]
       },
@@ -193,15 +172,6 @@
             "abandonedPenaltyReduction": 0.9376,
             "maxActive": 2,
             "unlockLevel": 0
-          },
-          {
-            "type": "bounty_hunter",
-            "learnPointCost": 3,
-            "regretPointCost": 0,
-            "waitingPeriodReduction": 5400,
-            "abandonedPenaltyReduction": 0.9376,
-            "maxActive": 3,
-            "unlockLevel": 100
           }
         ]
       },
@@ -213,7 +183,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.06,
+            "value": 0.05,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -221,7 +191,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.12,
+            "value": 0.10,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -229,7 +199,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.18,
+            "value": 0.15,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -237,7 +207,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.24,
+            "value": 0.20,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -245,7 +215,15 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.3,
+            "value": 0.25,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:durability_wear_reduction",
+            "value": 0.30,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -343,13 +321,6 @@
         "tiers": [
           {
             "type": "infuser",
-            "negativeModifierRemovalChance": 0.1,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "infuser",
             "negativeModifierRemovalChance": 0.2,
             "learnPointCost": 1,
             "regretPointCost": 0,
@@ -357,31 +328,17 @@
           },
           {
             "type": "infuser",
-            "negativeModifierRemovalChance": 0.3,
+            "negativeModifierRemovalChance": 0.4,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "infuser",
-            "negativeModifierRemovalChance": 0.4,
-            "learnPointCost": 2,
-            "regretPointCost": 0,
-            "unlockLevel": 100
-          },
-          {
-            "type": "infuser",
-            "negativeModifierRemovalChance": 0.5,
-            "learnPointCost": 2,
-            "regretPointCost": 0,
-            "unlockLevel": 150
-          },
-          {
-            "type": "infuser",
             "negativeModifierRemovalChance": 0.6,
-            "learnPointCost": 2,
+            "learnPointCost": 1,
             "regretPointCost": 0,
-            "unlockLevel": 200
+            "unlockLevel": 0
           }
         ]
       },
@@ -410,57 +367,7 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          },
-          {
-            "type": "experience",
-            "increasedExpPercentage": 40.0,
-            "learnPointCost": 2,
-            "regretPointCost": 0,
-            "unlockLevel": 100
-          },
-          {
-            "type": "experience",
-            "increasedExpPercentage": 50.0,
-            "learnPointCost": 2,
-            "regretPointCost": 0,
-            "unlockLevel": 110
-          },
-          {
-            "type": "experience",
-            "increasedExpPercentage": 60.0,
-            "learnPointCost": 3,
-            "regretPointCost": 0,
-            "unlockLevel": 120
-          },
-          {
-            "type": "experience",
-            "increasedExpPercentage": 70.0,
-            "learnPointCost": 3,
-            "regretPointCost": 0,
-            "unlockLevel": 130
-          },
-          {
-            "type": "experience",
-            "increasedExpPercentage": 80.0,
-            "learnPointCost": 4,
-            "regretPointCost": 0,
-            "unlockLevel": 140
-          },
-          {
-            "type": "experience",
-            "increasedExpPercentage": 90.0,
-            "learnPointCost": 4,
-            "regretPointCost": 0,
-            "unlockLevel": 150
-          },
-          {
-            "type": "experience",
-            "increasedExpPercentage": 100.0,
-            "learnPointCost": 5,
-            "regretPointCost": 0,
-            "unlockLevel": 160
           }
-
         ]
       },
       {
@@ -481,20 +388,13 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          },
-          {
-            "type": "fortunate",
-            "additionalFortuneLevels": 3,
-            "learnPointCost": 2,
-            "regretPointCost": 0,
-            "unlockLevel": 0
           }
         ]
       },
       {
         "type": "tiered",
-        "id": "Lapidarist",
-        "name": "Lapidarist",
+        "id": "Jeweler",
+        "name": "Jeweler",
         "tiers": [
           {
             "type": "jeweler",
@@ -533,6 +433,30 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "marketer",
+            "timeReductionInMinutes": 0,
+            "numberOfRolls": 4,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "marketer",
+            "timeReductionInMinutes": 0,
+            "numberOfRolls": 5,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "marketer",
+            "timeReductionInMinutes": 0,
+            "numberOfRolls": 6,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
           }
         ]
       },
@@ -554,27 +478,6 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
-          },
-          {
-            "type": "fortuitous_finesse",
-            "extraLegendaryChance": 0.03,
-            "learnPointCost": 10,
-            "regretPointCost": 0,
-            "unlockLevel": 100
-          },
-          {
-            "type": "fortuitous_finesse",
-            "extraLegendaryChance": 0.03,
-            "learnPointCost": 20,
-            "regretPointCost": 0,
-            "unlockLevel": 250
-          },
-          {
-            "type": "fortuitous_finesse",
-            "extraLegendaryChance": 0.03,
-            "learnPointCost": 30,
-            "regretPointCost": 0,
-            "unlockLevel": 500
           }
         ]
       }
