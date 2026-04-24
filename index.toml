@@ -14058,11 +14058,11 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "333640465143ff68f2145923e706545498edf2318811b3962f3722c3b4288e18"
+hash = "df40cdfff216684c92aedbf2a749f62b91c03f21cf5e6f161a3d4619cc26c34d"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "705b432da5db0bfa58d9319c445bfc759454c2f9a8ede3d7cefd03965e173af8"
+hash = "9f6ee72b985d1ab6b34fb621539f7d3dba4372702c5ee648af41d8713b5649b8"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -14070,7 +14070,7 @@ hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "d18a1954ba6546e75fa420cf4efe6c0593ff63c20d53a2e052e979d7b56a7f39"
+hash = "8e7b9bde081d948a391cd47730ead309271915cdf74f02ae44e994dae4030515"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -14122,7 +14122,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "2fc7a434519577456850413746c744509aa8d72e59cd297ced2db7ede22ff9cb"
+hash = "fdbaf2563a9e94cf402836547090966ead83700a65df1c0b4e6ca42a0376a217"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -16679,6 +16679,10 @@ hash = "994753ec9be993bca4ec65342f842d00e4cfa9456875cba31e7b38963aff39aa"
 [[files]]
 file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
+
+[[files]]
+file = "mods/companion_locker-3.21.0.jar"
+hash = "da5cb711836f60b7f566d8ed74aeaaf0ccb2f1d2e11510f803874117e05c2ab5"
 
 [[files]]
 file = "mods/connectivity-1.18.2-3.2.jar"

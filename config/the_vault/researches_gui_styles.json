@@ -30,6 +30,12 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/create_crafts_and_additions"
     },
+    "Companion Locker": {
+      "x": 680,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "icon": "vending_companions:block/companion_locker"
+    },
 
     "Applied Energistics": {
       "x": 10,

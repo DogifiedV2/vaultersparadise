@@ -1388,6 +1388,22 @@
       "usesKnowledge": true
     },
     {
+      "itemRestrictions": {
+        "vending_companions:companion_vending_machine": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Companion Locker",
+      "cost": 4,
+      "usesKnowledge": true
+    },
+    {
       "itemRestrictions": {},
       "blockRestrictions": {},
       "entityRestrictions": {},
