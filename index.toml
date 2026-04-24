@@ -14054,11 +14054,11 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "28841311685b09d9f3f31086d8783c4f8689142054c8ed889bfec1dbcf835ba0"
+hash = "7fe1e671ec648504426b34e4d415848d8b93ab2b2e0e614adcaaa283105e3018"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "0cc47f16814fbd0ec8873ee8741b8889a40e71be83f964a468281a3c5020e55a"
+hash = "6c2a84445d523a020104481cb6b193b48eea1468c6181f0c2a69b8e56b76eb0c"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -14066,7 +14066,7 @@ hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "77c5b8dd1d46f7e84c801c540f17b144fb69a72408e417d6fa3460571b2c7f2f"
+hash = "edf19e6ea6fc0aa851946ea75dd64e3997a460ea0418dac8a078b5acf67c5580"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -14118,11 +14118,11 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "b67b3f2554b141e98c6713b23583ab09c5a280bf3a1d5232a9378e62cda064c5"
+hash = "c56cdf3f6c60e22a9ab81f22ef33efa1f3caf3b6b93f2595dd10e4614c614b49"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "0dad9eb4e3e2efce046415ad043eb4c6f70554820b1f90bad518f1a05da8c856"
+hash = "569c9881ab6fbebb9083704100dd06a5939b65c332c068e86ebe68dc63dde2c5"
 
 [[files]]
 file = "config/the_vault/skill_scrolls.json"
@@ -14142,7 +14142,7 @@ hash = "b62a85e5036e7108a112271dadf1fdb402dcc1f82ad2aea5feed850443b79829"
 
 [[files]]
 file = "config/the_vault/talents.json"
-hash = "9275ea5d986d4f7a3adcd42fc024b3343e09ad3a31a1c188ac2fc8edb3a9319d"
+hash = "010436d664875108c0d0cc6e3b257b647af95e308610880e7b9b0294819107fb"
 
 [[files]]
 file = "config/the_vault/talents_gui_styles.json"
@@ -14246,7 +14246,7 @@ hash = "be0e746720607fb29524e9a981dd78c51f9b7e33b9c72b1315027864a183bd75"
 
 [[files]]
 file = "config/the_vault/vault_chest.json"
-hash = "f4c4197e2930a14594960b9ea85869ac608938d70a583a4c22c4a62b25288d42"
+hash = "4ad7f0842aaf626a58078cb297cd14b1efbdd0db071c1129d90aebcebff4f849"
 
 [[files]]
 file = "config/the_vault/vault_chest_meta.json"
@@ -14575,6 +14575,14 @@ hash = "8e00021e6a3cea3d885779bbe4e8d3f8a41c39de9ada68e7feaae5f98f98cb11"
 [[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/companionslot.png"
+hash = "0c1f4e29c3ae9c5b2752dd449dbd6dd36bde5dd440f03c79c7487f4a31f0d9ac"
+
+[[files]]
+file = "kubejs/assets/curios/textures/slot/tiab.png"
+hash = "c394ebb9fdc37ee3bfb9ea64ff543f813da9539258981a568e8e836d645f2f99"
 
 [[files]]
 file = "kubejs/assets/curios/textures/slot/wireless_terminal.png"
@@ -17018,7 +17026,7 @@ hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
 
 [[files]]
 file = "mods/serverportals-1.18.2-1.5.jar"
-hash = "d2742d2719d38d10f17689569756a60d8d284aed024d9d478151d7f5665ee8d3"
+hash = "28825ae1f789c2f99da2c082e2136ae871443e9638e90e4df07724aded6e8b19"
 
 [[files]]
 file = "mods/servertransfer-1.0.jar"
@@ -17098,7 +17106,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "4c4a6c7248712396958e59719a6fccc5891b8418ea04b7df2da1e5fd06bf456e"
+hash = "76c1949bbac5b1316bed90290e9c5f508fb8778d6a8ce380cfdf8147d418b29d"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

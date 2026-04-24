@@ -6,11 +6,12 @@
         "type": "tiered",
         "id": "Intelligence",
         "name": "Intelligence",
+        "maxLearnableTier": 4,
         "tiers": [
           {
             "type": "gear_attribute",
             "attribute": "the_vault:ability_power",
-            "value": 3.0,
+            "value": 4.0,
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -18,7 +19,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:ability_power",
-            "value": 6.0,
+            "value": 8.0,
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -26,7 +27,127 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:ability_power",
-            "value": 9.0,
+            "value": 16.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 24.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 32.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 40.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 48.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 56.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 64.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 72.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 80.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 88.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 96.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 104.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 112.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 120.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 144.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:ability_power",
+            "value": 180.0,
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -86,6 +207,7 @@
         "type": "tiered",
         "id": "Strength",
         "name": "Strength",
+        "maxLearnableTier": 4,
         "tiers": [
           {
             "type": "effect",
@@ -115,6 +237,118 @@
             "type": "effect",
             "effect": "minecraft:strength",
             "amplifier": 4,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 5,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 6,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 7,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 8,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 9,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 10,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 12,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 14,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 16,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 18,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 20,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 22,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 25,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0
+          },
+          {
+            "type": "effect",
+            "effect": "minecraft:strength",
+            "amplifier": 30,
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -195,14 +429,6 @@
             "type": "effect",
             "effect": "minecraft:speed",
             "amplifier": 9,
-            "learnPointCost": 4,
-            "regretPointCost": 4,
-            "unlockLevel": 0
-          },
-          {
-            "type": "effect",
-            "effect": "minecraft:speed",
-            "amplifier": 10,
             "learnPointCost": 4,
             "regretPointCost": 4,
             "unlockLevel": 0
@@ -1448,14 +1674,6 @@
               {
                 "type": "gear_attribute",
                 "attribute": "the_vault:damage_dweller",
-                "value": 2.25,
-                "learnPointCost": 2,
-                "regretPointCost": 1,
-                "unlockLevel": 0
-              },
-              {
-                "type": "gear_attribute",
-                "attribute": "the_vault:damage_dweller",
                 "value": 2.75,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
@@ -1585,14 +1803,6 @@
                 "type": "gear_attribute",
                 "attribute": "the_vault:damage_champion",
                 "value": 2.25,
-                "learnPointCost": 2,
-                "regretPointCost": 1,
-                "unlockLevel": 0
-              },
-              {
-                "type": "gear_attribute",
-                "attribute": "the_vault:damage_champion",
-                "value": 1.0,
                 "learnPointCost": 2,
                 "regretPointCost": 1,
                 "unlockLevel": 0
@@ -2271,7 +2481,7 @@
             "type": "high_health_gear_attribute",
             "attribute": "the_vault:mana_regen",
             "healthThreshold": 0.80,
-            "value": 1.6,
+            "value": 1.7,
             "effect": "the_vault:sorcery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -2660,7 +2870,7 @@
           {
             "type": "lightning_stun",
             "stunChance": 0.25,
-            "stunDuration": 2,
+            "stunDuration": 6,
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -2668,7 +2878,7 @@
           {
             "type": "lightning_stun",
             "stunChance": 0.3,
-            "stunDuration": 3,
+            "stunDuration": 6,
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -2676,7 +2886,7 @@
           {
             "type": "lightning_stun",
             "stunChance": 0.35,
-            "stunDuration": 4,
+            "stunDuration": 6,
             "learnPointCost": 1,
             "regretPointCost": 1,
             "unlockLevel": 0
@@ -3094,7 +3304,7 @@
             "type": "high_mana_gear_attribute",
             "attribute": "the_vault:soul_chance",
             "manaThreshold": 0.8,
-            "value": 2.5,
+            "value": 2.6,
             "effect": "the_vault:witchery",
             "learnPointCost": 1,
             "regretPointCost": 1,
@@ -5420,7 +5630,7 @@
             "value": 0.25,
             "effect": "the_vault:arcana",
             "durationTicks": 300,
-            "maxStacks": 15,
+            "maxStacks": 20,
             "learnPointCost": 2,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -5432,7 +5642,7 @@
             "value": 0.3,
             "effect": "the_vault:arcana",
             "durationTicks": 300,
-            "maxStacks": 15,
+            "maxStacks": 20,
             "learnPointCost": 2,
             "regretPointCost": 1,
             "unlockLevel": 0,
