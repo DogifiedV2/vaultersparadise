@@ -638,7 +638,8 @@
     },
     {
       "modIds": [
-        "botanypots"
+        "botanypots",
+        "botanypotstiers"
       ],
       "restrictions": {
         "restricts": {

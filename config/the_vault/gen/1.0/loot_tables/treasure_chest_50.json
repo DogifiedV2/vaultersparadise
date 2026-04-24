@@ -287,6 +287,17 @@
                   "max": 1
                 }
               }
+            },
+            {
+              "weight": 4,
+              "item": {
+                "id": "woldsvaults:wold_star_chunk",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
             }
           ]
         }

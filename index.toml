@@ -2586,11 +2586,11 @@ hash = "9152dc8b1c9dd5a23112f62b53f5e02b76dda62296e8eab6d7ef677d2646d0b1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "298e041f47fe1df9d76dff7377e6f4b6bd34e96bb122f22d2844a3024f2a8b99"
+hash = "e4dd2a7d88b7a4643ec70ae4aa68d20d04b4903683786d09f02d9747db3b535f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50_objective.json"
-hash = "ebef44b17c92d18f8ed4e1cea7407e3b9caec1d937dd3747685e1962d222f250"
+hash = "7bbb7a92fd26d0286b89adfce560b2a9e252e95aaeb0c90a988b3a95ad37f74a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_pillar.json"
@@ -14058,7 +14058,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "aa580f770b34afdf185905675ea6dbf039418ee9bbb5a223bae59ca0435c2fb1"
+hash = "333640465143ff68f2145923e706545498edf2318811b3962f3722c3b4288e18"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -14070,7 +14070,7 @@ hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "c7e391d7c72d481c63465ea297d29fa2df6dc19eed8abbe03d05a0883356566a"
+hash = "d18a1954ba6546e75fa420cf4efe6c0593ff63c20d53a2e052e979d7b56a7f39"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -17703,6 +17703,10 @@ hash = "de42a9e163ff7a38c4262ccea18a6af56db7f51fdf4fb01aabbfb7ff33b12e3c"
 [[files]]
 file = "scripts/alexsmobs.zs"
 hash = "0e032dfed9686e64aca2f0ba2ee8bce2486fb84f59909c26507724a68967fd3f"
+
+[[files]]
+file = "scripts/botanytiers.zs"
+hash = "a0440498f275c5c0db3c625c3e5d6c3f2e5cd555a4d1e6e26c2243e482f257b7"
 
 [[files]]
 file = "scripts/iron_generators_furnaces.zs"

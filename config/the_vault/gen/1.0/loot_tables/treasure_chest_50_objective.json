@@ -344,6 +344,22 @@
               }
             }
           ]
+        },
+        {
+          "weight": 2,
+          "pool": [
+            {
+              "weight": 1,
+              "item": {
+                "id": "woldsvaults:wold_star_chunk",
+                "count": {
+                  "type": "uniform",
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            }
+          ]
         }
       ]
     }
