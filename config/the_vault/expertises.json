@@ -107,21 +107,21 @@
         "tiers": [
           {
             "type": "crafting_potential",
-            "chanceToNotConsumePotential": 0.15,
+            "reducePotentialAmount": 0.15,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "crafting_potential",
-            "chanceToNotConsumePotential": 0.30,
+            "reducePotentialAmount": 0.30,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "crafting_potential",
-            "chanceToNotConsumePotential": 0.45,
+            "reducePotentialAmount": 0.45,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -266,21 +266,21 @@
           {
             "type": "trinketer",
             "damageAvoidanceChance": 0.25,
-            "learnPointCost": 2,
+            "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "trinketer",
-            "damageAvoidanceChance": 0.33,
-            "learnPointCost": 2,
+            "damageAvoidanceChance": 0.35,
+            "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           },
           {
             "type": "trinketer",
             "damageAvoidanceChance": 0.50,
-            "learnPointCost": 2,
+            "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
           }
@@ -393,7 +393,7 @@
       },
       {
         "type": "tiered",
-        "id": "Jeweler",
+        "id": "Lapidarist",
         "name": "Jeweler",
         "tiers": [
           {
@@ -430,30 +430,6 @@
             "type": "marketer",
             "timeReductionInMinutes": 0,
             "numberOfRolls": 3,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "marketer",
-            "timeReductionInMinutes": 0,
-            "numberOfRolls": 4,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "marketer",
-            "timeReductionInMinutes": 0,
-            "numberOfRolls": 5,
-            "learnPointCost": 1,
-            "regretPointCost": 0,
-            "unlockLevel": 0
-          },
-          {
-            "type": "marketer",
-            "timeReductionInMinutes": 0,
-            "numberOfRolls": 6,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
