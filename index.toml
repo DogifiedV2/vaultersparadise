@@ -17197,6 +17197,10 @@ file = "mods/vaultadditions-1.21.7.jar"
 hash = "0406df5850c0881387433ee94ede3de3a4b0a3f3b33a7312e15c3c1733356dae"
 
 [[files]]
+file = "mods/vaultadditions-1.21.8.jar"
+hash = "e4ef5eb93591118423e546bcffdecba07cbe6b13792981140907d659cbbc6146"
+
+[[files]]
 file = "mods/vaultchaosgod-1.0.jar"
 hash = "21beb05a60dda1ec23dc39f1e7d7489b6584f4a1a9b16418b916cc65b5fff3ad"
 
@@ -17241,8 +17245,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaultsstandalone-0.22.1-all.jar"
-hash = "5bd5970d9cdcbaa03a8acfcef3f4a4120e1d10a858a9614328ef0a3decccf640"
+file = "mods/woldsvaultsstandalone-0.22.2-all.jar"
+hash = "50ee11d67a2e62feb95f0304a1567fce6b03f2398f9237218ce8775b70053dfd"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
