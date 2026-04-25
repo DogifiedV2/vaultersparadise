@@ -3710,64 +3710,6 @@
           }
         ]
       }
-    ],
-    "the_vault:garden": [
-      {
-        "level": 0,
-        "pool": [
-          {
-            "value": {
-              "entries": [
-                {
-                  "pool": "the_vault:vault/rooms/omega/garden",
-                  "count": 1,
-                  "color": 7012096
-                }
-              ],
-              "size": {
-                "type": "uniform",
-                "min": 10,
-                "max": 10
-              },
-              "model": {
-                "type": "uniform",
-                "min": 97,
-                "max": 97
-              }
-            },
-            "weight": 16
-          }
-        ]
-      }
-    ],
-    "the_vault:hellish_digsite": [
-      {
-        "level": 0,
-        "pool": [
-          {
-            "value": {
-              "entries": [
-                {
-                  "pool": "the_vault:vault/rooms/omega/hellish_digsite",
-                  "count": 1,
-                  "color": 7012096
-                }
-              ],
-              "size": {
-                "type": "uniform",
-                "min": 10,
-                "max": 10
-              },
-              "model": {
-                "type": "uniform",
-                "min": 96,
-                "max": 96
-              }
-            },
-            "weight": 16
-          }
-        ]
-      }
     ]
   },
   "poolToModel": {
@@ -3796,9 +3738,7 @@
     "the_vault:vault/rooms/challenge/memory": 23,
     "the_vault:vault/rooms/challenge/horderush": 24,
     "the_vault:vault/rooms/challenge/protect_villager": 25,
-    "the_vault:vault/rooms/challenge/companion_rush": 24,
-    "the_vault:vault/rooms/omega/hellish": 96,
-    "the_vault:vault/rooms/omega/garden": 97
+    "the_vault:vault/rooms/challenge/companion_rush": 24
   },
   "ringWeights": [ 50, 40, 7, 3 ]
 }

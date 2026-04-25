@@ -75,26 +75,6 @@
     {
       "value": {
         "id": "the_vault:inscription",
-        "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/garden\"}],model: 97, size: 10}}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 128
-    },
-    {
-      "value": {
-        "id": "the_vault:inscription",
-        "nbt": "{data: {entries: [{color: 7012096,count: 1,pool: \"the_vault:vault/rooms/omega/garden\"}],model: 97, size: 5}}",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 128
-    },
-
-
-    {
-      "value": {
-        "id": "the_vault:inscription",
         "nbt": "{data: {entries: [{color: 15769088,count: 1,pool: \"the_vault:vault/rooms/challenge/crystal_caves\"}],model: 5, size: 10}}",
         "amountMin": 1,
         "amountMax": 1
