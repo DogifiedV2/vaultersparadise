@@ -1626,11 +1626,11 @@ hash = "c2b07047565e72f025fa5be4eeca1034b995981cf96f9534ab0e79b25c275b9c"
 
 [[files]]
 file = "config/the_vault/augment.json"
-hash = "2665d8c3557fc43c89f36c3d86e6d36f88b0b3a67a1b940129b1403c42987121"
+hash = "823697ad58ae8afccc160faff56af30fa86bab4404a481ddab3f0764a713b8db"
 
 [[files]]
 file = "config/the_vault/augment_box.json"
-hash = "ecbde2deec8ba80954b9f67913d70715b5463d49622caaafa33e30b89bdb9cbf"
+hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
 
 [[files]]
 file = "config/the_vault/augment_station.json"
@@ -1690,7 +1690,7 @@ hash = "8afdef0d4d66e2cb5e7f60b1310afcd30b75969a5f3b123579e84afb2ed1e27d"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
-hash = "8e9af2191c397cae109744008095a9df43cc5eb8acef68122a439e066339ad2c"
+hash = "a25881535063f7a4779dd12f298cf2438c83b31705bd88dc06dccbfd9598cecb"
 
 [[files]]
 file = "config/the_vault/card/conditions.json"
@@ -3230,7 +3230,7 @@ hash = "db5674dde4dae1478faa44a2509620a10a2c29ff624c266401047ea0e10e7574"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/factory/base.json"
-hash = "2599897b382e0633e11e079e4c5d073c2980f07a2a20a6fdeaa720476c238e80"
+hash = "9aa8f8e0253da454548db05d8558452af5657ba70e3ec9337ed0157f0e35a080"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/factory/bucket.json"
@@ -13802,11 +13802,11 @@ hash = "c77805342a6e47652394d5711ac16aac1ca0bc3b435b64610625367aa76c40a8"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "e6848ee32fcdfe09944169b2a50fda4a0e5dae84b7b7a8102ac8c895696be07b"
+hash = "d4e86b4e7f4e257043ff8aa85a4d7befcb762d9498d026f5df0c6e394d94517d"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
-hash = "0dab5eb96545f4855f81e7d541072075da9c36556e2d000e6c58b4ecdee4d9cc"
+hash = "ac82e659b00d9b94eb4a061b7d2f6fba1802f1f14b3bce9c654d3c59adccca60"
 
 [[files]]
 file = "config/the_vault/item_groups.json"
@@ -15002,7 +15002,7 @@ hash = "a12c8145a36e0ef200ac584731097789df96fc16ecad4e0aecd7bccfb671c2c8"
 
 [[files]]
 file = "kubejs/assets/the_vault/lang/en_us.json"
-hash = "6a1c509da781c7b7cbf1fca0aeef2f646181e5ada48d4cac28dce31694755f4c"
+hash = "c060400d9ee7597259bc0ad4e55915beb08720882630756be42120a4eb06fe10"
 
 [[files]]
 file = "kubejs/assets/the_vault/models/block/vendor_door/top.json"
@@ -15017,6 +15017,10 @@ file = "kubejs/assets/the_vault/models/item/card/icon/colossus.json"
 hash = "9869ae5e18b06616480f8a38c7c756a4a539e280a6a853d5ff173b984b217cae"
 
 [[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/echoing_damage.json"
+hash = "ff8c322ace2e6492c0aa22701395fa2ce7642b1a353dc07e331a9553158a77a3"
+
+[[files]]
 file = "kubejs/assets/the_vault/models/item/card/icon/effect_duration.json"
 hash = "ce86f173d5c67ba6d1ad376b54ed674146974a86a44a722b30443c6c7af59c89"
 
@@ -15025,12 +15029,24 @@ file = "kubejs/assets/the_vault/models/item/card/icon/fortify.json"
 hash = "e2d57dc85b81eb0169a4ce262265c022b2ffd4134a4956697ba66b64eabde651"
 
 [[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/ghost_walk.json"
+hash = "c664e2f73ce7030af4ee05a18ff6498de32a808c7f6808bcaab65da91bb6e6ac"
+
+[[files]]
 file = "kubejs/assets/the_vault/models/item/card/icon/levitate.json"
 hash = "980477dfd54fe55be7ab6a149159c31cf7ac8f2282fc06e130dabc403e7dc0f5"
 
 [[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/mana_cost_reduction.json"
+hash = "14e2813aba8aeb46d2fa03cf0abee71c98fd708f80136979fe44bd9e569a192c"
+
+[[files]]
 file = "kubejs/assets/the_vault/models/item/card/icon/mana_shield.json"
 hash = "e780f577f143d5d0454ca0f9fc317df2559dd7669da2ac5a8198d3584dd76d5a"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/mana_shield_retribution.json"
+hash = "9cbe9ea46bc4142c97f7ab1a011812b14fc60e737a469452d34de86873d3f5c9"
 
 [[files]]
 file = "kubejs/assets/the_vault/models/item/card/icon/shield_wall.json"
@@ -15039,6 +15055,10 @@ hash = "1f0059235c04c69c1f800fc86300f532e1305c9da8b6da36dedf422a94059c5f"
 [[files]]
 file = "kubejs/assets/the_vault/models/item/card/icon/sneaky_getaway.json"
 hash = "e9554030aa5d5c1b1806ff28b15071f85211b402c3408d68ee9263357ed4ea71"
+
+[[files]]
+file = "kubejs/assets/the_vault/models/item/card/icon/spirit_walk.json"
+hash = "a42846801f89e8d1b2bb55efbabbc3a6c4ac87820ded340cc2e6a429c6324c01"
 
 [[files]]
 file = "kubejs/assets/the_vault/models/item/card/icon/vein_miner_chain.json"
@@ -15493,6 +15513,14 @@ file = "kubejs/assets/the_vault/textures/gui/slot/curios/shard.png"
 hash = "4279f08dfa10057c0003b7e7bd3b717a7e19c00d5375b9a87e7f8783540324a1"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/item/bm_token.png"
+hash = "89a17e6d19257c99f3062e20309b9eda4b1ced60631674b834478d51f7fee81e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/bm_token.png.mcmeta"
+hash = "16f4b3804286fa9791a15a737fb7b51627500a897874ab974c22e186c322e9e3"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/item/brazier_ember.png"
 hash = "356a6cc9a2fcd6d298d1eb586372a05f7a637594aa9d33f5adcc0af7a56eb688"
 
@@ -15509,6 +15537,10 @@ file = "kubejs/assets/the_vault/textures/item/card/icon/colossus.png"
 hash = "d58b407c281ae2c3ea13ab8a77247c98f1bd590e6fcb1c4165593e38b779f469"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/echoing_damage.png"
+hash = "dc6f3abd85e483dfb05129c4df904a7fb105e0ae961e7a02bb761e1b92dcbde4"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/item/card/icon/effect_duration.png"
 hash = "91ae4189fee797fbc55958c872fe0fd0d584c5887f8ccdbb5c215c1941150321"
 
@@ -15517,12 +15549,24 @@ file = "kubejs/assets/the_vault/textures/item/card/icon/fortify.png"
 hash = "9a3816f2e87539c09324f688f635061809009130d56f37467c736e0442ca0215"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/ghost_walk.png"
+hash = "2f39bcfca204f453bf223cec47695c087361e149c336f33150dca27028d44f44"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/item/card/icon/levitate.png"
 hash = "161483523ecd1a5f51fb49135cc196658337dfe0f81c2129471024e5de113f5b"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/mana_cost_reduction.png"
+hash = "cd0b9e2fecbe7282ac9d12ed72adb00e4514a225d9b3a2df6d0f79d7dafec036"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/item/card/icon/mana_shield.png"
 hash = "27d9e3bb24613a9e3bd5ba84f4eba4accee2f84bf31893751c3e4a047f6b3758"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/mana_shield_retribution.png"
+hash = "732a3188737a1bd54dde7bfe9467d3ba62a1d4143009529150f533e169b4a4f6"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/card/icon/shield_wall.png"
@@ -15531,6 +15575,10 @@ hash = "1764327da0c3be7aa762d331290aa193481de333b26b5fd6a042a260662af55d"
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/card/icon/sneaky_getaway.png"
 hash = "3625fda1ae1f4e8d067ba4d83391a68d62e6ac9157998f7f3b4ced8bc0275966"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/item/card/icon/spirit_walk.png"
+hash = "f897f288a37ea71206035f605efb9fb557747d46faa6132397f162705a9e71b5"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/item/card/icon/vein_miner_chain.png"
@@ -17715,6 +17763,10 @@ hash = "67f9392a5dd16c0ef628721bfd20daef52ecdd733a35ec020ea6398df5662ae7"
 [[files]]
 file = "resourcepacks/Qiyanas_valley_V5.zip"
 hash = "9b679dacc79be952f022bb95741a04b4da629d5bff5897d902c925f9e76c3192"
+
+[[files]]
+file = "scripts/00_millennium_scripts.zs"
+hash = "6eb0730ef5da5bba55b3fb0cb4d5b0750c4f2909e367a266dafba740e82a7696"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
