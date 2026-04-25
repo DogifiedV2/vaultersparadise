@@ -2578,7 +2578,7 @@ hash = "4d5f0634e2ced6f91fb77152bee3fe589c66c0afdf3555c78bc7d71b7e213cc0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/mushroom_mushroom.json"
-hash = "5300da1f5604f768a499bf2cdc173213d9fb1fd12a3e07d5902e34e3ce43e1d2"
+hash = "e847682b74f6577156cf170bfed9a3ac6313998a14ff37e88a0d343ae73dac10"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_chest_0.json"
@@ -3666,7 +3666,7 @@ hash = "0ed16a69f03346a7d4f063e16d3bb94f18c7ce6d1f6237b00b4caa3cb734f6da"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/mush_room/base.json"
-hash = "adaaffdfa279968efd361224bc0ebe60d04f61625cfb434afc5553e53b19027e"
+hash = "02b982c9dba7892c2ada54df541cd7ee7aca2b0d403cf3bbad6434bd7d8b59ef"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/mush_room/fairy.json"
@@ -3674,7 +3674,7 @@ hash = "6411f6ba8f0f68687ac986a8f5742eed7eac1559886139a51004d5070fe2fbb6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/mush_room/mush_room2.json"
-hash = "6e93802c3f31bdf37e4ddd571101e3b918f08400723ac0bc0740911e3bf6ed0a"
+hash = "fdde1634ae75ce7e9a4c4c3f9cf42d3cee6f1365099dbb47f3c4e3b00f777fa5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/omega_digsite/base.json"
@@ -14310,7 +14310,7 @@ hash = "64e0e34b9d4bc78a036d8bbbd2dab83786579c4d36ce355a2b65aa37d8beae23"
 
 [[files]]
 file = "config/the_vault/theme_augment_lore.json"
-hash = "ff7c5dd3ea94fc17a79f1b711cdb292da39dad2e5391ab95cb64095d4d53c32a"
+hash = "1bc3f53b867aadfbf6bae2c55df1088a0ea678535602faf5b4896499d393e2f7"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
