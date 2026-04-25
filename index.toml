@@ -2086,7 +2086,7 @@ hash = "e9dd456647780006df1f9b752ce7e805a8dcf5fedb6f37ec6f8e7d5f61cd07c0"
 
 [[files]]
 file = "config/the_vault/gem_box.json"
-hash = "2dd95b04f52d512ff97f595ceb3ebb55a344f3e428677e4ccf02585512faf2a7"
+hash = "014c2ded340399b901de8da7edf9fde9d44bceec706e79ffb70e7f8130f8536a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_pools/idona_altar.json"
@@ -2494,15 +2494,15 @@ hash = "baf64b22493b9e0d99422b1fb137ab48f1fc6f524813773a7e362c6deb2bc177"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_0.json"
-hash = "a0909e3e3e221af49fa2d91525d788e10252b55bebdd009e185811476833bfcf"
+hash = "01ae287e482f0c4f86b64d1a4b3ea9af4e5579799b74b086219c1bcd602b3aa1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_20.json"
-hash = "642274bd16e00db99c631f2c4930284701e2271cd8cf6fba4398883473dd718b"
+hash = "0975cc2d36e5da89bf3aa8f3b0338eb42a4877e1f823b75284e2ae849091ceb2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_50.json"
-hash = "ac3e37b97536550d885bafc735cc8605c34fc0574a06c9d69beb821091876348"
+hash = "c00de829251628db2424a5ef81c61571090c1b7e0ce8306d1afe91cfdc7a7fc2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_raw.json"
@@ -14146,7 +14146,7 @@ hash = "ed54af22f8edf2fd90753f8cd1c818c519c884cdd1634957c7d1373064a2635a"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "821ce2c0a8e2a44cae8605211bdaf9575abedd1c31f2785df34dc124ba79ec12"
+hash = "75f66cacd9b795c743df05b55a49fd1521611a8cc4d01798530e0e02c59e1f0b"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
@@ -17246,7 +17246,7 @@ hash = "28825ae1f789c2f99da2c082e2136ae871443e9638e90e4df07724aded6e8b19"
 
 [[files]]
 file = "mods/servertransfer-1.0.jar"
-hash = "26acec95a1196159955a469a6047a62c97915cbb9fabbe5af77e852dfb8fbd66"
+hash = "bee97a26e5f4f97ec6d3b7746c0ed209d243a065996510fb20a5fc7ea07a04f5"
 
 [[files]]
 file = "mods/shetiphiancore-forge-1.18.2-3.10.20.jar"
@@ -17322,7 +17322,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "1a43c990ae554ca3c6c914fe9495d84410d453a94383baf5b407723e1a08fd12"
+hash = "9e5cbe2ca24b5a646bb461661d733ddb95e66a191872b0d17fc3908c12b4db8f"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

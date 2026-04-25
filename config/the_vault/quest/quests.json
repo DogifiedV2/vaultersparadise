@@ -209,7 +209,22 @@
             "text": "\n\nIf a portal is left open for too long the inhabitants may even venture into the Minecraft world, it's up to the community to close the portals!",
             "color": "$text"
           },
-
+          {
+            "text": "\n\nNote",
+            "color": "$manaCost"
+          },
+          {
+            "text": " - the good Overvaults only spawn randomly every few hours, so don't expect to find one on demand.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nVault Compass",
+            "color": "$manaCost"
+          },
+          {
+            "text": " - if there is an active Overvault somewhere in the world, a Vault Compass will point you straight to it.",
+            "color": "$text"
+          },
           {
             "text": "\n\n",
             "color": "$qhighlight"
