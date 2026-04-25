@@ -843,35 +843,6 @@
             }
           ],
           "weight": 1
-        },
-
-        {
-          "value": [
-            {
-              "modifier": "@knack",
-              "colors": [],
-              "groups": [],
-              "scaler": "",
-              "condition": "@knack",
-              "probability": 1.0
-            }
-          ],
-          "weight": 9.0
-        },
-        {
-          "value": [
-            {
-              "modifier": "@knack",
-              "colors": [],
-              "groups": [
-                "Foil"
-              ],
-              "scaler": "",
-              "condition": "@knack",
-              "probability": 1.0
-            }
-          ],
-          "weight": 1.0
         }
       ]
     },
@@ -985,35 +956,6 @@
             }
           ],
           "weight": 1
-        },
-
-        {
-          "value": [
-            {
-              "modifier": "@knack",
-              "colors": [],
-              "groups": [],
-              "scaler": "",
-              "condition": "@knack",
-              "probability": 1.0
-            }
-          ],
-          "weight": 9.0
-        },
-        {
-          "value": [
-            {
-              "modifier": "@knack",
-              "colors": [],
-              "groups": [
-                "Foil"
-              ],
-              "scaler": "",
-              "condition": "@knack",
-              "probability": 1.0
-            }
-          ],
-          "weight": 1.0
         }
       ]
     },
@@ -1064,7 +1006,6 @@
           ],
           "weight": 1
         },
-
         {
           "value": [
             {
@@ -1127,35 +1068,6 @@
             }
           ],
           "weight": 1
-        },
-
-        {
-          "value": [
-            {
-              "modifier": "@knack",
-              "colors": [],
-              "groups": [],
-              "scaler": "",
-              "condition": "@knack",
-              "probability": 1.0
-            }
-          ],
-          "weight": 9.0
-        },
-        {
-          "value": [
-            {
-              "modifier": "@knack",
-              "colors": [],
-              "groups": [
-                "Foil"
-              ],
-              "scaler": "",
-              "condition": "@knack",
-              "probability": 1.0
-            }
-          ],
-          "weight": 1.0
         }
       ]
     },
@@ -1269,35 +1181,6 @@
             }
           ],
           "weight": 1
-        },
-
-        {
-          "value": [
-            {
-              "modifier": "@knack",
-              "colors": [],
-              "groups": [],
-              "scaler": "",
-              "condition": "@knack",
-              "probability": 1.0
-            }
-          ],
-          "weight": 9.0
-        },
-        {
-          "value": [
-            {
-              "modifier": "@knack",
-              "colors": [],
-              "groups": [
-                "Foil"
-              ],
-              "scaler": "",
-              "condition": "@knack",
-              "probability": 1.0
-            }
-          ],
-          "weight": 1.0
         }
 
       ]
