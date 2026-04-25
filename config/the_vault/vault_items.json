@@ -40,6 +40,30 @@
     "lootPercentageMax": 0.7,
     "xpPercentageMin": 0.4,
     "xpPercentageMax": 0.8,
+    "xpDollWeight": 1.0,
+    "lootDollWeight": 1.0,
+    "lootDifficultyBands": [
+      {
+        "minPercent": 0.10,
+        "maxPercent": 0.25,
+        "difficulty": "EASY"
+      },
+      {
+        "minPercent": 0.25,
+        "maxPercent": 0.45,
+        "difficulty": "NORMAL"
+      },
+      {
+        "minPercent": 0.45,
+        "maxPercent": 0.60,
+        "difficulty": "HARD"
+      },
+      {
+        "minPercent": 0.60,
+        "maxPercent": 0.70,
+        "difficulty": "IMPOSSIBLE"
+      }
+    ],
     "helmetOffsets": {
       "minecraft:diamond_helmet": 0.08,
       "minecraft:netherite_helmet": 0.08
