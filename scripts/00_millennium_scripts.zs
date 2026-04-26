@@ -181,7 +181,6 @@ craftingTable.remove(<item:the_vault:charm_upgrade_tier_4>);
 craftingTable.remove(<item:the_vault:cryo_chamber>);
 craftingTable.remove(<item:the_vault:eternal_pedestal>);
 craftingTable.remove(<item:the_vault:infused_eternal_soul>);
-craftingTable.remove(<item:the_vault:vault_doll>);
 craftingTable.remove(<item:the_vault:memory_powder>);
 craftingTable.remove(<item:the_vault:memory_shard>);
 craftingTable.remove(<item:the_vault:memory_crystal>);

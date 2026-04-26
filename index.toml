@@ -16613,6 +16613,10 @@ file = "mods/JustEnoughResources-1.18.2-0.14.2.206.jar"
 hash = "8e1deac149d63113b3acfd11a4226a6df2940566028f1daead83b29de42144f5"
 
 [[files]]
+file = "mods/JustEnoughVH-1.9.jar"
+hash = "a1907efb9d97526c3fccea4a01d12130ee261b048318238bedb307167b82c5ba"
+
+[[files]]
 file = "mods/LegendaryTooltips-1.18.2-1.3.1.jar"
 hash = "592c6db8ef5beb153eb96cc928a481aa35ac56c137d4d5e363df6da078e7f91a"
 
@@ -17322,7 +17326,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "9e5cbe2ca24b5a646bb461661d733ddb95e66a191872b0d17fc3908c12b4db8f"
+hash = "8d4cf9db4d630fa7ea344f535c4d701cbde8e2851932a689642582f55fabdb59"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -17381,8 +17385,8 @@ file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
 hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
 
 [[files]]
-file = "mods/vhapi-4.5.1.jar"
-hash = "68912a106d326b7fde828ce1c319cdb990f120c7a99c2ee659aa1de1530f167e"
+file = "mods/vhapi-4.7.1.jar"
+hash = "7a7b97d32e08761395b18e06feb6ebc40c1f278a308225d41a385159fd72b360"
 
 [[files]]
 file = "mods/vhatcaniroll-1.14.1.jar"
@@ -17406,7 +17410,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.22.4-all.jar"
-hash = "442fb691ee660e8db157c0a0d5b3662a427c04ca84746fd49844d9d803663f16"
+hash = "f7909e48f997a5e28f631bc750c864004e3d99ddf0e9d98bc1251e5f4c0b8cd1"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
@@ -17762,7 +17766,7 @@ hash = "9b679dacc79be952f022bb95741a04b4da629d5bff5897d902c925f9e76c3192"
 
 [[files]]
 file = "scripts/00_millennium_scripts.zs"
-hash = "6eb0730ef5da5bba55b3fb0cb4d5b0750c4f2909e367a266dafba740e82a7696"
+hash = "91a42c7fff54baecf7d25b0ad21acb34856e1af67a140fe458fcb7b59c0acd67"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
