@@ -5,7 +5,7 @@ settings.logRemovedRecipes = true
 settings.logSkippedRecipes = false
 settings.logErroringRecipes = true
 
-console.info('Hello, World! (You will see this line every time server resources reload)')
+console.info('Hello, World!! (You will see this line every time server resources reload)')
 
 onEvent('recipes', event => {
 
