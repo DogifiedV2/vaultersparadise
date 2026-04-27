@@ -16521,10 +16521,6 @@ file = "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
 hash = "67fc0b05ca0fa755dda681c20aaf29e55b8845841451efc6c40631b91b95d9d2"
 
 [[files]]
-file = "mods/QOL Hunters-0.42.2.jar"
-hash = "76562776e2915887b9152abc5963efc0ee55e14c21e59b0c90c8becd73497396"
-
-[[files]]
 file = "mods/Quark-3.2-358.jar"
 hash = "046c5cbc31259eb175d010bac36aa82cf6678254caca79cd65022f5b28e031cd"
 
@@ -17015,6 +17011,11 @@ hash = "9ae8862912415b4c35b0b37d71ae67acc56007fdb22024c08348d9a62ff4b903"
 [[files]]
 file = "mods/prismcraft-forge-1.18.2-1.1.0+build.8.jar"
 hash = "8f30495018fe0b9d75c8488190208e008aca54e1d77134e9f931f26df6f38df1"
+
+[[files]]
+file = "mods/qol-hunters.pw.toml"
+hash = "bd3fff451789b298aa32b3c03b5329904932bd5a3f19726330e7c8fcd5b3a7b1"
+metafile = true
 
 [[files]]
 file = "mods/rebindnarrator-forge-1.18.x-1.2.2.jar"
