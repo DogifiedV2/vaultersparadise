@@ -117,10 +117,6 @@
           {
             "value": "the_vault:classic_vault_gloom",
             "weight": 0
-          },
-          {
-            "value": "the_vault:classic_vault_alpha",
-            "weight": 3
           }
         ],
         "seasonalWeights": {
@@ -263,10 +259,6 @@
           },
           {
             "value": "the_vault:classic_vault_plastic",
-            "weight": 5
-          },
-          {
-            "value": "the_vault:classic_vault_alpha",
             "weight": 5
           }
         ],
@@ -458,10 +450,6 @@
           },
           {
             "value": "the_vault:classic_vault_plastic",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_alpha",
             "weight": 8
           }
         ],
@@ -665,10 +653,6 @@
           },
           {
             "value": "the_vault:classic_vault_plastic",
-            "weight": 10
-          },
-          {
-            "value": "the_vault:classic_vault_alpha",
             "weight": 10
           }
         ],

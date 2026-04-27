@@ -545,21 +545,6 @@
       ]
     },
     {
-      "id": "the_vault:the_floating_colosseum",
-      "creator": "TheHybridDwarf",
-      "output": {
-        "AMOUNT": 1,
-        "ITEM": "the_vault:overworld_inscription",
-        "NBT": "{structureId:\"the_vault:overworld/the_floating_colosseum\",model:0,color:3118792,display:{Name:'{\"text\":\"The Floating Colosseum\",\"color\":\"#2F96C8\"}'}}"
-      },
-      "inputs": [
-        { "AMOUNT": 8, "ITEM": "the_vault:vault_gold", "NBT": "{}" },
-        { "AMOUNT": 4, "ITEM": "the_vault:inscription_piece", "NBT": "{}" },
-        { "AMOUNT": 64, "ITEM": "the_vault:gem_benitoite", "NBT": "{}" },
-        { "AMOUNT": 64, "ITEM": "the_vault:vault_essence", "NBT": "{}" }
-      ]
-    },
-    {
       "id": "the_vault:velara_tree",
       "creator": "exqyu",
       "output": {
