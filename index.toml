@@ -2445,32 +2445,88 @@ file = "config/the_vault/gen/1.0/loot_tables/dungeon/dungeon_mob.json"
 hash = "f55cd899452df067dc5e8a3f01ddd8beffdb087255970291b010226c0fc90e48"
 
 [[files]]
-file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded.json"
-hash = "f951fd1a5e0a1d0067f965b00f8cceaea6df4cafa0912dfe4286f0366c3b6dc6"
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_0.json"
+hash = "52ffe2e2489b44d9b0574c5ccda1c54932181ab08fe20c2002b888652a9988be"
 
 [[files]]
-file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_50.json"
-hash = "56d8967e971640e13eaace1491c6624b30ef44b89ed414f19ee94a4b56f175de"
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_20.json"
+hash = "ee5cd510df7109fa34f2c4c34afeff159518b00fc2074a2fb37435754a6f6621"
 
 [[files]]
-file = "config/the_vault/gen/1.0/loot_tables/dungeon/living.json"
-hash = "2022a385eeeef86aa612f2e256069ebe87989f73c77db556747e77eff19d862e"
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_chest_50.json"
+hash = "0da0c2a3919d55a1c6b5aa15424c8990797eaf01308529c37277e3a4d240d329"
 
 [[files]]
-file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_40.json"
-hash = "ee4aae7977cc65db07bf9f88d9ea5314818d114e71e060f511e508448faf3a30"
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/gilded_strongbox_50.json"
+hash = "c1466b41be46da343851f7f753c27a4dce154e4bac0599fe468d758638b432c6"
 
 [[files]]
-file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_50.json"
-hash = "c9c55940ffda0488c1090a68da717c667f0c0b9de2f0be73345aebcb829c4378"
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_0.json"
+hash = "35c19f946740270c7308b3eed4de7be43787bec7d41c7b4071b8454f9842e08a"
 
 [[files]]
-file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate.json"
-hash = "346d14fba04c3edb7174ba4176c413d978f8290bc3c42a892dc0bbd3cd50c37a"
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_10.json"
+hash = "1b68d663940dc15ef1ac616decacd1be1edfbd75e008ab0ea9ce61cf4f3629ca"
 
 [[files]]
-file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_50.json"
-hash = "0395b6644d2bc4d41b5fd8fb9c374fc9e3f5470c497a7d16d9d1bc6ccbbc2c37"
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_20.json"
+hash = "56187251889f5f74bad3f5b121079a464ed40799187be3a1cf228d08b6e1d7bd"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_30.json"
+hash = "0c4b568cddea5c29eac356749cfe58d714a5e64df426c2805281c3c83bbc69f6"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_40.json"
+hash = "ac9c0f2fb93cf6f57b097462e2e4126493a5b0937f275353087c923fda5a818f"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_50.json"
+hash = "3e530da8ad83c21a0971d45df5b5043015f49a683cecbc25a03ef70bd58b3f43"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_60.json"
+hash = "8858a863fef960e264f57b672b6c9403e4604e8372b95e3dd7ddcf44df499a99"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_70.json"
+hash = "01254d744792f560e033f149f563246ade69626a56ee76f498a020d29f5cd1a7"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_50.json"
+hash = "238ef06907d0b4c88d2a406e3aad426a718e633d130d4aeb52ede542c01e0a0f"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_70.json"
+hash = "1a2680ff39d7bdb04983e6cf4dbca5d236e6f439bc1bb39bb7c968d9f242e07b"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_0.json"
+hash = "216c3123032d0a2ba9629cebc3854e141a43f187781e6d0b411a57cd41cec0ee"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_20.json"
+hash = "a1acb5c76465993a22b9bb74dc6dc6b4e720bc52d7a98f9c6c8278f8361e5780"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_30.json"
+hash = "f101348b5fec740483751895b0ceea2b49fe4418f6d4b6e0ef6c055df75f758a"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_50.json"
+hash = "a6eba91dfab92f5f8ef32317bdaaf168d9b891fe528fdfbb12ed36c9ae0923ce"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_65.json"
+hash = "6477edeea7d795e1a12fa8b87d6ccdd610728155aea1209f3d0a10db313aed55"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_strongbox_50.json"
+hash = "3d329489618b4c8daf2d5e9d5434082acf80da2a07da230f288edc75cdab9de2"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_strongbox_65.json"
+hash = "b38ec2d87138e7849bd2df0a1a0dabd9ae2584a30dca697757c11f28d9601c35"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon_boss.json"
@@ -3178,7 +3234,7 @@ hash = "e9ebef9f604398b541005ecf96c34d5f701670c6db0425e48081e2c9b5eae42f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/coin_stack_placeholder.json"
-hash = "cd5accb889f63e2b7a15baa668b8b874ca344fb65e7a95b2526181f38d581c03"
+hash = "7a53c130282090d75185ae9facc8c7276f4edfd53dc2dafb8c80bde9e44383ff"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/difficulty.json"
@@ -3206,7 +3262,7 @@ hash = "1f6710c76750678acbc2be866cf13ae68c7b4f81c9156c729d72824a6ebf79bc"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/gilded_chest_placeholder.json"
-hash = "c62afc982752f6d136797e84aea3f1d6a9957d7e5539aacfb860c97d1cd2117b"
+hash = "6e07537b1dccda84e0ba1ed360f98c167d0e393387b37a78ad36d9a34951b6a3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/hard.json"
@@ -3218,7 +3274,7 @@ hash = "c7bf0f286f501da57c05df1f5d90ceea1c7a7502b151faac40c4b4c3e21908db"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/living_chest_placeholder.json"
-hash = "3d49e41c59055d359d2eb878f9f231995963e4574827e108480b333efaa81711"
+hash = "be9b3d322c25195e635df6c6e697df741d6b582c7bd62890e302d5bd9203d437"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/normal.json"
@@ -3226,7 +3282,7 @@ hash = "4aca870ef81fb4713bc9032fecc1a4121cb976a78a358e7b23cb94e30ebdc825"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/dungeon_rooms/ornate_chest_placeholder.json"
-hash = "db5674dde4dae1478faa44a2509620a10a2c29ff624c266401047ea0e10e7574"
+hash = "74138b4f4a3792772094979c33609d282351a5291e14614d4049422f99b4a038"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/factory/base.json"
@@ -3306,7 +3362,7 @@ hash = "76c8bea9fa6789f7c23564eb1086debbc31130e2046d6f9c0fc9ccd794b956e5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/dungeon_door_placeholder.json"
-hash = "8dd011e83e123aed9b900de561e3487aec2864ba564c8dc5ea95f33c9429d26d"
+hash = "1ed616a3c3a97c425fc81de7417f581285636202a9fb8d488464a34ee27de333"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/festive_common_elite_spawners.json"
@@ -13714,7 +13770,7 @@ hash = "b0a5aa8a79f3bb56b94bad34ccebf0adc102f7fcc658f1f3c23badac1e4b4ba5"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "9fdf40796d198d6e58c1d228df5fbf046de8dbbb72e57b0a6fbf351785279455"
+hash = "5a3744cecc5b4040e707dbc86cfed5b02a742b987a5d99d689dc0a50b890907d"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
@@ -17407,7 +17463,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.22.5-all.jar"
-hash = "01c510651b3ade74c451c0f73c40ce019ed5f8a7268c7816d4a1a77f3fa11b1f"
+hash = "6e159b65320e35f398c92a9ad6230e715af33072f22bdbec4bd870fb0e10b1c2"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"

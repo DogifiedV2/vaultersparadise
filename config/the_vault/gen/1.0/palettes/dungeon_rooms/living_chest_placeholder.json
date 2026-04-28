@@ -19,19 +19,39 @@
       "levels": [
         {
           "level": 0,
-          "probability": 0.75,
+          "probability": 0.6,
           "success": {
-            "the_vault:living_barrel{LootTable:\"the_vault:living_dungeon_barrel\"}": 1
+            "the_vault:living_chest{LootTable:\"the_vault:dungeon/living_chest_lvl0\"}": 1
           },
           "failure": {
             "minecraft:air": 1
           }
         },
         {
-          "level": 40,
-          "probability": 0.75,
+          "level": 10,
+          "probability": 0.6,
           "success": {
-            "the_vault:living_barrel{LootTable:\"the_vault:living_dungeon_barrel_lvl40\"}": 1
+            "the_vault:living_chest{LootTable:\"the_vault:dungeon/living_chest_lvl10\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 20,
+          "probability": 0.6,
+          "success": {
+            "the_vault:living_chest{LootTable:\"the_vault:dungeon/living_chest_lvl20\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 30,
+          "probability": 0.6,
+          "success": {
+            "the_vault:living_chest{LootTable:\"the_vault:dungeon/living_chest_lvl30\"}": 1
           },
           "failure": {
             "minecraft:air": 1
@@ -39,9 +59,43 @@
         },
         {
           "level": 50,
-          "probability": 0.75,
+          "probability": 0.6,
           "success": {
-            "the_vault:living_barrel{LootTable:\"the_vault:living_dungeon_barrel_lvl50\"}": 1
+            "the_vault:living_chest{LootTable:\"the_vault:dungeon/living_chest_lvl50\"}": 17,
+            "the_vault:living_strongbox{LootTable:\"the_vault:dungeon/living_strongbox_lvl50\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 70,
+          "probability": 0.6,
+          "success": {
+            "the_vault:living_chest{LootTable:\"the_vault:dungeon/living_chest_lvl70\"}": 17,
+            "the_vault:living_strongbox{LootTable:\"the_vault:dungeon/living_strongbox_lvl70\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 80,
+          "probability": 0.6,
+          "success": {
+            "the_vault:living_chest{LootTable:\"the_vault:dungeon/living_chest_lvl70\"}": 9,
+            "the_vault:living_strongbox{LootTable:\"the_vault:dungeon/living_strongbox_lvl70\"}": 1
+          },
+          "failure": {
+            "minecraft:air": 1
+          }
+        },
+        {
+          "level": 100,
+          "probability": 0.6,
+          "success": {
+            "the_vault:living_chest{LootTable:\"the_vault:dungeon/living_chest_lvl70\"}": 6,
+            "the_vault:living_strongbox{LootTable:\"the_vault:dungeon/living_strongbox_lvl70\"}": 1
           },
           "failure": {
             "minecraft:air": 1
