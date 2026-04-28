@@ -41,6 +41,16 @@
     "the_vault:knockback_resistance": "<gray>Your <#fcae0f>knockback resistance <gray>from attacks.",
     "the_vault:lucky_hit_chance": "<gray>Your <aqua>chance <gray>to <aqua>perform <gray>a <#6DF5A3>lucky hit <gray>dealing <aqua>10% increased damage <gray>or applying additional <#6DF5A3>Lucky Hit <gray>talent effects if unlocked.\n<red>Maximum Obtainable: 56.2%.",
 
+    "the_vault:ap_scaling_damage": "<gray>Your percentage of <#ff4fd8>Ability Power <gray>converted to <#C23627>Attack Damage<gray>.",
+    "the_vault:chaining_damage": "<gray>Reduces <#ff0000>damage falloff <gray>when <#5c5db6>chaining <gray>between targets.",
+    "the_vault:trident_channeling_chance": "<gray>Your <aqua>chance <gray>to channel with a <#0E7490>vault trident.",
+    "the_vault:echoing_chance": "<gray>Your <aqua>chance <gray>to apply the <#690E97>echoing <gray>effect.\n<red>Maximum Obtainable: 69%.",
+    "the_vault:echoing_damage": "<gray>Your <#fc6a00>additional damage <gray>dealt upon <#690E97>echoing.\n<red>Maximum Obtainable: 50%.",
+    "the_vault:hexing_chance": "<red>Maked for termination.",
+    "the_vault:execution_damage": "<gray>Your <#fc6a00>increased damage <gray>against <#ff0000>low health <gray>targets.",
+    "the_vault:reaving_damage": "<gray>Percentage of an enemy's max <#22fc25>Health <gray>dealt as damage upon first strike.",
+    "the_vault:mana_cost_reduction": "<gray>Your <aqua>mana cost reduction <gray>for <aqua>any ability<gray>.\n<red>Maximum Obtainable: 50%",
+
     "the_vault:mana_additive": "<gray>Your <aqua>maximum Mana<gray>.",
     "the_vault:mana_regen": "<gray>Your <aqua>mana regeneration rate <gray>(<green>100% = 1 mana per second<gray>).",
     "the_vault:mining_speed": "<gray>Your base <#47b8f5>mining speed <gray>when mining blocks.",
@@ -80,7 +90,7 @@
     "vaults_failed": "<gray>Your total number of <aqua>Vaults unalived <gray>in.",
 
     "experience": "<gray>Your total amount of <aqua>Vault Experience<gray>.",
-    
+
     "damage_dealt": "<gray>Your total number of <aqua>damage dealt <gray>in <aqua>Vaults<gray>.",
     "damage_taken": "<gray>Your total number of <aqua>damage taken <gray>in <aqua>Vaults<gray>.",
     "mobs_unalived": "<gray>Your total number of <aqua>entities unalived <gray>in <aqua>Vaults<gray>.",
