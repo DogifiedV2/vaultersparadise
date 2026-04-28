@@ -535,3 +535,7 @@ for color in velvet {
 craftingTable.addShapeless("raw_vault_steak_2_vault_meat", <item:the_vault:vault_meat> * 4, [
     <item:the_vault:raw_vault_steak>
 ]);
+
+craftingTable.addShapeless("wool_2_string", <item:minecraft:string> * 4, [
+    <tag:items:minecraft:wool>
+]);
