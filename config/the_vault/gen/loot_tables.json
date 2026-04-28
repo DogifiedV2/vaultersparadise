@@ -26,6 +26,11 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/cardboard_box.json"
     },
     {
+      "id": "the_vault:cardboard_box_treasure",
+      "name": "Cardboard Box Treasure",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/cardboard_box_treasure.json"
+    },
+    {
       "id": "the_vault:cardboard_box_dull",
       "name": "Cardboard Box",
       "1.0": "config/the_vault/gen/1.0/loot_tables/cardboard_box_dull.json"

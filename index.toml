@@ -2298,11 +2298,15 @@ hash = "5a19e7925582feef8de9d52a3f6d88b5d3d1148a7bf5f83639d686709fdd30c4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/cardboard_box.json"
-hash = "fd19b0ebc11c3d20f74d5d7383df3a423e0a25a95df2320cb79e4166f7a69083"
+hash = "2193691a200746a601f310876857b017c61bf2258b1627dd4fbc01f4b8a90446"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/cardboard_box_dull.json"
 hash = "e5f44c87a11a6ffffd4682cd75bd0aa828760faf0946a6fcbad4062485f14501"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/cardboard_box_treasure.json"
+hash = "f538e3f1308a48949ccf86a092472e95133972be7bffd24b21c0131dd8a27e9b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl0.json"
@@ -4234,7 +4238,7 @@ hash = "d28fa61b2da10eb9f3afc10a77a46f9eb4997e617b00d00325defc94d0a06724"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_rooms.json"
-hash = "e2f4d5e4758da92db7517e250e074ddc1126c78bbe9a7ac4e69d0db348d8cb52"
+hash = "a2097b8fdd5d656c6c9e2d43fd9ce559a263c12fc27c19d2630b18f0e45fa079"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/trove/base.json"
@@ -13770,7 +13774,7 @@ hash = "b0a5aa8a79f3bb56b94bad34ccebf0adc102f7fcc658f1f3c23badac1e4b4ba5"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "5a3744cecc5b4040e707dbc86cfed5b02a742b987a5d99d689dc0a50b890907d"
+hash = "2b31f2e1da2232ddeb3463ef1eb6576af7362906b444f7602631e8de581780e3"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
@@ -17379,7 +17383,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "9f732ad37c3dfb57c42394d39b5ea542cf2d3b6fad48bc3be1153c40a6b6495b"
+hash = "cbc6715cd9666565c321f73d5c26ca85d1b469809476e8c06fa528fff09b6f9a"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
