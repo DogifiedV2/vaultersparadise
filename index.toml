@@ -1990,7 +1990,7 @@ hash = "332855a91b55693f8bf827cfa0fdaa2bcf9cbd471288d5f8f15b19c9cdf93715"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "4676eaa4fdb747a66cd8d09b79cf76ac5ea7c28500cb9b47b9cbda74cdb87c52"
+hash = "d61189d53760f42d295d6fc433f9d488380e52780ba7048d2a377870846a980a"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_charm.json"
@@ -2130,7 +2130,7 @@ hash = "40c20aa59133c6a0c1212d80f18274b351b4dd316d3ba87386d29154d0cc4f99"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_100.json"
-hash = "16ca6220007ace2641dc9d4edea8f38fc85fb4031701d42ef29f8b62ad9feacd"
+hash = "09c54c3b026f7d89f8639b3247d6417981d52ae9f134874194de17b7393176fe"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_1_0.json"
@@ -2138,7 +2138,7 @@ hash = "0735e112c3c29d7db65a807c6d86952d4df958beb21cf7d2047e488e48a77eb3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_1_100.json"
-hash = "30cb652dcaad515b7da544b114f40168a797f9870f819d41822a869494f391a2"
+hash = "3000bc3cb9036d9b4ae858349dad8c28595fbc81f281b191551dca04cabe83f6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_1_20.json"
@@ -2146,7 +2146,7 @@ hash = "d983cce431ecac4b855bc56d6f217e1353e77352fc074505d91ce2c34b7d8f5f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_1_50.json"
-hash = "f5f5d7aedafdb200895032c5c0cb6a2647ed184693c88be645c499af966134d4"
+hash = "63187e2046e9db9372fb52c0bc1f9976d6e9dbd66e62411263c7bde028b7b460"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_20.json"
@@ -2158,7 +2158,7 @@ hash = "7d33cb99739f735f8a88b166115a1328f83ee43da5b52c763e75ff0847ab4985"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_2_100.json"
-hash = "298c2c5309aafab26dde78442ea36b5fa18ba45e1da6a143cc71936edc099ee3"
+hash = "34dae5d1a873b5683b20fac05190e7aae97c76b4b846f11d0ade490dd6129020"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_2_20.json"
@@ -2166,11 +2166,11 @@ hash = "44430aee388db47e634f5d15490c21ff19762b2a2c97dda08f1caa7aaf75c3c4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_2_50.json"
-hash = "0fa4defe3d678e2d2cae468d78bbc5a5b47395f6f026131ffbb54715a760a550"
+hash = "7a30236e7aa846d99d84042b4db1d24bf82a0ae82e266393135584553c69c7dd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_3_100.json"
-hash = "57e525df82790b93a9a6b281db31e5b14a1eeb5da34071ed92a52b9a3561c06a"
+hash = "04567a6efbff13b9940e7385ea73e5416868f7e899983b4878d45c9707ea26a7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_3_20.json"
@@ -2178,11 +2178,11 @@ hash = "c2585dfa72a2e6c854ff298246e1e53412824e367d16dbf908c19fa12559da76"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_3_50.json"
-hash = "e5bb345a3f8a545d515de1f6ef82d0d68986b45422bf554b7392990c811b7151"
+hash = "fb4ebf2d0e278a0d036617610b31d5b4ec3667c79a47ee0ce7a17a9ac4573125"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_50.json"
-hash = "b8933fcacee684e4a3726c98fb623f03407e2c9cfae3db61debc316a4772000f"
+hash = "99f29b53b12dc2bf92327f4b6b2e77dfd98a41105a9cb9e813a2fde5be70b8cb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_8_50.json"
@@ -2194,7 +2194,7 @@ hash = "d4b51b7b141536078b10070c4d546f1848380373e3c3897c9c37f604d4f7277f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_100.json"
-hash = "d118d240df7f0c50e6aeb95252a0202ab8e4b7347aaa0e1ab58260271fbf80cc"
+hash = "1e43bb2fce6889de6b22686ad9658ba556ac675100ab568b26d3964f783a6645"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_1_0.json"
@@ -2202,7 +2202,7 @@ hash = "f854f2476bba88e2134d4d5e8627aa331209d0cf081d1457e41f590de140278f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_1_100.json"
-hash = "5f8001bbe613f234dd1a5231f320cc60f8a7fb07e41599cc2d798719f1d90c86"
+hash = "07fe485ada07ae18a9efe9a170169bb300c460920dac9d471133d7c18f4b839b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_1_20.json"
@@ -2210,7 +2210,7 @@ hash = "675bfff85af474b7dd5d9dff7356f72b3c7c1b8adf5dd47417c3176b28351ac3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_1_50.json"
-hash = "473a1106e67084f98a3cfd66066bb24e656263e5edb7672e795bcb5eb939e23b"
+hash = "fef49e476811fde4fa845b095e097a6c33c9394ab47d9dc3f6a62304c7655322"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_20.json"
@@ -2218,7 +2218,7 @@ hash = "19714ebeff61d58e2dbd087570d3b2390dd7b688de04190ef00b672251e35010"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_100.json"
-hash = "da35e4996d545208475171ae96ac375ef00c475a32c6a9439c2179761cf8b007"
+hash = "42843e73736667acc6f721d50d0b59c019dae83405ea85ff2fb9ff1cf99dda3c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_20.json"
@@ -2226,11 +2226,11 @@ hash = "278e3e91f763e8bac61a8a2540c895d012da5dfe20935661047024e2ae7a3971"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_2_50.json"
-hash = "800b85377ea38e5962a8e423cf0abfa1d2c79a565e6f43fa5b3a75f35fce0bd0"
+hash = "2659753f947ebdbb6062e9c09362a9e6801e7a3ef2d02744f5c5add5a99ea10d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_100.json"
-hash = "652a4c71e26fccb062ec7b48fa3f5a3296939e1241f0bfc0871cc7740e1cbbb3"
+hash = "e71e6e7a36d23028f1bda7bdf819fa0f0b417ad21fd1589f829bbfacf2090db4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_20.json"
@@ -2238,11 +2238,11 @@ hash = "471d19519ab38dbd7c474d3cf52f7a5b53dc37139f3df577590138ef6109ca4d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_3_50.json"
-hash = "624c1d92fc695b666e691850176ca6be5a63ed6a9e73ab4b94eef3f68cd78126"
+hash = "e83727e3d870350bd5202f1446132ea46e8bd90bdf58a4137c033dda8017e6df"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/base_crate_cursed_50.json"
-hash = "581990587103f9882dd12cec8425a37524c7dc3ee2505cd7e4a397aff54a96d3"
+hash = "f28ce686b632bf71ef531dcf65d9da7d8fd6b2c32faf39676e6f78e3ef5fc15c"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/bingo_crate.json"
@@ -2594,7 +2594,7 @@ hash = "ed84d98c71d2b86e9366f7ae18f5b4c196b59ab6a0c7ebaa2ae6ffde03f7ebd4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_100.json"
-hash = "c3474ea15e5e9815cc848c70f6feca5cadf7f6efa5617b68c5b773c652aef26b"
+hash = "be60c8691fc1a443d6c39876a473bac79ed9dedaabe7d9e6ce87e412af22e003"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_20.json"
@@ -2602,7 +2602,7 @@ hash = "d39d9e62cf801254b6a5f53271b434f76663fb49871e172a0c0dfab6e7ffb059"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/haunted_braziers_crate_50.json"
-hash = "7f778776c3aa058301631f030b4eace2169bd9bf81438eaa1da1144e90145e6f"
+hash = "5e16e1b45d465c9d303d54baab203e8d4109a5570603ba942ec15d55a2f3f149"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/hellish_sand.json"
@@ -14290,7 +14290,7 @@ hash = "9b46dde7b07fa8e767e6bd694db4da504689595daa553c5222ca81616a194d71"
 
 [[files]]
 file = "config/the_vault/scavenger.json"
-hash = "66a3a1e1f50c5e7af2d2043c0a5c69dad17e9abbcced27132bf42e9b3e6f19fb"
+hash = "f2b313092524fa36e39c1b760f20fb0c86edae5d95a95e3644009e4d208f0aa4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
@@ -14422,7 +14422,7 @@ hash = "349e68460880179fcf4e4bc73788ac6f160775e0abcfca4570446b2c036e7a3c"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "50595fbae259ed8391236c1c87535e6e4f83576d95b05ecca848e58a63e5bb51"
+hash = "d26717296863bac1c3126825cb345b12e084a77128056ff0e8bcb69a2720c7c3"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
@@ -17454,8 +17454,8 @@ file = "mods/vhcctweaks-2.2.23.jar"
 hash = "af66cbdd8e6fed8dd9469b8e55bad8664dd98dbd9e7138aceed143e5677b99c1"
 
 [[files]]
-file = "mods/voicechat-forge-1.18.2-2.6.5.jar"
-hash = "2d68beeecc67742a835d3b2337518e70caa9558cd7970c858bf3cbb825c89194"
+file = "mods/voicechat-forge-1.18.2-2.6.16.jar"
+hash = "32f1581910a0c8c46f288a0abcbb8b65ffd92919525aa5f32273c25a101d8d64"
 
 [[files]]
 file = "mods/waystones-forge-1.18.2-10.2.2.jar"
@@ -17823,7 +17823,7 @@ hash = "9b679dacc79be952f022bb95741a04b4da629d5bff5897d902c925f9e76c3192"
 
 [[files]]
 file = "scripts/00_millennium_scripts.zs"
-hash = "91a42c7fff54baecf7d25b0ad21acb34856e1af67a140fe458fcb7b59c0acd67"
+hash = "7f69b80077c99fd5f91cedd7910122e6892d69c02270c655fd3058339b611e19"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
