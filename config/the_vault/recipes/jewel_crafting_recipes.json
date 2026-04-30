@@ -335,17 +335,17 @@
       },
       "inputs": [
         {
-          "AMOUNT": 32,
+          "AMOUNT": 1,
           "ITEM": "the_vault:gemstone",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 256,
+          "AMOUNT": 32,
           "ITEM": "the_vault:silver_scrap",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 32,
+          "AMOUNT": 1,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         }
