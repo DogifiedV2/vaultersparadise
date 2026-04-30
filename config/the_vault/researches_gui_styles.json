@@ -231,7 +231,7 @@
     },
     "Phytogenic Insulator": {
       "x": 250,
-      "y": 280,
+      "y": 320,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/phytogenic_insulator"
     },
@@ -330,6 +330,18 @@
       "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/prismatic_angel_ring"
+    },
+    "Industrial Mob Farm": {
+      "x": 300,
+      "y": 320,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/industrial_foregoing_2"
+    },
+    "Industrial Foregoing": {
+      "x": 200,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/industrial_foregoing"
     }
   }
 }

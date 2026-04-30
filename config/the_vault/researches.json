@@ -111,6 +111,23 @@
       "cost": 4,
       "usesKnowledge": true
     },
+    {
+      "modIds": [
+        "industrialforegoing"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Industrial Foregoing",
+      "cost": 8,
+      "usesKnowledge": true
+    },
 
     {
       "modIds": [
@@ -1460,6 +1477,29 @@
         "the_vault:gear/armor/angel/leggings",
         "the_vault:gear/armor/angel/boots"
       ]
+    },
+    {
+      "itemRestrictions": {
+        "industrialforegoing:mechanical_dirt": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "industrialforegoing:mob_crusher": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Industrial Mob Farm",
+      "cost": 3,
+      "usesKnowledge": true
     }
   ]
 }

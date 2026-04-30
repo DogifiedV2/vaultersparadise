@@ -188,7 +188,9 @@
           { "type": "constant", "id": "Time in a Bottle" },
           { "type": "constant", "id": "LaserIO" },
           { "type": "constant", "id": "Create Crafts and Additions" },
-          { "type": "constant", "id": "Easy Traders" }
+          { "type": "constant", "id": "Easy Traders" },
+          { "type": "constant", "id": "Industrial Foregoing" },
+          { "type": "constant", "id": "Industrial Mob Farm" }
         ],
         "ignoreArrow": true,
         "lockedBy": []
@@ -235,6 +237,11 @@
       "Lightning_Stun": {
         "lockedBy": [{ "type": "constant", "id": "Lightning_Damage" }],
         "dependsOn": []
+      },
+      "Industrial Mob Farm": {
+        "dependsOn": [{ "type": "constant", "id": "Industrial Foregoing" }],
+        "ignoreArrow": true,
+        "lockedBy": []
       }
     }
   }

@@ -17081,6 +17081,16 @@ file = "mods/geckolib-forge-1.18-3.0.57.jar"
 hash = "b6d0954f7b777b43e72f202116c8ccbb1e37757a1142759303ab636a9077b8ba"
 
 [[files]]
+file = "mods/industrial-foregoing-tweaker.pw.toml"
+hash = "6d41031250355db733ff073a29746b7d0ef4d721839510aa0ecfeab9e6dc866f"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "7a2de329cb297c8f3e74e096453c286c6f980554767295934e0a5567830760f0"
+metafile = true
+
+[[files]]
 file = "mods/ironfurnaces-1.18.2-3.3.3.jar"
 hash = "ef585a7a3f6d32541335d06eb3e18410603d815152425ff29174733eae35146d"
 
