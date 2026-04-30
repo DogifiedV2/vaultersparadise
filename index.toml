@@ -1662,7 +1662,7 @@ hash = "ba78db849e67738c3041e26a2a3e2a8b32b8d8e22e7e29e91224392578315819"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "3304244376cc87a694150f050f639fc5b776640421351ce3070e383aac20ea30"
+hash = "294a926748b19fa86ab22999de963bbd146f388089d0cdd7ca2fe315434377de"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -14262,11 +14262,11 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "df40cdfff216684c92aedbf2a749f62b91c03f21cf5e6f161a3d4619cc26c34d"
+hash = "287ade22c430745af2b1f6d414407e75e3eda720005e7db12b5a71acc48e6ba3"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "9f6ee72b985d1ab6b34fb621539f7d3dba4372702c5ee648af41d8713b5649b8"
+hash = "52894f6488abdbedba0e2dc0f3186a526b29c85ed7e41b6cde39010d9eff5ab1"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -14274,7 +14274,7 @@ hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "c59182edb5314439904539503d39280e6cd1c51e319d4f3f3b5bcbcac54a6b0b"
+hash = "996d08848ad854343f08a77cd7c66437722c528f64639f96c0134efeb5542d53"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -14330,7 +14330,7 @@ hash = "fb5d1f1a44136ed7a0f3c41583853651e77f34783300422779b65d43fc684a8a"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "bcb5043bf3b52d23f94f4578624375204ee934824878322fc3bc10b95d163052"
+hash = "da081d8995b6e33cdf2731571ef65ff2a3dd076c5c173292d078f3ab87fa6a2e"
 
 [[files]]
 file = "config/the_vault/skill_scrolls.json"
@@ -17432,8 +17432,8 @@ file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
-file = "mods/vaultadditions-1.21.15.jar"
-hash = "824546d62948f62a1eab2ba4a188126758cc9667c6aab01bd0b2cd9257593264"
+file = "mods/vaultadditions-1.21.16.jar"
+hash = "45952bbffc05f4d8a52e4c7b4f090dc859de6d67a0aca0dd62135e2fcbbd74f0"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
@@ -17837,7 +17837,7 @@ hash = "7f69b80077c99fd5f91cedd7910122e6892d69c02270c655fd3058339b611e19"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "3e7e843b65645740e6a26e4a60e81aefc59e4f2af8c877a9f886ce328214bab4"
+hash = "76b1ab4e1e3c8a597ebb2bdf6e653916c1c5c0b0dd6414912c64f6aaf2e14bee"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -17898,6 +17898,10 @@ hash = "174db8aa64b41ce51a80244d12f17866886489b7290fa1de233a3c81ec84ff65"
 [[files]]
 file = "scripts/GodTags.zs"
 hash = "e6fead37549f1ead5e5dc2627576ee8f3c9078711a9e0fd3fc33744b22b8222e"
+
+[[files]]
+file = "scripts/Industrial.zs"
+hash = "807ad7afa53d4cf5807aa49629c328c0abd59502530eee3f5d2ba7a6aba0be66"
 
 [[files]]
 file = "scripts/Macaw.zs"
