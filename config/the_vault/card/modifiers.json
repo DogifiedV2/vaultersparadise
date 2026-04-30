@@ -5083,7 +5083,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 1
     },
     "resource_silver": {
       "type": "task_loot",
@@ -5131,7 +5132,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 1
     },
     "resource_gold": {
       "type": "task_loot",
@@ -5227,7 +5229,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 1
     },
     "resource_focus_waning": {
       "type": "task_loot",
