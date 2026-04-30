@@ -1706,7 +1706,7 @@ hash = "b081a3508ec46d71cc3ae599881410dcacf2eb2d3fc7ead5917fd6061e9f1a65"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "5a60522f11df92bc3ff0daa829fed465b05a0bc1863833aea8a24017c939a794"
+hash = "3a130df2fc647feeeb02e219c9792dc3d9fe503b75ad68e8a88546e0fd605973"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -1714,7 +1714,7 @@ hash = "c6a67d7f092407d21e18d6d6c1e872a1d487fa949eed2ddb62e66292919ffe7a"
 
 [[files]]
 file = "config/the_vault/card/tasks.json"
-hash = "8bb14bf443176c873d1f728b13cb983dd18e46064e08eb77496eca7cd5fdfa66"
+hash = "281049394518a9a0b43c53d0f1baaa2a29eb69c5a6335f9afc8fe4f26a67be2d"
 
 [[files]]
 file = "config/the_vault/card_essence_extractor.json"
@@ -14238,7 +14238,7 @@ hash = "f614adfaca60fc32400a3d180913ca71c586e1f8281b3657612225c67a763b33"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_crafting_recipes.json"
-hash = "314d9899112de73f497517b0e884f6edec803e61bc58d575b19cf420a7eb7f16"
+hash = "b184828c2fa4eb059a0b2cfa4281b668e7c647b6fa8e9b95de60ae6c1137dde1"
 
 [[files]]
 file = "config/the_vault/recipes/jewel_recipes.json"
@@ -15295,10 +15295,6 @@ hash = "803f5c34189d7eb0ba4d24ae8e631cc14c91612b52b591e5252df753f21b9628"
 [[files]]
 file = "kubejs/assets/the_vault/textures/block/vendor_door/top.png"
 hash = "11d4e362f22db57813b6f15477004d969b12490322f8739d871a377d896c5fe3"
-
-[[files]]
-file = "kubejs/assets/the_vault/textures/entity/bed/velvet.png"
-hash = "c60d50d777405eb20d6fc7dc7feeb83b019f68e76587ea1f763f482a5649969a"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/abilities/bladefrenzy.png"
@@ -16942,7 +16938,7 @@ hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
 file = "mods/companion_locker-3.21.1.jar"
-hash = "93c2f19f4b419944d1e9c835cb5261cefa71783f9bc3a30a550314f1286da3b8"
+hash = "c4517f1554613bf5150aacc0978b679fc9e1f26c40c17a7edcefd4fb674e530e"
 
 [[files]]
 file = "mods/connectivity-1.18.2-3.2.jar"
@@ -17235,8 +17231,9 @@ file = "mods/oculus-mc1.18.2-1.6.4.jar"
 hash = "7731a22424f21f2637a6ad565c12d9b063bbefc4d516a292cb80d9e0ac9798ba"
 
 [[files]]
-file = "mods/open-parties-and-claims-forge-1.18.2-0.24.0.jar"
-hash = "ad4cdc91e63396fc95fb101629aa59fb1d8da77269064fee9dc3a2cf848a59d2"
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "c275633a7319da2b5dc6536b873af407e1d5de6e5d9d00f0fcfa130e0346dbd5"
+metafile = true
 
 [[files]]
 file = "mods/overvaults-1.6.6-1.18.2.jar"
@@ -17990,6 +17987,10 @@ hash = "99eaa38f22e32f69139931b0aff3009ae01996fb56e0844d281445f0621e8bdb"
 [[files]]
 file = "scripts/iron_generators_furnaces.zs"
 hash = "60861f4d75a053d18a4b7e29fcae1b9273b665d72163f2dae93d2cb847a54a4c"
+
+[[files]]
+file = "scripts/jawns_nonharmful_scripts.zs"
+hash = "567e693ae1802cd2aa26354758312618a50d36285cf0888c32d7339be9f6bfca"
 
 [[files]]
 file = "scripts/jeiInformation.zs"
