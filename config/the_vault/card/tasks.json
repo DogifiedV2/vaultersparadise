@@ -174,7 +174,7 @@
         "target": {
           "type": "uniform",
           "min": 4,
-          "max": 6
+          "max": 8
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -183,6 +183,44 @@
       "renderer": {
         "type": "card",
         "tooltip": "per ${target} Dwellers killed"
+      }
+    },
+    "kill_assassin_easy": {
+      "type": "kill_entity",
+      "filter": "@the_vault:assassin",
+      "counter": {
+        "type": "target",
+        "target": {
+          "type": "uniform",
+          "min": 8,
+          "max": 14
+        },
+        "variables": {
+          "targetTierContribution": 1.0
+        }
+      },
+      "renderer": {
+        "type": "card",
+        "tooltip": "per ${target} Assassin Mobs killed"
+      }
+    },
+    "kill_tanks_easy": {
+      "type": "kill_entity",
+      "filter": "@the_vault:tank",
+      "counter": {
+        "type": "target",
+        "target": {
+          "type": "uniform",
+          "min": 3,
+          "max": 4
+        },
+        "variables": {
+          "targetTierContribution": 1.0
+        }
+      },
+      "renderer": {
+        "type": "card",
+        "tooltip": "per ${target} Tanks killed"
       }
     },
     "kill_any_easy": {
@@ -437,6 +475,25 @@
         "tooltip": "per ${target} Dwellers killed"
       }
     },
+    "kill_assassin_medium": {
+      "type": "kill_entity",
+      "filter": "@the_vault:assassin",
+      "counter": {
+        "type": "target",
+        "target": {
+          "type": "uniform",
+          "min": 15,
+          "max": 29
+        },
+        "variables": {
+          "targetTierContribution": 1.0
+        }
+      },
+      "renderer": {
+        "type": "card",
+        "tooltip": "per ${target} Assassin Mobs killed"
+      }
+    },
     "kill_tanks_medium": {
       "type": "kill_entity",
       "filter": "@the_vault:tank",
@@ -444,8 +501,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 3,
-          "max": 4
+          "min": 5,
+          "max": 6
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -483,8 +540,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 9,
-          "max": 11
+          "min": 5,
+          "max": 8
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -503,8 +560,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 9,
-          "max": 11
+          "min": 5,
+          "max": 8
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -523,8 +580,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 6,
-          "max": 8
+          "min": 3,
+          "max": 5
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -670,6 +727,25 @@
         "tooltip": "per ${target} Elite killed"
       }
     },
+    "kill_dungeon_boss_hard": {
+      "type": "kill_entity",
+      "filter": "@the_vault:mob_type/dungeon_boss",
+      "counter": {
+        "type": "target",
+        "target": {
+          "type": "uniform",
+          "min": 1,
+          "max": 1
+        },
+        "variables": {
+          "targetTierContribution": 1.0
+        }
+      },
+      "renderer": {
+        "type": "card",
+        "tooltip": "per ${target} Dungeon Boss killed"
+      }
+    },
     "find_vendoor_hard": {
       "type": "interact_block",
       "pre": "the_vault:vendor_door[open=false]",
@@ -678,8 +754,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 12,
-          "max": 15
+          "min": 9,
+          "max": 11
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -698,8 +774,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 12,
-          "max": 15
+          "min": 9,
+          "max": 11
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -718,8 +794,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 9,
-          "max": 11
+          "min": 6,
+          "max": 8
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -865,6 +941,25 @@
         "tooltip": "per ${target} Elites killed"
       }
     },
+    "kill_dungeon_boss_extreme": {
+      "type": "kill_entity",
+      "filter": "@the_vault:mob_type/dungeon_boss",
+      "counter": {
+        "type": "target",
+        "target": {
+          "type": "uniform",
+          "min": 2,
+          "max": 2
+        },
+        "variables": {
+          "targetTierContribution": 1.0
+        }
+      },
+      "renderer": {
+        "type": "card",
+        "tooltip": "per ${target} Dungeon Boss killed"
+      }
+    },
     "find_vendoor_extreme": {
       "type": "interact_block",
       "pre": "the_vault:vendor_door[open=false]",
@@ -873,8 +968,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 15,
-          "max": 20
+          "min": 12,
+          "max": 15
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -888,13 +983,13 @@
     "find_dungeon_extreme": {
       "type": "interact_block",
       "pre": "the_vault:dungeon_door[open=false]",
-      "post": "the_vault:-dungeon_door[open=true]",
+      "post": "the_vault:dungeon_door[open=true]",
       "counter": {
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 15,
-          "max": 20
+          "min": 12,
+          "max": 15
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -913,8 +1008,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 12,
-          "max": 15
+          "min": 9,
+          "max": 11
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -1059,6 +1154,25 @@
         "tooltip": "per ${target} Elites killed"
       }
     },
+    "kill_dungeon_boss_impossible": {
+      "type": "kill_entity",
+      "filter": "@the_vault:mob_type/dungeon_boss",
+      "counter": {
+        "type": "target",
+        "target": {
+          "type": "uniform",
+          "min": 3,
+          "max": 3
+        },
+        "variables": {
+          "targetTierContribution": 1.0
+        }
+      },
+      "renderer": {
+        "type": "card",
+        "tooltip": "per ${target} Dungeon Boss killed"
+      }
+    },
     "find_vendoor_impossible": {
       "type": "interact_block",
       "pre": "the_vault:vendor_door[open=false]",
@@ -1067,8 +1181,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 25,
-          "max": 30
+          "min": 15,
+          "max": 20
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -1082,13 +1196,13 @@
     "find_dungeon_impossible": {
       "type": "interact_block",
       "pre": "the_vault:dungeon_door[open=false]",
-      "post": "the_vault:dungeon_door[open=true]",
+      "post": "the_vault:-dungeon_door[open=true]",
       "counter": {
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 25,
-          "max": 30
+          "min": 15,
+          "max": 20
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -1107,8 +1221,8 @@
         "type": "target",
         "target": {
           "type": "uniform",
-          "min": 16,
-          "max": 20
+          "min": 12,
+          "max": 15
         },
         "variables": {
           "targetTierContribution": 1.0
@@ -1119,7 +1233,6 @@
         "tooltip": "per ${target} Pylons Activated"
       }
     }
-
   },
   "pools": {
     "default": [
@@ -1158,6 +1271,14 @@
         "weight": 1
       },
       {
+        "value": "kill_assassin_easy",
+        "weight": 1
+      },
+      {
+        "value": "kill_tank_easy",
+        "weight": 1
+      },
+      {
         "value": "loot_any_easy",
         "weight": 1
       },
@@ -1175,15 +1296,15 @@
       },
       {
         "value": "find_vendoor_easy",
-        "weight": 1
+        "weight": 0
       },
       {
         "value": "find_dungeon_easy",
-        "weight": 1
+        "weight": 0
       },
       {
         "value": "activate_pylon_easy",
-        "weight": 1
+        "weight": 0
       }
     ],
     "medium": [
@@ -1209,6 +1330,10 @@
       },
       {
         "value": "kill_dwellers_medium",
+        "weight": 1
+      },
+      {
+        "value": "kill_assassin_medium",
         "weight": 1
       },
       {
@@ -1250,6 +1375,10 @@
         "weight": 1
       },
       {
+        "value": "kill_assassin_hard",
+        "weight": 1
+      },
+      {
         "value": "kill_tanks_hard",
         "weight": 1
       },
@@ -1263,6 +1392,10 @@
       },
       {
         "value": "kill_elite_hard",
+        "weight": 1
+      },
+      {
+        "value": "kill_dungeon_boss_hard",
         "weight": 1
       },
       {
@@ -1289,6 +1422,10 @@
       },
       {
         "value": "kill_dwellers_extreme",
+        "weight": 1
+      },
+      {
+        "value": "kill_assassin_extreme",
         "weight": 1
       },
       {
