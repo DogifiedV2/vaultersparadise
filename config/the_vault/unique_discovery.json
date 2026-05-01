@@ -4,7 +4,7 @@
     "the_vault:warbound_helmet": "Raid Vaults",
     "the_vault:stormcrown": "Raid Vaults",
     "the_vault:crystalplate": "The Laboratory",
-    "the_vault:castle": "Raid Vaults",
+    "the_vault:castle_chestplate": "Raid Vaults",
     "the_vault:frozen_throne": "Villages",
     "the_vault:annmari": "X-Mark",
     "the_vault:vitalis": "Dragon Room",
@@ -34,6 +34,36 @@
     "the_vault:frozen_heart": "Dragon Room",
     "the_vault:quickstone": "Memory Room",
     "the_vault:broodmother": "Memory Room",
-    "the_vault:treasure_magnet": "Treasure Objective"
+    "the_vault:treasure_magnet": "Treasure Objective",
+
+    "the_vault:everfrost": "Dragon Room",
+    "the_vault:everflame": "Dragon Room",
+    "the_vault:hexblade": "The Laboratory",
+    "the_vault:mineral_greatsword": "Raid Vaults",
+    "the_vault:grass_blade": "Raid Vaults",
+    "the_vault:aurora_scissors": "X-Mark Room",
+    "the_vault:young_kitsune": "Villages",
+
+    "the_vault:leviathan": "Raid Vaults",
+    "the_vault:zombie_horse_axe": "Villages",
+    "the_vault:crystal_mace": "Crystal Caves",
+    "the_vault:butchers_cleaver": "Villages",
+
+    "the_vault:plaguewalker": "Villages",
+
+    "the_vault:eternal_stella": "The Factory",
+    "the_vault:piggybank": "Coves",
+
+    "the_vault:chonknet": "The Factory",
+    "the_vault:bloodseeking_magnet": "Memory Room",
+
+    "the_vault:ninja_baton": "Villages",
+    "the_vault:bamboo_fightstick": "The Laboratory",
+
+    "the_vault:mjolnir": "Treasure Goblins",
+    "the_vault:marlin": "Coves",
+
+    "the_vault:safer_spaces": "Memory Room"
+
   }
 }
