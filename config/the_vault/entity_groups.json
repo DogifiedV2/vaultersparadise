@@ -413,6 +413,10 @@
     ],
     "the_vault:vessel": [
       "the_vault:the_vessel"
+    ],
+
+    "the_vault:hitman": [
+      "hitmanhunt:hitman"
     ]
   }
 }
