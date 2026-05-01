@@ -10,7 +10,7 @@
         { "weight": 1,
           "pool": [
             {
-              "weight": 5633,
+              "weight": 4518,
               "item": {
                 "id": "minecraft:air",
                 "count": {
@@ -32,7 +32,7 @@
               }
             },
             {
-              "weight": 286,
+              "weight": 697,
               "item": {
                 "id": "the_vault:vault_silver",
                 "count": {
@@ -43,7 +43,7 @@
               }
             },
             {
-              "weight": 229,
+              "weight": 697,
               "item": {
                 "id": "the_vault:chromatic_iron_block",
                 "count": {
@@ -87,7 +87,7 @@
               }
             },
             {
-              "weight": 57,
+              "weight": 200,
               "item": {
                 "id": "the_vault:gem_echo",
                 "count": {
@@ -98,7 +98,7 @@
               }
             },
             {
-              "weight": 57,
+              "weight": 150,
               "item": {
                 "id": "the_vault:gem_pog",
                 "count": {

@@ -2422,7 +2422,11 @@ hash = "0a84aee5092636a6fd1250b52abc8fab587cc4de86e049dcc11823b034711248"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/digsite_sand_50.json"
-hash = "bda6f3d30264abdf78b7ab490c4651701d64567d61cf444895fc3df9e037b0a1"
+hash = "30ec45c165cc42bc36aae0964b8ef10fb59954f29b09ee82d72925d649826107"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/digsite_sand_75.json"
+hash = "dc799e6a421496dab24ee63e2657e935804f707ef6a016f7b06849d98233e44d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dragon_goblins/cards.json"
@@ -3750,7 +3754,7 @@ hash = "bb4ec26aa651db5f045525005fc70019f37ee3eabd6fc1b9a7017d0d06327510"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/omega_digsite/base2.json"
-hash = "7b2f0e2d2f699324f3b70e7f83c326f7736fe28e204f2ba96986c6a23d8d0e75"
+hash = "94bfc863523c47f4276df3f15308be49577092461a98f4c421bd5a7270f1853e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/painting/base.json"
@@ -13782,7 +13786,7 @@ hash = "b0a5aa8a79f3bb56b94bad34ccebf0adc102f7fcc658f1f3c23badac1e4b4ba5"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "ac7bbcae3933a2171bc7ae629c8c7984e6b2df4bb707a1c8d839e22f8c7a0d63"
+hash = "a7f89043de9b3de85891840d7c92ef8a461616c17819a5fb1d3c60d705621aa1"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
