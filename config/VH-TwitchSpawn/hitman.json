@@ -1,0 +1,103 @@
+{
+  "spawnRadiusMin": 6,
+  "spawnRadiusMax": 12,
+  "spawnDelaySeconds": 5,
+  "baseHealth": 500.0,
+  "healthPerTier": 30.612244897959183,
+  "healthTierTwoStart": 50,
+  "healthPerTierAfterTierTwoStart": 60.0,
+  "baseDamage": 6.0,
+  "damagePerTier": 2.0,
+  "baseSpeedMetersPerSecond": 4.0,
+  "speedMetersPerSecondPerTier": 0.16,
+  "maxSpeedMetersPerSecond": 20.0,
+  "movementSpeedAttributePerMeterPerSecond": 0.03,
+  "minimumMovementSpeedAttribute": 0.25,
+  "modelScale": 1.5,
+  "vaultArmorPool": [
+    {
+      "id": "wither_wolf",
+      "headModel": "the_vault:gear/armor/wither_wolf/helmet",
+      "chestModel": "the_vault:gear/armor/wither_wolf/chestplate",
+      "legsModel": "the_vault:gear/armor/wither_wolf/leggings",
+      "feetModel": "the_vault:gear/armor/wither_wolf/boots"
+    },
+    {
+      "id": "snow_wolf",
+      "headModel": "the_vault:gear/armor/snow_wolf/helmet",
+      "chestModel": "the_vault:gear/armor/snow_wolf/chestplate",
+      "legsModel": "the_vault:gear/armor/snow_wolf/leggings",
+      "feetModel": "the_vault:gear/armor/snow_wolf/boots"
+    },
+    {
+      "id": "rogue",
+      "headModel": "the_vault:gear/armor/rogue/helmet",
+      "chestModel": "the_vault:gear/armor/rogue/chestplate",
+      "legsModel": "the_vault:gear/armor/rogue/leggings",
+      "feetModel": "the_vault:gear/armor/rogue/boots"
+    },
+    {
+      "id": "monk",
+      "headModel": "the_vault:gear/armor/monk/helmet",
+      "chestModel": "the_vault:gear/armor/monk/chestplate",
+      "legsModel": "the_vault:gear/armor/monk/leggings",
+      "feetModel": "the_vault:gear/armor/monk/boots"
+    },
+    {
+      "id": "shadow_king",
+      "headModel": "the_vault:gear/armor/shadow_king/helmet",
+      "chestModel": "the_vault:gear/armor/shadow_king/chestplate",
+      "legsModel": "the_vault:gear/armor/shadow_king/leggings",
+      "feetModel": "the_vault:gear/armor/shadow_king/boots"
+    },
+    {
+      "id": "paladin",
+      "headModel": "the_vault:gear/armor/paladin/helmet",
+      "chestModel": "the_vault:gear/armor/paladin/chestplate",
+      "legsModel": "the_vault:gear/armor/paladin/leggings",
+      "feetModel": "the_vault:gear/armor/paladin/boots"
+    }
+  ],
+  "viewerArmorOverrides": {
+    "HoY_82": {
+      "id": "hoy_82",
+      "headModel": "the_vault:gear/armor/hoy/helmet",
+      "chestModel": "the_vault:gear/armor/hoy/chestplate",
+      "legsModel": "the_vault:gear/armor/hoy/leggings",
+      "feetModel": "the_vault:gear/armor/hoy/boots"
+    },
+    "TigerShrimp88": {
+      "id": "TigerShrimp88",
+      "headModel": "the_vault:gear/armor/hokage_robes/helmet",
+      "chestModel": "the_vault:gear/armor/hokage_robes/chestplate",
+      "legsModel": "the_vault:gear/armor/hokage_robes/leggings",
+      "feetModel": "the_vault:gear/armor/hokage_robes/boots"
+    }
+  },
+  "tierCap": 100,
+  "onlyOneActiveHitman": true,
+  "allowNonVaultRedeem": true,
+  "debugMessages": true,
+  "leashDistance": 40,
+  "leashReturnRadiusMin": 8,
+  "leashReturnRadiusMax": 12,
+  "alwaysGlow": true,
+  "wallBreakerExplosionEnabled": true,
+  "wallBreakerDelayTicks": 200,
+  "wallBreakerFuseTicks": 40,
+  "wallBreakerMinTier": 20,
+  "wallBreakerThrowAfterAttempts": 3,
+  "wallBreakerThrowMinTier": 30,
+  "wallBreakerThrowSpeed": 0.8,
+  "wallBreakerThrownCreeperTrackingStrength": 0.15,
+  "wallBreakerThrownCreeperFuseTicks": 40,
+  "wallBreakerThrownCreeperExplosionPower": 4.0,
+  "wallBreakerThrownCreeperHissVolume": 1.0,
+  "wallBreakerRange": 10.0,
+  "wallBreakerExplosionPower": 4.0,
+  "streakTitleFadeInTicks": 5,
+  "streakTitleStayTicks": 60,
+  "streakTitleFadeOutTicks": 15,
+  "indirectDeathCountsAsHitmanKill": true,
+  "logArchiveAfterHours": 168
+}
