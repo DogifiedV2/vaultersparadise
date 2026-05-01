@@ -1196,7 +1196,7 @@
     "find_dungeon_impossible": {
       "type": "interact_block",
       "pre": "the_vault:dungeon_door[open=false]",
-      "post": "the_vault:-dungeon_door[open=true]",
+      "post": "the_vault:dungeon_door[open=true]",
       "counter": {
         "type": "target",
         "target": {
@@ -1275,7 +1275,7 @@
         "weight": 1
       },
       {
-        "value": "kill_tank_easy",
+        "value": "kill_tanks_easy",
         "weight": 1
       },
       {
@@ -1375,10 +1375,6 @@
         "weight": 1
       },
       {
-        "value": "kill_assassin_hard",
-        "weight": 1
-      },
-      {
         "value": "kill_tanks_hard",
         "weight": 1
       },
@@ -1425,7 +1421,7 @@
         "weight": 1
       },
       {
-        "value": "kill_assassin_extreme",
+        "value": "kill_dungeon_boss_extreme",
         "weight": 1
       },
       {
