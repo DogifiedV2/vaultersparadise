@@ -17381,6 +17381,11 @@ file = "mods/smoothboot(reloaded)-mc1.18.2-0.0.4.jar"
 hash = "9efe4447ee28e16b61dcfc5738973f526ecfb71fd0d9dc595241bdad4ff47898"
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "67bcff9d20e71ad75a16a3de2c07652fa4041a5ed68f076592ee8f44c7c7ae8c"
+metafile = true
+
+[[files]]
 file = "mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar"
 hash = "5b5b0c67f301b385e074ab6900930f4f6c3c3e0355c8611cd378bf27c023948d"
 
