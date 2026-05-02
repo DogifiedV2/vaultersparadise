@@ -236,7 +236,7 @@
         "rollTypeOutcomes": [
           {
             "value": "Rare",
-            "weight": 200
+            "weight": 70
           },
           {
             "value": "Epic",
@@ -244,7 +244,7 @@
           },
           {
             "value": "Omega",
-            "weight": 10
+            "weight": 20
           },
           {
             "value": "Chaotic",
@@ -278,7 +278,7 @@
         "rollTypeOutcomes": [
           {
             "value": "Rare",
-            "weight": 20
+            "weight": 7
           },
           {
             "value": "Epic",
@@ -511,7 +511,7 @@
             "value": "Omega",
             "weight": 1
           }
-         ]
+        ]
       }
     ],
     "jewel_high": [

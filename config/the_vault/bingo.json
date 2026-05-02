@@ -2335,69 +2335,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 8,
-                "max": 14
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 8,
-                "max": 14
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 8,
-                "max": 14
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -4785,69 +4722,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 50.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 10,
-                "max": 16
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 10,
-                "max": 16
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 10,
-                "max": 16
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -7235,69 +7109,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 12,
-                "max": 18
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 12,
-                "max": 18
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 12,
-                "max": 18
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -9687,69 +9498,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 12,
-                "max": 21
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 12,
-                "max": 21
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 12,
-                "max": 21
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -12137,69 +11885,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 50.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 15,
-                "max": 24
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 15,
-                "max": 24
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 15,
-                "max": 24
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -14587,69 +14272,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 50.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 18,
-                "max": 27
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 18,
-                "max": 27
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 18,
-                "max": 27
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -17039,69 +16661,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 16,
-                "max": 28
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 16,
-                "max": 28
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 16,
-                "max": 28
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -19489,69 +19048,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 20,
-                "max": 32
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 20,
-                "max": 32
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 20,
-                "max": 32
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -21939,69 +21435,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 24,
-                "max": 36
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 24,
-                "max": 36
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 24,
-                "max": 36
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -24391,69 +23824,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 20,
-                "max": 35
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 20,
-                "max": 35
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 20,
-                "max": 35
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -26841,69 +26211,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 25,
-                "max": 40
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 25,
-                "max": 40
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 25,
-                "max": 40
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -29291,69 +28598,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 30,
-                "max": 45
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 30,
-                "max": 45
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 30,
-                "max": 45
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -31743,69 +30987,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 32,
-                "max": 56
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 32,
-                "max": 56
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 32,
-                "max": 56
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -34193,69 +33374,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 40,
-                "max": 64
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 40,
-                "max": 64
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 40,
-                "max": 64
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -36643,69 +35761,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 48,
-                "max": 72
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 48,
-                "max": 72
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 48,
-                "max": 72
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -39095,69 +38150,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 48,
-                "max": 84
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 48,
-                "max": 84
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 48,
-                "max": 84
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -41545,69 +40537,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 60,
-                "max": 96
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 60,
-                "max": 96
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 60,
-                "max": 96
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
@@ -43995,69 +42924,6 @@
               "icon": "the_vault:textures/gui/bingo/killelite.png"
             },
             "weight": 60.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_gilded",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 72,
-                "max": 108
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Gilded Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/gildedbarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_ornate",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 72,
-                "max": 108
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Ornate Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/ornatebarrel.png"
-            },
-            "weight": 100.0
-          },
-          {
-            "type": "loot_chest",
-            "filter": "@the_vault:dungeon_living",
-            "counter": {
-              "type": "target",
-              "target": {
-                "type": "uniform",
-                "min": 72,
-                "max": 108
-              },
-              "variables": {
-                "targetPlayerContribution": 1.0
-              }
-            },
-            "renderer": {
-              "type": "bingo",
-              "name": "Loot Living Dungeon Barrels",
-              "icon": "the_vault:textures/gui/bingo/livingbarrel.png"
-            },
-            "weight": 100.0
           }
         ],
         "firstBingo": [
