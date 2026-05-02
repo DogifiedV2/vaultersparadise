@@ -190,7 +190,10 @@
           { "type": "constant", "id": "Create Crafts and Additions" },
           { "type": "constant", "id": "Easy Traders" },
           { "type": "constant", "id": "Industrial Foregoing" },
-          { "type": "constant", "id": "Industrial Mob Farm" }
+          { "type": "constant", "id": "Industrial Mob Farm" },
+          { "type": "constant", "id": "Sophisticated Storage" },
+          { "type": "constant", "id": "Sophisticated Interface" },
+          { "type": "constant", "id": "Barrels" }
         ],
         "ignoreArrow": true,
         "lockedBy": []
@@ -240,6 +243,16 @@
       },
       "Industrial Mob Farm": {
         "dependsOn": [{ "type": "constant", "id": "Industrial Foregoing" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Barrels": {
+        "dependsOn": [{ "type": "constant", "id": "Sophisticated Storage" }],
+        "ignoreArrow": true,
+        "lockedBy": []
+      },
+      "Sophisticated Interface": {
+        "dependsOn": [{ "type": "constant", "id": "Sophisticated Storage" }],
         "ignoreArrow": true,
         "lockedBy": []
       }
