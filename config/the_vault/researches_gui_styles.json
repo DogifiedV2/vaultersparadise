@@ -36,6 +36,24 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/locker"
     },
+    "Barrels": {
+      "x": 60,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/remastered_drawers"
+    },
+    "Sophisticated Storage": {
+      "x": 10,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/sophisticated_storage"
+    },
+    "Sophisticated Interface": {
+      "x": 110,
+      "y": 0,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/sophisticated_interface"
+    },
 
     "Applied Energistics": {
       "x": 10,
