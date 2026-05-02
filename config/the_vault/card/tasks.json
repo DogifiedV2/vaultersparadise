@@ -244,7 +244,7 @@
     },
     "kill_guardian_easy": {
       "type": "kill_entity",
-      "filter": "@the_vault:guardian",
+      "filter": "@the_vault:guardians",
       "counter": {
         "type": "target",
         "target": {
@@ -515,7 +515,7 @@
     },
     "kill_guardian_medium": {
       "type": "kill_entity",
-      "filter": "@the_vault:guardian",
+      "filter": "@the_vault:guardians",
       "counter": {
         "type": "target",
         "target": {
@@ -691,7 +691,7 @@
     },
     "kill_guardian_hard": {
       "type": "kill_entity",
-      "filter": "@the_vault:guardian",
+      "filter": "@the_vault:guardians",
       "counter": {
         "type": "target",
         "target": {
@@ -905,7 +905,7 @@
     },
     "kill_guardian_extreme": {
       "type": "kill_entity",
-      "filter": "@the_vault:guardian",
+      "filter": "@the_vault:guardians",
       "counter": {
         "type": "target",
         "target": {
@@ -1118,7 +1118,7 @@
     },
     "kill_guardian_impossible": {
       "type": "kill_entity",
-      "filter": "@the_vault:guardian",
+      "filter": "@the_vault:guardians",
       "counter": {
         "type": "target",
         "target": {
