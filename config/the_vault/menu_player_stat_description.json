@@ -46,7 +46,7 @@
     "the_vault:trident_channeling_chance": "<gray>Your <aqua>chance <gray>to channel with a <#0E7490>vault trident.",
     "the_vault:echoing_chance": "<gray>Your <aqua>chance <gray>to apply the <#690E97>echoing <gray>effect.\n<red>Maximum Obtainable: 69%.",
     "the_vault:echoing_damage": "<gray>Your <#fc6a00>additional damage <gray>dealt upon <#690E97>echoing.\n<red>Maximum Obtainable: 50%.",
-    "the_vault:hexing_chance": "<red>Maked for termination.",
+    "the_vault:hexing_chance": "<gray>Your chance to apply a negative debuff (<#ad00a4>Hex<gray>) enemies.",
     "the_vault:execution_damage": "<gray>Your <#fc6a00>increased damage <gray>against <#ff0000>low health <gray>targets.",
     "the_vault:reaving_damage": "<gray>Percentage of an enemy's max <#22fc25>Health <gray>dealt as damage upon first strike.",
     "the_vault:mana_cost_reduction": "<gray>Your <aqua>mana cost reduction <gray>for <aqua>any ability<gray>.\n<red>Maximum Obtainable: 50%",
