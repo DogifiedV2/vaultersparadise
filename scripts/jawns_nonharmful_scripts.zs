@@ -399,6 +399,11 @@ craftingTable.addShaped("slab_2_" + matName, <item:minecraft:${matName}>, [
     [<item:minecraft:sand>, <item:minecraft:sand>, <item:minecraft:sand>]
 ]); */
 
+craftingTable.addShapeless("exp_bottle_2_create_nugget", <item:create:experience_nugget>, [
+    <item:minecraft:experience_bottle>
+]);
+
+
 
 
 
