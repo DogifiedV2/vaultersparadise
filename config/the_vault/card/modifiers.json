@@ -5054,7 +5054,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@medium",
       "count": [
         {
           "tier": 1,
@@ -5083,7 +5083,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 1
     },
     "resource_silver": {
       "type": "task_loot",
@@ -5102,7 +5103,7 @@
           }
         }
       ],
-      "task": "@easy",
+      "task": "@medium",
       "count": [
         {
           "tier": 1,
@@ -5131,7 +5132,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 1
     },
     "resource_gold": {
       "type": "task_loot",
@@ -5198,7 +5200,7 @@
           }
         }
       ],
-      "task": "@hard",
+      "task": "@extreme",
       "count": [
         {
           "tier": 1,
@@ -5227,7 +5229,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 1
     },
     "resource_focus_waning": {
       "type": "task_loot",
@@ -5661,6 +5664,54 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
+    "resource_mystery_egg_hostile": {
+      "type": "task_loot",
+      "name": {
+        "text": "Hostile Mystery Egg Card"
+      },
+      "model": "the_vault:mystery_hostile_egg#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:mystery_hostile_egg"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Hostile Mystery Egg ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
     "resource_plating": {
       "type": "task_loot",
       "name": {
@@ -5726,7 +5777,7 @@
           }
         }
       ],
-      "task": "@medium",
+      "task": "@hard",
       "count": [
         {
           "tier": 1,
@@ -5803,7 +5854,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 1
     },
     "resource_lemon": {
       "type": "task_loot",
@@ -6564,6 +6616,54 @@
         },
         {
           "text":  " Mega Gift Statue ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_driftwood": {
+      "type": "task_loot",
+      "name": {
+        "text": "Driftwood Card"
+      },
+      "model": "the_vault:driftwood#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:driftwood"
+          }
+        }
+      ],
+      "task": "@easy",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Driftwood ",
           "color": "yellow"
         },
         {
@@ -9240,6 +9340,14 @@
       {
         "value": "resource_vault_apple",
         "weight": 0.0
+      },
+      {
+        "value": "resource_mystery_egg_hostile",
+        "weight": 6.0
+      },
+      {
+        "value": "resource_driftwood",
+        "weight": 66.0
       }
     ],
     "scaling": [

@@ -304,6 +304,9 @@ craftingTable.remove(<item:woldsvaults:chromatic_gold_ingot>);
 
 craftingTable.remove(<item:woldsvaults:lodestone>);
 craftingTable.remove(<item:woldsvaults:crystal_seal_spirits>);
+craftingTable.remove(<item:woldsvaults:crystal_seal_unhinged>);
+craftingTable.remove(<item:woldsvaults:crystal_seal_enchanter>);
+craftingTable.remove(<item:woldsvaults:crystal_seal_doomsayer>);
 //craftingTable.remove(<item:woldsvaults:idona_dagger);
 //craftingTable.remove(<item:woldsvaults:velara_apple);
 //craftingTable.remove(<item:woldsvaults:tome_of_tenos);
@@ -531,3 +534,11 @@ for color in velvet {
         <item:minecraft:${color}_dye>
     ]);
 }
+
+craftingTable.addShapeless("raw_vault_steak_2_vault_meat", <item:the_vault:vault_meat> * 4, [
+    <item:the_vault:raw_vault_steak>
+]);
+
+craftingTable.addShapeless("wool_2_string", <item:minecraft:string> * 4, [
+    <tag:items:minecraft:wool>
+]);

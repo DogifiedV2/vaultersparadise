@@ -200,7 +200,10 @@
 		"quark:trowel",
 		"create:minecart_contraption",
 		"minecraft:golden_apple",
-		"create:chute"
+		"create:chute",
+		"computercraft:*",
+		"advancedperipherals:*",
+		"sophisticatedstorage:*"
 	],
 	"BLOCK_BLACKLIST": [
 		"!minecraft:redstone_ore",
@@ -624,6 +627,9 @@
 		"create:minecart_contraption",
 		"minecraft:golden_apple",
 		"create:chute",
-		"the_vault:greedy_anchor"
+		"the_vault:greedy_anchor",
+		"computercraft:*",
+		"advancedperipherals:*",
+		"sophisticatedstorage:*"
 	]
 }

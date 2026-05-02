@@ -1,0 +1,1964 @@
+{
+  "the_vault:modifier_type/loot_item_rarity": {
+    "the_vault:hitman_item_rarity_t1": {
+      "properties": {
+        "percentage": 0.1
+      },
+      "display": {
+        "name": "Hitman Item Rarity T1",
+        "color": "#f3ff70",
+        "description": "+10% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t1": {
+      "properties": {
+        "percentage": 0.05
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T1",
+        "color": "#f3ff70",
+        "description": "+5% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t2": {
+      "properties": {
+        "percentage": 0.2
+      },
+      "display": {
+        "name": "Hitman Item Rarity T2",
+        "color": "#f3ff70",
+        "description": "+20% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t2": {
+      "properties": {
+        "percentage": 0.1
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T2",
+        "color": "#f3ff70",
+        "description": "+10% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t3": {
+      "properties": {
+        "percentage": 0.3
+      },
+      "display": {
+        "name": "Hitman Item Rarity T3",
+        "color": "#f3ff70",
+        "description": "+30% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t3": {
+      "properties": {
+        "percentage": 0.15
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T3",
+        "color": "#f3ff70",
+        "description": "+15% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t4": {
+      "properties": {
+        "percentage": 0.4
+      },
+      "display": {
+        "name": "Hitman Item Rarity T4",
+        "color": "#f3ff70",
+        "description": "+40% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t4": {
+      "properties": {
+        "percentage": 0.2
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T4",
+        "color": "#f3ff70",
+        "description": "+20% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t5": {
+      "properties": {
+        "percentage": 0.5
+      },
+      "display": {
+        "name": "Hitman Item Rarity T5",
+        "color": "#f3ff70",
+        "description": "+50% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t5": {
+      "properties": {
+        "percentage": 0.25
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T5",
+        "color": "#f3ff70",
+        "description": "+25% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t6": {
+      "properties": {
+        "percentage": 0.6
+      },
+      "display": {
+        "name": "Hitman Item Rarity T6",
+        "color": "#f3ff70",
+        "description": "+60% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t6": {
+      "properties": {
+        "percentage": 0.3
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T6",
+        "color": "#f3ff70",
+        "description": "+30% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t7": {
+      "properties": {
+        "percentage": 0.7
+      },
+      "display": {
+        "name": "Hitman Item Rarity T7",
+        "color": "#f3ff70",
+        "description": "+70% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t7": {
+      "properties": {
+        "percentage": 0.35
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T7",
+        "color": "#f3ff70",
+        "description": "+35% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t8": {
+      "properties": {
+        "percentage": 0.8
+      },
+      "display": {
+        "name": "Hitman Item Rarity T8",
+        "color": "#f3ff70",
+        "description": "+80% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t8": {
+      "properties": {
+        "percentage": 0.4
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T8",
+        "color": "#f3ff70",
+        "description": "+40% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t9": {
+      "properties": {
+        "percentage": 0.9
+      },
+      "display": {
+        "name": "Hitman Item Rarity T9",
+        "color": "#f3ff70",
+        "description": "+90% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t9": {
+      "properties": {
+        "percentage": 0.45
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T9",
+        "color": "#f3ff70",
+        "description": "+45% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_item_rarity_t10": {
+      "properties": {
+        "percentage": 1.0
+      },
+      "display": {
+        "name": "Hitman Item Rarity T10",
+        "color": "#f3ff70",
+        "description": "+100% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    },
+    "the_vault:hitman_loot_all_rarity_t10": {
+      "properties": {
+        "percentage": 0.5
+      },
+      "display": {
+        "name": "Hitman Loot All Rarity T10",
+        "color": "#f3ff70",
+        "description": "+50% Item Rarity",
+        "icon": "the_vault:gui/modifiers/item_rarity",
+        "descriptionFormatted": "+%d%% Item Rarity"
+      }
+    }
+  },
+  "the_vault:modifier_type/loot_item_quantity": {
+    "the_vault:hitman_item_quantity_t1": {
+      "properties": {
+        "percentage": 0.1
+      },
+      "display": {
+        "name": "Hitman Item Quantity T1",
+        "color": "#ffcc73",
+        "description": "+10% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t1": {
+      "properties": {
+        "percentage": 0.05
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T1",
+        "color": "#ffcc73",
+        "description": "+5% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t2": {
+      "properties": {
+        "percentage": 0.2
+      },
+      "display": {
+        "name": "Hitman Item Quantity T2",
+        "color": "#ffcc73",
+        "description": "+20% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t2": {
+      "properties": {
+        "percentage": 0.1
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T2",
+        "color": "#ffcc73",
+        "description": "+10% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t3": {
+      "properties": {
+        "percentage": 0.3
+      },
+      "display": {
+        "name": "Hitman Item Quantity T3",
+        "color": "#ffcc73",
+        "description": "+30% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t3": {
+      "properties": {
+        "percentage": 0.15
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T3",
+        "color": "#ffcc73",
+        "description": "+15% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t4": {
+      "properties": {
+        "percentage": 0.4
+      },
+      "display": {
+        "name": "Hitman Item Quantity T4",
+        "color": "#ffcc73",
+        "description": "+40% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t4": {
+      "properties": {
+        "percentage": 0.2
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T4",
+        "color": "#ffcc73",
+        "description": "+20% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t5": {
+      "properties": {
+        "percentage": 0.5
+      },
+      "display": {
+        "name": "Hitman Item Quantity T5",
+        "color": "#ffcc73",
+        "description": "+50% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t5": {
+      "properties": {
+        "percentage": 0.25
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T5",
+        "color": "#ffcc73",
+        "description": "+25% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t6": {
+      "properties": {
+        "percentage": 0.6
+      },
+      "display": {
+        "name": "Hitman Item Quantity T6",
+        "color": "#ffcc73",
+        "description": "+60% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t6": {
+      "properties": {
+        "percentage": 0.3
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T6",
+        "color": "#ffcc73",
+        "description": "+30% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t7": {
+      "properties": {
+        "percentage": 0.7
+      },
+      "display": {
+        "name": "Hitman Item Quantity T7",
+        "color": "#ffcc73",
+        "description": "+70% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t7": {
+      "properties": {
+        "percentage": 0.35
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T7",
+        "color": "#ffcc73",
+        "description": "+35% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t8": {
+      "properties": {
+        "percentage": 0.8
+      },
+      "display": {
+        "name": "Hitman Item Quantity T8",
+        "color": "#ffcc73",
+        "description": "+80% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t8": {
+      "properties": {
+        "percentage": 0.4
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T8",
+        "color": "#ffcc73",
+        "description": "+40% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t9": {
+      "properties": {
+        "percentage": 0.9
+      },
+      "display": {
+        "name": "Hitman Item Quantity T9",
+        "color": "#ffcc73",
+        "description": "+90% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t9": {
+      "properties": {
+        "percentage": 0.45
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T9",
+        "color": "#ffcc73",
+        "description": "+45% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_item_quantity_t10": {
+      "properties": {
+        "percentage": 1.0
+      },
+      "display": {
+        "name": "Hitman Item Quantity T10",
+        "color": "#ffcc73",
+        "description": "+100% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    },
+    "the_vault:hitman_loot_all_quantity_t10": {
+      "properties": {
+        "percentage": 0.5
+      },
+      "display": {
+        "name": "Hitman Loot All Quantity T10",
+        "color": "#ffcc73",
+        "description": "+50% Item Quantity",
+        "icon": "the_vault:gui/modifiers/item_quantity",
+        "descriptionFormatted": "+%d%% Item Quantity"
+      }
+    }
+  },
+  "the_vault:modifier_type/player_stat": {
+    "the_vault:hitman_mana_regen_t1": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 0.2,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T1",
+        "color": "#849dc8",
+        "description": "+20% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/mana_regeneration",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t1": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.02
+      },
+      "display": {
+        "name": "Hitman Movement Speed T1",
+        "color": "#dea700",
+        "description": "+2% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t1": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.1
+      },
+      "display": {
+        "name": "Hitman Copious T1",
+        "color": "#F74780",
+        "description": "+10% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t1": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.05
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T1",
+        "color": "#6DACB5",
+        "description": "+5% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/cooldown_reduction",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t1": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.05,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T1",
+        "color": "#FF5555",
+        "description": "+5% Attack Damage",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t1": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.05,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T1",
+        "color": "#FF5555",
+        "description": "+5% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t1": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.05
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T1",
+        "color": "#F74780",
+        "description": "+5% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t2": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 0.4,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T2",
+        "color": "#849dc8",
+        "description": "+40% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/mana_regeneration",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t2": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.04
+      },
+      "display": {
+        "name": "Hitman Movement Speed T2",
+        "color": "#dea700",
+        "description": "+4% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t2": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.2
+      },
+      "display": {
+        "name": "Hitman Copious T2",
+        "color": "#F74780",
+        "description": "+20% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t2": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.1
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T2",
+        "color": "#6DACB5",
+        "description": "+10% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/cooldown_reduction",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t2": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.1,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T2",
+        "color": "#FF5555",
+        "description": "+10% Attack Damage",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t2": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.1,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T2",
+        "color": "#FF5555",
+        "description": "+10% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t2": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.1
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T2",
+        "color": "#F74780",
+        "description": "+10% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t3": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 0.6,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T3",
+        "color": "#849dc8",
+        "description": "+60% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/mana_regeneration",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t3": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.06
+      },
+      "display": {
+        "name": "Hitman Movement Speed T3",
+        "color": "#dea700",
+        "description": "+6% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t3": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.3
+      },
+      "display": {
+        "name": "Hitman Copious T3",
+        "color": "#F74780",
+        "description": "+30% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t3": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.15
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T3",
+        "color": "#6DACB5",
+        "description": "+15% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/cooldown_reduction",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t3": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.15,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T3",
+        "color": "#FF5555",
+        "description": "+15% Attack Damage",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t3": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.15,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T3",
+        "color": "#FF5555",
+        "description": "+15% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t3": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.15
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T3",
+        "color": "#F74780",
+        "description": "+15% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t4": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 0.8,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T4",
+        "color": "#849dc8",
+        "description": "+80% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/mana_regeneration",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t4": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.08
+      },
+      "display": {
+        "name": "Hitman Movement Speed T4",
+        "color": "#dea700",
+        "description": "+8% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t4": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.4
+      },
+      "display": {
+        "name": "Hitman Copious T4",
+        "color": "#F74780",
+        "description": "+40% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t4": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.2
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T4",
+        "color": "#6DACB5",
+        "description": "+20% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/cooldown_reduction",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t4": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.2,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T4",
+        "color": "#FF5555",
+        "description": "+20% Attack Damage",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t4": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.2,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T4",
+        "color": "#FF5555",
+        "description": "+20% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t4": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.2
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T4",
+        "color": "#F74780",
+        "description": "+20% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t5": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 1.0,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T5",
+        "color": "#849dc8",
+        "description": "+100% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/mana_regeneration",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t5": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.1
+      },
+      "display": {
+        "name": "Hitman Movement Speed T5",
+        "color": "#dea700",
+        "description": "+10% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t5": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.5
+      },
+      "display": {
+        "name": "Hitman Copious T5",
+        "color": "#F74780",
+        "description": "+50% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t5": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.25
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T5",
+        "color": "#6DACB5",
+        "description": "+25% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/cooldown_reduction",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t5": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.25,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T5",
+        "color": "#FF5555",
+        "description": "+25% Attack Damage",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t5": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.25,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T5",
+        "color": "#FF5555",
+        "description": "+25% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t5": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.25
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T5",
+        "color": "#F74780",
+        "description": "+25% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t6": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 1.2,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T6",
+        "color": "#849dc8",
+        "description": "+120% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/mana_regeneration",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t6": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.12
+      },
+      "display": {
+        "name": "Hitman Movement Speed T6",
+        "color": "#dea700",
+        "description": "+12% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t6": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.6
+      },
+      "display": {
+        "name": "Hitman Copious T6",
+        "color": "#F74780",
+        "description": "+60% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t6": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.3
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T6",
+        "color": "#6DACB5",
+        "description": "+30% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/cooldown_reduction",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t6": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.3,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T6",
+        "color": "#FF5555",
+        "description": "+30% Attack Damage",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t6": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.3,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T6",
+        "color": "#FF5555",
+        "description": "+30% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t6": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.3
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T6",
+        "color": "#F74780",
+        "description": "+30% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t7": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 1.4,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T7",
+        "color": "#849dc8",
+        "description": "+140% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/mana_regeneration",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t7": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.14
+      },
+      "display": {
+        "name": "Hitman Movement Speed T7",
+        "color": "#dea700",
+        "description": "+14% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t7": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.7
+      },
+      "display": {
+        "name": "Hitman Copious T7",
+        "color": "#F74780",
+        "description": "+70% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t7": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.35
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T7",
+        "color": "#6DACB5",
+        "description": "+35% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/cooldown_reduction",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t7": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.35,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T7",
+        "color": "#FF5555",
+        "description": "+35% Attack Damage",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t7": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.35,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T7",
+        "color": "#FF5555",
+        "description": "+35% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t7": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.35
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T7",
+        "color": "#F74780",
+        "description": "+35% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t8": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 1.6,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T8",
+        "color": "#849dc8",
+        "description": "+160% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/mana_regeneration",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t8": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.16
+      },
+      "display": {
+        "name": "Hitman Movement Speed T8",
+        "color": "#dea700",
+        "description": "+16% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t8": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.8
+      },
+      "display": {
+        "name": "Hitman Copious T8",
+        "color": "#F74780",
+        "description": "+80% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t8": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.4
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T8",
+        "color": "#6DACB5",
+        "description": "+40% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/cooldown_reduction",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t8": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.4,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T8",
+        "color": "#FF5555",
+        "description": "+40% Attack Damage",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t8": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.4,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T8",
+        "color": "#FF5555",
+        "description": "+40% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t8": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.4
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T8",
+        "color": "#F74780",
+        "description": "+40% Copiously",
+        "icon": "the_vault:gui/modifiers/copiously",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t9": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 1.8,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T9",
+        "color": "#849dc8",
+        "description": "+180% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/energizing",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t9": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.18
+      },
+      "display": {
+        "name": "Hitman Movement Speed T9",
+        "color": "#dea700",
+        "description": "+18% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t9": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.9
+      },
+      "display": {
+        "name": "Hitman Copious T9",
+        "color": "#F74780",
+        "description": "+90% Copiously",
+        "icon": "the_vault:gui/modifiers/rich",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t9": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.45
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T9",
+        "color": "#6DACB5",
+        "description": "+45% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/inert",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t9": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.45,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T9",
+        "color": "#FF5555",
+        "description": "+45% Attack Damage",
+        "icon": "the_vault:gui/modifiers/god_token_idona",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t9": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.45,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T9",
+        "color": "#FF5555",
+        "description": "+45% Ability Power",
+        "icon": "the_vault:gui/modifiers/god_token_idona",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t9": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.45
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T9",
+        "color": "#F74780",
+        "description": "+45% Copiously",
+        "icon": "the_vault:gui/modifiers/rich",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_mana_regen_t10": {
+      "properties": {
+        "type": "mana_regen_additive_percentile",
+        "amount": 2.0,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Mana Regen T10",
+        "color": "#849dc8",
+        "description": "+200% Mana Regeneration",
+        "icon": "the_vault:gui/modifiers/energizing",
+        "descriptionFormatted": "+%d%% Mana Regeneration"
+      }
+    },
+    "the_vault:hitman_movement_speed_t10": {
+      "properties": {
+        "stat": "speed",
+        "addend": 0.2
+      },
+      "display": {
+        "name": "Hitman Movement Speed T10",
+        "color": "#dea700",
+        "description": "+20% Movement Speed",
+        "icon": "the_vault:gui/modifiers/speed",
+        "descriptionFormatted": "%d%% Movement Speed"
+      }
+    },
+    "the_vault:hitman_copious_t10": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 1.0
+      },
+      "display": {
+        "name": "Hitman Copious T10",
+        "color": "#F74780",
+        "description": "+100% Copiously",
+        "icon": "the_vault:gui/modifiers/rich",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    },
+    "the_vault:hitman_cooldown_reduction_t10": {
+      "properties": {
+        "stat": "cooldown_reduction",
+        "addend": 0.5
+      },
+      "display": {
+        "name": "Hitman Cooldown Reduction T10",
+        "color": "#6DACB5",
+        "description": "+50% Cooldown Reduction",
+        "icon": "the_vault:gui/modifiers/inert",
+        "descriptionFormatted": "%d%% Cooldown Reduction"
+      }
+    },
+    "the_vault:hitman_damage_ad_t10": {
+      "properties": {
+        "type": "attack_damage_additive_percentile",
+        "amount": 0.5,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Attack Damage T10",
+        "color": "#FF5555",
+        "description": "+50% Attack Damage",
+        "icon": "the_vault:gui/modifiers/god_token_idona",
+        "descriptionFormatted": "+%d%% Attack Damage"
+      }
+    },
+    "the_vault:hitman_damage_ap_t10": {
+      "properties": {
+        "type": "ability_power_percent",
+        "amount": 0.5,
+        "attributeStackingStrategy": "STACK"
+      },
+      "display": {
+        "name": "Hitman Ability Power T10",
+        "color": "#FF5555",
+        "description": "+50% Ability Power",
+        "icon": "the_vault:gui/modifiers/god_token_idona",
+        "descriptionFormatted": "+%d%% Ability Power"
+      }
+    },
+    "the_vault:hitman_loot_all_copious_t10": {
+      "properties": {
+        "stat": "copiously",
+        "addend": 0.5
+      },
+      "display": {
+        "name": "Hitman Loot All Copious T10",
+        "color": "#F74780",
+        "description": "+50% Copiously",
+        "icon": "the_vault:gui/modifiers/rich",
+        "descriptionFormatted": "%d%% Copiously"
+      }
+    }
+  },
+  "the_vault:modifier_type/crate_item_quantity": {
+    "the_vault:hitman_crate_t1": {
+      "properties": {
+        "percentage": 1.0
+      },
+      "display": {
+        "name": "Hitman Crate T1",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 1",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t2": {
+      "properties": {
+        "percentage": 2.0
+      },
+      "display": {
+        "name": "Hitman Crate T2",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 2",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t3": {
+      "properties": {
+        "percentage": 3.0
+      },
+      "display": {
+        "name": "Hitman Crate T3",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 3",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t4": {
+      "properties": {
+        "percentage": 4.0
+      },
+      "display": {
+        "name": "Hitman Crate T4",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 4",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t5": {
+      "properties": {
+        "percentage": 5.0
+      },
+      "display": {
+        "name": "Hitman Crate T5",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 5",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t6": {
+      "properties": {
+        "percentage": 6.0
+      },
+      "display": {
+        "name": "Hitman Crate T6",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 6",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t7": {
+      "properties": {
+        "percentage": 7.0
+      },
+      "display": {
+        "name": "Hitman Crate T7",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 7",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t8": {
+      "properties": {
+        "percentage": 8.0
+      },
+      "display": {
+        "name": "Hitman Crate T8",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 8",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t9": {
+      "properties": {
+        "percentage": 9.0
+      },
+      "display": {
+        "name": "Hitman Crate T9",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 9",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    },
+    "the_vault:hitman_crate_t10": {
+      "properties": {
+        "percentage": 10.0
+      },
+      "display": {
+        "name": "Hitman Crate T10",
+        "color": "#38C9C0",
+        "description": "Increase reward crate tier by 10",
+        "icon": "the_vault:gui/modifiers/crate",
+        "descriptionFormatted": "Increases the reward crate tier once per modifier"
+      }
+    }
+  },
+  "the_vault:modifier_type/vault_time": {
+    "the_vault:hitman_timer_bonus_t1": {
+      "properties": {
+        "timeAddedTicks": 600
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T1",
+        "color": "#2F86AE",
+        "description": "+1 minute Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+1 minute Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t2": {
+      "properties": {
+        "timeAddedTicks": 1200
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T2",
+        "color": "#2F86AE",
+        "description": "+2 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+2 minutes Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t3": {
+      "properties": {
+        "timeAddedTicks": 1800
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T3",
+        "color": "#2F86AE",
+        "description": "+3 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+3 minutes Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t4": {
+      "properties": {
+        "timeAddedTicks": 2400
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T4",
+        "color": "#2F86AE",
+        "description": "+4 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+4 minutes Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t5": {
+      "properties": {
+        "timeAddedTicks": 3000
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T5",
+        "color": "#2F86AE",
+        "description": "+5 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+5 minutes Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t6": {
+      "properties": {
+        "timeAddedTicks": 3600
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T6",
+        "color": "#2F86AE",
+        "description": "+6 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+6 minutes Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t7": {
+      "properties": {
+        "timeAddedTicks": 4200
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T7",
+        "color": "#2F86AE",
+        "description": "+7 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+7 minutes Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t8": {
+      "properties": {
+        "timeAddedTicks": 4800
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T8",
+        "color": "#2F86AE",
+        "description": "+8 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+8 minutes Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t9": {
+      "properties": {
+        "timeAddedTicks": 5400
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T9",
+        "color": "#2F86AE",
+        "description": "+9 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+9 minutes Vault Time"
+      }
+    },
+    "the_vault:hitman_timer_bonus_t10": {
+      "properties": {
+        "timeAddedTicks": 6000
+      },
+      "display": {
+        "name": "Hitman Timer Bonus T10",
+        "color": "#2F86AE",
+        "description": "+10 minutes Vault Time",
+        "icon": "the_vault:gui/modifiers/extended",
+        "descriptionFormatted": "+10 minutes Vault Time"
+      }
+    }
+  },
+  "the_vault:modifier_type/grouped": {
+    "the_vault:hitman_damage_buff_t1": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t1": 1,
+          "the_vault:hitman_damage_ap_t1": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T1",
+        "color": "#d73b46",
+        "description": "+5% Attack Damage \u0026 +5% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t1": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t1": 1,
+          "the_vault:hitman_loot_all_rarity_t1": 1,
+          "the_vault:hitman_loot_all_copious_t1": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T1",
+        "color": "#bbf333",
+        "description": "+5% Item Quantity, +5% Item Rarity, +5% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t2": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t2": 1,
+          "the_vault:hitman_damage_ap_t2": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T2",
+        "color": "#d73b46",
+        "description": "+10% Attack Damage \u0026 +10% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t2": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t2": 1,
+          "the_vault:hitman_loot_all_rarity_t2": 1,
+          "the_vault:hitman_loot_all_copious_t2": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T2",
+        "color": "#bbf333",
+        "description": "+10% Item Quantity, +10% Item Rarity, +10% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t3": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t3": 1,
+          "the_vault:hitman_damage_ap_t3": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T3",
+        "color": "#d73b46",
+        "description": "+15% Attack Damage \u0026 +15% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t3": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t3": 1,
+          "the_vault:hitman_loot_all_rarity_t3": 1,
+          "the_vault:hitman_loot_all_copious_t3": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T3",
+        "color": "#bbf333",
+        "description": "+15% Item Quantity, +15% Item Rarity, +15% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t4": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t4": 1,
+          "the_vault:hitman_damage_ap_t4": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T4",
+        "color": "#d73b46",
+        "description": "+20% Attack Damage \u0026 +20% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t4": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t4": 1,
+          "the_vault:hitman_loot_all_rarity_t4": 1,
+          "the_vault:hitman_loot_all_copious_t4": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T4",
+        "color": "#bbf333",
+        "description": "+20% Item Quantity, +20% Item Rarity, +20% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t5": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t5": 1,
+          "the_vault:hitman_damage_ap_t5": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T5",
+        "color": "#d73b46",
+        "description": "+25% Attack Damage \u0026 +25% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t5": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t5": 1,
+          "the_vault:hitman_loot_all_rarity_t5": 1,
+          "the_vault:hitman_loot_all_copious_t5": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T5",
+        "color": "#bbf333",
+        "description": "+25% Item Quantity, +25% Item Rarity, +25% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t6": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t6": 1,
+          "the_vault:hitman_damage_ap_t6": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T6",
+        "color": "#d73b46",
+        "description": "+30% Attack Damage \u0026 +30% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t6": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t6": 1,
+          "the_vault:hitman_loot_all_rarity_t6": 1,
+          "the_vault:hitman_loot_all_copious_t6": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T6",
+        "color": "#bbf333",
+        "description": "+30% Item Quantity, +30% Item Rarity, +30% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t7": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t7": 1,
+          "the_vault:hitman_damage_ap_t7": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T7",
+        "color": "#d73b46",
+        "description": "+35% Attack Damage \u0026 +35% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t7": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t7": 1,
+          "the_vault:hitman_loot_all_rarity_t7": 1,
+          "the_vault:hitman_loot_all_copious_t7": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T7",
+        "color": "#bbf333",
+        "description": "+35% Item Quantity, +35% Item Rarity, +35% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t8": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t8": 1,
+          "the_vault:hitman_damage_ap_t8": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T8",
+        "color": "#d73b46",
+        "description": "+40% Attack Damage \u0026 +40% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t8": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t8": 1,
+          "the_vault:hitman_loot_all_rarity_t8": 1,
+          "the_vault:hitman_loot_all_copious_t8": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T8",
+        "color": "#bbf333",
+        "description": "+40% Item Quantity, +40% Item Rarity, +40% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t9": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t9": 1,
+          "the_vault:hitman_damage_ap_t9": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T9",
+        "color": "#d73b46",
+        "description": "+45% Attack Damage \u0026 +45% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t9": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t9": 1,
+          "the_vault:hitman_loot_all_rarity_t9": 1,
+          "the_vault:hitman_loot_all_copious_t9": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T9",
+        "color": "#bbf333",
+        "description": "+45% Item Quantity, +45% Item Rarity, +45% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    },
+    "the_vault:hitman_damage_buff_t10": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_damage_ad_t10": 1,
+          "the_vault:hitman_damage_ap_t10": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Damage Buff T10",
+        "color": "#d73b46",
+        "description": "+50% Attack Damage \u0026 +50% Ability Power",
+        "icon": "the_vault:gui/modifiers/apad"
+      }
+    },
+    "the_vault:hitman_loot_all_t10": {
+      "properties": {
+        "children": {
+          "the_vault:hitman_loot_all_quantity_t10": 1,
+          "the_vault:hitman_loot_all_rarity_t10": 1,
+          "the_vault:hitman_loot_all_copious_t10": 1
+        }
+      },
+      "display": {
+        "name": "Hitman Loot All T10",
+        "color": "#bbf333",
+        "description": "+50% Item Quantity, +50% Item Rarity, +50% Copiously",
+        "icon": "the_vault:gui/modifiers/itemrqcopiously"
+      }
+    }
+  }
+}

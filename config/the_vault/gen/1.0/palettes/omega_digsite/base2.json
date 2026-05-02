@@ -20,6 +20,15 @@
             "the_vault:treasure_sand{LootTable:\"the_vault:digsite_sand_lvl50\"}": 1,
             "minecraft:yellow_concrete_powder": 0
           }
+        },
+        {
+          "level": 90,
+          "type": "weighted_target",
+          "target": "minecraft:yellow_concrete_powder",
+          "output": {
+            "the_vault:treasure_sand{LootTable:\"the_vault:digsite_sand_lvl75\"}": 1,
+            "minecraft:yellow_concrete_powder": 0
+          }
         }
       ]
     },

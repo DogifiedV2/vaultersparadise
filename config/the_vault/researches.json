@@ -111,6 +111,42 @@
       "cost": 4,
       "usesKnowledge": true
     },
+    {
+      "modIds": [
+        "industrialforegoing"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Industrial Foregoing",
+      "cost": 8,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "sophisticatedstorage"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Sophisticated Storage",
+      "cost": 1,
+      "usesKnowledge": true,
+      "discoversModels": [
+      ]
+    },
 
     {
       "modIds": [
@@ -1460,6 +1496,235 @@
         "the_vault:gear/armor/angel/leggings",
         "the_vault:gear/armor/angel/boots"
       ]
+    },
+    {
+      "itemRestrictions": {
+        "industrialforegoing:mechanical_dirt": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "industrialforegoing:mob_crusher": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Industrial Mob Farm",
+      "cost": 3,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "sophisticatedstorage:storage_link": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:controller": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Sophisticated Interface",
+      "cost": 2,
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/armor/dank/helmet",
+        "the_vault:gear/armor/dank/chestplate",
+        "the_vault:gear/armor/dank/leggings",
+        "the_vault:gear/armor/dank/boots"
+      ]
+    },
+    {
+      "itemRestrictions": {
+        "sophisticatedstorage:limited_barrel_1": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_barrel_2": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_barrel_3": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_barrel_4": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_copper_barrel_1": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_copper_barrel_2": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_copper_barrel_3": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_copper_barrel_4": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_iron_barrel_1": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_iron_barrel_2": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_iron_barrel_3": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_iron_barrel_4": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_gold_barrel_1": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_gold_barrel_2": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_gold_barrel_3": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_gold_barrel_4": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_diamond_barrel_1": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_diamond_barrel_2": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_diamond_barrel_3": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_diamond_barrel_4": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_netherite_barrel_1": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_netherite_barrel_2": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_netherite_barrel_3": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedstorage:limited_netherite_barrel_4": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Barrels",
+      "cost": 2,
+      "usesKnowledge": true
     }
   ]
 }

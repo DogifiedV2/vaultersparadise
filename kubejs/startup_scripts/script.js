@@ -14,7 +14,7 @@ onEvent('item.registry', event => {
         	ctx.player.tell('§5You Feel Stronger')
         })
 	})
-	event.create('the_vault:bm_token').displayName('Black Market Token').maxStackSize(64).tooltip('')
+	event.create('the_vault:bm_token').displayName('Black Market Token').maxStackSize(64).tooltip('Used as the primary currency to reroll the Black Market').rarity('epic')
 	event.create('the_vault:wirts_leg').displayName("Wirt's Leg").tooltip("Moooo").rarity('epic').glow(true)
 
 	//Unobtanium Items

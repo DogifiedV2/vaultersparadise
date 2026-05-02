@@ -1,0 +1,9 @@
+{
+  "hydrate": {
+    "projectileCount": 11,
+    "throwDelayTicks": 4,
+    "throwSpeed": 1.2,
+    "throwDistance": 6.5,
+    "experienceBottlePercent": 25
+  }
+}

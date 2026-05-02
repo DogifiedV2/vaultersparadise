@@ -757,6 +757,115 @@
       "color1": "0xFFED7B24",
       "color2": "0xFFe2a631"
     },
+    "aurora_scissors": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Aurora Scissors",
+      "item": {
+        "id": "the_vault:sword",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:aurora_scissors\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "hexblade": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Hexblade",
+      "item": {
+        "id": "the_vault:sword",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:hexblade\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "mineral_greatsword": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Mineral Greatsword",
+      "item": {
+        "id": "the_vault:sword",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:mineral_greatsword\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "grass_blade": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Grass Blade",
+      "item": {
+        "id": "the_vault:sword",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:grass_blade\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "leviathan": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Leviathan",
+      "item": {
+        "id": "the_vault:axe",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:leviathan\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "blood_magnet": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Blood Fetcher's Magnet",
+      "item": {
+        "id": "the_vault:magnet",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:blood_magnet\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "bamboo_fightstick": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Bamboo Fightstick",
+      "item": {
+        "id": "the_vault:battlestaff",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:bamboo_fightstick\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "ninja_baton": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Ninja Baton",
+      "item": {
+        "id": "the_vault:battlestaff",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:ninja_baton\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+    "safer_spaces": {
+      "type": "floating_item_reward",
+      "textColor": -1213660,
+      "name": "Safer Spaces",
+      "item": {
+        "id": "the_vault:plushie",
+        "nbt": "{\"the_vault:gear_unique_pool\":\"the_vault:safer_spaces\",\"the_vault:gear_roll_type\":\"Unique\"}",
+        "count": 1
+      },
+      "color1": "0xFFED7B24",
+      "color2": "0xFFe2a631"
+    },
+
     "raid_rock": {
       "type": "floating_item_reward",
       "textColor": "0xFFffb400",
@@ -1148,6 +1257,9 @@
           { "value": "swarmwalkers", "weight": 2 },
           { "value": "stormcrown", "weight": 2 },
           { "value": "inflated_justice", "weight": 2 },
+          { "value": "mineral_greatsword", "weight": 2 },
+          { "value": "grass_blade", "weight": 2 },
+          { "value": "leviathan", "weight": 2 },
           { "value": "raid_rock_infinite", "weight": 40 },
           { "value": "double_everything", "weight": 4 }
         ]
@@ -1191,10 +1303,13 @@
           { "value": "inferno_reach", "weight": 2 },
           { "value": "frozen_orb", "weight": 2 },
           { "value": "grim_shield", "weight": 2 },
-          { "value": "starforge", "weight": 2 },
           { "value": "swarmwalkers", "weight": 2 },
+          { "value": "starforge", "weight": 2 },
           { "value": "stormcrown", "weight": 2 },
           { "value": "inflated_justice", "weight": 2 },
+          { "value": "mineral_greatsword", "weight": 2 },
+          { "value": "grass_blade", "weight": 2 },
+          { "value": "leviathan", "weight": 2 },
           { "value": "raid_rock_infinite", "weight": 40 },
           { "value": "double_everything", "weight": 4 }
           ]
@@ -1243,6 +1358,9 @@
           { "value": "starforge", "weight": 2 },
           { "value": "stormcrown", "weight": 2 },
           { "value": "inflated_justice", "weight": 2 },
+          { "value": "mineral_greatsword", "weight": 2 },
+          { "value": "grass_blade", "weight": 2 },
+          { "value": "leviathan", "weight": 2 },
           { "value": "raid_rock", "weight": 40 }
         ]
         },
@@ -1289,6 +1407,9 @@
           { "value": "starforge", "weight": 2 },
           { "value": "stormcrown", "weight": 2 },
           { "value": "inflated_justice", "weight": 2 },
+          { "value": "mineral_greatsword", "weight": 2 },
+          { "value": "grass_blade", "weight": 2 },
+          { "value": "leviathan", "weight": 2 },
           { "value": "raid_rock", "weight": 40 }
           ]
         }
@@ -1310,7 +1431,8 @@
           { "value": "manabloom", "weight": 4 },
           { "value": "iskallibur", "weight": 4 },
           { "value": "annmari", "weight": 4 },
-          { "value": "ivy", "weight": 4 }
+          { "value": "ivy", "weight": 4 },
+          { "value": "aurora_scissors", "weight": 4 }
         ] },
         { "level": 50, "pool": [
           { "value": "gilded_chest_big", "weight": 130 },
@@ -1324,8 +1446,9 @@
           { "value": "manabloom", "weight": 4 },
           { "value": "iskallibur", "weight": 4 },
           { "value": "annmari", "weight": 4 },
-          { "value": "ivy", "weight": 4 }
-          ]
+          { "value": "ivy", "weight": 4 },
+          { "value": "aurora_scissors", "weight": 4 }
+        ]
         }
       ]
     },
@@ -1345,9 +1468,11 @@
           { "value": "crashguards", "weight": 4 },
           { "value": "chainlash", "weight": 4 },
           { "value": "pacifist_sandals", "weight": 4 },
-          { "value": "kaleidoscope", "weight": 8 },
-          { "value": "baguette", "weight": 20 }
-          ]
+          { "value": "kaleidoscope", "weight": 4 },
+          { "value": "baguette", "weight": 4 },
+          { "value": "bamboo_fightstick", "weight": 4 },
+          { "value": "hexblade", "weight": 4 }
+        ]
         }
       ]
     },
@@ -1362,21 +1487,10 @@
           { "value": "frostwarden", "weight": 10 },
           { "value": "quickstone", "weight": 10 },
           { "value": "ender_rings", "weight": 10 },
-          { "value": "broodmother", "weight": 10 }
-
-        ] },
-        { "level": 50, "pool": [
-          { "value": "gilded_chest_big", "weight": 100 },
-          { "value": "ornate_chest_big", "weight": 100 },
-          { "value": "living_chest_big", "weight": 100 },
-          { "value": "coin_pile_big", "weight": 100 },
-          { "value": "frostwarden", "weight": 10 },
-          { "value": "quickstone", "weight": 10 },
-          { "value": "ender_rings", "weight": 10 },
-          { "value": "broodmother", "weight": 10 }
-
-          ]
-        }
+          { "value": "broodmother", "weight": 10 },
+          { "value": "blood_magnet", "weight": 10 },
+          { "value": "safer_spaces", "weight": 10 }
+        ]}
       ]
     },
     "add_a_modifier": {

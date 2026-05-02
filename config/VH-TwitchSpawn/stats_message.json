@@ -1,0 +1,38 @@
+[
+  {
+    "text": "[Hitman] ",
+    "color": "red"
+  },
+  {
+    "text": "%playername%",
+    "color": "gold"
+  },
+  {
+    "text": " stats",
+    "color": "yellow"
+  },
+  {
+    "text": " | ",
+    "color": "dark_gray"
+  },
+  {
+    "text": "Kill Streak: ",
+    "color": "gray"
+  },
+  {
+    "text": "%kill_streak%",
+    "color": "green"
+  },
+  {
+    "text": " | ",
+    "color": "dark_gray"
+  },
+  {
+    "text": "K/D Ratio: ",
+    "color": "gray"
+  },
+  {
+    "text": "%kd_ratio%",
+    "color": "aqua"
+  }
+]
