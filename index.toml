@@ -1730,7 +1730,7 @@ hash = "b081a3508ec46d71cc3ae599881410dcacf2eb2d3fc7ead5917fd6061e9f1a65"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "cbad59ba41537e272a5eff2733032932763085cd1a923af0540f042a2bf4c480"
+hash = "a46c98746d5ff47758abbf3c15623137079e19887f860fdf5008077484341229"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -2502,43 +2502,43 @@ hash = "b91193417855b75420b801855101d383469b19a597f1d36115cb0899a6455dfe"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_0.json"
-hash = "35c19f946740270c7308b3eed4de7be43787bec7d41c7b4071b8454f9842e08a"
+hash = "fa110992f2d7af3b4fabdb54c2a398e3154b74035002ca0dd4b74b0791540ac3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_10.json"
-hash = "1b68d663940dc15ef1ac616decacd1be1edfbd75e008ab0ea9ce61cf4f3629ca"
+hash = "fa110992f2d7af3b4fabdb54c2a398e3154b74035002ca0dd4b74b0791540ac3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_20.json"
-hash = "56187251889f5f74bad3f5b121079a464ed40799187be3a1cf228d08b6e1d7bd"
+hash = "51ae6c5c9f7070870a9203d6f2f5c324206454ea320bb91213f5857c8e4ec395"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_30.json"
-hash = "0c4b568cddea5c29eac356749cfe58d714a5e64df426c2805281c3c83bbc69f6"
+hash = "f1cb2825f3a47076386d7c369d98197179427b6122e7f1a69943701936076b26"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_40.json"
-hash = "602ae3c4a4c19b99c11b2e0244dab1f66dd7ccce365fff779eb4d1211da5a6d0"
+hash = "9a7d48e1b5043861ba4f4d7f4d6dad0bed67a69a42d021bc0d8157b85fc0204d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_50.json"
-hash = "c6221fd337bd814b716129af18273d6eca2ef5e746bee0457fbd9e028916c518"
+hash = "c60862aa586d0c0a89c899e4941c1e521607ce21e3103ce0242ca8b20fb853b2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_60.json"
-hash = "96f99ce2e39bc8d2b2c64816059f887dc76e07f4a81c78f27aec74b9007604ee"
+hash = "3586d9d7d44e80830c38b932dc4d9c4e0ecac5b436dd6ecb3c0b9e46c3add3a5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_chest_70.json"
-hash = "7a3d718ecf3fe3ffbc45b4b8c518b50ffb67af51cc6b364bb74b8a22df680928"
+hash = "c60862aa586d0c0a89c899e4941c1e521607ce21e3103ce0242ca8b20fb853b2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_50.json"
-hash = "5b528864cc8b7f89820403c07a2ac2145964fb34216e7371a725c1545a7194b3"
+hash = "e4e8831cb86a7fd363b2ffc6f1acd111b6beae6ee47b0d756664aeb2f1829e4b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/living_strongbox_70.json"
-hash = "2ed6a21d605562a6625a0913137e9149b5efb40f4ab43acd7b7b5aa24029a9cd"
+hash = "e4e8831cb86a7fd363b2ffc6f1acd111b6beae6ee47b0d756664aeb2f1829e4b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/dungeon/ornate_chest_0.json"
@@ -17434,7 +17434,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "d118541b9611008724b8b2e3f4ffe8ef3cb0e262e21863f636ad46adbed6b4f5"
+hash = "9a625ee246d3df112955158f33d2292bcd607718fb5d99b2ffed4d66f98cee0f"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
