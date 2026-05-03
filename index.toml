@@ -16885,6 +16885,11 @@ file = "mods/appleskin-forge-mc1.18.2-2.5.1.jar"
 hash = "a10e8e746db51b70f4e9f8aa0359ac0663ed2e04d5d30ca54e0d0e01d2c48961"
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "513a68850c8b2898212234c8f73a972a133811105899e03b050d14e2ddaad2d1"
+metafile = true
+
+[[files]]
 file = "mods/appliedenergistics2-forge-11.7.6.jar"
 hash = "86f06ffdd7b73848cbb82ff23cf6bba6b2949e0562ae8a5f68bf0eed86eba8d2"
 
@@ -17469,12 +17474,17 @@ file = "mods/twitchspawn_1.18.2-1.9.4.jar"
 hash = "f7ffc4c98f7667ec64771e02b140ea2e43b4a45eae5557068de45dc5a87ccaed"
 
 [[files]]
+file = "mods/vault-curios-enhancements.pw.toml"
+hash = "56b90014da4cc08a0ef30e54166b15dee2a403b8a70a8d552fc59ab453032bcf"
+metafile = true
+
+[[files]]
 file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
-file = "mods/vaultadditions-1.21.18.jar"
-hash = "d3570778471dd3776840ef57acafefa9a64ce8b0cf2fb294c8132f05841d2a18"
+file = "mods/vaultadditions-1.21.26.jar"
+hash = "a4a55f8cfdd96b22ba05f7547748334a195a5076cb34311c8815fa0c08106193"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
