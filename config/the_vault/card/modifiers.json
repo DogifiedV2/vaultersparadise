@@ -5806,7 +5806,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 1
     },
     "resource_grapes": {
       "type": "task_loot",
@@ -5854,8 +5855,7 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1,
-      "version": 1
+      "maxTier": 1
     },
     "resource_lemon": {
       "type": "task_loot",

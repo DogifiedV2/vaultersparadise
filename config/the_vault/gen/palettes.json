@@ -1201,6 +1201,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/ornate_chest_placeholder.json"
     },
     {
+      "id": "the_vault:dungeon_rooms/mixed_chest_placeholder",
+      "name": "Dungeon Mixed Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/mixed_chest_placeholder.json"
+    },
+    {
       "id": "the_vault:dungeon_rooms/coin_stack_placeholder",
       "name": "Dungeon Coin Stack Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/coin_stack_placeholder.json"
