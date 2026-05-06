@@ -16873,6 +16873,11 @@ file = "mods/additionallanterns-1.1.1a-forge-mc1.18.jar"
 hash = "9a3768a1f2a6f99909b5f39b2ec7404723e9c7f9dcafc52f68288ea9b3cc53c2"
 
 [[files]]
+file = "mods/ae2-tabbed-view-cells.pw.toml"
+hash = "e1640877ade05f7ab62563dddff5ea03ce3b640fd47de59075bc2166ea52f393"
+metafile = true
+
+[[files]]
 file = "mods/ae2searchimprovementsbackport-1.0-all.jar"
 hash = "7e437bb8c2c1474d1d979a2524b54b4523a16b62d404ff27795a039bc3c8b530"
 
