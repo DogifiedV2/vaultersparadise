@@ -17394,6 +17394,11 @@ file = "mods/smoothboot(reloaded)-mc1.18.2-0.0.4.jar"
 hash = "9efe4447ee28e16b61dcfc5738973f526ecfb71fd0d9dc595241bdad4ff47898"
 
 [[files]]
+file = "mods/sophisticated-vault-upgrades.pw.toml"
+hash = "f92d7643ba742684ba033af8426cb3b30e12c4c2c7b00840c77e7ffb863129fd"
+metafile = true
+
+[[files]]
 file = "mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar"
 hash = "5b5b0c67f301b385e074ab6900930f4f6c3c3e0355c8611cd378bf27c023948d"
 
@@ -17408,10 +17413,6 @@ hash = "25a32678b13b06c1b1aa0ed9e9e244eb1b33d5095989758684e51dc014125627"
 [[files]]
 file = "mods/sophisticatedstorage-1.18.2-0.9.8.915.jar"
 hash = "3965b3af65ebd0244ead0bdab23cd3224e41a616b73049d2294053504a452060"
-
-[[files]]
-file = "mods/sophisticatedvaultupgrades-1.18(1).jar"
-hash = "9ec6914c32e494f4642eb29ebea1ceb045f771d5675cd55d04dcec7ff1c6e728"
 
 [[files]]
 file = "mods/spark-1.10.38-forge.jar"
