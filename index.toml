@@ -16882,10 +16882,6 @@ file = "mods/ae2searchimprovementsbackport-1.0-all.jar"
 hash = "7e437bb8c2c1474d1d979a2524b54b4523a16b62d404ff27795a039bc3c8b530"
 
 [[files]]
-file = "mods/ae2tabs-1.1.jar"
-hash = "1c1cfa3998574026d126fb876f142cdde01c1577ffb9266ec8e5e8998c76782b"
-
-[[files]]
 file = "mods/alexsmobs-1.18.6.jar"
 hash = "32198d95d5c6caa4346db4f71f6b43a72fb89cd22e1b3df4c745c63e390e4b76"
 
@@ -17484,6 +17480,11 @@ file = "mods/twitchspawn_1.18.2-1.9.4.jar"
 hash = "f7ffc4c98f7667ec64771e02b140ea2e43b4a45eae5557068de45dc5a87ccaed"
 
 [[files]]
+file = "mods/vault-hunters-api.pw.toml"
+hash = "1854c6fd57b304e1fbe56ea36d6538c4112f4f121539f6c9805b69926f4b8423"
+metafile = true
+
+[[files]]
 file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
@@ -17510,10 +17511,6 @@ hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
 [[files]]
 file = "mods/vh-hitman-0.2.12.jar"
 hash = "91183c66d69885aaf79f061d0221670d972848b70f7e1e569b5c7045e6c9266f"
-
-[[files]]
-file = "mods/vhapi-4.7.1.jar"
-hash = "7a7b97d32e08761395b18e06feb6ebc40c1f278a308225d41a385159fd72b360"
 
 [[files]]
 file = "mods/vhatcaniroll-1.14.1.jar"
