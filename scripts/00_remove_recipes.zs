@@ -1680,6 +1680,7 @@ JEI.hideIngredient(<item:ae2:portable_fluid_cell_4k>);
 JEI.hideIngredient(<item:ae2:portable_fluid_cell_16k>);
 JEI.hideIngredient(<item:ae2:portable_fluid_cell_64k>);
 JEI.hideIngredient(<item:ae2:portable_fluid_cell_256k>);
+JEI.hideMod("ae2wtlib");
 // generators
 JEI.hideIngredient(<item:mekanism:upgrade_stone_generator>);
 //industrial foregoing
