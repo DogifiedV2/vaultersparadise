@@ -15106,7 +15106,7 @@ hash = "a12c8145a36e0ef200ac584731097789df96fc16ecad4e0aecd7bccfb671c2c8"
 
 [[files]]
 file = "kubejs/assets/the_vault/lang/en_us.json"
-hash = "73c0c7cc27df3074ec5497bad1ee12e329f89e40b6127c9b82b3c58e5b92286e"
+hash = "dbb5a0487b4e1038d06b4ebba4185bbd96c32fdbc56981482cd558fd309c27f1"
 
 [[files]]
 file = "kubejs/assets/the_vault/models/block/vendor_door/top.json"
@@ -17533,8 +17533,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaultsstandalone-0.22.5-all.jar"
-hash = "5d763f825e775e87600e30831a0e7a65d5f1ea33a6d07a8039f7935dd8349653"
+file = "mods/woldsvaultsstandalone-0.22.7-all.jar"
+hash = "6ee8503a71ca616809dc633f0e695b28f3d1fba6a942693df0c1c83a8d61921c"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
@@ -17894,7 +17894,7 @@ hash = "d27982cc2538ba5ca5e48d7e7e519611fd52a9c8c85bb34f69ef1ceea9974643"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "57cf31e803a43884095e102468319af26f5099a027901888d320b66723ef4bf5"
+hash = "9508821609f24ccd900d0300d4e3965b8d3c77226962d44533a23cfa135e02ea"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -17994,7 +17994,7 @@ hash = "a941f2756f80f8a2c92d3a645c21a306c303c37731c2e1561571593bf8b226ca"
 
 [[files]]
 file = "scripts/RefinedStorage.zs"
-hash = "144bb1d7e18bab0b2681b9664a4f7d6129aab1debc97fc5abcd1840d8f105838"
+hash = "b32bbac396c983c7844806dbad2c782e06e031b659fb3a6e44f739eb9685d543"
 
 [[files]]
 file = "scripts/Routers.zs"
