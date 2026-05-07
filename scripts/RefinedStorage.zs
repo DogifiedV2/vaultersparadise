@@ -1,6 +1,15 @@
 /* scripts made by Douwsky
 for Iskall85's Vaulthunters */
 
+import mods.jei.JEI;
+
+// refined storage + addons
+JEI.hideMod("refinedstorage");
+JEI.hideMod("refinedstorageaddons");
+JEI.hideMod("rsrequestify");
+craftingTable.removeByModid("refinedstorage");
+
+/*
 // adding recipes
 
 var dye = {
@@ -287,3 +296,4 @@ craftingTable.addShapeless("rs_1024k_fluide_disk_shapeless", <item:refinedstorag
 craftingTable.addShapeless("rs_4096k_fluid_disk_shapeless", <item:refinedstorage:4096k_fluid_storage_disk>, [
     <item:refinedstorage:storage_housing>, <item:refinedstorage:4096k_fluid_storage_part>
 ]);
+*/
