@@ -15106,7 +15106,7 @@ hash = "a12c8145a36e0ef200ac584731097789df96fc16ecad4e0aecd7bccfb671c2c8"
 
 [[files]]
 file = "kubejs/assets/the_vault/lang/en_us.json"
-hash = "dbb5a0487b4e1038d06b4ebba4185bbd96c32fdbc56981482cd558fd309c27f1"
+hash = "3ff9a53298a6c49746c4b8d774e0525824973b153b3f095620878eed5f946b58"
 
 [[files]]
 file = "kubejs/assets/the_vault/models/block/vendor_door/top.json"
@@ -17894,7 +17894,7 @@ hash = "d27982cc2538ba5ca5e48d7e7e519611fd52a9c8c85bb34f69ef1ceea9974643"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "9508821609f24ccd900d0300d4e3965b8d3c77226962d44533a23cfa135e02ea"
+hash = "843efe035af7e034dabdb77cbcecc5f819cd23dcca14eded2e41793cb3dcc4fe"
 
 [[files]]
 file = "scripts/Backpacks.zs"
