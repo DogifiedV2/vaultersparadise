@@ -14445,6 +14445,10 @@ file = "config/the_vault/trinket_combinations.json"
 hash = "e6d8423bb56acefeb33e9eb9f0069f46ea68048b0ca8c6454693e0d50be24121"
 
 [[files]]
+file = "config/the_vault/unhinged_scavenger.json"
+hash = "8276a405b6f1dc4f589a9849ef4d4b00affd061a954e36ea12819aeb9696e28a"
+
+[[files]]
 file = "config/the_vault/unidentified_relic_fragments.json"
 hash = "5beccde165346bb5d9e53c7b2d03c7396ca462304743493f27004b1d04481fa9"
 
@@ -17533,8 +17537,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaultsstandalone-0.22.7-all.jar"
-hash = "6ee8503a71ca616809dc633f0e695b28f3d1fba6a942693df0c1c83a8d61921c"
+file = "mods/woldsvaultsstandalone-0.22.8-all.jar"
+hash = "7058fca619d889d0505ac3e4edf73ae474dd35d459965c56cb833d7a1caca731"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
