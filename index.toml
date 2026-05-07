@@ -1730,7 +1730,7 @@ hash = "b081a3508ec46d71cc3ae599881410dcacf2eb2d3fc7ead5917fd6061e9f1a65"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "a46c98746d5ff47758abbf3c15623137079e19887f860fdf5008077484341229"
+hash = "cbb53852dec9eb0e85069c2a11e4b9ac5aeefe775afe6a9664b36254e16b0c66"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -2014,7 +2014,7 @@ hash = "332855a91b55693f8bf827cfa0fdaa2bcf9cbd471288d5f8f15b19c9cdf93715"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "7a49e43d4ffcda9efbc0e8541ef36922a5901b8fa791a25a1c88a22213cab3e9"
+hash = "313380d38276160d9595c03925399724a6e2af6c3ded5e6034d7bfc415168d93"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_charm.json"
@@ -16991,8 +16991,8 @@ file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
-file = "mods/companion_locker-3.21.1.jar"
-hash = "c4517f1554613bf5150aacc0978b679fc9e1f26c40c17a7edcefd4fb674e530e"
+file = "mods/companion_locker-3.21.2.jar"
+hash = "5d3749fea5e4ee5809869a8959c9ab82ddfe4526d3122daa30e18c939bcbbef7"
 
 [[files]]
 file = "mods/connectivity-1.18.2-3.2.jar"
@@ -17449,7 +17449,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "3a753ec81583108947cdf173fdc7677bf56a14dd78630e16de19e1c3fc015c88"
+hash = "044dc4311860d22a798f7df938acd16cc86001123fce88ce480b747bde4009b6"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -17538,7 +17538,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.22.8-all.jar"
-hash = "7058fca619d889d0505ac3e4edf73ae474dd35d459965c56cb833d7a1caca731"
+hash = "af7ec56f5ba54bce1a4714fbde188457c69cbfedca465d1e7898f1646b3ab295"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"

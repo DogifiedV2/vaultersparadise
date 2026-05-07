@@ -4316,6 +4316,102 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
+    "resource_blackopal_hard": {
+      "type": "task_loot",
+      "name": {
+        "text": "Black Opal Card"
+      },
+      "model": "the_vault:gem_black_opal#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:gem_black_opal"
+          }
+        }
+      ],
+      "task": "@hard",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Black Opal ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
+    "resource_key_piece": {
+      "type": "task_loot",
+      "name": {
+        "text": "Key Piece Card"
+      },
+      "model": "the_vault:key_piece#inventory",
+      "groups": [
+        "Resource"
+      ],
+      "loot": [
+        {
+          "weight": 1,
+          "item": {
+            "id": "the_vault:key_piece"
+          }
+        }
+      ],
+      "task": "@extreme",
+      "count": [
+        {
+          "tier": 1,
+          "roll": {
+            "type": "uniform",
+            "min": 1,
+            "max": 1
+          }
+        }
+      ],
+      "tooltip": [
+        {
+          "text": "+",
+          "color": "gold"
+        },
+        {
+          "text": "${count}",
+          "color": "#FFFFFF"
+        },
+        {
+          "text":  " Key Piece ",
+          "color": "yellow"
+        },
+        {
+          "text": "${task}"
+        }
+      ],
+      "highlightColor": "0x00FF00",
+      "maxTier": 1
+    },
     "resource_gem_larimar": {
       "type": "task_loot",
       "name": {
