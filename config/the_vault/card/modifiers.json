@@ -4280,45 +4280,6 @@
     "resource_blackopal": {
       "type": "task_loot",
       "name": {
-        "text": "Ma Balls"
-      },
-      "model": "the_vault:gem_black_opal#inventory",
-      "groups": [
-        "Resource"
-      ],
-      "loot": [
-        {
-          "weight": 1,
-          "item": {
-            "id": "the_vault:gem_black_opal"
-          }
-        }
-      ],
-      "task": "@default",
-      "count": [
-        {
-          "tier": 1,
-          "roll": {
-            "type": "uniform",
-            "min": 1,
-            "max": 1
-          }
-        }
-      ],
-      "tooltip": [
-        {
-          "text": "+${count} Black Opal "
-        },
-        {
-          "text": "${task}"
-        }
-      ],
-      "highlightColor": "0x00FF00",
-      "maxTier": 1
-    },
-    "resource_blackopal_hard": {
-      "type": "task_loot",
-      "name": {
         "text": "Black Opal Card"
       },
       "model": "the_vault:gem_black_opal#inventory",
@@ -4346,16 +4307,7 @@
       ],
       "tooltip": [
         {
-          "text": "+",
-          "color": "gold"
-        },
-        {
-          "text": "${count}",
-          "color": "#FFFFFF"
-        },
-        {
-          "text":  " Black Opal ",
-          "color": "yellow"
+          "text": "+${count} Black Opal "
         },
         {
           "text": "${task}"
@@ -9286,6 +9238,10 @@
         "weight": 9.0
       },
       {
+        "value": "resource_blackopal",
+        "weight": 9.0
+      },
+      {
         "value": "resource_gem_ashium",
         "weight": 9.0
       },
@@ -9391,6 +9347,10 @@
       },
       {
         "value": "resource_catalyst_fragment",
+        "weight": 12.0
+      },
+      {
+        "value": "resource_key_piece",
         "weight": 12.0
       },
       {
