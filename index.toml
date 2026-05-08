@@ -86,7 +86,7 @@ hash = "07cafaf858299d3f1d3386d81e0e8ebb746e2a11c9c7b8f6d77471634470d80d"
 
 [[files]]
 file = "config/VH-TwitchSpawn/hitman.json"
-hash = "0d863440868b7189bf12b1bb377613144201bc740d2b66faf87bd543ee409ca9"
+hash = "68562d26a28f06847ea03d54bdff39f7cc7544a7cabbde5802d2c59c2aeeb287"
 
 [[files]]
 file = "config/VH-TwitchSpawn/hitmanhunt_rewards.json"
@@ -17513,8 +17513,8 @@ file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
 hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
 
 [[files]]
-file = "mods/vh-hitman-0.2.12.jar"
-hash = "91183c66d69885aaf79f061d0221670d972848b70f7e1e569b5c7045e6c9266f"
+file = "mods/vh-hitman-0.2.14.jar"
+hash = "648a5ff816a874fe39a4917660d01525e4849bfb3ce950530cc69e0886bf331a"
 
 [[files]]
 file = "mods/vhatcaniroll-1.14.1.jar"
