@@ -2642,7 +2642,7 @@ hash = "5e16e1b45d465c9d303d54baab203e8d4109a5570603ba942ec15d55a2f3f149"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/hellish_sand.json"
-hash = "4f3c04594f54fc5309686f485057cdb0175f12ef6cc3c62bf927255902c602d5"
+hash = "712346ab7c08b52160c21964ee17fb4d45d24bdf25307428caf6ad2beb971986"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/living_chest_0.json"
@@ -14458,7 +14458,7 @@ hash = "a75d277e82bd3a616363e977e290601e027e46af7299f930d80511c292dfc8fe"
 
 [[files]]
 file = "config/the_vault/unique_codex.json"
-hash = "f5e1db83a418732b7ddc8c7b0a8d5c6fd94d414e51addef2675d3099fdd8c8d3"
+hash = "5199d95337d57504450314116db884b0500f635c91294a34f6de768516f9c829"
 
 [[files]]
 file = "config/the_vault/unique_discovery.json"
@@ -14466,7 +14466,7 @@ hash = "d9508dbe6e50a8df1f8db768c343d0afc9caf0219801adbf0186480bf43b79e4"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "d26717296863bac1c3126825cb345b12e084a77128056ff0e8bcb69a2720c7c3"
+hash = "81c4d54a76be5138a294bef5cd0de4c8ab5066bde42959f63377d46197b28344"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
@@ -17414,8 +17414,8 @@ hash = "c275633a7319da2b5dc6536b873af407e1d5de6e5d9d00f0fcfa130e0346dbd5"
 metafile = true
 
 [[files]]
-file = "mods/overvaults-1.6.6-1.18.2.jar"
-hash = "0d0eab620615cb761ebb9722a1fd884145ee7c9b906861f636b4384a7ad7cc0e"
+file = "mods/overvaults-1.6.16-1.18.2.jar"
+hash = "ec203207886a3e913dca95cad1387fd2ab3c0e4c3bf6e982b365b82128e14067"
 
 [[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
@@ -17617,8 +17617,8 @@ file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
-file = "mods/vaultadditions-1.21.28.jar"
-hash = "a2ea3527859853d263a99e848d2ff3fdf1ae75dab7306cb7c3295a072abb1c66"
+file = "mods/vaultadditions-1.21.29.jar"
+hash = "7dd08942d759632f628217c0c3ffef167a378d92c6ecb48504f4ba73037e654c"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
