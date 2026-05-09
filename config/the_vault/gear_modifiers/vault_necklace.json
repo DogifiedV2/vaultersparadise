@@ -2862,6 +2862,226 @@
                         }
                     }
                 ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_blade_frenzy",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Blade_Frenzy_Base",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Blade_Frenzy_Base",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Blade_Frenzy_Base",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Blade_Frenzy_Base",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_colossus",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Colossus_Base",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Colossus_Base",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Colossus_Base",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Colossus_Base",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_sneaky_getaway",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Sneaky_Getaway",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Sneaky_Getaway",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Sneaky_Getaway",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Sneaky_Getaway",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_levitate",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Levitate",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Levitate",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Levitate",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Levitate",
+                            "levelChange": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "attribute": "the_vault:added_ability_level",
+                "group": "ModAPLvl",
+                "identifier": "the_vault:mod_added_ability_level_legacy_mana_shield",
+                "tags": [],
+                "tiers": [
+                    {
+                        "minLevel": 0,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Legacy_Mana_Shield",
+                            "levelChange": 1
+                        }
+                    },
+                    {
+                        "minLevel": 50,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Legacy_Mana_Shield",
+                            "levelChange": 2
+                        }
+                    },
+                    {
+                        "minLevel": 101,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Legacy_Mana_Shield",
+                            "levelChange": 3
+                        }
+                    },
+                    {
+                        "minLevel": 102,
+                        "maxLevel": -1,
+                        "weight": 60,
+                        "value": {
+                            "abilityKey": "Legacy_Mana_Shield",
+                            "levelChange": 4
+                        }
+                    }
+                ]
             }
         ]
     }
