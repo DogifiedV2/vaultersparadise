@@ -1976,7 +1976,6 @@
           "name": "Daycare",
           "color": "#dc693c",
           "description": "The mobs are visiting daycare and have shrunk by half their size, and have 50% less damage!",
-          "descriptionFormatted": "The mobs are visiting daycare and have shrunk by %d%% size, and have half their damage!",
           "icon": "the_vault:gui/modifiers/daycare"
         }
       },
