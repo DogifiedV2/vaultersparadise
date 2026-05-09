@@ -1,0 +1,13 @@
+name = "Sophisticated Vault Upgrades"
+filename = "sophisticatedvaultupgrades-1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2492200496f1665439752b5ac32c96a7e6dd2fcf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8010725
+project-id = 1058926

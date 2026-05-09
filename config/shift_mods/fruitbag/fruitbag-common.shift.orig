@@ -10,5 +10,5 @@
 
 [Fruits]
 	#List of vault fruits allowed in the bag. Max: 21 different fruits
-	VaultFruits = ["the_vault:sweet_kiwi", "the_vault:grapes", "the_vault:bitter_lemon", "the_vault:mango", "the_vault:sour_orange", "the_vault:star_fruit", "the_vault:mystic_pear", "woldsvaults:hasty_pomegranate", "woldsvaults:wisdom_fruit", "woldsvaults:poltergeist_plum", "woldsvaults:vault_rock_candy"]
+	VaultFruits = ["the_vault:sweet_kiwi", "the_vault:grapes", "the_vault:bitter_lemon", "the_vault:mango", "the_vault:sour_orange", "the_vault:star_fruit", "the_vault:mystic_pear", "woldsvaults:hasty_pomegranate", "woldsvaults:wisdom_fruit", "woldsvaults:poltergeist_plum", "woldsvaults:vault_rock_candy", "the_vault:candy_bar", "the_vault:power_bar"]
 

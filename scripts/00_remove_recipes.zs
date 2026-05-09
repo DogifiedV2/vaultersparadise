@@ -1321,7 +1321,7 @@ JEI.hideIngredient(<item:the_vault:scavenger_preserves_jar>);
 JEI.hideIngredient(<item:the_vault:scavenger_spice_jar>);
 JEI.hideIngredient(<item:the_vault:vault_crate_champion>);
 // JEI.hideIngredient(<item:the_vault:legendary_treasure_*>);
-JEI.hideIngredient(<item:the_vault:mystic_pear>);
+//JEI.hideIngredient(<item:the_vault:mystic_pear>);
 JEI.hideIngredient(<item:the_vault:rokkit_launcha>);
 JEI.hideIngredient(<item:the_vault:wild_spawner>);
 JEI.hideIngredient(<item:the_vault:pandoras_box>);
@@ -1680,6 +1680,7 @@ JEI.hideIngredient(<item:ae2:portable_fluid_cell_4k>);
 JEI.hideIngredient(<item:ae2:portable_fluid_cell_16k>);
 JEI.hideIngredient(<item:ae2:portable_fluid_cell_64k>);
 JEI.hideIngredient(<item:ae2:portable_fluid_cell_256k>);
+JEI.hideMod("ae2wtlib");
 // generators
 JEI.hideIngredient(<item:mekanism:upgrade_stone_generator>);
 //industrial foregoing

@@ -282,9 +282,9 @@ craftingTable.addShaped(color + "_map_marker", <item:the_vault:map_marker>.withT
 }
 
 craftingTable.addShaped("custom_map_marker", <item:the_vault:map_marker> *8, [
-    [<item:the_vault:vault_essence>, <item:the_vault:vault_essence>, <item:the_vault:vault_essence>],
-    [<item:the_vault:vault_essence>, <item:the_vault:magic_silk_block>, <item:the_vault:vault_essence>],
-    [<item:the_vault:vault_essence>, <item:the_vault:vault_essence>, <item:the_vault:vault_essence>]
+    [<item:minecraft:stick>, <item:minecraft:stick>, <item:minecraft:stick>],
+    [<item:minecraft:stick>, <tag:items:minecraft:wool>, <item:minecraft:stick>],
+    [<item:minecraft:stick>, <item:minecraft:stick>, <item:minecraft:stick>]
 ]);
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
