@@ -304,8 +304,6 @@ craftingTable.remove(<item:woldsvaults:chromatic_gold_ingot>);
 
 craftingTable.remove(<item:woldsvaults:lodestone>);
 craftingTable.remove(<item:woldsvaults:crystal_seal_spirits>);
-craftingTable.remove(<item:woldsvaults:crystal_seal_unhinged>);
-craftingTable.remove(<item:woldsvaults:crystal_seal_enchanter>);
 craftingTable.remove(<item:woldsvaults:crystal_seal_doomsayer>);
 //craftingTable.remove(<item:woldsvaults:idona_dagger);
 //craftingTable.remove(<item:woldsvaults:velara_apple);
