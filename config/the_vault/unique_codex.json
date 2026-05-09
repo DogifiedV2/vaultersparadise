@@ -48,7 +48,8 @@
         "the_vault:ivy",
         "the_vault:pestilence_wall",
         "the_vault:gladiator_buckler",
-        "the_vault:frostwarden"
+        "the_vault:frostwarden",
+        "the_vault:broodmother"
       ],
       "FOCUS": [
         "the_vault:frozen_orb",
@@ -335,8 +336,7 @@
           }
         ]
       },
-      "uniqueId": "the_vault:vitalis",
-      "isNewInUpdate": true
+      "uniqueId": "the_vault:vitalis"
     },
 
     {
@@ -471,7 +471,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:plaguewalker"
+      "uniqueId": "the_vault:plaguewalker",
+      "isNewInUpdate": true
     },
 
     {
@@ -530,7 +531,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:crystal_blade"
+      "uniqueId": "the_vault:crystal_blade",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -629,7 +631,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:everfrost"
+      "uniqueId": "the_vault:everfrost",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -654,7 +657,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:everflame"
+      "uniqueId": "the_vault:everflame",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -679,7 +683,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:hexblade"
+      "uniqueId": "the_vault:hexblade",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -704,7 +709,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:mineral_greatsword"
+      "uniqueId": "the_vault:mineral_greatsword",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -729,7 +735,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:grass_blade"
+      "uniqueId": "the_vault:grass_blade",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -754,7 +761,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:aurora_scissors"
+      "uniqueId": "the_vault:aurora_scissors",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -779,7 +787,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:young_kitsune"
+      "uniqueId": "the_vault:young_kitsune",
+      "isNewInUpdate": true
     },
 
     {
@@ -805,8 +814,7 @@
           }
         ]
       },
-      "uniqueId": "the_vault:butcher_axe",
-      "isNewInUpdate": true
+      "uniqueId": "the_vault:butcher_axe"
     },
     {
       "title": {
@@ -831,8 +839,7 @@
           }
         ]
       },
-      "uniqueId": "the_vault:starforge",
-      "isNewInUpdate": true
+      "uniqueId": "the_vault:starforge"
     },
     {
       "title": {
@@ -857,7 +864,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:leviathan"
+      "uniqueId": "the_vault:leviathan",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -882,7 +890,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:zombie_horse_axe"
+      "uniqueId": "the_vault:zombie_horse_axe",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -907,7 +916,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:crystal_mace"
+      "uniqueId": "the_vault:crystal_mace",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -932,7 +942,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:butchers_cleaver"
+      "uniqueId": "the_vault:butchers_cleaver",
+      "isNewInUpdate": true
     },
 
     {
@@ -1097,6 +1108,32 @@
       "uniqueId": "the_vault:frostwarden",
       "isNewInUpdate": true
     },
+    {
+      "title": {
+        "description": {
+          "text": "Broodmother",
+          "color": "#7D520E"
+        }
+      },
+      "description": {
+        "description": [
+          {
+            "text": "A shield that can create webs to trap enemies and slow them down.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nDrops in: ",
+            "color": "$text"
+          },
+          {
+            "text": "Memory Room",
+            "color": "#7D520E"
+          }
+        ]
+      },
+      "uniqueId": "the_vault:broodmother",
+      "isNewInUpdate": true
+    },
 
     {
       "title": {
@@ -1228,7 +1265,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:pistol"
+      "uniqueId": "the_vault:pistol",
+      "isNewInUpdate": true
     },
 
     {
@@ -1291,8 +1329,7 @@
           }
         ]
       },
-      "uniqueId": "the_vault:ender_rings",
-      "isNewInUpdate": true
+      "uniqueId": "the_vault:ender_rings"
     },
     {
       "title": {
@@ -1317,8 +1354,7 @@
           }
         ]
       },
-      "uniqueId": "the_vault:echoflare",
-      "isNewInUpdate": true
+      "uniqueId": "the_vault:echoflare"
     },
 
     {
@@ -1418,7 +1454,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:pax"
+      "uniqueId": "the_vault:pax",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -1443,8 +1480,7 @@
           }
         ]
       },
-      "uniqueId": "the_vault:frozen_heart",
-      "isNewInUpdate": true
+      "uniqueId": "the_vault:frozen_heart"
     },
     {
       "title": {
@@ -1477,7 +1513,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:eternal_stella"
+      "uniqueId": "the_vault:eternal_stella",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -1502,7 +1539,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:piggybank"
+      "uniqueId": "the_vault:piggybank",
+      "isNewInUpdate": true
     },
 
     {
@@ -1554,7 +1592,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:chonknet"
+      "uniqueId": "the_vault:chonknet",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -1574,12 +1613,13 @@
             "color": "$text"
           },
           {
-            "text": "????",
+            "text": "Treasure Rooms",
             "color": "#7D520E"
           }
         ]
       },
-      "uniqueId": "the_vault:treasure_magnet"
+      "uniqueId": "the_vault:treasure_magnet",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -1599,12 +1639,13 @@
             "color": "$text"
           },
           {
-            "text": "Memoory Rooms",
+            "text": "Memory Rooms",
             "color": "#7D520E"
           }
         ]
       },
-      "uniqueId": "the_vault:bloodseeking_magnet"
+      "uniqueId": "the_vault:bloodseeking_magnet",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -1629,7 +1670,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:ender_magnet"
+      "uniqueId": "the_vault:ender_magnet",
+      "isNewInUpdate": true
     },
 
     {
@@ -1655,7 +1697,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:ninja_baton"
+      "uniqueId": "the_vault:ninja_baton",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -1680,7 +1723,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:bamboo_fightstick"
+      "uniqueId": "the_vault:bamboo_fightstick",
+      "isNewInUpdate": true
     },
 
     {
@@ -1706,7 +1750,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:mjolnir"
+      "uniqueId": "the_vault:mjolnir",
+      "isNewInUpdate": true
     },
     {
       "title": {
@@ -1731,7 +1776,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:marlin"
+      "uniqueId": "the_vault:marlin",
+      "isNewInUpdate": true
     },
 
     {
@@ -1757,7 +1803,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:safer_spaces"
+      "uniqueId": "the_vault:safer_spaces",
+      "isNewInUpdate": true
     },
 
     {
@@ -1783,7 +1830,8 @@
           }
         ]
       },
-      "uniqueId": "the_vault:trirang"
+      "uniqueId": "the_vault:trirang",
+      "isNewInUpdate": true
     }
   ]
 }

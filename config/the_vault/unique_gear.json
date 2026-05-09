@@ -1197,6 +1197,37 @@
       "modifierTags": [],
       "weight": 1
     },
+    "the_vault:broodmother": {
+      "name": "The Broodmother",
+      "item": "the_vault:shield",
+      "models": [
+        {
+          "value": "the_vault:gear/shield/spider",
+          "weight": 1
+        },
+        {
+          "value": "the_vault:gear/shield/poison_spider",
+          "weight": 1
+        }
+      ],
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_durability"
+        ],
+        "IMPLICIT": [
+          "the_vault:u_base_block"
+        ],
+        "PREFIX": [
+          "the_vault:mod_damage_increase",
+          "the_vault:mod_resistance"
+        ],
+        "SUFFIX": [
+          "the_vault:u_broodmother_web"
+        ]
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
 
 
 
@@ -1605,31 +1636,25 @@
       "weight": 1
     },
     "the_vault:treasure_magnet": {
-      "name": "Treasure Hunter's Magnet",
+      "name": "Treasure Magnet",
       "item": "the_vault:magnet",
       "models": [
         {
-          "value": "the_vault:magnets/treasure_magnet",
+          "value": "the_vault:gear/magnets/treasure_magnet",
           "weight": 1
         }
       ],
       "modifierIdentifiers": {
         "BASE_ATTRIBUTE": [
-          "the_vault:base_magnet_durability",
-          "the_vault:base_soulbound"
+          "the_vault:magnet_base_durability"
         ],
         "IMPLICIT": [
-          "the_vault:u_base_magnet_range",
-          "the_vault:u_base_magnet_velocity"
+          "the_vault:u_treasure_magnet_range",
+          "the_vault:base_velocity",
+          "the_vault:u_pull_floating_items"
         ],
-        "PREFIX": [
-          "the_vault:u_treasure_magnet_item_rarity",
-          "the_vault:u_treasure_magnet_item_quantity"
-        ],
-        "SUFFIX": [
-          "the_vault:u_treasure_magnet_health",
-          "the_vault:u_treasure_magnet_mana"
-        ]
+        "PREFIX": [],
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
@@ -1994,7 +2019,7 @@
       "the_vault:frozen_throne": 1
     },
     "the_vault:vitalis": {
-        "the_vault:vitalis": 1
+      "the_vault:vitalis": 1
     },
     "the_vault:chestplate": {
       "the_vault:castle_chestplate": 1,
@@ -2046,12 +2071,16 @@
     "the_vault:frostwarden": {
       "the_vault:frostwarden": 1
     },
+    "the_vault:broodmother": {
+      "the_vault:broodmother": 1
+    },
     "the_vault:shield": {
       "the_vault:grim": 1,
       "the_vault:ivy": 1,
       "the_vault:pestilence_wall": 1,
       "the_vault:gladiator_buckler": 1,
-      "the_vault:frostwarden": 1
+      "the_vault:frostwarden": 1,
+      "the_vault:broodmother": 1
     },
 
     "the_vault:ender_rings": {
