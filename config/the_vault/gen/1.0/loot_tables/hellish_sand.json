@@ -88,17 +88,6 @@
               }
             },
             {
-              "weight": 40,
-              "item": {
-                "id": "the_vault:red_vault_essence",
-                "count": {
-                  "type": "uniform",
-                  "min": 2,
-                  "max": 6
-                }
-              }
-            },
-            {
               "weight": 0.5,
               "item": {
                 "id": "the_vault:pyretic_focus",

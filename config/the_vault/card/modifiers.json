@@ -4333,7 +4333,7 @@
           }
         }
       ],
-      "task": "@extreme",
+      "task": "@impossible_impossible",
       "count": [
         {
           "tier": 1,
@@ -4362,7 +4362,8 @@
         }
       ],
       "highlightColor": "0x00FF00",
-      "maxTier": 1
+      "maxTier": 1,
+      "version": 2
     },
     "resource_gem_larimar": {
       "type": "task_loot",

@@ -342,7 +342,7 @@
         "id": "repair_25_items_inside_a_vault",
         "renderer": {
           "title": {
-            "text": "Items repaired in a vault"
+            "text": "Items repaired whilst in a vault"
           },
           "type": "named"
         },
@@ -1321,7 +1321,7 @@
         "id": "free_villager",
         "renderer": {
           "title": {
-            "text": "Villagers Freed"
+            "text": "Villagers Freed "
           },
           "type": "named"
         },
