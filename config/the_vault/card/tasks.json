@@ -1494,6 +1494,44 @@
         "value": "activate_pylon_impossible",
         "weight": 1
       }
+    ],
+    "impossible_impossible": [
+      {
+        "value": "kill_assassin_impossible",
+        "weight": 1
+      },
+      {
+        "value": "kill_dwellers_impossible",
+        "weight": 1
+      },
+      {
+        "value": "kill_tanks_impossible",
+        "weight": 1
+      },
+      {
+        "value": "kill_dungeon_impossible",
+        "weight": 1
+      },
+      {
+        "value": "kill_guardian_impossible",
+        "weight": 1
+      },
+      {
+        "value": "kill_elite_impossible",
+        "weight": 1
+      },
+      {
+        "value": "find_vendoor_impossible",
+        "weight": 1
+      },
+      {
+        "value": "find_dungeon_impossible",
+        "weight": 1
+      },
+      {
+        "value": "activate_pylon_impossible",
+        "weight": 1
+      }
     ]
   }
 }
