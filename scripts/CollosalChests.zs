@@ -1,6 +1,10 @@
 /* scripts made by Douwsky
 for Iskall85's Vaulthunters */
 
+import mods.jei.JEI;
+JEI.hideMod("colossalchests");
+craftingTable.removeByModid("colossalchests");
+/*
 // adding recipes
 
 // Wood
@@ -118,3 +122,4 @@ craftingTable.addShapeless("colossalchests_upgrade_tool", <item:colossalchests:u
 craftingTable.addShapeless("colossalchests_upgrade_tool_downgrade", <item:colossalchests:upgrade_tool>, [
  <item:colossalchests:upgrade_tool_reverse>
 ]);
+*/
