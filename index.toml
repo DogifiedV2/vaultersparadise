@@ -17018,11 +17018,6 @@ file = "mods/appleskin-forge-mc1.18.2-2.5.1.jar"
 hash = "a10e8e746db51b70f4e9f8aa0359ac0663ed2e04d5d30ca54e0d0e01d2c48961"
 
 [[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "513a68850c8b2898212234c8f73a972a133811105899e03b050d14e2ddaad2d1"
-metafile = true
-
-[[files]]
 file = "mods/appliedenergistics2-forge-11.7.6.jar"
 hash = "86f06ffdd7b73848cbb82ff23cf6bba6b2949e0562ae8a5f68bf0eed86eba8d2"
 
