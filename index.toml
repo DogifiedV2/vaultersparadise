@@ -14262,7 +14262,7 @@ hash = "3b9fadb64522c949dfbc92782455e0f2dfe8790e22471ea794b5afda59a8267c"
 
 [[files]]
 file = "config/the_vault/recipes/companion_trails_recipes.json"
-hash = "923c447e02b0127746a2811ba0a2cdd6473396c034a19a1bf12650ef91f525e0"
+hash = "41cf6e7900adf921184c2d5def72443d35c0d07f8ac160783a6727c516bc9a86"
 
 [[files]]
 file = "config/the_vault/recipes/deck_recipes.json"
@@ -17409,8 +17409,8 @@ hash = "c275633a7319da2b5dc6536b873af407e1d5de6e5d9d00f0fcfa130e0346dbd5"
 metafile = true
 
 [[files]]
-file = "mods/overvaults-1.6.20-1.18.2.jar"
-hash = "e9fe09bfa300e6a4c292de4701137dde589eafe85d72999ee264753df26e9caa"
+file = "mods/overvaults-1.6.21-1.18.2.jar"
+hash = "29ab6bd2223adf43061774cc9e9bacc780eb8032921634f6533b1748eac7b902"
 
 [[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
@@ -17568,7 +17568,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.0.jar"
-hash = "c7318e2d886678979b4aab48ea789336933d3003992be8c8d8a72475e47d281b"
+hash = "4bbdffc9614dfdd58448ad2f1a922201541698e5af7f90e0e49f364ae3a2ccce"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18041,7 +18041,7 @@ hash = "8625ffaf2f6082b0a154049a2f4e3a665b74cce7ab1e447acee0ae3d3c59f451"
 
 [[files]]
 file = "scripts/CollosalChests.zs"
-hash = "c35d5d18c03ed6a33dd2908436266f4c37a78ff01dc0cafb213cc232a2d0f65a"
+hash = "4267a5f716a6976fc6329c837dfb09491650c5c7ceaa358782a408ca6d770181"
 
 [[files]]
 file = "scripts/Compressium.zs"
