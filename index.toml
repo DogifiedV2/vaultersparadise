@@ -2014,7 +2014,7 @@ hash = "332855a91b55693f8bf827cfa0fdaa2bcf9cbd471288d5f8f15b19c9cdf93715"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "313380d38276160d9595c03925399724a6e2af6c3ded5e6034d7bfc415168d93"
+hash = "fe28f65c22e83f2bbad9115abd697f36dd3511769a08c54d573217dcdacace96"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_charm.json"
@@ -2814,7 +2814,7 @@ hash = "9152dc8b1c9dd5a23112f62b53f5e02b76dda62296e8eab6d7ef677d2646d0b1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
-hash = "4d5ef777ff0627e9fc540ede8de380c2b2d4eb12c9232ed59e42e1aabadaa590"
+hash = "e1c2493fbbbba110a5318065c900bd1d6358bcdbab1961ca7aaa315862e64488"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50_objective.json"
@@ -2838,7 +2838,7 @@ hash = "cc982b8f0872110b64e8ac5b439cf2d9ca66a447fe0c3c651ca75f1327102e60"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/unique_crates/factory.json"
-hash = "fa7d37eb91345dc0c98ead5df6bcb4b2c9f70a654ba216b68bc696fb280192c7"
+hash = "7bb808fb5250b4587f36fcea459a825645acc0f93063f62bb40b4d24da84941a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/unique_crates/village.json"
@@ -14458,15 +14458,15 @@ hash = "a75d277e82bd3a616363e977e290601e027e46af7299f930d80511c292dfc8fe"
 
 [[files]]
 file = "config/the_vault/unique_codex.json"
-hash = "5199d95337d57504450314116db884b0500f635c91294a34f6de768516f9c829"
+hash = "42326a5c4dda93a6663a5662ca723c81ffab6c68ef0598048ae02eb037def9ea"
 
 [[files]]
 file = "config/the_vault/unique_discovery.json"
-hash = "d9508dbe6e50a8df1f8db768c343d0afc9caf0219801adbf0186480bf43b79e4"
+hash = "3348c92679ee0261d489c578284c9a9398a918b2e487be191b69b965719163c2"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "81c4d54a76be5138a294bef5cd0de4c8ab5066bde42959f63377d46197b28344"
+hash = "46c428e39a0cfe63a5f9138d1de465074d4d68bd55773b1bca4812e524fbafda"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
@@ -17613,7 +17613,7 @@ hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
 file = "mods/vaultadditions-1.21.32.jar"
-hash = "e455045b68e1c6fa28fdf141043990f4cd92a81dcdd4ed8df213cfa7521fd08f"
+hash = "da29472bd3ce2bbee80b0c3382ab7065b883c18e79445efccd2be6bb4b688a85"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
