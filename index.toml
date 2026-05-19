@@ -2338,15 +2338,15 @@ hash = "f538e3f1308a48949ccf86a092472e95133972be7bffd24b21c0131dd8a27e9b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl0.json"
-hash = "8c8eef76e962d358a6401b2df5f52004faa68f58211a2ef18cc75e56b5a60e3c"
+hash = "4e507bd997e1c63e035331fcbcbac5d029bba4b4baa1a4812381b379636a0e28"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl20.json"
-hash = "f9890845a9339effdb825111f6b5e9ca8a5b69ec587bc0f4d3c28ec452da0c05"
+hash = "734ae115fff3fc151885df6ecdc1b01e72a2cbb3be0c40453b0802e9995cf3c6"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/champion_loot_lvl50.json"
-hash = "34041880e2a48739e171241abda6ef401ca681703a7f895803df0303c2033d31"
+hash = "08c4bc937afeb825481623831a9452f4d7bbd2564c15552ce92555e01d6e3eb9"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/coin_pile_0.json"
@@ -2822,7 +2822,7 @@ hash = "7bbb7a92fd26d0286b89adfce560b2a9e252e95aaeb0c90a988b3a95ad37f74a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_pillar.json"
-hash = "f27b60b9d3c3d305ddfcd5ca9a7d1a3e2f0bd4e465629d7f8d3f626c976e7bec"
+hash = "5a4baff595afe33194736dd90577d72b96d3f5c9c61d7c7dbc0c9d49f1c42c6d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_sand_0.json"
@@ -17612,8 +17612,8 @@ file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
-file = "mods/vaultadditions-1.21.32.jar"
-hash = "da29472bd3ce2bbee80b0c3382ab7065b883c18e79445efccd2be6bb4b688a85"
+file = "mods/vaultadditions-1.21.33.jar"
+hash = "5fd18033cf4eb86dbbc45ac38e3f30d6c35e69a58dc9d88e1be11e4d10e77ddf"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
