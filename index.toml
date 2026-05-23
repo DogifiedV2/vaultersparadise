@@ -1341,6 +1341,10 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
+file = "config/launchfaster-client.toml"
+hash = "a797417b7bf6a443590d0b56d4137a93d6fd061adddea38352203e91d80bce31"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "6b3a0c3378457ee99e01144c6a83a68ab3b40bb322d16aae4e2056fdc06e283a"
 
