@@ -68,14 +68,16 @@
         "the_vault:pax",
         "the_vault:frozen_heart",
         "the_vault:eternal_stella",
-        "the_vault:piggybank"
+        "the_vault:piggybank",
+        "the_vault:swiss_army"
       ],
       "MAGNET": [
         "the_vault:quickstone",
         "the_vault:chonknet",
         "the_vault:treasure_magnet",
         "the_vault:bloodseeking_magnet",
-        "the_vault:ender_magnet"
+        "the_vault:ender_magnet",
+        "the_vault:treasure_hunter_magnet"
       ]
     }
   },
@@ -1542,6 +1544,40 @@
       "uniqueId": "the_vault:piggybank",
       "isNewInUpdate": true
     },
+    {
+      "title": {
+        "description": {
+          "text": "Swiss Army",
+          "color": "#7D520E"
+        }
+      },
+      "description": {
+        "description": [
+          {
+            "text": "A jack of all trades and master of all. This ",
+            "color": "$text"
+          },
+          {
+            "text": "jewel ",
+            "color": "#7D520E"
+          },
+          {
+            "text": "allows for the ultimate block breaking tool.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nFound in: ",
+            "color": "$text"
+          },
+          {
+            "text": "Factory Rooms",
+            "color": "#7D520E"
+          }
+        ]
+      },
+      "uniqueId": "the_vault:swiss_army",
+      "isNewInUpdate": true
+    },
 
     {
       "title": {
@@ -1605,7 +1641,7 @@
       "description": {
         "description": [
           {
-            "text": "Like to live dangerously? Boost your loot to the next level with this shiny treasure hunting magnet.",
+            "text": "Let nothing slip away....This restless magnet calls all things that normal magnets cannot pull to your hand.",
             "color": "$text"
           },
           {
@@ -1613,7 +1649,7 @@
             "color": "$text"
           },
           {
-            "text": "Treasure Rooms",
+            "text": "Treasure Objective",
             "color": "#7D520E"
           }
         ]
@@ -1672,6 +1708,31 @@
       },
       "uniqueId": "the_vault:ender_magnet",
       "isNewInUpdate": true
+    },
+    {
+      "title": {
+        "description": {
+          "text": "Hoard Magnet",
+          "color": "#7D520E"
+        }
+      },
+      "description": {
+        "description": [
+          {
+            "text": "Like to live dangerously? Boost your loot to the next level with this shiny treasure hunting magnet.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nFound in: ",
+            "color": "$text"
+          },
+          {
+            "text": "Treasure Rooms",
+            "color": "#7D520E"
+          }
+        ]
+      },
+      "uniqueId": "the_vault:treasure_hunter_magnet"
     },
 
     {

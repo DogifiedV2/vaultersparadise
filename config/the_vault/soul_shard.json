@@ -2335,7 +2335,7 @@
         {
           "value": {
             "item": {
-              "ITEM": "the_vault:batlestaff",
+              "ITEM": "the_vault:battlestaff",
               "AMOUNT": 1,
               "NBT": "{\"the_vault:gear_roll_type_pool\":\"blackmarket\",\"the_vault:is_loot\":\"true\"}"
             },

@@ -1466,7 +1466,8 @@
           "the_vault:u_wooden_affinity",
           "the_vault:u_gilded_affinity",
           "the_vault:u_ornate_affinity",
-          "the_vault:u_living_affinity"
+          "the_vault:u_living_affinity",
+          "the_vault:u_coin_affinity"
 
         ],
         "SUFFIX": [
@@ -1573,6 +1574,26 @@
       "modifierTags": [],
       "weight": 1
     },
+    "the_vault:swiss_army": {
+      "name": "Swiss Army jewel",
+      "item": "the_vault:jewel",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:u_jewel_size_pax"
+        ],
+        "PREFIX": [
+          "the_vault:u_picking",
+          "the_vault:u_axing",
+          "the_vault:u_shovelling",
+          "the_vault:u_reaping"
+        ],
+        "SUFFIX": [
+        ]
+      },
+      "modifierTags": [],
+      "lore": "Why carry four when one will do? This clever jewel bends axe, shovel, pick, and shear to a single eager tool.",
+      "weight": 1
+    },
 
 
 
@@ -1655,6 +1676,37 @@
         ],
         "PREFIX": [],
         "SUFFIX": []
+      },
+      "modifierTags": [],
+      "weight": 1
+    },
+
+    "the_vault:treasure_hunter_magnet": {
+      "name": "Hoard Magnet",
+      "item": "the_vault:magnet",
+      "models": [
+        {
+          "value": "the_vault:magnets/treasure_magnet",
+          "weight": 1
+        }
+      ],
+      "modifierIdentifiers": {
+        "BASE_ATTRIBUTE": [
+          "the_vault:base_magnet_durability",
+          "the_vault:base_soulbound"
+        ],
+        "IMPLICIT": [
+          "the_vault:u_base_magnet_range",
+          "the_vault:u_base_magnet_velocity"
+        ],
+        "PREFIX": [
+          "the_vault:u_treasure_magnet_item_rarity",
+          "the_vault:u_treasure_magnet_item_quantity"
+        ],
+        "SUFFIX": [
+          "the_vault:u_treasure_magnet_health",
+          "the_vault:u_treasure_magnet_mana"
+        ]
       },
       "modifierTags": [],
       "weight": 1
@@ -2135,13 +2187,17 @@
     "the_vault:piggybank": {
       "the_vault:piggybank": 1
     },
+    "the_vault:swiss_army": {
+      "the_vault:swiss_army": 1
+    },
     "the_vault:jewel": {
       "the_vault:kaleidoscope": 1,
       "the_vault:manabloom": 1,
       "the_vault:pax": 1,
       "the_vault:frozen_heart": 1,
       "the_vault:eternal_stella": 1,
-      "the_vault:piggybank": 1
+      "the_vault:piggybank": 1,
+      "the_vault:swiss_army": 1
     },
 
     "the_vault:quickstone": {
@@ -2156,6 +2212,10 @@
     "the_vault:treasure_magnet": {
       "the_vault:treasure_magnet": 1
     },
+
+    "the_vault:treasure_hunter_magnet": {
+      "the_vault:treasure_hunter_magnet": 1
+    },
     "the_vault:ender_magnet": {
       "the_vault:ender_magnet": 1
     },
@@ -2164,7 +2224,8 @@
       "the_vault:chonknet": 1,
       "the_vault:bloodseeking_magnet": 1,
       "the_vault:treasure_magnet": 1,
-      "the_vault:ender_magnet": 1
+      "the_vault:ender_magnet": 1,
+      "the_vault:treasure_hunter_magnet": 1
     },
 
     "the_vault:bamboo_fightstick": {
