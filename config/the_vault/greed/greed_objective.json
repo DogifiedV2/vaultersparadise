@@ -1,0 +1,65 @@
+{
+  "taskMultiplierPerContinue": 1.25,
+  "bossBaseHealth": 50000.0,
+  "bossHealthMultiplierPerContinue": 1.25,
+  "bossDamageMultiplierPerContinue": 1.1,
+  "crateLootKey": "greed",
+  "taskPools": {
+    "IDONA": [
+      {
+        "type": "kill_mobs",
+        "target": 35,
+        "weight": 3,
+        "description": "Slay mobs for Idona"
+      },
+      {
+        "type": "deal_damage",
+        "target": 1500,
+        "weight": 1,
+        "description": "Deal damage for Idona"
+      }
+    ],
+    "TENOS": [
+      {
+        "type": "loot_chests",
+        "target": 15,
+        "weight": 3,
+        "description": "Loot chests for Tenos"
+      },
+      {
+        "type": "discover_rooms",
+        "target": 8,
+        "weight": 1,
+        "description": "Discover rooms for Tenos"
+      }
+    ],
+    "VELARA": [
+      {
+        "type": "take_damage",
+        "target": 80,
+        "weight": 2,
+        "description": "Endure damage for Velara"
+      },
+      {
+        "type": "heal",
+        "target": 60,
+        "weight": 1,
+        "description": "Recover health for Velara"
+      }
+    ],
+    "WENDARR": [
+      {
+        "type": "survive_seconds",
+        "target": 180,
+        "weight": 2,
+        "description": "Survive for Wendarr"
+      },
+      {
+        "type": "discover_rooms",
+        "target": 10,
+        "weight": 1,
+        "description": "Move through rooms for Wendarr"
+      }
+    ]
+  }
+}

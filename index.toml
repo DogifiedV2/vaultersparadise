@@ -13869,6 +13869,10 @@ file = "config/the_vault/greed/greed_nodes.json"
 hash = "9889d6919a8d624c7d73d202551541981444b55ed1114288265f8effb7c81cfa"
 
 [[files]]
+file = "config/the_vault/greed/greed_objective.json"
+hash = "6d5fe7dacf68ac48be0c76f07024e6f234b6bd26df8d483be06da30cd32879e2"
+
+[[files]]
 file = "config/the_vault/greed/greed_progression.json"
 hash = "fb774169a4af6e0a30accbe19e05a3ecc031f402f3138043967256c5004c7cbd"
 
@@ -13883,10 +13887,6 @@ hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 [[files]]
 file = "config/the_vault/greed/trials_screen.json"
 hash = "dcb68799e11c6d5951469a4956d1f50aed0251e49904e8e30b4a79e1aeae9e24"
-
-[[files]]
-file = "config/the_vault/greed/vault_greed_altar.json"
-hash = "70fae91abffe68af43ad9e13a36a28834178b892c16200a5f85c1b372201ebfb"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -14142,7 +14142,7 @@ hash = "fc1839b3440087fa453ed13eb78fd0a557eb464983396d18127d5b3072fadeaf"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
-hash = "1b3c1ce6977edf6a3916044db3d46147ab01cca32406be71bdfd0464109de79d"
+hash = "341f0b50f5a13565bcfd79c84a0ae7176ecc54a8c1771a462c5ea1769cde4781"
 
 [[files]]
 file = "config/the_vault/magnet_table.json"
@@ -14538,7 +14538,7 @@ hash = "593d8a608707c712a376d63aab6a53396ae968acd7d1627aeac1375a817488ac"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
-hash = "70fae91abffe68af43ad9e13a36a28834178b892c16200a5f85c1b372201ebfb"
+hash = "aa1248c6f2e66528e136bb5a00bb9c03ab82818fb68168d6280fdfdfbc83ccc8"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
@@ -17571,8 +17571,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.5.jar"
-hash = "a63823895f4d63ad1fbc7fc9b041c56cfd927b129ddbb8d56d43a604ba72db21"
+file = "mods/the_vault-1.18.2-3.21.51.jar"
+hash = "727549a5cbfdeaa21d2f4379cbaa246c4b0f11b3a6cb82ee1abfe9fe0f0c5681"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
