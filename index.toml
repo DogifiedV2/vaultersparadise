@@ -14826,7 +14826,7 @@ hash = "004ec0622a1cb49cf0e44e0e44863c10e317dfbbdae6f9e7c34cede29e965a60"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
-hash = "13d638fca440cc590514cbedb611c5f3a7e4dff42f55c392b257f089d414ec39"
+hash = "a28379fc71c5c468f25791f235cd3bd8a6a8a4d9f3c01ae85028faa6a52df673"
 
 [[files]]
 file = "defaultconfigs/vaultfilters-server.toml"
