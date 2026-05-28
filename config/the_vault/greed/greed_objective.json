@@ -7,58 +7,450 @@
   "taskPools": {
     "IDONA": [
       {
-        "type": "kill_mobs",
-        "target": 35,
-        "weight": 3,
-        "description": "Slay mobs for Idona"
-      },
-      {
-        "type": "deal_damage",
-        "target": 1500,
-        "weight": 1,
-        "description": "Deal damage for Idona"
+        "level": 0,
+        "type": "bingo",
+        "width": 1,
+        "height": 1,
+        "renderer": {
+          "type": "bingo"
+        },
+        "tasks": [
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:horde",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 12,
+                "max": 17
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Horde Mobs",
+              "icon": "the_vault:textures/gui/bingo/rapidhorde.png"
+            },
+            "weight": 100.0,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:mobs",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 12,
+                "max": 16
+              },
+              "window": {
+                "type": "constant",
+                "count": 5
+              },
+              "variables": {
+                "targetPlayerContribution": 0.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Multi Kill!",
+              "icon": "the_vault:textures/gui/bingo/hard.png"
+            },
+            "weight": 60.0,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:mob_type/champion",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 1,
+                "max": 2
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Champion",
+              "icon": "the_vault:textures/gui/bingo/killchampion.png"
+            },
+            "weight": 35.0,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:guardians",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 10,
+                "max": 21
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Guardians",
+              "icon": "the_vault:textures/gui/bingo/killguardians.png"
+            },
+            "weight": 80.0,
+            "level": 0
+          }
+        ],
+        "firstBingo": [],
+        "subsequentBingo": []
       }
     ],
     "TENOS": [
       {
-        "type": "loot_chests",
-        "target": 15,
-        "weight": 3,
-        "description": "Loot chests for Tenos"
-      },
-      {
-        "type": "discover_rooms",
-        "target": 8,
-        "weight": 1,
-        "description": "Discover rooms for Tenos"
+        "level": 0,
+        "type": "bingo",
+        "width": 1,
+        "height": 1,
+        "renderer": {
+          "type": "bingo"
+        },
+        "tasks": [
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:gilded",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 7,
+                "max": 16
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Loot Gilded Chests",
+              "icon": "the_vault:textures/gui/bingo/gilded.png"
+            },
+            "weight": 80.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:living",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 7,
+                "max": 16
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Loot Living Chests",
+              "icon": "the_vault:textures/gui/bingo/living.png"
+            },
+            "weight": 80.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:ornate",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 7,
+                "max": 16
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Loot Ornate Chests",
+              "icon": "the_vault:textures/gui/bingo/ornate.png"
+            },
+            "weight": 80.0,
+            "level": 0
+          },
+          {
+            "type": "find_vault_room",
+            "filter": [
+              "the_vault:vault/rooms/omega/mush_room1",
+              "the_vault:vault/rooms/omega/mush_room2",
+              "the_vault:vault/rooms/omega/blacksmith1",
+              "the_vault:vault/rooms/omega/blacksmith2",
+              "the_vault:vault/rooms/omega/cove1",
+              "the_vault:vault/rooms/omega/cove2",
+              "the_vault:vault/rooms/omega/omega_digsite2",
+              "the_vault:vault/rooms/omega/library1",
+              "the_vault:vault/rooms/omega/library2",
+              "the_vault:vault/rooms/omega/mine1",
+              "the_vault:vault/rooms/omega/mine2",
+              "the_vault:vault/rooms/omega/painting1",
+              "the_vault:vault/rooms/omega/vendor1",
+              "the_vault:vault/rooms/omega/vendor3",
+              "the_vault:vault/rooms/omega/pixel1",
+              "the_vault:vault/rooms/omega/warehouse"
+            ],
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 1,
+                "max": 2
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "condition": {
+              "type": "room_generation",
+              "filter": [
+                "the_vault:vault/rooms/omega/mush_room1",
+                "the_vault:vault/rooms/omega/mush_room2",
+                "the_vault:vault/rooms/omega/blacksmith1",
+                "the_vault:vault/rooms/omega/blacksmith2",
+                "the_vault:vault/rooms/omega/cove1",
+                "the_vault:vault/rooms/omega/cove2",
+                "the_vault:vault/rooms/omega/omega_digsite2",
+                "the_vault:vault/rooms/omega/library1",
+                "the_vault:vault/rooms/omega/library2",
+                "the_vault:vault/rooms/omega/mine1",
+                "the_vault:vault/rooms/omega/mine2",
+                "the_vault:vault/rooms/omega/painting1",
+                "the_vault:vault/rooms/omega/vendor1",
+                "the_vault:vault/rooms/omega/vendor3",
+                "the_vault:vault/rooms/omega/pixel1",
+                "the_vault:vault/rooms/omega/warehouse"
+              ]
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Discover Omega Rooms",
+              "icon": "the_vault:textures/gui/bingo/findomegaroom.png"
+            },
+            "weight": 35.0,
+            "level": 0
+          }
+        ],
+        "firstBingo": [],
+        "subsequentBingo": []
       }
     ],
     "VELARA": [
       {
-        "type": "take_damage",
-        "target": 80,
-        "weight": 2,
-        "description": "Endure damage for Velara"
-      },
-      {
-        "type": "heal",
-        "target": 60,
-        "weight": 1,
-        "description": "Recover health for Velara"
+        "level": 0,
+        "type": "bingo",
+        "width": 1,
+        "height": 1,
+        "renderer": {
+          "type": "bingo"
+        },
+        "tasks": [
+          {
+            "type": "take_damage",
+            "filter": "@the_vault:mobs",
+            "phase": "PRE_MITIGATION",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "target": {
+                "type": "uniform",
+                "min": 100.0,
+                "max": 100.0
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Mitigate Damage",
+              "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
+            },
+            "weight": 100.0,
+            "level": 0
+          },
+          {
+            "level": 0,
+            "type": "take_damage",
+            "filter": "@the_vault:mobs",
+            "phase": "POST_MITIGATION",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 30.0,
+                "max": 60.0
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Endure Mob Hits",
+              "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
+            },
+            "weight": 60.0
+          }
+        ],
+        "firstBingo": [],
+        "subsequentBingo": []
       }
     ],
     "WENDARR": [
       {
-        "type": "survive_seconds",
-        "target": 180,
-        "weight": 2,
-        "description": "Survive for Wendarr"
-      },
-      {
-        "type": "discover_rooms",
-        "target": 10,
-        "weight": 1,
-        "description": "Move through rooms for Wendarr"
+        "level": 0,
+        "type": "bingo",
+        "width": 1,
+        "height": 1,
+        "renderer": {
+          "type": "bingo"
+        },
+        "tasks": [
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:wooden",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 8
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Wooden Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidwooden.png"
+            },
+            "weight": 90.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:gilded",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 6
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Gilded Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidgilded.png"
+            },
+            "weight": 70.0,
+            "level": 0
+          },
+          {
+            "type": "find_vault_room",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 7
+              },
+              "variables": {
+                "targetPlayerContribution": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Flawlessly Discover Rooms",
+              "icon": "the_vault:textures/gui/bingo/flawlesslydiscoverrooms.png"
+            },
+            "weight": 60.0,
+            "level": 0
+          },
+          {
+            "type": "find_vault_room",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 1,
+                "max": 1
+              },
+              "variables": {
+                "targetPlayerContribution": 0.25
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Chain [1/2]: Discover Room",
+              "icon": "the_vault:textures/gui/bingo/flawlesslydiscoverrooms.png"
+            },
+            "children": [
+              {
+                "type": "loot_chest",
+                "filter": "@the_vault:living",
+                "counter": {
+                  "type": "target",
+                  "target": {
+                    "type": "uniform",
+                    "min": 2,
+                    "max": 3
+                  },
+                  "variables": {
+                    "targetPlayerContribution": 0.25
+                  }
+                },
+                "renderer": {
+                  "type": "bingo",
+                  "name": "Chain [2/2]: Loot Living Chests",
+                  "icon": "the_vault:textures/gui/bingo/nodamageliving.png"
+                }
+              }
+            ],
+            "weight": 50.0,
+            "level": 0
+          }
+        ],
+        "firstBingo": [],
+        "subsequentBingo": []
       }
     ]
   }
