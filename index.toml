@@ -1674,11 +1674,11 @@ hash = "b0905508059b8e01cbc44fdcdc39ef8806a9af93da5af9ab47884c7f1fa317d5"
 
 [[files]]
 file = "config/the_vault/black_market.json"
-hash = "b2e1de2749bf5801077b6c64d9e02f5d76ee3c331902bd61125572da4c2595ac"
+hash = "cd06d56223ee28d315d2cdcf00d7a8602cc35163026157634aa6cb0bb87275ff"
 
 [[files]]
 file = "config/the_vault/black_market/greed_trades.json"
-hash = "31593113b249ddf388a8daffed93a5bdae74c509b5d10cf52846d5c9049b76df"
+hash = "7143f265d13e9c60313ff405eb301065cc1d63b8625eaf09b4b3ae5e173216ca"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
@@ -16709,10 +16709,6 @@ file = "mods/BetterWaystonesMenu-1.2.0+mc1.18.2.jar"
 hash = "69e53aa3b5d18326895d4c30118e8386ed3057ceeaa592e9a5ce8009d1985185"
 
 [[files]]
-file = "mods/BlackMarketTweaks-1.6.jar"
-hash = "1ef1d3b9f0d6c56e397c8de8eb01c43ed26134907baf5fbacc61600e761931c4"
-
-[[files]]
 file = "mods/BoccHUD-0.1.7-mc1.18.2.jar"
 hash = "a7d5f48c481e1e5c13428c6f30b042966180e4a7737666469ef39675560e12fa"
 
@@ -17608,7 +17604,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "ba216efb25db0acbbe3bef3ba4e627a7fbcd3ed50eaab64b66c03b357c8ff389"
+hash = "f5b1fce2323251c3bde37912f30a757c02205055defeee88a54ab51c4ad5bcfd"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

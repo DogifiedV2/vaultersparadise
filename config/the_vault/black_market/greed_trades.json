@@ -92,5 +92,8 @@
         }
       ]
     }
-  ]
+  ],
+  "baseTrades": 6,
+  "rerollItem": "the_vault:greed_coin",
+  "rerollCost": 1
 }

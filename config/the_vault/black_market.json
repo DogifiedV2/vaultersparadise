@@ -1,4 +1,7 @@
 {
   "resetHours": 2,
-  "resetMinutes": 0
+  "resetMinutes": 0,
+  "baseTrades": 3,
+  "rerollItem": "the_vault:bm_token",
+  "rerollCost": 1
 }
