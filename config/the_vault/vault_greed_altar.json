@@ -5,5 +5,12 @@
   "INFUSION_TIME": 5,
   "GROUP_DISPLAY_TICKS": 20,
   "INTERFACES": [],
-  "requiredGodReputation": 50
+  "requiredGodReputation": 50,
+  "vaultTimeTicks": 72000,
+  "randomModifiers": false,
+  "modifiers": [
+    "the_vault:rotten"
+  ],
+  "squareLayoutRadius": 20,
+  "layoutTunnelSpan": 1
 }
