@@ -3,7 +3,6 @@
   "resetMinutes": 0,
   "trades": [
     {
-      "minLevel": 0,
       "randomTradeShardPrice": 1500,
       "randomTradeGreedCoinPrice": 5,
       "shardTrades": [
@@ -90,7 +89,8 @@
           },
           "weight": 16
         }
-      ]
+      ],
+      "minGreedTier": 0
     }
   ],
   "baseTrades": 6,
