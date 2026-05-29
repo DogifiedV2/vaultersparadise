@@ -479,6 +479,39 @@
       },
       {
         "type": "tiered",
+        "id": "ToolCrafter",
+        "name": "Tool Crafter",
+        "tiers": [
+          {
+            "type": "tool_capacity_power",
+            "capacityIncrease": 100,
+            "learnPointCost": 1,
+            "learnKnowledgeCost": 1600,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "tool_capacity_1",
+            "tier": 10
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "EmpoweredChaoticFocus",
+        "name": "Chaotic Empowerment",
+        "tiers": [
+          {
+            "type": "empowered_chaotic_focus_power",
+            "learnPointCost": 1,
+            "learnKnowledgeCost": 1600,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "empowered_chaotic_focus_1",
+            "tier": 10
+          }
+        ]
+      },
+      {
+        "type": "tiered",
         "id": "OriginalWardPower",
         "name": "Aspect of Ward",
         "tiers": [
@@ -528,6 +561,23 @@
       },
       {
         "type": "tiered",
+        "id": "ForgeGod",
+        "name": "Forge God",
+        "tiers": [
+          {
+            "type": "gear_sealer_power",
+            "sealChance": 0.5,
+            "learnPointCost": 1,
+            "learnKnowledgeCost": 1800,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "gear_sealer_1",
+            "tier": 11
+          }
+        ]
+      },
+      {
+        "type": "tiered",
         "id": "Fruity",
         "name": "Bloom of Time",
         "tiers": [
@@ -556,6 +606,23 @@
             "regretPointCost": 1,
             "unlockLevel": 0,
             "id": "masterful_power_1",
+            "tier": 12
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "MasterOfTheVault",
+        "name": "Master of The Vault",
+        "tiers": [
+          {
+            "type": "crystal_size_power",
+            "sizeAvoidChance": 0.1,
+            "learnPointCost": 1,
+            "learnKnowledgeCost": 2000,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "crystal_size_1",
             "tier": 12
           }
         ]
