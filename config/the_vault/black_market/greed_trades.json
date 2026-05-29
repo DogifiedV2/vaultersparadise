@@ -1,0 +1,96 @@
+{
+  "resetHours": 2,
+  "resetMinutes": 0,
+  "trades": [
+    {
+      "minLevel": 0,
+      "randomTradeShardPrice": 1500,
+      "randomTradeGreedCoinPrice": 5,
+      "shardTrades": [
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:plain_burger",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minShardPrice": 100,
+            "maxShardPrice": 300,
+            "minGreedCoinPrice": 1,
+            "maxGreedCoinPrice": 3
+          },
+          "weight": 40
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:cheese_burger",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minShardPrice": 400,
+            "maxShardPrice": 600,
+            "minGreedCoinPrice": 2,
+            "maxGreedCoinPrice": 5
+          },
+          "weight": 25
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:knowledge_star",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minShardPrice": 7200,
+            "maxShardPrice": 14400,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 40
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:bitter_lemon",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minShardPrice": 2400,
+            "maxShardPrice": 4200,
+            "minGreedCoinPrice": 8,
+            "maxGreedCoinPrice": 16
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:jewel_pouch",
+              "AMOUNT": 1
+            },
+            "minShardPrice": 1200,
+            "maxShardPrice": 3200,
+            "minGreedCoinPrice": 5,
+            "maxGreedCoinPrice": 12
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "item": {
+              "ITEM": "the_vault:vault_platinum",
+              "AMOUNT": 1,
+              "NBT": "{}"
+            },
+            "minShardPrice": 1200,
+            "maxShardPrice": 2400,
+            "minGreedCoinPrice": 4,
+            "maxGreedCoinPrice": 10
+          },
+          "weight": 16
+        }
+      ]
+    }
+  ]
+}

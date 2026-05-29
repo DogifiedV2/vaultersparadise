@@ -1677,12 +1677,48 @@ file = "config/the_vault/black_market.json"
 hash = "b2e1de2749bf5801077b6c64d9e02f5d76ee3c331902bd61125572da4c2595ac"
 
 [[files]]
+file = "config/the_vault/black_market/greed_trades.json"
+hash = "31593113b249ddf388a8daffed93a5bdae74c509b5d10cf52846d5c9049b76df"
+
+[[files]]
 file = "config/the_vault/bounty/bounties.json"
 hash = "db01cb3baceef203c87aeb87bcb0dca9f43a8463706c845bd31fd5582bc93e74"
 
 [[files]]
 file = "config/the_vault/bounty/entities.json"
 hash = "ae2721560cac7669df130d83528e414953996f99f11b9fd04321b22c916284cf"
+
+[[files]]
+file = "config/the_vault/bounty/greed_bounties.json"
+hash = "db01cb3baceef203c87aeb87bcb0dca9f43a8463706c845bd31fd5582bc93e74"
+
+[[files]]
+file = "config/the_vault/bounty/greed_rewards.json"
+hash = "294a926748b19fa86ab22999de963bbd146f388089d0cdd7ca2fe315434377de"
+
+[[files]]
+file = "config/the_vault/bounty/greed_task/completion.json"
+hash = "2a99378898a5c7bd3a26e8526ce9684622c900b7efda223e1895228858f1883f"
+
+[[files]]
+file = "config/the_vault/bounty/greed_task/damage_entity.json"
+hash = "7c73ca9fd8fd0af8eea6809d7064c8005ffe16c041cfc9e21e1a15c98ff2fdb8"
+
+[[files]]
+file = "config/the_vault/bounty/greed_task/item_discovery.json"
+hash = "39de6c590b18a8b2a4659b08abe37e2ed6e6ac3546527c401b6a085827edd13a"
+
+[[files]]
+file = "config/the_vault/bounty/greed_task/item_submission.json"
+hash = "c3990f939fbad94f244659dafc4cb0d3b912fb461c0f76064af14bf90d8f0911"
+
+[[files]]
+file = "config/the_vault/bounty/greed_task/kill_entity.json"
+hash = "46387efd4667478f7964e734043fde5b1223b7cdcbce22719253d844f28a31f9"
+
+[[files]]
+file = "config/the_vault/bounty/greed_task/mining.json"
+hash = "8afdef0d4d66e2cb5e7f60b1310afcd30b75969a5f3b123579e84afb2ed1e27d"
 
 [[files]]
 file = "config/the_vault/bounty/ores.json"
@@ -17572,7 +17608,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "514996b6b43df91e51c00ea18f44a08daff03f3ba4d87615f857ec0adb52230c"
+hash = "0f5cc206165bcb52bf6c9592159a2f52c9db0248ec2adaf3c765d478b320f6a8"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
