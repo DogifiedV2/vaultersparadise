@@ -479,8 +479,8 @@
       },
       {
         "type": "tiered",
-        "id": "ToolCrafter",
-        "name": "Tool Crafter",
+        "id": "ToolCapacityPower",
+        "name": "Increased Tool Capacity",
         "tiers": [
           {
             "type": "tool_capacity_power",
@@ -489,7 +489,7 @@
             "learnKnowledgeCost": 1600,
             "regretPointCost": 1,
             "unlockLevel": 0,
-            "id": "tool_capacity_1",
+            "id": "tool_capacity_power_1",
             "tier": 10
           }
         ]

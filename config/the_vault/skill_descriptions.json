@@ -421,6 +421,25 @@
     "Augment Station": [{"text":"Unlocks access to the "},{"text":"Augment Station","color":"yellow"},{"text":"!\n\nThis station allows you to craft augments for themes that you have discovered and conquered in your playthrough!"}],
     "Crit_Hit_Chance": [{"text":"Increases your "},{"text":"critical strike chance","color":"#FCC24E"},{"text":" while attacking and not jumping "},{"text":"\n\n","color":"$text"},{"text":"1 ","color":"$text"},{"text":"+6.25%\n","color":"green"},{"text":"2 ","color":"$text"},{"text":"+12.5%\n","color":"green"},{"text":"3 ","color":"$text"},{"text":"+18.75%\n","color":"green"},{"text":"4 ","color":"$text"},{"text":"+25.0%\n","color":"green"}],
     "Crit_Hit_Damage": [{"text":"Increases your "},{"text":"critical strike damage","color":"#FCC24E"},{"text":" while attacking and not jumping "},{"text":"\n\n","color":"$text"},{"text":"1 ","color":"$text"},{"text":"+6.25%\n","color":"green"},{"text":"2 ","color":"$text"},{"text":"+12.5%\n","color":"green"},{"text":"3 ","color":"$text"},{"text":"+18.75%\n","color":"green"},{"text":"4 ","color":"$text"},{"text":"+25.0%\n","color":"green"}],
-    "Tank_Mastery": [{"text":"Increases the "},{"text":"damage ","color":"#C21A00"},{"text":"dealt when fighting Tank mobs.\nThe total can be seen in your statistics tab under Tank Damage. "},{"text":"\n\n","color":"$text"},{"text":"1 ","color":"$text"},{"text":"+25.0%\n","color":"#FF00CB"},{"text":"2 ","color":"$text"},{"text":"+40.0%\n","color":"#FF00CB"},{"text":"3 ","color":"$text"},{"text":"+60.0%\n","color":"#FF00CB"},{"text":"4 ","color":"$text"},{"text":"+75.0%\n","color":"#FF00CB"},{"text":"5 ","color":"$text"},{"text":"+100.0%\n","color":"#FF00CB"},{"text":"\n\nOverlevels\n","color":"#EFBF04"},{"text":"------------","color":"#EFBF04"},{"text":"\n","color":"$text"},{"text":"6 ","color":"$text"},{"text":"+125.0%\n","color":"#FF00CB"},{"text":"7 ","color":"$text"},{"text":"+150.0%\n","color":"#FF00CB"},{"text":"8 ","color":"$text"},{"text":"+175.0%\n","color":"#FF00CB"},{"text":"9 ","color":"$text"},{"text":"+200.0%\n","color":"#FF00CB"},{"text":"10 ","color":"$text"},{"text":"+225.0%\n","color":"#FF00CB"},{"text":"11 ","color":"$text"},{"text":"+250.0%\n","color":"#FF00CB"},{"text":"12 ","color":"$text"},{"text":"+275.0%\n","color":"#FF00CB"},{"text":"13 ","color":"$text"},{"text":"+300.0%\n","color":"#FF00CB"},{"text":"14 ","color":"$text"},{"text":"+325.0%\n","color":"#FF00CB"},{"text":"15 ","color":"$text"},{"text":"+350.0%\n","color":"#FF00CB"},{"text":"16 ","color":"$text"},{"text":"+375.0%\n","color":"#FF00CB"},{"text":"17 ","color":"$text"},{"text":"+400.0%\n","color":"#FF00CB"}]
+    "Tank_Mastery": [{"text":"Increases the "},{"text":"damage ","color":"#C21A00"},{"text":"dealt when fighting Tank mobs.\nThe total can be seen in your statistics tab under Tank Damage. "},{"text":"\n\n","color":"$text"},{"text":"1 ","color":"$text"},{"text":"+25.0%\n","color":"#FF00CB"},{"text":"2 ","color":"$text"},{"text":"+40.0%\n","color":"#FF00CB"},{"text":"3 ","color":"$text"},{"text":"+60.0%\n","color":"#FF00CB"},{"text":"4 ","color":"$text"},{"text":"+75.0%\n","color":"#FF00CB"},{"text":"5 ","color":"$text"},{"text":"+100.0%\n","color":"#FF00CB"},{"text":"\n\nOverlevels\n","color":"#EFBF04"},{"text":"------------","color":"#EFBF04"},{"text":"\n","color":"$text"},{"text":"6 ","color":"$text"},{"text":"+125.0%\n","color":"#FF00CB"},{"text":"7 ","color":"$text"},{"text":"+150.0%\n","color":"#FF00CB"},{"text":"8 ","color":"$text"},{"text":"+175.0%\n","color":"#FF00CB"},{"text":"9 ","color":"$text"},{"text":"+200.0%\n","color":"#FF00CB"},{"text":"10 ","color":"$text"},{"text":"+225.0%\n","color":"#FF00CB"},{"text":"11 ","color":"$text"},{"text":"+250.0%\n","color":"#FF00CB"},{"text":"12 ","color":"$text"},{"text":"+275.0%\n","color":"#FF00CB"},{"text":"13 ","color":"$text"},{"text":"+300.0%\n","color":"#FF00CB"},{"text":"14 ","color":"$text"},{"text":"+325.0%\n","color":"#FF00CB"},{"text":"15 ","color":"$text"},{"text":"+350.0%\n","color":"#FF00CB"},{"text":"16 ","color":"$text"},{"text":"+375.0%\n","color":"#FF00CB"},{"text":"17 ","color":"$text"},{"text":"+400.0%\n","color":"#FF00CB"}],
+    "ToolCapacityPower": [
+      {"text":"Adds 100 "},
+      {"text":"capacity","color":"#00FF00"},
+      {"text":" to all "},
+      {"text":"crafted tools","color":"#AAAAAA"}
+    ],
+    "EmpoweredChaoticFocus": [
+      {"text":"Empowered Chaotic Focuses now work on "},
+      {"text":"legendary modifiers","color":"#FF5555"}
+    ],
+    "MasterOfTheVault": [
+      {"text":"Catalysts have a "},
+      {"text":"10% chance","color":"#00FF00"},
+      {"text":" to not consume capacity "}
+    ],
+    "ForgeGod": [
+      {"text":"+50% chance","color":"#00FF00"},
+      {"text":" to not lose a modifier when sealing gear "}
+    ]
   }
 }
