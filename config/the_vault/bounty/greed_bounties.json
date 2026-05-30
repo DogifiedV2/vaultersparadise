@@ -1,0 +1,51 @@
+{
+  "totalBountyCount": 3,
+  "maxActive": 1,
+  "abandonedPenaltySeconds": 28800,
+  "waitingPeriodSeconds": 7200,
+  "weightedTaskList": [
+    {
+      "value": "the_vault:loot_chest",
+      "weight": 4
+    },
+    {
+      "value": "the_vault:kill_entity",
+      "weight": 5
+    },
+    {
+      "value": "the_vault:open_block",
+      "weight": 1
+    },
+    {
+      "value": "the_vault:mining",
+      "weight": 2
+    },
+    {
+      "value": "the_vault:flawless_chest",
+      "weight": 3
+    },
+    {
+      "value": "the_vault:flawless_kill_entity",
+      "weight": 3
+    },
+    {
+      "value": "the_vault:flawless_mining",
+      "weight": 2
+    },
+    {
+      "value": "the_vault:rapid_loot_chest",
+      "weight": 3
+    },
+    {
+      "value": "the_vault:rapid_kill_entity",
+      "weight": 3
+    },
+    {
+      "value": "the_vault:rapid_mining",
+      "weight": 2
+    }
+  ],
+  "rerollBronzeCost": {
+    "0": 1
+  }
+}

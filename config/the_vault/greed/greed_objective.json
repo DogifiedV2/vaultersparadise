@@ -1,0 +1,1837 @@
+{
+  "taskMultiplierPerContinue": 1.25,
+  "bossBaseHealth": 50000.0,
+  "bossHealthMultiplierPerContinue": 1.25,
+  "bossDamageMultiplierPerContinue": 1.1,
+  "crateLootKey": "greed",
+  "taskPools": {
+    "IDONA": [
+      {
+        "level": 0,
+        "type": "bingo",
+        "width": 1,
+        "height": 1,
+        "renderer": {
+          "type": "bingo"
+        },
+        "tasks": [
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:horde",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 20,
+                "max": 40
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Horde Mobs",
+              "icon": "the_vault:textures/gui/bingo/rapidhorde.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:mobs",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 12,
+                "max": 16
+              },
+              "window": {
+                "type": "constant",
+                "count": 5
+              },
+              "variables": {
+                "targetPlayerContribution": 0.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Multi Kill!",
+              "icon": "the_vault:textures/gui/bingo/hard.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:assassin",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 8
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Assassins",
+              "icon": "the_vault:textures/gui/bingo/rapidassassin.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:guardians",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Guardians",
+              "icon": "the_vault:textures/gui/bingo/rapidguardians.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:fighter",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 6
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Dwellers",
+              "icon": "the_vault:textures/gui/bingo/rapiddweller.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:horde",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 120,
+                "max": 260
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Hordes",
+              "icon": "the_vault:textures/gui/bingo/killhorde.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:assassin",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 20,
+                "max": 45
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Assassins",
+              "icon": "the_vault:textures/gui/bingo/killassassin.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:mob_type/champion",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 1,
+                "max": 4
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Champion",
+              "icon": "the_vault:textures/gui/bingo/killchampion.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:tank",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 7,
+                "max": 14
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Tanks",
+              "icon": "the_vault:textures/gui/bingo/killtank.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:guardians",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 10,
+                "max": 21
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Guardians",
+              "icon": "the_vault:textures/gui/bingo/killguardians.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:fighter",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 10,
+                "max": 15
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Kill Dwellers",
+              "icon": "the_vault:textures/gui/bingo/killdweller.png"
+            },
+            "weight": 2.727273,
+            "level": 0
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_empty_jar",
+            "generatedCount": 1,
+            "generationChance": 0.266667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Empty Jar",
+              "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+              "item": "the_vault:scavenger_empty_jar"
+            },
+            "weight": 8.0,
+            "level": 0,
+            "chestFilter": "@the_vault:ornate"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_sack",
+            "generatedCount": 1,
+            "generationChance": 0.133333,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Sack",
+              "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+              "item": "the_vault:scavenger_sack"
+            },
+            "weight": 4.0,
+            "level": 0,
+            "chestFilter": "@the_vault:ornate"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_saddle_bag",
+            "generatedCount": 1,
+            "generationChance": 0.066667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.15
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Saddle Bag",
+              "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+              "item": "the_vault:scavenger_saddle_bag"
+            },
+            "weight": 2.0,
+            "level": 0,
+            "chestFilter": "@the_vault:ornate"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_wizard_wand",
+            "generatedCount": 1,
+            "generationChance": 0.033333,
+            "counter": {
+              "type": "target",
+              "target": 1
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Wizard Wand",
+              "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+              "item": "the_vault:scavenger_wizard_wand"
+            },
+            "weight": 1.0,
+            "level": 0,
+            "chestFilter": "@the_vault:ornate"
+          },
+          {
+            "type": "generated_mob_drop_item",
+            "item": "the_vault:scavenger_mob_black",
+            "generatedCount": 1,
+            "generationChance": 0.3,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 2.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Mob Black",
+              "icon": "the_vault:textures/gui/scavenger/assassin.png",
+              "item": "the_vault:scavenger_mob_black"
+            },
+            "weight": 5.0,
+            "level": 0,
+            "mobFilter": "@the_vault:assassin"
+          },
+          {
+            "type": "generated_mob_drop_item",
+            "item": "the_vault:scavenger_mob_purple",
+            "generatedCount": 1,
+            "generationChance": 0.3,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Mob Purple",
+              "icon": "the_vault:textures/gui/scavenger/tank.png",
+              "item": "the_vault:scavenger_mob_purple"
+            },
+            "weight": 5.0,
+            "level": 0,
+            "mobFilter": [
+              "@the_vault:tank",
+              "@the_vault:fighter"
+            ]
+          },
+          {
+            "type": "generated_mob_drop_item",
+            "item": "the_vault:scavenger_mob_green",
+            "generatedCount": 1,
+            "generationChance": 0.3,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 5.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Mob Green",
+              "icon": "the_vault:textures/gui/scavenger/horde.png",
+              "item": "the_vault:scavenger_mob_green"
+            },
+            "weight": 5.0,
+            "level": 0,
+            "mobFilter": "@the_vault:horde"
+          }
+        ],
+        "firstBingo": [],
+        "subsequentBingo": []
+      }
+    ],
+    "TENOS": [
+      {
+        "level": 0,
+        "type": "bingo",
+        "width": 1,
+        "height": 1,
+        "renderer": {
+          "type": "bingo"
+        },
+        "tasks": [
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:wooden",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 40,
+                "max": 80
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Loot Wooden Chests",
+              "icon": "the_vault:textures/gui/bingo/wooden.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:gilded",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 9,
+                "max": 21
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Loot Gilded Chests",
+              "icon": "the_vault:textures/gui/bingo/gilded.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:ornate",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 9,
+                "max": 21
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Loot Ornate Chests",
+              "icon": "the_vault:textures/gui/bingo/ornate.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:living",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 9,
+                "max": 21
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Loot Living Chests",
+              "icon": "the_vault:textures/gui/bingo/living.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "mine_block",
+            "filter": "the_vault:coin_pile[size=1]",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 20,
+                "max": 34
+              },
+              "variables": {
+                "targetPlayerContribution": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Loot Coins",
+              "icon": "the_vault:textures/gui/bingo/lootcoins.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "mine_block",
+            "filter": "@the_vault:ores[generated=true]",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 48,
+                "max": 96
+              },
+              "variables": {
+                "targetPlayerContribution": 0.8
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Mine Vault Ores",
+              "icon": "the_vault:textures/gui/bingo/minevaultore.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:wooden",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 6,
+                "max": 10
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Wooden Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidwooden.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:gilded",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 7
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Gilded Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidgilded.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "mine_block",
+            "filter": "the_vault:coin_pile[size=1]",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 8
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Coins",
+              "icon": "the_vault:textures/gui/bingo/rapidcoins.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:ornate",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 7
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Ornate Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidornate.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:living",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 7
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Living Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidliving.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "interact_block",
+            "pre": "the_vault:pylon{Consumed:0b}",
+            "post": "the_vault:pylon{Consumed:1b}",
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              },
+              "variables": {
+                "targetPlayerContribution": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Activate Pylons",
+              "icon": "the_vault:textures/gui/bingo/pylon.png"
+            },
+            "weight": 5.0,
+            "level": 0
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_ripped_page",
+            "generatedCount": 1,
+            "generationChance": 0.266667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 2.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Ripped Page",
+              "icon": "the_vault:textures/gui/scavenger/wooden_chest.png",
+              "item": "the_vault:scavenger_ripped_page"
+            },
+            "weight": 8.0,
+            "level": 0,
+            "chestFilter": "the_vault:wooden_chest"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_old_book",
+            "generatedCount": 1,
+            "generationChance": 0.133333,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 1.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Old Book",
+              "icon": "the_vault:textures/gui/scavenger/wooden_chest.png",
+              "item": "the_vault:scavenger_old_book"
+            },
+            "weight": 4.0,
+            "level": 0,
+            "chestFilter": "the_vault:wooden_chest"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_pottery_shard",
+            "generatedCount": 1,
+            "generationChance": 0.066667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.8
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Pottery Shard",
+              "icon": "the_vault:textures/gui/scavenger/wooden_chest.png",
+              "item": "the_vault:scavenger_pottery_shard"
+            },
+            "weight": 2.0,
+            "level": 0,
+            "chestFilter": "the_vault:wooden_chest"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_spider_webbing_spool",
+            "generatedCount": 1,
+            "generationChance": 0.033333,
+            "counter": {
+              "type": "target",
+              "target": 1
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Spider Webbing Spool",
+              "icon": "the_vault:textures/gui/scavenger/wooden_chest.png",
+              "item": "the_vault:scavenger_spider_webbing_spool"
+            },
+            "weight": 1.0,
+            "level": 0,
+            "chestFilter": "the_vault:wooden_chest"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_red_scroll",
+            "generatedCount": 1,
+            "generationChance": 0.266667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Red Scroll",
+              "icon": "the_vault:textures/gui/scavenger/gilded_chest.png",
+              "item": "the_vault:scavenger_red_scroll"
+            },
+            "weight": 8.0,
+            "level": 0,
+            "chestFilter": "@the_vault:gilded"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_spider_soul_charm",
+            "generatedCount": 1,
+            "generationChance": 0.133333,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Spider Soul Charm",
+              "icon": "the_vault:textures/gui/scavenger/gilded_chest.png",
+              "item": "the_vault:scavenger_spider_soul_charm"
+            },
+            "weight": 4.0,
+            "level": 0,
+            "chestFilter": "@the_vault:gilded"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_goblet",
+            "generatedCount": 1,
+            "generationChance": 0.066667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.15
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Goblet",
+              "icon": "the_vault:textures/gui/scavenger/gilded_chest.png",
+              "item": "the_vault:scavenger_goblet"
+            },
+            "weight": 2.0,
+            "level": 0,
+            "chestFilter": "@the_vault:gilded"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_earrings",
+            "generatedCount": 1,
+            "generationChance": 0.033333,
+            "counter": {
+              "type": "target",
+              "target": 1
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Earrings",
+              "icon": "the_vault:textures/gui/scavenger/gilded_chest.png",
+              "item": "the_vault:scavenger_earrings"
+            },
+            "weight": 1.0,
+            "level": 0,
+            "chestFilter": "@the_vault:gilded"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_empty_jar",
+            "generatedCount": 1,
+            "generationChance": 0.266667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Empty Jar",
+              "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+              "item": "the_vault:scavenger_empty_jar"
+            },
+            "weight": 8.0,
+            "level": 0,
+            "chestFilter": "@the_vault:ornate"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_sack",
+            "generatedCount": 1,
+            "generationChance": 0.133333,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Sack",
+              "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+              "item": "the_vault:scavenger_sack"
+            },
+            "weight": 4.0,
+            "level": 0,
+            "chestFilter": "@the_vault:ornate"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_saddle_bag",
+            "generatedCount": 1,
+            "generationChance": 0.066667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.15
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Saddle Bag",
+              "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+              "item": "the_vault:scavenger_saddle_bag"
+            },
+            "weight": 2.0,
+            "level": 0,
+            "chestFilter": "@the_vault:ornate"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_wizard_wand",
+            "generatedCount": 1,
+            "generationChance": 0.033333,
+            "counter": {
+              "type": "target",
+              "target": 1
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Wizard Wand",
+              "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+              "item": "the_vault:scavenger_wizard_wand"
+            },
+            "weight": 1.0,
+            "level": 0,
+            "chestFilter": "@the_vault:ornate"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_drowned_hide",
+            "generatedCount": 1,
+            "generationChance": 0.266667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Drowned Hide",
+              "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+              "item": "the_vault:scavenger_drowned_hide"
+            },
+            "weight": 8.0,
+            "level": 0,
+            "chestFilter": "@the_vault:living"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_zombie_arm",
+            "generatedCount": 1,
+            "generationChance": 0.133333,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Zombie Arm",
+              "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+              "item": "the_vault:scavenger_zombie_arm"
+            },
+            "weight": 4.0,
+            "level": 0,
+            "chestFilter": "@the_vault:living"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_zombie_brain",
+            "generatedCount": 1,
+            "generationChance": 0.066667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.15
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Zombie Brain",
+              "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+              "item": "the_vault:scavenger_zombie_brain"
+            },
+            "weight": 2.0,
+            "level": 0,
+            "chestFilter": "@the_vault:living"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_creeper_eye",
+            "generatedCount": 1,
+            "generationChance": 0.033333,
+            "counter": {
+              "type": "target",
+              "target": 1
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Creeper Eye",
+              "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+              "item": "the_vault:scavenger_creeper_eye"
+            },
+            "weight": 1.0,
+            "level": 0,
+            "chestFilter": "@the_vault:living"
+          }
+        ],
+        "firstBingo": [],
+        "subsequentBingo": []
+      }
+    ],
+    "VELARA": [
+      {
+        "level": 0,
+        "type": "bingo",
+        "width": 1,
+        "height": 1,
+        "renderer": {
+          "type": "bingo"
+        },
+        "tasks": [
+          {
+            "type": "take_damage",
+            "filter": "@the_vault:mobs",
+            "phase": "PRE_MITIGATION",
+            "counter": {
+              "type": "sliding_timed_target",
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "target": {
+                "type": "uniform",
+                "min": 200.0,
+                "max": 200.0
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Mitigate Damage",
+              "icon": "the_vault:textures/gui/bingo/mitigate_damage.png"
+            },
+            "weight": 30.0,
+            "level": 0
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_drowned_hide",
+            "generatedCount": 1,
+            "generationChance": 0.266667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Drowned Hide",
+              "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+              "item": "the_vault:scavenger_drowned_hide"
+            },
+            "weight": 8.0,
+            "level": 0,
+            "chestFilter": "@the_vault:living"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_zombie_arm",
+            "generatedCount": 1,
+            "generationChance": 0.133333,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Zombie Arm",
+              "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+              "item": "the_vault:scavenger_zombie_arm"
+            },
+            "weight": 4.0,
+            "level": 0,
+            "chestFilter": "@the_vault:living"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_zombie_brain",
+            "generatedCount": 1,
+            "generationChance": 0.066667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.15
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Zombie Brain",
+              "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+              "item": "the_vault:scavenger_zombie_brain"
+            },
+            "weight": 2.0,
+            "level": 0,
+            "chestFilter": "@the_vault:living"
+          },
+          {
+            "type": "generated_loot_chest_item",
+            "item": "the_vault:scavenger_creeper_eye",
+            "generatedCount": 1,
+            "generationChance": 0.033333,
+            "counter": {
+              "type": "target",
+              "target": 1
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Creeper Eye",
+              "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+              "item": "the_vault:scavenger_creeper_eye"
+            },
+            "weight": 1.0,
+            "level": 0,
+            "chestFilter": "@the_vault:living"
+          },
+          {
+            "type": "generated_mob_drop_item",
+            "item": "the_vault:scavenger_mob_black",
+            "generatedCount": 1,
+            "generationChance": 0.3,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 2.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Mob Black",
+              "icon": "the_vault:textures/gui/scavenger/assassin.png",
+              "item": "the_vault:scavenger_mob_black"
+            },
+            "weight": 5.0,
+            "level": 0,
+            "mobFilter": "@the_vault:assassin"
+          },
+          {
+            "type": "generated_mob_drop_item",
+            "item": "the_vault:scavenger_mob_purple",
+            "generatedCount": 1,
+            "generationChance": 0.3,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Mob Purple",
+              "icon": "the_vault:textures/gui/scavenger/tank.png",
+              "item": "the_vault:scavenger_mob_purple"
+            },
+            "weight": 5.0,
+            "level": 0,
+            "mobFilter": [
+              "@the_vault:tank",
+              "@the_vault:fighter"
+            ]
+          },
+          {
+            "type": "generated_mob_drop_item",
+            "item": "the_vault:scavenger_mob_green",
+            "generatedCount": 1,
+            "generationChance": 0.3,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 5.0
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Mob Green",
+              "icon": "the_vault:textures/gui/scavenger/horde.png",
+              "item": "the_vault:scavenger_mob_green"
+            },
+            "weight": 5.0,
+            "level": 0,
+            "mobFilter": "@the_vault:horde"
+          }
+        ],
+        "firstBingo": [],
+        "subsequentBingo": []
+      }
+    ],
+    "WENDARR": [
+      {
+        "level": 0,
+        "type": "bingo",
+        "width": 1,
+        "height": 1,
+        "renderer": {
+          "type": "bingo"
+        },
+        "tasks": [
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:wooden",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 6,
+                "max": 10
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Wooden Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidwooden.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:gilded",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 7
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Gilded Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidgilded.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "mine_block",
+            "filter": "the_vault:coin_pile[size=1]",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 8
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Coins",
+              "icon": "the_vault:textures/gui/bingo/rapidcoins.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:ornate",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 7
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Ornate Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidornate.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "loot_chest",
+            "filter": "@the_vault:living",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 7
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Loot Living Chests",
+              "icon": "the_vault:textures/gui/bingo/rapidliving.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:horde",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 20,
+                "max": 40
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Horde Mobs",
+              "icon": "the_vault:textures/gui/bingo/rapidhorde.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:assassin",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 8
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Assassins",
+              "icon": "the_vault:textures/gui/bingo/rapidassassin.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:guardians",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Guardians",
+              "icon": "the_vault:textures/gui/bingo/rapidguardians.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "kill_entity",
+            "filter": "@the_vault:fighter",
+            "counter": {
+              "type": "sliding_timed_target",
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 6
+              },
+              "window": {
+                "type": "constant",
+                "count": 120
+              },
+              "variables": {
+                "targetPlayerContribution": 0.75
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Rapidly Kill Dwellers",
+              "icon": "the_vault:textures/gui/bingo/rapiddweller.png"
+            },
+            "weight": 3.333333,
+            "level": 0
+          },
+          {
+            "type": "generated_coin_stack_item",
+            "item": "the_vault:scavenger_zombie_blood_vial",
+            "generatedCount": 1,
+            "generationChance": 0.133333,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.7
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Zombie Blood Vial",
+              "icon": "the_vault:textures/gui/scavenger/coin_stacks.png",
+              "item": "the_vault:scavenger_zombie_blood_vial"
+            },
+            "weight": 8.0,
+            "level": 0
+          },
+          {
+            "type": "generated_coin_stack_item",
+            "item": "the_vault:scavenger_cracked_script",
+            "generatedCount": 1,
+            "generationChance": 0.066667,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Cracked Script",
+              "icon": "the_vault:textures/gui/scavenger/coin_stacks.png",
+              "item": "the_vault:scavenger_cracked_script"
+            },
+            "weight": 4.0,
+            "level": 0
+          },
+          {
+            "type": "generated_coin_stack_item",
+            "item": "the_vault:scavenger_green_bangle",
+            "generatedCount": 1,
+            "generationChance": 0.033333,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Green Bangle",
+              "icon": "the_vault:textures/gui/scavenger/coin_stacks.png",
+              "item": "the_vault:scavenger_green_bangle"
+            },
+            "weight": 2.0,
+            "level": 0
+          },
+          {
+            "type": "generated_coin_stack_item",
+            "item": "the_vault:scavenger_cracked_pearl",
+            "generatedCount": 1,
+            "generationChance": 0.016667,
+            "counter": {
+              "type": "target",
+              "target": 1
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Cracked Pearl",
+              "icon": "the_vault:textures/gui/scavenger/coin_stacks.png",
+              "item": "the_vault:scavenger_cracked_pearl"
+            },
+            "weight": 1.0,
+            "level": 0
+          },
+          {
+            "type": "generated_ore_item",
+            "item": "the_vault:scavenger_skeleton_bone_shard",
+            "generatedCount": 1,
+            "generationChance": 0.16,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.7
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Skeleton Bone Shard",
+              "icon": "the_vault:textures/gui/scavenger/vault_ore.png",
+              "item": "the_vault:scavenger_skeleton_bone_shard"
+            },
+            "weight": 8.0,
+            "level": 0
+          },
+          {
+            "type": "generated_ore_item",
+            "item": "the_vault:scavenger_skeleton_wishbone",
+            "generatedCount": 1,
+            "generationChance": 0.08,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.5
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Skeleton Wishbone",
+              "icon": "the_vault:textures/gui/scavenger/vault_ore.png",
+              "item": "the_vault:scavenger_skeleton_wishbone"
+            },
+            "weight": 4.0,
+            "level": 0
+          },
+          {
+            "type": "generated_ore_item",
+            "item": "the_vault:scavenger_skeleton_ribcage",
+            "generatedCount": 1,
+            "generationChance": 0.04,
+            "counter": {
+              "type": "target",
+              "target": {
+                "type": "scaled_ceiling",
+                "base": {
+                  "type": "uniform",
+                  "min": 4,
+                  "max": 16
+                },
+                "multiplier": 0.3
+              }
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Skeleton Ribcage",
+              "icon": "the_vault:textures/gui/scavenger/vault_ore.png",
+              "item": "the_vault:scavenger_skeleton_ribcage"
+            },
+            "weight": 2.0,
+            "level": 0
+          },
+          {
+            "type": "generated_ore_item",
+            "item": "the_vault:scavenger_skeleton_skull",
+            "generatedCount": 1,
+            "generationChance": 0.02,
+            "counter": {
+              "type": "target",
+              "target": 1
+            },
+            "renderer": {
+              "type": "bingo",
+              "name": "Find Skeleton Skull",
+              "icon": "the_vault:textures/gui/scavenger/vault_ore.png",
+              "item": "the_vault:scavenger_skeleton_skull"
+            },
+            "weight": 1.0,
+            "level": 0
+          }
+        ],
+        "firstBingo": [],
+        "subsequentBingo": []
+      }
+    ]
+  }
+}

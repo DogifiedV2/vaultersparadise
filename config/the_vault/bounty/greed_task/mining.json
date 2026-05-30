@@ -1,0 +1,36 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 2000,
+              "max": 3000
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:coin_pile",
+            "amount": {
+              "min": 940,
+              "max": 1840
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        }
+      ]
+    }
+  }
+}

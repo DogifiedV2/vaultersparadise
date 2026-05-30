@@ -28,7 +28,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 3,
@@ -37,8 +37,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 5,
@@ -47,7 +47,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -90,7 +90,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.15,
@@ -99,8 +99,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.35,
@@ -109,7 +109,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -151,7 +151,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.2,
@@ -160,8 +160,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.3,
@@ -170,7 +170,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -218,7 +218,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "percentAD": {
@@ -234,8 +234,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "percentAD": {
@@ -251,7 +251,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -299,7 +299,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 2,
@@ -308,8 +308,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 4,
@@ -318,7 +318,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -359,7 +359,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.2,
@@ -368,8 +368,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.4,
@@ -378,7 +378,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -432,7 +432,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -454,8 +454,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -477,7 +477,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -531,7 +531,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 5,
@@ -540,8 +540,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 6,
@@ -550,7 +550,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -590,7 +590,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 5,
@@ -599,8 +599,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 6,
@@ -609,7 +609,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -649,7 +649,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 5,
@@ -658,8 +658,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 7,
@@ -668,7 +668,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -708,7 +708,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.02,
@@ -717,8 +717,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.03,
@@ -727,7 +727,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -749,7 +749,7 @@
                 "Defensive",
                 "Utility"
             ],
-            "minGreedTier": 12,
+            "minGreedTier": 10,
             "attributes": [
                 {
                     "attribute": "the_vault:etching_lucky_cooldown_reset",
@@ -758,7 +758,7 @@
                     "tags": [],
                     "tiers": [
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -882,7 +882,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 2,
@@ -891,8 +891,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 4,
@@ -901,7 +901,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -949,7 +949,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "chance": {
@@ -965,8 +965,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "chance": {
@@ -982,7 +982,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1042,7 +1042,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -1064,8 +1064,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -1087,7 +1087,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1141,7 +1141,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.55,
@@ -1151,8 +1151,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.65,
@@ -1162,7 +1162,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1204,7 +1204,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.3,
@@ -1214,8 +1214,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.5,
@@ -1225,7 +1225,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1267,7 +1267,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 30,
@@ -1276,8 +1276,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 45,
@@ -1286,7 +1286,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1326,7 +1326,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.15,
@@ -1335,8 +1335,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.25,
@@ -1345,7 +1345,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1385,7 +1385,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.4,
@@ -1394,8 +1394,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.6,
@@ -1404,7 +1404,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1444,7 +1444,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.3,
@@ -1453,8 +1453,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.4,
@@ -1463,7 +1463,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1504,7 +1504,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 1,
@@ -1513,8 +1513,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 2,
@@ -1523,7 +1523,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1563,7 +1563,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 2,
@@ -1572,8 +1572,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 3,
@@ -1582,7 +1582,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1622,7 +1622,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.15,
@@ -1631,8 +1631,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.25,
@@ -1641,7 +1641,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1689,7 +1689,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "damageMultiplier": {
@@ -1705,8 +1705,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "damageMultiplier": {
@@ -1722,7 +1722,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1782,7 +1782,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -1804,8 +1804,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -1827,7 +1827,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -1950,7 +1950,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "ability": [
@@ -1975,8 +1975,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "ability": [
@@ -2001,7 +2001,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2057,7 +2057,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.03,
@@ -2066,8 +2066,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.05,
@@ -2076,7 +2076,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2132,7 +2132,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "ability": [
@@ -2157,8 +2157,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "ability": [
@@ -2183,7 +2183,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2252,7 +2252,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -2274,8 +2274,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -2297,7 +2297,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2358,7 +2358,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "ability": [
@@ -2375,8 +2375,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "ability": [
@@ -2393,7 +2393,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2449,7 +2449,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "radius": {
@@ -2465,8 +2465,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "radius": {
@@ -2482,7 +2482,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2542,7 +2542,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -2564,8 +2564,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "effect": [
@@ -2587,7 +2587,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2640,7 +2640,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 2,
@@ -2649,8 +2649,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 3,
@@ -2659,7 +2659,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2706,7 +2706,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "chance": {
@@ -2722,8 +2722,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "chance": {
@@ -2739,7 +2739,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2786,7 +2786,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 25,
@@ -2795,8 +2795,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 30,
@@ -2805,7 +2805,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2845,7 +2845,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.4,
@@ -2854,8 +2854,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.6,
@@ -2864,7 +2864,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2931,7 +2931,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 2,
@@ -2940,8 +2940,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 2,
@@ -2950,7 +2950,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -2990,7 +2990,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 12,
@@ -2999,8 +2999,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 14,
@@ -3009,7 +3009,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -3049,7 +3049,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 1.5,
@@ -3058,8 +3058,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 2.5,
@@ -3068,7 +3068,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -3110,7 +3110,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 1,
@@ -3119,8 +3119,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 2,
@@ -3129,7 +3129,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -3170,7 +3170,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.8,
@@ -3179,8 +3179,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 1.2,
@@ -3189,7 +3189,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -3230,7 +3230,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.3,
@@ -3239,8 +3239,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.4,
@@ -3249,7 +3249,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {
@@ -3290,7 +3290,7 @@
                         },
                         {
                             "minGreedTier": 4,
-                            "maxGreedTier": 7,
+                            "maxGreedTier": 6,
                             "weight": 100,
                             "value": {
                                 "min": 0.25,
@@ -3299,8 +3299,8 @@
                             }
                         },
                         {
-                            "minGreedTier": 8,
-                            "maxGreedTier": 11,
+                            "minGreedTier": 7,
+                            "maxGreedTier": 9,
                             "weight": 100,
                             "value": {
                                 "min": 0.35,
@@ -3309,7 +3309,7 @@
                             }
                         },
                         {
-                            "minGreedTier": 12,
+                            "minGreedTier": 10,
                             "maxGreedTier": -1,
                             "weight": 100,
                             "value": {

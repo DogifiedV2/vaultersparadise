@@ -1,0 +1,26 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 5,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 10
+        }
+      ]
+    }
+  }
+}
