@@ -1132,18 +1132,13 @@
         "parent": "util_t1_movement_3"
       },
       {
-        "id": "util_t2_air_mobility_1",
+        "id": "util_t3_skillpoint_3",
+        "name": "+1 Skill Point",
         "present": false,
-        "tier": 2,
-        "type": "greed_gear_attribute",
-        "name": "Increased Air Mobility",
-        "entries": [
-          {
-            "attribute": "the_vault:movement_speed",
-            "value": 0.03
-          }
-        ],
-        "parent": "util_t1_movement_4"
+        "parent": "util_t1_movement_4",
+        "tier": 3,
+        "skillPoints": 1,
+        "type": "greed_skill_point"
       },
       {
         "id": "util_t1_effect_dur_1",
@@ -1304,7 +1299,7 @@
         "present": false,
         "tier": 2,
         "type": "greed_gear_attribute",
-        "name": "Copiously",
+        "name": "+5% Copiously",
         "entries": [
           {
             "attribute": "the_vault:copiously",
@@ -1318,7 +1313,7 @@
         "present": false,
         "tier": 2,
         "type": "greed_gear_attribute",
-        "name": "Reach",
+        "name": "+1 Reach",
         "entries": [
           {
             "attribute": "the_vault:reach",
@@ -1500,6 +1495,66 @@
         "tier": 3,
         "type": "greed_cryonic_focus",
         "parent": "util_t2_imbuement_1"
+      },
+      {
+        "id": "off_t3_unique_1",
+        "name": "Unique Effect",
+        "present": false,
+        "parent": "off_t2_chain_1",
+        "tier": 3,
+        "entries": [
+          {
+            "attribute": "the_vault:relentless_strike",
+            "value": 0.08
+          }
+        ],
+        "type": "greed_gear_attribute"
+      },
+      {
+        "id": "def_t3_unique_1",
+        "name": "Unique Effect",
+        "present": false,
+        "parent": "def_t2_flat_health_1",
+        "tier": 3,
+        "entries": [
+          {
+            "attribute": "the_vault:phoenix",
+            "value": 1
+          }
+        ],
+        "type": "greed_gear_attribute"
+      },
+      {
+        "id": "util_t3_skillpoint_1",
+        "name": "+1 Skill Point",
+        "present": false,
+        "parent": "util_t1_max_mana_2",
+        "tier": 3,
+        "skillPoints": 1,
+        "type": "greed_skill_point"
+      },
+      {
+        "id": "util_t3_skillpoint_2",
+        "name": "+1 Skill Point",
+        "present": false,
+        "parent": "util_t1_xp_path_1",
+        "tier": 3,
+        "skillPoints": 1,
+        "type": "greed_skill_point"
+      },
+      {
+        "id": "util_t3_unique_1",
+        "name": "Unique Effect",
+        "present": false,
+        "parent": "util_t3_skillpoint_2",
+        "tier": 3,
+        "entries": [
+          {
+            "attribute": "the_vault:ability_cooldown_skip",
+            "value": 0.1
+          }
+        ],
+        "type": "greed_gear_attribute"
       }
     ],
     "greedTier": 0,

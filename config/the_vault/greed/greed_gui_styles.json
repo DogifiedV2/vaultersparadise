@@ -480,12 +480,6 @@
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/movement_speed.png"
     },
-    "util_t2_air_mobility_1": {
-      "x": 277,
-      "y": 367,
-      "frameType": "CIRCLE",
-      "icon": "the_vault:textures/gui/greed/nodes/mega_jump.png"
-    },
     "util_t1_effect_dur_1": {
       "x": 358,
       "y": 65,
@@ -641,6 +635,42 @@
       "y": 346,
       "frameType": "STAR",
       "icon": "the_vault:textures/gui/greed/nodes/cryonic_focus_legendary.png"
+    },
+    "off_t3_unique_1": {
+      "x": -519,
+      "y": 470,
+      "frameType": "STAR",
+      "icon": "the_vault:textures/gui/greed/nodes/arcane.png"
+    },
+    "def_t3_unique_1": {
+      "x": -172,
+      "y": 462,
+      "frameType": "STAR",
+      "icon": "the_vault:textures/gui/greed/nodes/arcane.png"
+    },
+    "util_t3_unique_1": {
+      "x": 418,
+      "y": 455,
+      "frameType": "STAR",
+      "icon": "the_vault:textures/gui/greed/nodes/chaos_cube.png"
+    },
+    "util_t3_skillpoint_1": {
+      "x": 148,
+      "y": 378,
+      "frameType": "STAR",
+      "icon": "the_vault:textures/gui/greed/nodes/skill_point.png"
+    },
+    "util_t3_skillpoint_2": {
+      "x": 418,
+      "y": 378,
+      "frameType": "STAR",
+      "icon": "the_vault:textures/gui/greed/nodes/skill_point.png"
+    },
+    "util_t3_skillpoint_3": {
+      "x": 277,
+      "y": 367,
+      "frameType": "STAR",
+      "icon": "the_vault:textures/gui/greed/nodes/skill_point.png"
     }
   }
 }
