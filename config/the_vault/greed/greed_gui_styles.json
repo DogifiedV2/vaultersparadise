@@ -481,50 +481,50 @@
       "icon": "the_vault:textures/gui/greed/nodes/movement_speed.png"
     },
     "util_t1_effect_dur_1": {
-      "x": 358,
-      "y": 65,
+      "x": 418,
+      "y": 103,
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/effect_duration.png"
     },
     "util_t1_effect_dur_2": {
-      "x": 358,
-      "y": 130,
+      "x": 418,
+      "y": 167,
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/effect_duration.png"
     },
     "util_t1_effect_dur_3": {
-      "x": 358,
-      "y": 194,
+      "x": 418,
+      "y": 232,
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/effect_duration.png"
     },
     "util_t1_effect_dur_4": {
-      "x": 358,
-      "y": 259,
+      "x": 418,
+      "y": 297,
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/effect_duration.png"
     },
     "util_t1_cooldown_1": {
-      "x": 418,
-      "y": 103,
+      "x": 358,
+      "y": 65,
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/cooldown_reduction.png"
     },
     "util_t1_cooldown_2": {
-      "x": 418,
-      "y": 167,
+      "x": 358,
+      "y": 130,
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/cooldown_reduction.png"
     },
     "util_t1_cooldown_3": {
-      "x": 418,
-      "y": 232,
+      "x": 358,
+      "y": 194,
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/cooldown_reduction.png"
     },
     "util_t1_xp_path_1": {
-      "x": 418,
-      "y": 297,
+      "x": 358,
+      "y": 259,
       "frameType": "CIRCLE",
       "icon": "the_vault:textures/gui/greed/nodes/cooldown_reduction.png"
     },

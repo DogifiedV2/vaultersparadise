@@ -1152,7 +1152,7 @@
             "value": 0.1
           }
         ],
-        "parent": "utility_root"
+        "parent": "util_t1_cooldown_1"
       },
       {
         "id": "util_t1_effect_dur_2",
@@ -1208,7 +1208,7 @@
             "value": 0.01
           }
         ],
-        "parent": "util_t1_effect_dur_1"
+        "parent": "utility_root"
       },
       {
         "id": "util_t1_cooldown_2",

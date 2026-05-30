@@ -1678,7 +1678,7 @@ hash = "cd06d56223ee28d315d2cdcf00d7a8602cc35163026157634aa6cb0bb87275ff"
 
 [[files]]
 file = "config/the_vault/black_market/greed_trades.json"
-hash = "a7e3352fe7c49a3dca8dd3a780073b036c1015c1f2444c0da98321b98e3bb421"
+hash = "4fbd2023aa9b959cda6c4bdbeffa076a94c4fb404c781b417edb182409db1a06"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
@@ -1694,7 +1694,7 @@ hash = "f402d03472046af947b9a8e5f7508b890a84f1ad4937bbed3613926aedde09a5"
 
 [[files]]
 file = "config/the_vault/bounty/greed_rewards.json"
-hash = "cf3f505c34779179589260579ae50884a734093d1b1c6391f4d5787a601afac9"
+hash = "9d404c75cb94aaf1e2ea2067488a96d79a48f26d31da8ff821ffaac117b5918e"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/completion.json"
@@ -1966,7 +1966,7 @@ hash = "43ab6a4b2409c3b6a12c997900ae3a60b642b12864d9a3883950afc4fce14d68"
 
 [[files]]
 file = "config/the_vault/gear/etchings.json"
-hash = "33bba286c21dae5f17c7848a9d0e7ec55cb48ab0c4dcf55492b137d36867ad49"
+hash = "40afe6db80822b39861c7922db4de9388abc0ce7e1d02707e6f6b03cd4f4120e"
 
 [[files]]
 file = "config/the_vault/gear/gear_common.json"
@@ -13926,7 +13926,7 @@ hash = "ca960b103dbfb88718f1942de1b997bba714d1b75caf67aeea2a6f55266c76ba"
 
 [[files]]
 file = "config/the_vault/greed/greed.json"
-hash = "c3a89bf0322bed27cb1d0d31a365aad9689aec4f9fced8d2b1123f441d65e4c3"
+hash = "39ba6da328c7f4731b13ddc60b13b6686800629403f9485283618234f5278c22"
 
 [[files]]
 file = "config/the_vault/greed/greed_cauldron.json"
@@ -13934,11 +13934,11 @@ hash = "3133bc2a5c3ee7ecd367be52c8b6bbacc5ba5c451296af38b4bee72fb3647e6b"
 
 [[files]]
 file = "config/the_vault/greed/greed_gui_styles.json"
-hash = "9d9e6621b1c3a6db73ef0c3f3711bbd4f62df7988f792e5db82d2bd7efbc51a7"
+hash = "2f09eef993de36f8d52efc5e0cf88377e8e36c07d23cbda07829cd1dd0aae100"
 
 [[files]]
 file = "config/the_vault/greed/greed_nodes.json"
-hash = "060175165b3a8722e8a535cf2683d5e1e42180cf129a5112340b2a2258e225f0"
+hash = "ca678686237b7da5739b05ad56029dd4aefc3b137e51c2c58228431e093d8a39"
 
 [[files]]
 file = "config/the_vault/greed/greed_objective.json"
@@ -13950,15 +13950,19 @@ hash = "fb774169a4af6e0a30accbe19e05a3ecc031f402f3138043967256c5004c7cbd"
 
 [[files]]
 file = "config/the_vault/greed/greed_trader.json"
-hash = "ea462b584d2f9eeac4b36f81c05d11a3d235ead4319ccd4330ab82b19cfb6ab4"
+hash = "35d16e4eef468dfd72b2d14e362b701a6dbebefd3726f1488e283bec9584c055"
 
 [[files]]
 file = "config/the_vault/greed/greed_tree.json"
 hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 
 [[files]]
+file = "config/the_vault/greed/reward_pools.json"
+hash = "c9f41884e198abe0dc3df0aae49a16043a44feacc468d7dec9fd172a727909cf"
+
+[[files]]
 file = "config/the_vault/greed/trials_screen.json"
-hash = "dcb68799e11c6d5951469a4956d1f50aed0251e49904e8e30b4a79e1aeae9e24"
+hash = "be4fc0aa29b9d03af34bd01edc749bf11603f71dc17a1ce832ba11c84375fc6e"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -17182,8 +17186,8 @@ file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
-file = "mods/companion_locker-3.21.2.jar"
-hash = "101859e097f62fadf6a79801e7068a8dc87b58f9cfb58bce6f78624b22466f99"
+file = "mods/companion_locker-3.21.3.jar"
+hash = "bf2aa525fb59b7175accd9dd1f36660f234a23bf1b47544b2f0f9d6281631cd8"
 
 [[files]]
 file = "mods/connectivity-1.18.2-3.2.jar"
@@ -17645,7 +17649,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "ecd82b6f39aec1bb95ea2d297a4fac987ecca0aed53fd8ffed3b46f409000761"
+hash = "30f835a2a7211e237652eda3c3b0286de7409a790aeeb2aaff51cbcde3c66830"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
