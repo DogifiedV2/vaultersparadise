@@ -50,21 +50,21 @@
       "inactiveIcon": "the_vault:gui/prestige/the_shadow_inactive"
     },
     "BountyCooldownReduction": {
-      "x": -90,
+      "x": -100,
       "y": 10,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/bountymaster",
       "inactiveIcon": "the_vault:gui/prestige/bountymaster_inactive"
     },
     "FallImmunity": {
-      "x": -50,
+      "x": -70,
       "y": 10,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/the_elvish",
       "inactiveIcon": "the_vault:gui/prestige/the_elvish_inactive"
     },
     "AetherSparkTrinket": {
-      "x": -10,
+      "x": 0,
       "y": 10,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/the_spark",
@@ -78,21 +78,21 @@
       "inactiveIcon": "the_vault:gui/prestige/the_gluttony_inactive"
     },
     "CatDodge": {
-      "x": 70,
+      "x": 60,
       "y": 10,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/the_cat",
       "inactiveIcon": "the_vault:gui/prestige/the_cat_inactive"
     },
     "NoTrinketUses": {
-      "x": 110,
+      "x": 130,
       "y": 10,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/no_trinket_use",
       "inactiveIcon": "the_vault:gui/prestige/no_trinket_use_inactive"
     },
     "PickupRange": {
-      "x": 150,
+      "x": 160,
       "y": 10,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/magnet_range",
@@ -113,21 +113,21 @@
       "inactiveIcon": "the_vault:gui/prestige/no_kinetic_damage_inactive"
     },
     "Shielded": {
-      "x": -90,
+      "x": -100,
       "y": 82,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/shielded",
       "inactiveIcon": "the_vault:gui/prestige/shielded_inactive"
     },
     "NoVoidUses": {
-      "x": -50,
+      "x": -70,
       "y": 82,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/necklace",
       "inactiveIcon": "the_vault:gui/prestige/necklace_inactive"
     },
     "ChampionsDamage": {
-      "x": -10,
+      "x": 0,
       "y": 82,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/champion",
@@ -141,21 +141,21 @@
       "inactiveIcon": "the_vault:gui/prestige/triple_jump_inactive"
     },
     "StepUpPower": {
-      "x": 70,
+      "x": 60,
       "y": 82,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/the_frog",
       "inactiveIcon": "the_vault:gui/prestige/the_frog_inactive"
     },
     "TheCarapace": {
-      "x": 110,
+      "x": 130,
       "y": 82,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/the_carapace",
       "inactiveIcon": "the_vault:gui/prestige/the_carapace_inactive"
     },
     "ElytraWings": {
-      "x": 150,
+      "x": 160,
       "y": 82,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/the_wings",
@@ -176,21 +176,21 @@
       "inactiveIcon": "the_vault:gui/prestige/no_charm_use_inactive"
     },
     "RegenerationPower": {
-      "x": -90,
+      "x": -100,
       "y": 154,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/the_petal",
       "inactiveIcon": "the_vault:gui/prestige/the_petal_inactive"
     },
     "TemporalShardChance": {
-      "x": -50,
+      "x": -70,
       "y": 154,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/temporal",
       "inactiveIcon": "the_vault:gui/prestige/temporal_inactive"
     },
     "OriginalWardPower": {
-      "x": -10,
+      "x": 0,
       "y": 154,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/ward",
@@ -204,25 +204,25 @@
       "inactiveIcon": "the_vault:gui/prestige/berserk_inactive"
     },
     "SuperCrystals": {
-      "x": 70,
+      "x": 60,
       "y": 154,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/super_crystals",
       "inactiveIcon": "the_vault:gui/prestige/super_crystals_inactive"
     },
     "TreasureHunterPower": {
-      "x": 110,
+      "x": 130,
       "y": 154,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/treasure",
       "inactiveIcon": "the_vault:gui/prestige/treasure_inactive"
     },
     "ToolCapacityPower": {
-      "x": 150,
+      "x": 160,
       "y": 154,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/prestige/tool_capacity",
-      "inactiveIcon": "the_vault:gui/prestige/tool_capacity_inactive"
+      "icon": "the_vault:gui/prestige/toolsmith",
+      "inactiveIcon": "the_vault:gui/prestige/toolsmith_inactive"
     },
     "ToolDurabilityPower": {
       "x": 190,
@@ -239,21 +239,21 @@
       "inactiveIcon": "the_vault:gui/prestige/black_marketer_inactive"
     },
     "CommanderPower": {
-      "x": -90,
+      "x": -100,
       "y": 226,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/commander",
       "inactiveIcon": "the_vault:gui/prestige/commander_inactive"
     },
     "MovementSpeedMultiplier": {
-      "x": -50,
+      "x": -70,
       "y": 226,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/swiftness_amplified",
       "inactiveIcon": "the_vault:gui/prestige/swiftness_amplified_inactive"
     },
     "GearDurabilityPower": {
-      "x": -10,
+      "x": 0,
       "y": 226,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/no_gear_durability",
@@ -267,21 +267,21 @@
       "inactiveIcon": "the_vault:gui/prestige/fruity_inactive"
     },
     "MasterfulPower": {
-      "x": 70,
+      "x": 60,
       "y": 226,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/masterful",
       "inactiveIcon": "the_vault:gui/prestige/masterful_inactive"
     },
     "MasterOfTheVault": {
-      "x": 110,
+      "x": 130,
       "y": 226,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/master_of_the_vault",
       "inactiveIcon": "the_vault:gui/prestige/master_of_the_vault_inactive"
     },
     "ForgeGod": {
-      "x": 150,
+      "x": 160,
       "y": 226,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/prestige/gear_sealer",
