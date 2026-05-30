@@ -143,6 +143,942 @@
     "11": [],
     "12": []
   },
+  "pools": {
+    "greed_trinkets": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 7,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:greed_trinket"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "random_crystals": [
+      {
+        "type": "random_crystal",
+        "weight": 50,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "minCoinCost": 15,
+        "maxCoinCost": 20,
+        "crystal": {
+          "modifierPool": "normal_modifiers",
+          "minModifiers": 0,
+          "maxModifiers": 8,
+          "modifierPoolTwo": "treasure_modifiers",
+          "minModifiersTwo": 0,
+          "maxModifiersTwo": 1,
+          "modifierPoolThree": "temporal_modifiers",
+          "minModifiersThree": 0,
+          "maxModifiersThree": 1
+        }
+      }
+    ],
+    "greater_cores": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 4,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:deck_socket",
+          "nbt": "{Modifier:\"@greed\",ModifierRoll:\"greater\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "greed_booster_packs": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": 7,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:greed_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 8,
+        "minGreedTier": 8,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:mega_greed_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "companion_super_relics": [],
+    "modified_super_inscriptions": [],
+    "super_inscriptions": [
+      {
+        "type": "inscription",
+        "weight": 24,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "COMMON",
+              "count": 1,
+              "color": 16777215
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 16777215
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore1",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore2",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore3",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore4",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 12,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "CHALLENGE",
+              "count": 1,
+              "color": 16755200
+            }
+          ],
+          "minTime": 900,
+          "maxTime": 2400,
+          "isSuper": true,
+          "color": 16755200
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 2,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "OMEGA",
+              "count": 1,
+              "color": 7012096
+            }
+          ],
+          "minTime": 200,
+          "maxTime": 800,
+          "isSuper": true,
+          "color": 7012096
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 4,
+        "minGreedTier": 3,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "OMEGA",
+              "count": 1,
+              "color": 7012096
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 2400,
+          "isSuper": true,
+          "color": 7012096
+        }
+      }
+    ],
+    "greed_companion_relics": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 2,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:companion_relic",
+          "nbt": "{pool:\"the_vault:greed_coins\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 2,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:companion_relic",
+          "nbt": "{pool:\"the_vault:greed_wooden\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 2,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:companion_relic",
+          "nbt": "{pool:\"the_vault:greed_ornate\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 2,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:companion_relic",
+          "nbt": "{pool:\"the_vault:greed_gilded\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 2,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:companion_relic",
+          "nbt": "{pool:\"the_vault:greed_living\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 2,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:companion_relic",
+          "nbt": "{pool:\"the_vault:greed_plentiful\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "catalysts": [
+      {
+        "type": "catalyst",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": 3,
+        "catalyst": {
+          "size": {
+            "type": "constant",
+            "count": 10
+          },
+          "modifierPool": "cascade_modifiers",
+          "minModifiers": 1,
+          "maxModifiers": 1,
+          "isSuper": true,
+          "isGreedy": false
+        }
+      },
+      {
+        "type": "catalyst",
+        "weight": 10,
+        "minGreedTier": 4,
+        "maxGreedTier": 9,
+        "catalyst": {
+          "size": {
+            "type": "constant",
+            "count": 12
+          },
+          "modifierPool": "good_modifiers",
+          "minModifiers": 1,
+          "maxModifiers": 2,
+          "isSuper": true,
+          "isGreedy": false
+        }
+      },
+      {
+        "type": "catalyst",
+        "weight": 10,
+        "minGreedTier": 10,
+        "maxGreedTier": -1,
+        "catalyst": {
+          "size": {
+            "type": "constant",
+            "count": 16
+          },
+          "modifierPool": "treasure_modifiers",
+          "minModifiers": 1,
+          "maxModifiers": 2,
+          "isSuper": true,
+          "isGreedy": false
+        }
+      }
+    ],
+    "greed_catalysts": [
+      {
+        "type": "catalyst",
+        "weight": 10,
+        "minGreedTier": 9,
+        "maxGreedTier": -1,
+        "catalyst": {
+          "size": {
+            "type": "uniform",
+            "min": 1,
+            "max": 2
+          },
+          "modifierPool": "cascade_modifiers",
+          "minModifiers": 1,
+          "maxModifiers": 1,
+          "isSuper": false,
+          "isGreedy": false
+        }
+      }
+    ],
+    "greed_coins": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 0,
+        "maxGreedTier": 0,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 1,
+        "maxAmount": 2
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": 1,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 2,
+        "maxAmount": 3
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 2,
+        "maxGreedTier": 2,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 3,
+        "maxAmount": 4
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 3,
+        "maxGreedTier": 3,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 4,
+        "maxAmount": 5
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 4,
+        "maxGreedTier": 4,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 5,
+        "maxAmount": 7
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 5,
+        "maxGreedTier": 5,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 7,
+        "maxAmount": 9
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 6,
+        "maxGreedTier": 6,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 9,
+        "maxAmount": 12
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 7,
+        "maxGreedTier": 7,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 12,
+        "maxAmount": 15
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 8,
+        "maxGreedTier": 8,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 15,
+        "maxAmount": 18
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 9,
+        "maxGreedTier": 9,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 18,
+        "maxAmount": 22
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 10,
+        "maxGreedTier": 10,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 22,
+        "maxAmount": 26
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 11,
+        "maxGreedTier": 11,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 26,
+        "maxAmount": 32
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 12,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:greed_coin"
+        },
+        "minAmount": 32,
+        "maxAmount": 40
+      }
+    ],
+    "etchings": [
+      {
+        "type": "random_etching",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": -1
+      }
+    ],
+    "knack_booster_packs": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 5,
+        "maxGreedTier": 5,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:knack_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 6,
+        "maxGreedTier": 7,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:mega_knack_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 8,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:deluxe_knack_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "super_inscriptions_omega": [
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 2,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "OMEGA",
+              "count": 1,
+              "color": 7012096
+            }
+          ],
+          "minTime": 200,
+          "maxTime": 800,
+          "isSuper": true,
+          "color": 7012096
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 4,
+        "minGreedTier": 3,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "OMEGA",
+              "count": 1,
+              "color": 7012096
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 2400,
+          "isSuper": true,
+          "color": 7012096
+        }
+      }
+    ],
+    "greed_crystals": [
+      {
+        "type": "random_crystal",
+        "weight": 50,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "minCoinCost": 15,
+        "maxCoinCost": 20,
+        "crystal": {
+          "modifierPool": "normal_modifiers",
+          "minModifiers": 0,
+          "maxModifiers": 8,
+          "modifierPoolTwo": "treasure_modifiers",
+          "minModifiersTwo": 0,
+          "maxModifiersTwo": 1,
+          "modifierPoolThree": "temporal_modifiers",
+          "minModifiersThree": 0,
+          "maxModifiersThree": 1
+        }
+      }
+    ],
+    "expertise_orbs": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 3,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "woldsvaults:expertise_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 2
+      }
+    ],
+    "companion_candy": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 6,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:companion_candy"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ]
+  },
+  "roomPoolsByType": {
+    "CHALLENGE": [
+      {
+        "pool": "the_vault:vault/rooms/challenge/crystal_caves",
+        "weight": 10,
+        "model": 5
+      },
+      {
+        "pool": "the_vault:vault/rooms/challenge/dragon",
+        "weight": 10,
+        "model": 7
+      },
+      {
+        "pool": "the_vault:vault/rooms/challenge/factory",
+        "weight": 10,
+        "model": 8
+      },
+      {
+        "pool": "the_vault:vault/rooms/challenge/laboratory",
+        "weight": 10,
+        "model": 20
+      },
+      {
+        "pool": "the_vault:vault/rooms/challenge/village",
+        "weight": 10,
+        "model": 13
+      },
+      {
+        "pool": "the_vault:vault/rooms/challenge/wildwest",
+        "weight": 10,
+        "model": 0
+      },
+      {
+        "pool": "the_vault:vault/rooms/challenge/x-mark",
+        "weight": 10,
+        "model": 15
+      },
+      {
+        "pool": "the_vault:vault/rooms/challenge/memory",
+        "weight": 10,
+        "model": 23
+      },
+      {
+        "pool": "the_vault:vault/rooms/challenge/horderush",
+        "weight": 10,
+        "model": 0
+      }
+    ],
+    "OMEGA": [
+      {
+        "pool": "the_vault:vault/rooms/omega/painting",
+        "weight": 10,
+        "model": 10
+      },
+      {
+        "pool": "the_vault:vault/rooms/omega/mine",
+        "weight": 4,
+        "model": 9
+      },
+      {
+        "pool": "the_vault:vault/rooms/omega/blacksmith",
+        "weight": 10,
+        "model": 1
+      },
+      {
+        "pool": "the_vault:vault/rooms/omega/pixel",
+        "weight": 10,
+        "model": 21
+      },
+      {
+        "pool": "the_vault:vault/rooms/omega/mush_room",
+        "weight": 10,
+        "model": 2
+      },
+      {
+        "pool": "the_vault:vault/rooms/omega/library",
+        "weight": 10,
+        "model": 3
+      },
+      {
+        "pool": "the_vault:vault/rooms/omega/cove",
+        "weight": 10,
+        "model": 4
+      },
+      {
+        "pool": "the_vault:vault/rooms/omega/warehouse",
+        "weight": 2,
+        "model": 0
+      }
+    ]
+  },
+  "modifierPools": {
+    "normal_modifiers": [
+      {
+        "modifier": "the_vault:wooden_cascade",
+        "weight": 10
+      },
+      {
+        "modifier": "the_vault:gilded_cascade",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:living_cascade",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:ornate_cascade",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:coin_cascade",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:plentiful",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:more_mobs_cata",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:gilded",
+        "weight": 3
+      },
+      {
+        "modifier": "the_vault:living",
+        "weight": 3
+      },
+      {
+        "modifier": "the_vault:ornate",
+        "weight": 3
+      },
+      {
+        "modifier": "the_vault:coin_pile",
+        "weight": 3
+      },
+      {
+        "modifier": "the_vault:wooden_bonus",
+        "weight": 4
+      }
+    ],
+    "cascade_modifiers": [
+      {
+        "modifier": "the_vault:wooden_cascade",
+        "weight": 10
+      },
+      {
+        "modifier": "the_vault:gilded_cascade",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:living_cascade",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:ornate_cascade",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:coin_cascade",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:plentiful",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:more_mobs_cata",
+        "weight": 8
+      }
+    ],
+    "good_modifiers": [
+      {
+        "modifier": "the_vault:gilded",
+        "weight": 6
+      },
+      {
+        "modifier": "the_vault:living",
+        "weight": 6
+      },
+      {
+        "modifier": "the_vault:ornate",
+        "weight": 6
+      },
+      {
+        "modifier": "the_vault:coin_pile",
+        "weight": 6
+      },
+      {
+        "modifier": "the_vault:wooden_bonus",
+        "weight": 6
+      }
+    ],
+    "treasure_modifiers": [
+      {
+        "modifier": "the_vault:hoard",
+        "weight": 3
+      },
+      {
+        "modifier": "the_vault:treasure",
+        "weight": 3
+      },
+      {
+        "modifier": "the_vault:dungeon_doors",
+        "weight": 3
+      },
+      {
+        "modifier": "the_vault:vendoor_doors",
+        "weight": 3
+      }
+    ],
+    "temporal_modifiers": [
+      {
+        "modifier": "the_vault:overpower",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:champion_domain",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:loot_goblin",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:door_hunter",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:ultimate_regeneration",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:kill_nuke",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:kill_charm",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:kill_hunter",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:kill_totem",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:bronze_nuke",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:glued_mobs",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:rock_solid",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:pylon_hunter",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:soul_fest",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:daycare",
+        "weight": 50
+      },
+      {
+        "modifier": "the_vault:lunar",
+        "weight": 50
+      }
+    ]
+  },
   "quests": [
     {
       "id": "the_vault:mega_wooden",
