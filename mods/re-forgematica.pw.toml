@@ -1,13 +1,13 @@
 name = "Re-Forgematica"
-filename = "re-forgematica-1.0.2-1.18.2.jar"
+filename = "re-forgematica-1.0.4-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "defc1a62b1ac87af644e5f4b39b9f2849e3af33d"
+hash = "a16f002bb50d96f1e29bc29c6c8a170bfc883452"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8167031
+file-id = 8167804
 project-id = 1556912
