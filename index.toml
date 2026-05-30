@@ -17506,6 +17506,11 @@ hash = "dcaa43dc07c5a6e2449c889145447366c9bfb616e0398276730dc93c3937680d"
 metafile = true
 
 [[files]]
+file = "mods/re-forgematica.pw.toml"
+hash = "d0faa31d0b92fd04975cc0baecfe3441afcbc5bc394b1c6ea80b142f7dda11b9"
+metafile = true
+
+[[files]]
 file = "mods/rebindnarrator-forge-1.18.x-1.2.2.jar"
 hash = "4a22b0740930d957b7caa4aa1459f664157e6056439e5f0283e84952e3adeb39"
 
