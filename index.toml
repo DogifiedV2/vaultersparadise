@@ -1690,11 +1690,11 @@ hash = "ae2721560cac7669df130d83528e414953996f99f11b9fd04321b22c916284cf"
 
 [[files]]
 file = "config/the_vault/bounty/greed_bounties.json"
-hash = "49d49c1ce53b30bcf2849d516c6b00a1fc107e15411e70c4cb5c5cef182a2b84"
+hash = "cb2e16ba541166e8cba60a48caec0fb6156a7c7a5cdde25316b06623b00ec2c3"
 
 [[files]]
 file = "config/the_vault/bounty/greed_rewards.json"
-hash = "b2194d6aff7542057547988bb0d114048239c5b4f02f3ff8e39ae736cff09ef1"
+hash = "2d6dadafc014ba125184ac4fca9d87b3b21506d00a9e03524e69dd08eb7f0214"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/completion.json"
@@ -1706,11 +1706,11 @@ hash = "6518ea0851524278ffd2795affb5c89020f74653e6ea9c2bbaefdd385550f9a7"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/flawless_chest.json"
-hash = "0cdd4a50cfb805ce08aa56f5a97171113b887860ed9687b0e6058412d3b425ab"
+hash = "936ee40187e583f64ab2d8bfe28ca3d192d7cd696732f4c6743b83483b651bc2"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/flawless_kill_entity.json"
-hash = "77e78c207fe814fa0a73728ae1ac8e2421d79ca3f194d351fcc092c819eeb708"
+hash = "02117131985d97c452446355adcca5a78383c34e7708392498aab2aca834411b"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/flawless_mining.json"
@@ -1726,7 +1726,7 @@ hash = "6518ea0851524278ffd2795affb5c89020f74653e6ea9c2bbaefdd385550f9a7"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/kill_entity.json"
-hash = "951fdaea5302fb8e89a3cfcbe620db0d06ce3868780805ba2f99b4033cdc9ebd"
+hash = "9c7c853ee722f6f485f3161d529f362561282cf5101e47b7086ae043fc68f66c"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/legendary_gear.json"
@@ -1734,15 +1734,15 @@ hash = "6518ea0851524278ffd2795affb5c89020f74653e6ea9c2bbaefdd385550f9a7"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/loot_chest.json"
-hash = "9691f5567425dad7ad1af3f2131ef56f27acaead91f3867fa44e92e1be265032"
+hash = "a0ec2e8a202977907caf05b7c13148fb49b9412ac9dc09f5f14ba7e3c8bf57ec"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/mining.json"
-hash = "f35034b39ef0c0178c362103a900851c436de80d5dbda48fee47b47350e1fe4f"
+hash = "aed698d8de49643f92df8b7c609d36a85091d6fc9df99c92c1315afe92a2739f"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/open_block.json"
-hash = "99be54353ae4fecdc91fdbe2073651a3fffff58c0aebbbcf076af3e6afd587c1"
+hash = "634084e47d859fda0b4bd8c3c037952b4a5be46a539030c1df0be1721d337a9d"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/rapid_kill_entity.json"
@@ -1758,7 +1758,7 @@ hash = "ac8a15bdfe485542eb5d4d89109829c966b254cd17a81f4ceddba5d81389c722"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/room_discovery.json"
-hash = "ba1035218ed66786dab210cab974ca749de8a8a87ff56992d63ab3f2cc9d5d08"
+hash = "d0072f162a2ce4afaca452484efcbcdb676a16722db63f8c61a79f08313a4e36"
 
 [[files]]
 file = "config/the_vault/bounty/ores.json"
@@ -17653,7 +17653,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "7a815f47f627b3df6d6951847badb005f0652a125b7024216dd0720f65320161"
+hash = "3ab5e1a9ad5f5593abdf7ab65c7b1079cb0f7b757b9ec341d43e77233f461132"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
