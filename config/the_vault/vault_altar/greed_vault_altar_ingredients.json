@@ -1,144 +1,533 @@
 {
   "LEVELS": {
     "0": {
-      "mob": [
+      "normal": [
         {
           "value": {
             "items": [
               {
-                "item": "minecraft:diamond"
-              },
-              {
-                "item": "minecraft:gold_ingot"
-              },
-              {
-                "item": "minecraft:iron_ingot"
+                "item": "the_vault:vault_essence"
               }
             ],
             "amount": {
-              "min": 64,
-              "max": 128
+              "min": 1000,
+              "max": 2500
             },
-            "scale": 0.8
+            "scale": 1.0
           },
-          "weight": 1
-        }
-      ],
-      "resource": [
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:black_wool"
-              },
-              {
-                "item": "minecraft:blue_wool"
-              },
-              {
-                "item": "minecraft:brown_wool"
-              },
-              {
-                "item": "minecraft:cyan_wool"
-              }
-            ],
-            "amount": {
-              "min": 10,
-              "max": 50
-            },
-            "scale": 0.8
-          },
-          "weight": 1
+          "weight": 20
         },
         {
           "value": {
             "items": [
               {
-                "item": "minecraft:stone"
-              },
-              {
-                "item": "minecraft:andesite"
-              },
-              {
-                "item": "minecraft:diorite"
+                "item": "the_vault:driftwood"
               }
             ],
             "amount": {
-              "min": 64,
-              "max": 128
+              "min": 2000,
+              "max": 4000
             },
-            "scale": 0.8
+            "scale": 1.0
           },
-          "weight": 1
-        }
-      ],
-      "farmable": [
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:black_wool"
-              },
-              {
-                "item": "minecraft:blue_wool"
-              },
-              {
-                "item": "minecraft:brown_wool"
-              },
-              {
-                "item": "minecraft:cyan_wool"
-              }
-            ],
-            "amount": {
-              "min": 10,
-              "max": 50
-            },
-            "scale": 0.8
-          },
-          "weight": 1
+          "weight": 40
         },
         {
           "value": {
             "items": [
               {
-                "item": "minecraft:sugar_cane"
-              },
-              {
-                "item": "minecraft:cactus"
-              },
-              {
-                "item": "minecraft:wheat_seeds"
+                "item": "the_vault:magic_silk"
               }
             ],
             "amount": {
-              "min": 64,
-              "max": 128
+              "min": 1500,
+              "max": 3000
             },
-            "scale": 0.8
+            "scale": 1.0
           },
-          "weight": 1
-        }
-      ],
-      "misc": [
+          "weight": 40
+        },
         {
           "value": {
             "items": [
               {
-                "item": "minecraft:heart_of_the_sea"
-              },
+                "item": "the_vault:vault_plating"
+              }
+            ],
+            "amount": {
+              "min": 1000,
+              "max": 2000
+            },
+            "scale": 1.0
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "items": [
               {
-                "item": "minecraft:totem_of_undying"
-              },
+                "item": "the_vault:soul_shard"
+              }
+            ],
+            "amount": {
+              "min": 5000,
+              "max": 10000
+            },
+            "scale": 1.0
+          },
+          "weight": 30
+        },
+        {
+          "value": {
+            "items": [
               {
-                "item": "minecraft:dragon_head"
+                "item": "the_vault:carbon_nugget"
+              }
+            ],
+            "amount": {
+              "min": 4000,
+              "max": 8000
+            },
+            "scale": 1.0
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:silver_scrap"
+              }
+            ],
+            "amount": {
+              "min": 500,
+              "max": 2000
+            },
+            "scale": 1.0
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:vault_diamond"
+              }
+            ],
+            "amount": {
+              "min": 500,
+              "max": 1500
+            },
+            "scale": 1.0
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:chromatic_iron_ingot"
+              }
+            ],
+            "amount": {
+              "min": 1000,
+              "max": 1500
+            },
+            "scale": 1.0
+          },
+          "weight": 30
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:vault_meat"
+              }
+            ],
+            "amount": {
+              "min": 500,
+              "max": 1250
+            },
+            "scale": 1.0
+          },
+          "weight": 20
+        }
+      ],
+      "gem": [
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_larimar"
+              }
+            ],
+            "amount": {
+              "min": 500,
+              "max": 1000
+            },
+            "scale": 1.0
+          },
+          "weight": 50
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_benitoite"
+              }
+            ],
+            "amount": {
+              "min": 1000,
+              "max": 2000
+            },
+            "scale": 1.0
+          },
+          "weight": 50
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_alexandrite"
+              }
+            ],
+            "amount": {
+              "min": 750,
+              "max": 1500
+            },
+            "scale": 1.0
+          },
+          "weight": 30
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_painite"
+              }
+            ],
+            "amount": {
+              "min": 750,
+              "max": 1500
+            },
+            "scale": 1.0
+          },
+          "weight": 30
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_black_opal"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_iskallium"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_gorginite"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_sparkletine"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_ashium"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_bomignite"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_tubium"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_upaline"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_petzanite"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_xenium"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 2
+        }
+      ],
+      "exotic": [
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gem_echo"
+              }
+            ],
+            "amount": {
+              "min": 250,
+              "max": 500
+            },
+            "scale": 1.0
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:vault_catalyst_fragment"
+              }
+            ],
+            "amount": {
+              "min": 50,
+              "max": 200
+            },
+            "scale": 1.0
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:inscription_piece"
+              }
+            ],
+            "amount": {
+              "min": 50,
+              "max": 200
+            },
+            "scale": 1.0
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:vault_platinum"
+              }
+            ],
+            "amount": {
+              "min": 50,
+              "max": 200
+            },
+            "scale": 1.0
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:gemstone"
+              }
+            ],
+            "amount": {
+              "min": 100,
+              "max": 250
+            },
+            "scale": 1.0
+          },
+          "weight": 40
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:vault_scrap"
+              }
+            ],
+            "amount": {
+              "min": 2500,
+              "max": 5000
+            },
+            "scale": 1.0
+          },
+          "weight": 30
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:card_juice"
+              }
+            ],
+            "amount": {
+              "min": 100,
+              "max": 250
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:key_piece"
+              }
+            ],
+            "amount": {
+              "min": 50,
+              "max": 100
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:soul_vortex"
               }
             ],
             "amount": {
               "min": 1,
-              "max": 1
+              "max": 2
             },
-            "scale": 1.0
+            "scale": 1.0,
+            "minGreedTier": 5
           },
-          "weight": 1
+          "weight": 10
+        },
+        {
+          "value": {
+            "items": [
+              {
+                "item": "the_vault:trinket_scrap"
+              }
+            ],
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "scale": 1.0,
+            "minGreedTier": 5
+          },
+          "weight": 20
         }
       ]
     }

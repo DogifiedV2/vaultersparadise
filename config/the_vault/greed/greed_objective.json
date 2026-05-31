@@ -11,6 +11,8 @@
   "bossLearnedHighestHitSafetyMultiplier": 8.0,
   "bossLearnedPowerExponent": 1.0,
   "bossLearnedMinFightSeconds": 5.0,
+  "bossLearnedUseActiveDamageWindow": true,
+  "bossLearnedMinActiveDamageSeconds": 10.0,
   "crateLootKey": "greed",
   "taskPools": {
     "IDONA": [
