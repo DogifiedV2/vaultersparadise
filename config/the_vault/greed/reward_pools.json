@@ -1207,6 +1207,14 @@
       {
         "modifier": "the_vault:more_mobs_cata",
         "weight": 8
+      },
+      {
+        "modifier": "the_vault:omega_fortune_20",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:challenge_fortune_20",
+        "weight": 8
       }
     ],
     "good_modifiers": [

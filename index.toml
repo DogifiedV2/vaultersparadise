@@ -1826,7 +1826,7 @@ hash = "e25d31c5de856a288c3c31c7ff406e64734b86451e40f4c3c58d05011a92fd04"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "ddad50f291846ced6ba733c66e0cda67e029e616e54d94dc47c4409592b6b3da"
+hash = "df049497118795c99a6a6dd64aebaff208529a595e5bc44edd3d42e7f7bade61"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
@@ -14674,7 +14674,7 @@ hash = "fb774169a4af6e0a30accbe19e05a3ecc031f402f3138043967256c5004c7cbd"
 
 [[files]]
 file = "config/the_vault/greed/greed_trader.json"
-hash = "b60ef9348d4fa82ad3ef1a5b03c5e0e27f812a4ff48e9ed720df466c7f89488f"
+hash = "f530dc26ddfd9de171522bb85d8c0f74a4fe73fd9a8391290768049d631ac80c"
 
 [[files]]
 file = "config/the_vault/greed/greed_tree.json"
@@ -14682,7 +14682,7 @@ hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 
 [[files]]
 file = "config/the_vault/greed/reward_pools.json"
-hash = "e742f51515c6879587d1e7fa5e24766aa3dc4ff405ce87b92359439c6d36e562"
+hash = "60a1050c9d3bbf501ec687462b927615bfdb4d9f077573aa97fb7382af9763d1"
 
 [[files]]
 file = "config/the_vault/greed/trials_screen.json"
@@ -15058,7 +15058,7 @@ hash = "a69369bc8f2b009055da5439087422f5b0c94877e23c11ee7120770ec32b62ff"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "9fe6a558a9c02a9a19dbbaf25bbdfb68f5ffe7295d0c22076d56d4640eef88eb"
+hash = "b32b7739e4f0d8c68acb2bbbd133707be995f32447467e4526d9b9aa828ecd0d"
 
 [[files]]
 file = "config/the_vault/recipes/companion_relics_recipes.json"
@@ -15318,7 +15318,7 @@ hash = "bde54724446a61160e19e930b88e94eacbe24e8019638408eb5f791c37b2d228"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
-hash = "3317c898d300ced56b7d68763327c5ec0d13d361b1dcc9d060aa2cd36542ca80"
+hash = "49e931300166719eab27db32ea8e79cc51d5b90dc3aa2cdc0613064887448eb7"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
@@ -15382,7 +15382,7 @@ hash = "e8e147f8ff34ad7d31ed39711286c4fc1bd5ba2c5962f0a345f263404112334b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "0d22ca2633a8c1ea471e5c99a0f5ed3ba43bd29083c4a4c4f8a77a9aff356ad8"
+hash = "3f9246bdcad239dbc36e5464880be1561d52546470c4b41c5da1942e82dce1db"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -18373,7 +18373,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "4c0dc8cdf743819ddb56945f71833628b2cdcf7feb90c5fb68dabfbddbf9a594"
+hash = "913f37bfe993754f99a7c6ac69527058d32c83f5979599464020d3b0ebdded23"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

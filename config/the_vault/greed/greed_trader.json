@@ -2220,6 +2220,14 @@
       {
         "modifier": "the_vault:more_mobs_cata",
         "weight": 8
+      },
+      {
+        "modifier": "the_vault:omega_fortune_20",
+        "weight": 8
+      },
+      {
+        "modifier": "the_vault:challenge_fortune_20",
+        "weight": 8
       }
     ],
     "good_modifiers": [
@@ -3819,14 +3827,14 @@
     },
     {
       "displayName": "Gone in 60 seconds",
-      "description": "A good movie, how good is it inside a vault though\u2026",
+      "description": "A good movie, how good is it inside a vault though…",
       "challengeCrystalId": "gone_in_60_seconds",
       "minTier": 5,
       "maxTier": 5
     },
     {
       "displayName": "The Pacifist",
-      "description": "So you say this is more efficient, faster, better, stronger? Weak\u2026",
+      "description": "So you say this is more efficient, faster, better, stronger? Weak…",
       "challengeCrystalId": "the_pacifist",
       "minTier": 6,
       "maxTier": 6

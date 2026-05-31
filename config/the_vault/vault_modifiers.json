@@ -5523,8 +5523,8 @@
         }
       }
     },
-    "the_vault:modifier_type/divine_dust_chest": {
-      "the_vault:divine_dust_chest": {
+    "the_vault:modifier_type/divine_essence_chest": {
+      "the_vault:divine_essence_chest": {
         "properties": {
           "entries": [
             {
@@ -5642,9 +5642,9 @@
           ]
         },
         "display": {
-          "name": "Divine Dusting",
+          "name": "Divine Essence",
           "color": "#8A78FF",
-          "description": "Chests can contain Divine Dust",
+          "description": "Chests can contain +1 Divine Essence",
           "icon": "the_vault:gui/modifiers/god_token_tenos"
         }
       }

@@ -1064,7 +1064,7 @@
         ]
       }
     ],
-    "the_vault:craft_divine_dust": [
+    "the_vault:craft_divine_essence": [
       {
         "level": 0,
         "pool": [
@@ -1076,7 +1076,7 @@
                 "type": "uniform"
               },
               "modifiers": [
-                "the_vault:divine_dust_chest",
+                "the_vault:divine_essence_chest",
                 "the_vault:challenge_stack"
               ],
               "model": 18
