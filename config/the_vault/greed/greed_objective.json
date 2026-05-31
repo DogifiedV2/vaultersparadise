@@ -1,8 +1,8 @@
 {
   "taskMultiplierPerContinue": 1.22,
-  "bossBaseHealth": 50000.0,
-  "bossHealthMultiplierPerContinue": 1.22,
-  "bossDamageMultiplierPerContinue": 1.08,
+  "bossBaseHealth": 100000.0,
+  "bossHealthMultiplierPerContinue": 1.25,
+  "bossDamageMultiplierPerContinue": 1.05,
   "crateLootKey": "greed",
   "taskPools": {
     "IDONA": [
@@ -479,24 +479,23 @@
             "level": 0
           },
           {
-            "type": "interact_block",
-            "pre": "the_vault:pylon{Consumed:0b}",
-            "post": "the_vault:pylon{Consumed:1b}",
+            "type": "kill_entity",
+            "filter": "@the_vault:mob_type/dungeon_boss",
             "counter": {
               "type": "target",
               "target": {
                 "type": "uniform",
-                "min": 3,
-                "max": 5
+                "min": 1,
+                "max": 2
               },
               "variables": {
-                "targetPlayerContribution": 0.5
+                "targetPlayerContribution": 1.0
               }
             },
             "renderer": {
               "type": "bingo",
-              "name": "Activate Pylons",
-              "icon": "the_vault:textures/gui/bingo/pylon.png"
+              "name": "Kill Dungeon Boss",
+              "icon": "the_vault:textures/gui/bingo/killdungeonboss.png"
             },
             "weight": 5.0,
             "level": 0
@@ -1312,5 +1311,7 @@
         "subsequentBingo": []
       }
     ]
-  }
+  },
+  "generatedTaskWeight": 0.57,
+  "maxGeneratedTasksPerRoll": 3
 }
