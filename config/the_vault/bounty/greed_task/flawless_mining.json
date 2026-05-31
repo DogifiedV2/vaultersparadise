@@ -6,8 +6,8 @@
           "value": {
             "value": "the_vault:ores",
             "amount": {
-              "min": 35,
-              "max": 70
+              "min": 30,
+              "max": 58
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -21,7 +21,103 @@
             "value": "the_vault:coin_pile",
             "amount": {
               "min": 40,
-              "max": 70
+              "max": 74
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "4": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 37,
+              "max": 71
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:coin_pile",
+            "amount": {
+              "min": 49,
+              "max": 90
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "7": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 42,
+              "max": 80
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:coin_pile",
+            "amount": {
+              "min": 55,
+              "max": 102
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 46,
+              "max": 90
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:coin_pile",
+            "amount": {
+              "min": 62,
+              "max": 115
             },
             "floorToNearestTen": false,
             "validDimensions": [],

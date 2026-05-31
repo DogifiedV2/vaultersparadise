@@ -6,8 +6,8 @@
           "value": {
             "value": "the_vault:ores",
             "amount": {
-              "min": 2000,
-              "max": 3000
+              "min": 120,
+              "max": 210
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -20,8 +20,104 @@
           "value": {
             "value": "the_vault:coin_pile",
             "amount": {
-              "min": 940,
-              "max": 1840
+              "min": 190,
+              "max": 330
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "4": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 146,
+              "max": 256
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:coin_pile",
+            "amount": {
+              "min": 232,
+              "max": 403
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "7": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 166,
+              "max": 291
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:coin_pile",
+            "amount": {
+              "min": 263,
+              "max": 457
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 186,
+              "max": 326
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:coin_pile",
+            "amount": {
+              "min": 294,
+              "max": 512
             },
             "floorToNearestTen": false,
             "validDimensions": [],

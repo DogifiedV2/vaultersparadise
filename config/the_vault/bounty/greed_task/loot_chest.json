@@ -9,8 +9,8 @@
               "filter": "@the_vault:wooden"
             },
             "amount": {
-              "min": 940,
-              "max": 1840
+              "min": 180,
+              "max": 300
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -26,15 +26,15 @@
               "filter": "@the_vault:ornate"
             },
             "amount": {
-              "min": 235,
-              "max": 460
+              "min": 45,
+              "max": 78
             },
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": true,
             "rewardPool": "common"
           },
-          "weight": 10
+          "weight": 8
         },
         {
           "value": {
@@ -43,8 +43,46 @@
               "filter": "@the_vault:gilded"
             },
             "amount": {
-              "min": 235,
-              "max": 460
+              "min": 45,
+              "max": 78
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Living Chests",
+              "filter": "@the_vault:living"
+            },
+            "amount": {
+              "min": 45,
+              "max": 78
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        }
+      ]
+    },
+    "4": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Wooden Chests",
+              "filter": "@the_vault:wooden"
+            },
+            "amount": {
+              "min": 220,
+              "max": 366
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -56,12 +94,67 @@
         {
           "value": {
             "value": {
+              "displayName": "Ornate Chests",
+              "filter": "@the_vault:ornate"
+            },
+            "amount": {
+              "min": 55,
+              "max": 95
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Gilded Chests",
+              "filter": "@the_vault:gilded"
+            },
+            "amount": {
+              "min": 55,
+              "max": 95
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "value": {
               "displayName": "Living Chests",
               "filter": "@the_vault:living"
             },
             "amount": {
-              "min": 235,
-              "max": 460
+              "min": 55,
+              "max": 95
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        }
+      ]
+    },
+    "7": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Wooden Chests",
+              "filter": "@the_vault:wooden"
+            },
+            "amount": {
+              "min": 249,
+              "max": 416
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -69,6 +162,129 @@
             "rewardPool": "common"
           },
           "weight": 10
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Ornate Chests",
+              "filter": "@the_vault:ornate"
+            },
+            "amount": {
+              "min": 62,
+              "max": 108
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Gilded Chests",
+              "filter": "@the_vault:gilded"
+            },
+            "amount": {
+              "min": 62,
+              "max": 108
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Living Chests",
+              "filter": "@the_vault:living"
+            },
+            "amount": {
+              "min": 62,
+              "max": 108
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Wooden Chests",
+              "filter": "@the_vault:wooden"
+            },
+            "amount": {
+              "min": 279,
+              "max": 465
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Ornate Chests",
+              "filter": "@the_vault:ornate"
+            },
+            "amount": {
+              "min": 70,
+              "max": 121
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Gilded Chests",
+              "filter": "@the_vault:gilded"
+            },
+            "amount": {
+              "min": 70,
+              "max": 121
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Living Chests",
+              "filter": "@the_vault:living"
+            },
+            "amount": {
+              "min": 70,
+              "max": 121
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 8
         }
       ]
     }

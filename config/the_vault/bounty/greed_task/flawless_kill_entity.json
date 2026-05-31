@@ -6,8 +6,8 @@
           "value": {
             "value": "@the_vault:mob_type/horde",
             "amount": {
-              "min": 80,
-              "max": 140
+              "min": 55,
+              "max": 100
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -20,8 +20,8 @@
           "value": {
             "value": "@the_vault:mob_type/assassin",
             "amount": {
-              "min": 25,
-              "max": 45
+              "min": 20,
+              "max": 38
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -34,8 +34,40 @@
           "value": {
             "value": "@the_vault:mob_type/tank",
             "amount": {
-              "min": 8,
-              "max": 16
+              "min": 7,
+              "max": 14
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/champion",
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 4
+        }
+      ]
+    },
+    "4": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 67,
+              "max": 122
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -46,10 +78,158 @@
         },
         {
           "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 24,
+              "max": 46
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/tank",
+            "amount": {
+              "min": 9,
+              "max": 17
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 7
+        },
+        {
+          "value": {
             "value": "@the_vault:mob_type/champion",
             "amount": {
               "min": 1,
               "max": 2
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 4
+        }
+      ]
+    },
+    "7": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 76,
+              "max": 138
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 28,
+              "max": 53
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/tank",
+            "amount": {
+              "min": 10,
+              "max": 19
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/champion",
+            "amount": {
+              "min": 1,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 4
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 85,
+              "max": 155
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 31,
+              "max": 59
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/tank",
+            "amount": {
+              "min": 11,
+              "max": 22
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/champion",
+            "amount": {
+              "min": 2,
+              "max": 3
             },
             "floorToNearestTen": false,
             "validDimensions": [],

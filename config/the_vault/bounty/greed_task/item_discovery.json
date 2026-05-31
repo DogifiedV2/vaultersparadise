@@ -1,3 +1,356 @@
 {
-  "LEVELS": {}
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:vault_essence",
+            "amount": {
+              "min": 18,
+              "max": 34
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:vault_diamond",
+            "amount": {
+              "min": 18,
+              "max": 34
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_larimar",
+            "amount": {
+              "min": 18,
+              "max": 34
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_benitoite",
+            "amount": {
+              "min": 18,
+              "max": 34
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_alexandrite",
+            "amount": {
+              "min": 18,
+              "max": 34
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_painite",
+            "amount": {
+              "min": 18,
+              "max": 34
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 5
+        }
+      ]
+    },
+    "4": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:vault_essence",
+            "amount": {
+              "min": 20,
+              "max": 38
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:vault_diamond",
+            "amount": {
+              "min": 20,
+              "max": 38
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_larimar",
+            "amount": {
+              "min": 20,
+              "max": 38
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_benitoite",
+            "amount": {
+              "min": 20,
+              "max": 38
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_alexandrite",
+            "amount": {
+              "min": 20,
+              "max": 38
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_painite",
+            "amount": {
+              "min": 20,
+              "max": 38
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 5
+        }
+      ]
+    },
+    "7": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:vault_essence",
+            "amount": {
+              "min": 22,
+              "max": 42
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:vault_diamond",
+            "amount": {
+              "min": 22,
+              "max": 42
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_larimar",
+            "amount": {
+              "min": 22,
+              "max": 42
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_benitoite",
+            "amount": {
+              "min": 22,
+              "max": 42
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_alexandrite",
+            "amount": {
+              "min": 22,
+              "max": 42
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_painite",
+            "amount": {
+              "min": 22,
+              "max": 42
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 5
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:vault_essence",
+            "amount": {
+              "min": 24,
+              "max": 45
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:vault_diamond",
+            "amount": {
+              "min": 24,
+              "max": 45
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_larimar",
+            "amount": {
+              "min": 24,
+              "max": 45
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_benitoite",
+            "amount": {
+              "min": 24,
+              "max": 45
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_alexandrite",
+            "amount": {
+              "min": 24,
+              "max": 45
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "value": "the_vault:gem_painite",
+            "amount": {
+              "min": 24,
+              "max": 45
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 5
+        }
+      ]
+    }
+  }
 }

@@ -387,7 +387,7 @@
           "item": "the_vault:greed_coin"
         },
         "minAmount": 1,
-        "maxAmount": 2
+        "maxAmount": 1
       },
       {
         "type": "item",
@@ -397,8 +397,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 2,
-        "maxAmount": 3
+        "minAmount": 1,
+        "maxAmount": 2
       },
       {
         "type": "item",
@@ -408,8 +408,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 3,
-        "maxAmount": 4
+        "minAmount": 2,
+        "maxAmount": 3
       },
       {
         "type": "item",
@@ -419,8 +419,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 4,
-        "maxAmount": 5
+        "minAmount": 2,
+        "maxAmount": 4
       },
       {
         "type": "item",
@@ -430,8 +430,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 5,
-        "maxAmount": 7
+        "minAmount": 3,
+        "maxAmount": 5
       },
       {
         "type": "item",
@@ -441,8 +441,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 7,
-        "maxAmount": 9
+        "minAmount": 4,
+        "maxAmount": 6
       },
       {
         "type": "item",
@@ -452,8 +452,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 9,
-        "maxAmount": 12
+        "minAmount": 5,
+        "maxAmount": 7
       },
       {
         "type": "item",
@@ -463,8 +463,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 12,
-        "maxAmount": 15
+        "minAmount": 6,
+        "maxAmount": 8
       },
       {
         "type": "item",
@@ -474,8 +474,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 15,
-        "maxAmount": 18
+        "minAmount": 7,
+        "maxAmount": 10
       },
       {
         "type": "item",
@@ -485,8 +485,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 18,
-        "maxAmount": 22
+        "minAmount": 8,
+        "maxAmount": 12
       },
       {
         "type": "item",
@@ -496,8 +496,8 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 22,
-        "maxAmount": 26
+        "minAmount": 10,
+        "maxAmount": 14
       },
       {
         "type": "item",
@@ -507,19 +507,19 @@
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 26,
-        "maxAmount": 32
+        "minAmount": 12,
+        "maxAmount": 16
       },
       {
         "type": "item",
         "weight": 10,
         "minGreedTier": 12,
-        "maxGreedTier": -1,
+        "maxGreedTier": 12,
         "itemStack": {
           "item": "the_vault:greed_coin"
         },
-        "minAmount": 32,
-        "maxAmount": 40
+        "minAmount": 14,
+        "maxAmount": 18
       }
     ],
     "etchings": [
@@ -650,6 +650,179 @@
         "maxGreedTier": -1,
         "itemStack": {
           "item": "the_vault:companion_candy"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "greed_point_orbs": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": 1,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 2,
+        "maxAmount": 2
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 2,
+        "maxGreedTier": 2,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 3,
+        "maxGreedTier": 3,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 4,
+        "maxGreedTier": 4,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 5,
+        "maxGreedTier": 5,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 2
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 6,
+        "maxGreedTier": 6,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 2
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 7,
+        "maxGreedTier": 7,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 2
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 8,
+        "maxGreedTier": 8,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 3
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 9,
+        "maxGreedTier": 9,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 1,
+        "maxAmount": 3
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 10,
+        "maxGreedTier": 10,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 2,
+        "maxAmount": 3
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 11,
+        "maxGreedTier": 11,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 2,
+        "maxAmount": 3
+      },
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 12,
+        "maxGreedTier": 12,
+        "itemStack": {
+          "item": "the_vault:greed_point_orb"
+        },
+        "minAmount": 2,
+        "maxAmount": 3
+      }
+    ],
+    "greed_hourglass": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 3,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:greed_hourglass"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "greed_goodie_box": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:greed_goodie_box"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "greed_market_rerolls": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:greed_market_reroll"
         },
         "minAmount": 1,
         "maxAmount": 1
@@ -936,99 +1109,377 @@
     ]
   },
   "greedCrateRewardCount": {
-    "min": 1,
-    "max": 2
+    "min": 0,
+    "max": 0
   },
   "greedCrateRewards": [
     {
       "type": "pool",
-      "weight": 20,
-      "poolId": "greed_coins",
+      "weight": 42,
+      "poolId": "greed_point_orbs",
       "minGreedTier": 1,
-      "maxGreedTier": -1
+      "maxGreedTier": -1,
+      "minCrateTier": 2,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "random_etching",
+      "weight": 14,
+      "minGreedTier": 1,
+      "maxGreedTier": 3,
+      "minCrateTier": 1,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "random_etching",
+      "weight": 16,
+      "minGreedTier": 4,
+      "maxGreedTier": 6,
+      "minCrateTier": 2,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "random_etching",
+      "weight": 18,
+      "minGreedTier": 7,
+      "maxGreedTier": 9,
+      "minCrateTier": 2,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "random_etching",
+      "weight": 20,
+      "minGreedTier": 10,
+      "maxGreedTier": -1,
+      "minCrateTier": 3,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 10,
+      "poolId": "greed_booster_packs",
+      "minGreedTier": 1,
+      "maxGreedTier": -1,
+      "minCrateTier": 1,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 12,
+      "poolId": "super_inscriptions",
+      "minGreedTier": 1,
+      "maxGreedTier": -1,
+      "minCrateTier": 1,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 11,
+      "poolId": "catalysts",
+      "minGreedTier": 1,
+      "maxGreedTier": -1,
+      "minCrateTier": 2,
+      "maxCrateTier": -1
     },
     {
       "type": "pool",
       "weight": 5,
-      "poolId": "etchings",
-      "minGreedTier": 1,
-      "maxGreedTier": -1
-    },
-    {
-      "type": "pool",
-      "weight": 6,
-      "poolId": "greed_booster_packs",
-      "minGreedTier": 1,
-      "maxGreedTier": -1
-    },
-    {
-      "type": "pool",
-      "weight": 6,
-      "poolId": "catalysts",
-      "minGreedTier": 1,
-      "maxGreedTier": -1
-    },
-    {
-      "type": "pool",
-      "weight": 6,
-      "poolId": "super_inscriptions",
-      "minGreedTier": 1,
-      "maxGreedTier": -1
-    },
-    {
-      "type": "pool",
-      "weight": 4,
       "poolId": "greed_crystals",
       "minGreedTier": 1,
-      "maxGreedTier": -1
+      "maxGreedTier": -1,
+      "minCrateTier": 2,
+      "maxCrateTier": -1
     },
     {
       "type": "pool",
-      "weight": 4,
+      "weight": 10,
+      "poolId": "super_inscriptions_omega",
+      "minGreedTier": 2,
+      "maxGreedTier": -1,
+      "minCrateTier": 2,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 10,
       "poolId": "greed_companion_relics",
       "minGreedTier": 2,
-      "maxGreedTier": -1
+      "maxGreedTier": -1,
+      "minCrateTier": 2,
+      "maxCrateTier": -1
     },
     {
       "type": "pool",
-      "weight": 4,
+      "weight": 10,
       "poolId": "expertise_orbs",
       "minGreedTier": 3,
-      "maxGreedTier": -1
+      "maxGreedTier": -1,
+      "minCrateTier": 3,
+      "maxCrateTier": -1
     },
     {
       "type": "pool",
-      "weight": 3,
+      "weight": 8,
       "poolId": "greater_cores",
       "minGreedTier": 4,
-      "maxGreedTier": -1
+      "maxGreedTier": -1,
+      "minCrateTier": 3,
+      "maxCrateTier": -1
     },
     {
       "type": "pool",
-      "weight": 4,
+      "weight": 9,
       "poolId": "knack_booster_packs",
       "minGreedTier": 5,
-      "maxGreedTier": -1
+      "maxGreedTier": -1,
+      "minCrateTier": 3,
+      "maxCrateTier": -1
     },
     {
       "type": "pool",
-      "weight": 2,
+      "weight": 7,
       "poolId": "companion_candy",
       "minGreedTier": 6,
+      "maxGreedTier": -1,
+      "minCrateTier": 4,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 8,
+      "poolId": "greed_trinkets",
+      "minGreedTier": 7,
+      "maxGreedTier": -1,
+      "minCrateTier": 4,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 8,
+      "poolId": "greed_catalysts",
+      "minGreedTier": 9,
+      "maxGreedTier": -1,
+      "minCrateTier": 4,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 1,
+      "poolId": "greed_hourglass",
+      "minGreedTier": 3,
+      "maxGreedTier": -1,
+      "minCrateTier": 4,
+      "maxCrateTier": -1
+    }
+  ],
+  "greedCrateCoinCountByTier": {
+    "1": {
+      "min": 8,
+      "max": 12
+    },
+    "2": {
+      "min": 14,
+      "max": 20
+    },
+    "3": {
+      "min": 22,
+      "max": 30
+    },
+    "4": {
+      "min": 34,
+      "max": 46
+    },
+    "5": {
+      "min": 48,
+      "max": 64
+    },
+    "6": {
+      "min": 64,
+      "max": 84
+    },
+    "7": {
+      "min": 82,
+      "max": 106
+    },
+    "8": {
+      "min": 102,
+      "max": 132
+    },
+    "9": {
+      "min": 124,
+      "max": 158
+    },
+    "10": {
+      "min": 148,
+      "max": 188
+    },
+    "11": {
+      "min": 174,
+      "max": 220
+    },
+    "12": {
+      "min": 204,
+      "max": 256
+    }
+  },
+  "greedCrateRewardCountByTier": {
+    "1": {
+      "min": 2,
+      "max": 2
+    },
+    "2": {
+      "min": 3,
+      "max": 3
+    },
+    "3": {
+      "min": 4,
+      "max": 4
+    },
+    "4": {
+      "min": 5,
+      "max": 5
+    },
+    "5": {
+      "min": 6,
+      "max": 6
+    },
+    "6": {
+      "min": 7,
+      "max": 7
+    }
+  },
+  "greedGoodieBoxRewardCount": {
+    "min": 2,
+    "max": 3
+  },
+  "greedGoodieBoxRewards": [
+    {
+      "type": "random_etching",
+      "weight": 10,
+      "minGreedTier": 1,
       "maxGreedTier": -1
     },
     {
       "type": "pool",
-      "weight": 2,
-      "poolId": "greed_trinkets",
-      "minGreedTier": 7,
-      "maxGreedTier": -1
+      "weight": 8,
+      "poolId": "greed_booster_packs",
+      "minGreedTier": 1,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 8,
+      "poolId": "super_inscriptions",
+      "minGreedTier": 1,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 7,
+      "poolId": "catalysts",
+      "minGreedTier": 1,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
     },
     {
       "type": "pool",
       "weight": 3,
+      "poolId": "greed_crystals",
+      "minGreedTier": 1,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 9,
+      "poolId": "super_inscriptions_omega",
+      "minGreedTier": 2,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 9,
+      "poolId": "greed_companion_relics",
+      "minGreedTier": 2,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 10,
+      "poolId": "expertise_orbs",
+      "minGreedTier": 3,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 8,
+      "poolId": "greater_cores",
+      "minGreedTier": 4,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 10,
+      "poolId": "knack_booster_packs",
+      "minGreedTier": 5,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 7,
+      "poolId": "companion_candy",
+      "minGreedTier": 6,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 8,
+      "poolId": "greed_trinkets",
+      "minGreedTier": 7,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 12,
+      "poolId": "greed_booster_packs",
+      "minGreedTier": 8,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 10,
       "poolId": "greed_catalysts",
       "minGreedTier": 9,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "random_etching",
+      "weight": 14,
+      "minGreedTier": 10,
       "maxGreedTier": -1
     }
   ]
