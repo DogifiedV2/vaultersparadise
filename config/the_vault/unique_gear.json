@@ -59,7 +59,6 @@
         "SUFFIX": [
           "the_vault:u_shocking_hit",
           "the_vault:u_stun_hit"
-
         ]
       },
       "modifierTags": [],
@@ -95,7 +94,6 @@
         "PREFIX": [
           "the_vault:mod_attack_damage",
           "the_vault:mod_damage_baby"
-
         ],
         "SUFFIX": [
           "the_vault:u_on_hit_aoe"
@@ -130,7 +128,6 @@
         ],
         "PREFIX": [
           "the_vault:mod_attack_damage"
-
         ],
         "SUFFIX": [
           "the_vault:u_relentless_strike",
@@ -141,7 +138,6 @@
       "lore": "A blade that grows sharper with every swing, feeding on the rhythm of battle. Its edge strikes faster and harder, compounding strength until even legends must yield.",
       "weight": 1
     },
-
     "the_vault:everfrost": {
       "name": "Everfrost",
       "item": "the_vault:sword",
@@ -355,9 +351,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:butcher_axe": {
       "name": "Butcher's Axe",
       "item": "the_vault:axe",
@@ -417,7 +410,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:leviathan": {
       "name": "Leviathan",
       "item": "the_vault:axe",
@@ -528,17 +520,12 @@
           "the_vault:base_double_hit_chance",
           "the_vault:mod_hemorrhaging"
         ],
-        "PREFIX": [
-        ],
-        "SUFFIX": [
-        ]
+        "PREFIX": [],
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:jester": {
       "name": "Jester Hat",
       "item": "the_vault:helmet",
@@ -567,9 +554,7 @@
           "the_vault:jester_lucky_hit",
           "the_vault:jester_lucky_hit"
         ],
-        "PREFIX": [
-
-        ],
+        "PREFIX": [],
         "SUFFIX": [
           "the_vault:u_item_rarity"
         ]
@@ -599,7 +584,6 @@
           "the_vault:unique_storm_arrow_level",
           "the_vault:storm_aoe_reduce",
           "the_vault:storm_cooldown"
-
         ],
         "SUFFIX": [
           "the_vault:mod_mana_regen"
@@ -645,9 +629,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:annmari": {
       "name": "Ann-Mari",
       "item": "the_vault:chestplate",
@@ -675,7 +656,6 @@
         "SUFFIX": [
           "the_vault:heal_cooldown",
           "the_vault:u_phoenix"
-
         ]
       },
       "modifierTags": [],
@@ -700,7 +680,6 @@
         }
       ],
       "modifierIdentifiers": {
-
         "BASE_ATTRIBUTE": [
           "the_vault:base_durability",
           "the_vault:base_soulbound"
@@ -751,7 +730,6 @@
         ],
         "PREFIX": [
           "the_vault:mod_ap"
-
         ],
         "SUFFIX": [
           "the_vault:mod_mana_regen",
@@ -820,8 +798,7 @@
           "the_vault:mod_health",
           "the_vault:mod_health"
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "lore": "Woven with devotion, its embrace strengthens the body, filling the heart with vitality beyond measure. Few armours guard life as fiercely as this.",
@@ -860,9 +837,6 @@
       "lore": "Woven with devotion, its embrace strengthens the body, filling the heart with vitality beyond measure. Few armours guard life as fiercely as this.",
       "weight": 10
     },
-
-
-
     "the_vault:crashguards": {
       "name": "Crashguards",
       "item": "the_vault:leggings",
@@ -893,7 +867,6 @@
           "the_vault:u_mod_armor",
           "the_vault:mod_resistance",
           "the_vault:u_knockback_resistance"
-
         ],
         "SUFFIX": [
           "the_vault:mod_kinetic_immunity",
@@ -922,22 +895,17 @@
           "the_vault:base_armor"
         ],
         "PREFIX": [
-
           "the_vault:u_movement",
           "the_vault:u_knockback_resistance"
         ],
         "SUFFIX": [
           "the_vault:u_effect_avoidance",
           "the_vault:mod_mana_regen"
-
         ]
       },
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:frostguards": {
       "name": "Frostguards",
       "item": "the_vault:boots",
@@ -997,13 +965,11 @@
         ],
         "SUFFIX": [
           "the_vault:u_entropic_bind"
-
         ]
       },
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:plaguewalker": {
       "name": "Plaguewalker",
       "item": "the_vault:boots",
@@ -1033,9 +999,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:gladiator_buckler": {
       "name": "Gladiator's Buckler",
       "item": "the_vault:shield",
@@ -1086,8 +1049,7 @@
           "the_vault:base_durability",
           "the_vault:base_soulbound"
         ],
-        "IMPLICIT": [
-        ],
+        "IMPLICIT": [],
         "PREFIX": [
           "the_vault:mod_fear"
         ],
@@ -1163,7 +1125,6 @@
         ],
         "SUFFIX": [
           "the_vault:unique_entropic_poison"
-
         ]
       },
       "modifierTags": [],
@@ -1191,7 +1152,6 @@
         ],
         "SUFFIX": [
           "the_vault:u_block_glacial_prison"
-
         ]
       },
       "modifierTags": [],
@@ -1228,9 +1188,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:ender_rings": {
       "name": "Ender Rings",
       "item": "the_vault:focus",
@@ -1253,12 +1210,10 @@
           "the_vault:base_durability",
           "the_vault:base_soulbound"
         ],
-        "IMPLICIT": [
-        ],
+        "IMPLICIT": [],
         "PREFIX": [
           "the_vault:mod_added_ability_level_dashwarp",
           "the_vault:mod_warp_projectile_speed"
-
         ],
         "SUFFIX": [
           "the_vault:warp_cooldown",
@@ -1284,7 +1239,6 @@
           "the_vault:base_soulbound"
         ],
         "IMPLICIT": [
-
           "the_vault:base_offhand_mana_additive"
         ],
         "PREFIX": [
@@ -1327,9 +1281,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:baguette": {
       "name": "The Baguette",
       "item": "the_vault:wand",
@@ -1352,11 +1303,9 @@
           "the_vault:u_saturation",
           "the_vault:u_regeneration"
         ],
-        "PREFIX": [
-        ],
+        "PREFIX": [],
         "SUFFIX": [
           "the_vault:u_baguette_healingeff"
-
         ]
       },
       "modifierTags": [],
@@ -1407,7 +1356,6 @@
           "the_vault:base_ap"
         ],
         "PREFIX": [
-
           "the_vault:mod_ability_increase",
           "the_vault:mod_added_ability_level_fireball"
         ],
@@ -1415,13 +1363,11 @@
           "the_vault:fireball_aoe_increase",
           "the_vault:mod_cooldown_reduction",
           "the_vault:unique_area_of_effect"
-
         ]
       },
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:pistol": {
       "name": "IB-94 Blaster Pistol",
       "item": "the_vault:wand",
@@ -1432,7 +1378,6 @@
         }
       ],
       "modifierIdentifiers": {
-
         "BASE_ATTRIBUTE": [
           "the_vault:offhand_base_durability",
           "the_vault:base_soulbound"
@@ -1452,9 +1397,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:kaleidoscope": {
       "name": "Kaleidoscope",
       "item": "the_vault:jewel",
@@ -1468,10 +1410,8 @@
           "the_vault:u_ornate_affinity",
           "the_vault:u_living_affinity",
           "the_vault:u_coin_affinity"
-
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "lore": "Shifting endlessly like stained glass, it bends to every vault, holding a spark of every affinity. Its brilliance is vast, yet its space is fleeting.",
@@ -1486,10 +1426,8 @@
         ],
         "PREFIX": [
           "the_vault:u_mana_looting"
-
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "lore": "A crystalised flower fed by pure arcana, it blossoms with bursts of mana hidden in treasure’s heart. Each chest may awaken its bloom anew.",
@@ -1506,10 +1444,8 @@
           "the_vault:u_picking",
           "the_vault:u_axing",
           "the_vault:u_shovelling"
-
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "lore": "A humble stone of craft, it binds the strength of axe, shovel, and pick into one. Though slight in capacity, it carries the spirit of builders’ peace.",
@@ -1522,8 +1458,7 @@
         "IMPLICIT": [
           "the_vault:u_jewel_size"
         ],
-        "PREFIX": [
-        ],
+        "PREFIX": [],
         "SUFFIX": [
           "the_vault:u_ability_cast_on_loot"
         ]
@@ -1531,7 +1466,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:eternal_stella": {
       "name": "Eternal Stella",
       "item": "the_vault:jewel",
@@ -1587,16 +1521,12 @@
           "the_vault:u_shovelling",
           "the_vault:u_reaping"
         ],
-        "SUFFIX": [
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "lore": "Why carry four when one will do? This clever jewel bends axe, shovel, pick, and shear to a single eager tool.",
       "weight": 1
     },
-
-
-
     "the_vault:quickstone": {
       "name": "Quickstone",
       "item": "the_vault:magnet",
@@ -1625,7 +1555,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:chonknet": {
       "name": "Chonknet",
       "item": "the_vault:magnet",
@@ -1680,7 +1609,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:treasure_hunter_magnet": {
       "name": "Hoard Magnet",
       "item": "the_vault:magnet",
@@ -1760,15 +1688,14 @@
           "the_vault:u_base_magnet_range_ender",
           "the_vault:u_base_magnet_velocity_ender"
         ],
-        "PREFIX": ["the_vault:u_movement_horse"],
+        "PREFIX": [
+          "the_vault:u_movement_horse"
+        ],
         "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
     },
-
-
-
     "the_vault:ninja_baton": {
       "name": "Ninja Baton",
       "item": "the_vault:battlestaff",
@@ -1818,15 +1745,12 @@
           "the_vault:base_attack_speed_battlestaff_stick",
           "the_vault:base_attack_range_battlestaff_stick"
         ],
-        "PREFIX": [
-        ],
-        "SUFFIX": [
-        ]
+        "PREFIX": [],
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:mjolnir": {
       "name": "Mjolnir",
       "item": "the_vault:trident",
@@ -1851,9 +1775,7 @@
           "the_vault:base_attack_damage",
           "the_vault:mjolnir_ability_power"
         ],
-        "SUFFIX": [
-
-        ]
+        "SUFFIX": []
       },
       "modifierTags": [],
       "weight": 1
@@ -1888,7 +1810,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:safer_spaces": {
       "name": "Safer Spaces",
       "item": "the_vault:plushie",
@@ -1914,7 +1835,6 @@
       "modifierTags": [],
       "weight": 1
     },
-
     "the_vault:trirang": {
       "name": "Tri-Rang",
       "item": "the_vault:rang",
@@ -1948,6 +1868,22 @@
       },
       "modifierTags": [],
       "weight": 1
+    },
+    "the_vault:breaching_jewel": {
+      "name": "Breaching Jewel",
+      "item": "the_vault:jewel",
+      "modifierIdentifiers": {
+        "IMPLICIT": [
+          "the_vault:u_jewel_size_pax"
+        ],
+        "PREFIX": [
+          "the_vault:u_breaching"
+        ],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "lore": "A razor-bright jewel that teaches tools to breach vault chests in a single decisive break.",
+      "weight": 1
     }
   },
   "pools": {
@@ -1964,7 +1900,6 @@
     "the_vault:testers": {
       "the_vault:grim": 1
     },
-
     "the_vault:honey_stick": {
       "the_vault:honey_stick": 1
     },
@@ -1977,7 +1912,6 @@
     "the_vault:crystal_blade": {
       "the_vault:crystal_blade": 1
     },
-
     "the_vault:everfrost": {
       "the_vault:everfrost": 1
     },
@@ -2012,15 +1946,12 @@
       "the_vault:aurora_scissors": 1,
       "the_vault:kitsune": 1
     },
-
-
     "the_vault:butcher_axe": {
       "the_vault:butcher_axe": 1
     },
     "the_vault:starforge": {
       "the_vault:starforge": 1
     },
-
     "the_vault:leviathan": {
       "the_vault:leviathan": 1
     },
@@ -2041,7 +1972,6 @@
       "the_vault:crystal_mace": 1,
       "the_vault:butchers_cleaver": 1
     },
-
     "the_vault:jester": {
       "the_vault:jester": 1
     },
@@ -2056,8 +1986,6 @@
       "the_vault:sweetheart": 1,
       "the_vault:warbound_helmet": 1
     },
-
-
     "the_vault:annmari": {
       "the_vault:annmari": 1
     },
@@ -2081,7 +2009,6 @@
       "the_vault:annmari": 1,
       "the_vault:vitalis": 1
     },
-
     "the_vault:crashguards": {
       "the_vault:crashguards": 1
     },
@@ -2092,7 +2019,6 @@
       "the_vault:crashguards": 1,
       "the_vault:swarmwalkers": 1
     },
-
     "the_vault:frostguards": {
       "the_vault:frostguards": 1
     },
@@ -2107,7 +2033,6 @@
       "the_vault:frostguards": 1,
       "the_vault:plaquewalker": 1
     },
-
     "the_vault:gladiator_buckler": {
       "the_vault:gladiator_buckler": 1
     },
@@ -2134,7 +2059,6 @@
       "the_vault:frostwarden": 1,
       "the_vault:broodmother": 1
     },
-
     "the_vault:ender_rings": {
       "the_vault:ender_rings": 1
     },
@@ -2150,7 +2074,6 @@
       "the_vault:chainlash": 1,
       "the_vault:pistol": 1
     },
-
     "the_vault:baguette": {
       "the_vault:baguette": 1
     },
@@ -2168,7 +2091,6 @@
       "the_vault:echoflare": 1,
       "the_vault:ender_wings": 1
     },
-
     "the_vault:kaleidoscope": {
       "the_vault:kaleidoscope": 1
     },
@@ -2199,7 +2121,6 @@
       "the_vault:piggybank": 1,
       "the_vault:swiss_army": 1
     },
-
     "the_vault:quickstone": {
       "the_vault:quickstone": 1
     },
@@ -2212,7 +2133,6 @@
     "the_vault:treasure_magnet": {
       "the_vault:treasure_magnet": 1
     },
-
     "the_vault:treasure_hunter_magnet": {
       "the_vault:treasure_hunter_magnet": 1
     },
@@ -2227,7 +2147,6 @@
       "the_vault:ender_magnet": 1,
       "the_vault:treasure_hunter_magnet": 1
     },
-
     "the_vault:bamboo_fightstick": {
       "the_vault:bamboo_fightstick": 1
     },
@@ -2238,7 +2157,6 @@
       "the_vault:bamboo_fightstick": 1,
       "the_vault:ninja_baton": 1
     },
-
     "the_vault:mjolnir": {
       "the_vault:mjolnir": 1
     },
@@ -2249,17 +2167,13 @@
       "the_vault:mjolnir": 1,
       "the_vault:marlin": 1
     },
-
-    "the_vault:loot_sack": {
-    },
-
+    "the_vault:loot_sack": {},
     "the_vault:safer_spaces": {
       "the_vault:safer_spaces": 1
     },
     "the_vault:plushie": {
       "the_vault:safer_spaces": 1
     },
-
     "the_vault:trirang": {
       "the_vault:trirang": 1
     },
@@ -2278,67 +2192,57 @@
       "the_vault:grass_blade": 1,
       "the_vault:aurora_scissors": 1,
       "the_vault:kitsune": 0,
-
       "the_vault:butcher_axe": 1,
       "the_vault:starforge": 1,
       "the_vault:leviathan": 0,
       "the_vault:zombie_horse_axe": 1,
       "the_vault:crystal_mace": 1,
       "the_vault:butchers_cleaver": 1,
-
       "the_vault:jester": 1,
       "the_vault:sweetheart": 1,
       "the_vault:warbound_helmet": 1,
-
       "the_vault:castle": 1,
       "the_vault:stormcrown": 1,
       "the_vault:crystalplate": 1,
       "the_vault:frozen_throne": 1,
       "the_vault:annmari": 1,
       "the_vault:vitalis": 1,
-
       "the_vault:crashguards": 1,
       "the_vault:swarmwalkers": 1,
-
       "the_vault:pacifistsandals": 1,
       "the_vault:frostguards": 1,
-
       "the_vault:grim": 1,
       "the_vault:ivy": 1,
       "the_vault:pestilence_wall": 1,
       "the_vault:gladiator_buckler": 1,
       "the_vault:frostwarden": 1,
-
       "the_vault:inferno_reach": 1,
       "the_vault:baguette": 1,
       "the_vault:chainlash": 1,
       "the_vault:pistol": 0,
-
       "the_vault:frozen_orb": 1,
       "the_vault:echoflare": 1,
       "the_vault:ender_wings": 1,
-
       "the_vault:quickstone": 1,
       "the_vault:chonknet": 0,
       "the_vault:bloodseeking_magnet": 0,
       "the_vault:treasure_magnet": 0,
       "the_vault:ender_magnet": 0,
-
       "the_vault:kaleidoscope": 1,
       "the_vault:manabloom": 1,
       "the_vault:pax": 1,
       "the_vault:frozen_heart": 1,
       "the_vault:eternal_stella": 1,
       "the_vault:piggybank": 0,
-
       "the_vault:bamboo_fightstick": 1,
       "the_vault:ninja_baton": 1,
-
       "the_vault:mjolnir": 0,
       "the_vault:marlin": 1,
-
       "the_vault:safer_spaces": 1,
       "the_vault:trirang": 1
+    },
+    "the_vault:breaching_jewel": {
+      "the_vault:breaching_jewel": 1
     }
   }
 }

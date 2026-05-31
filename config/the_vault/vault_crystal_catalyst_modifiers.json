@@ -33,7 +33,10 @@
         "the_vault:xp_gain",
         "the_vault:soul_boost",
         "the_vault:phoenix",
-        "the_vault:more_mobs_cata"
+        "the_vault:more_mobs_cata",
+        "the_vault:omega_fortune_20",
+        "the_vault:challenge_fortune_20",
+        "the_vault:divine_dust_chest"
       ]
     },
     "CURSE": {
@@ -64,7 +67,8 @@
       ]
     }
   },
-  "MODIFIER_POOL_GROUPS": [{
+  "MODIFIER_POOL_GROUPS": [
+    {
       "value": {
         "pools": [
           "the_vault:catalyst_positive"

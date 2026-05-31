@@ -1826,7 +1826,7 @@ hash = "e25d31c5de856a288c3c31c7ff406e64734b86451e40f4c3c58d05011a92fd04"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "ec35ebb486e419a7f0f5931d89c7cdd60d7db3600af5c0404302b0cd4f17d9e3"
+hash = "ddad50f291846ced6ba733c66e0cda67e029e616e54d94dc47c4409592b6b3da"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
@@ -2094,7 +2094,7 @@ hash = "332855a91b55693f8bf827cfa0fdaa2bcf9cbd471288d5f8f15b19c9cdf93715"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
-hash = "fe28f65c22e83f2bbad9115abd697f36dd3511769a08c54d573217dcdacace96"
+hash = "020025a55ef16ae0e815f15cf8bd403cd7a4463cc81c502d37155a5002609a1e"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_charm.json"
@@ -15058,7 +15058,7 @@ hash = "a69369bc8f2b009055da5439087422f5b0c94877e23c11ee7120770ec32b62ff"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "26cc7542bd4d1d674600335c57a329df6461125b6e4ccadc0f3c9aad55eb1d54"
+hash = "9fe6a558a9c02a9a19dbbaf25bbdfb68f5ffe7295d0c22076d56d4640eef88eb"
 
 [[files]]
 file = "config/the_vault/recipes/companion_relics_recipes.json"
@@ -15262,15 +15262,15 @@ hash = "a75d277e82bd3a616363e977e290601e027e46af7299f930d80511c292dfc8fe"
 
 [[files]]
 file = "config/the_vault/unique_codex.json"
-hash = "42326a5c4dda93a6663a5662ca723c81ffab6c68ef0598048ae02eb037def9ea"
+hash = "0611cc4ec9eec1b873e8e64621ed872b9ac93da4e6525df040390a37710b1d47"
 
 [[files]]
 file = "config/the_vault/unique_discovery.json"
-hash = "3348c92679ee0261d489c578284c9a9398a918b2e487be191b69b965719163c2"
+hash = "bce69ededdd3a8d1a5669563fb5a4ba997e1b642c4ae59d066fe67462f30d1bf"
 
 [[files]]
 file = "config/the_vault/unique_gear.json"
-hash = "46c428e39a0cfe63a5f9138d1de465074d4d68bd55773b1bca4812e524fbafda"
+hash = "4c4f6633fe5e2110ba4d031511124190b51478cddd8054189e4cb5623aeb34ec"
 
 [[files]]
 file = "config/the_vault/unknown_egg.json"
@@ -15318,7 +15318,7 @@ hash = "bde54724446a61160e19e930b88e94eacbe24e8019638408eb5f791c37b2d228"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
-hash = "55750c86e87411eaed8437f165b4403be5c234c006a94dbade147e102713135d"
+hash = "3317c898d300ced56b7d68763327c5ec0d13d361b1dcc9d060aa2cd36542ca80"
 
 [[files]]
 file = "config/the_vault/vault_diffuser.json"
@@ -15382,7 +15382,7 @@ hash = "e8e147f8ff34ad7d31ed39711286c4fc1bd5ba2c5962f0a345f263404112334b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "3fc3b82c9ee89f3858c528e5642e8e68705c79a8dee5dfbc07092da9634311eb"
+hash = "0d22ca2633a8c1ea471e5c99a0f5ed3ba43bd29083c4a4c4f8a77a9aff356ad8"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -18373,7 +18373,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "9d68c4e56d74ecd05a3ef26d2cbfffc293fb2debbb46694d36492cb05f769d0e"
+hash = "4c0dc8cdf743819ddb56945f71833628b2cdcf7feb90c5fb68dabfbddbf9a594"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18462,7 +18462,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.22.9-all.jar"
-hash = "45a979a8e895af356e8588418815d43ba91fc44efe739fba9d3957275abfd19a"
+hash = "053d3f62a0394c72ebd741736be5561aa146011d2f46b3ffc6952b8d3271a915"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"

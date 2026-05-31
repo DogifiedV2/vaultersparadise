@@ -5429,6 +5429,34 @@
           "description": "10x Challenge Room Chance",
           "icon": "the_vault:gui/modifiers/challenge_fortune"
         }
+      },
+      "the_vault:omega_fortune_20": {
+        "properties": {
+          "references": [
+            "the_vault:vault/rooms/omega_rooms"
+          ],
+          "weightMultiplier": 1.2
+        },
+        "display": {
+          "name": "Omega Spark",
+          "color": "#6AFF00",
+          "description": "+20% Omega Room Chance",
+          "icon": "the_vault:gui/modifiers/omega"
+        }
+      },
+      "the_vault:challenge_fortune_20": {
+        "properties": {
+          "references": [
+            "the_vault:vault/rooms/challenge_rooms"
+          ],
+          "weightMultiplier": 1.2
+        },
+        "display": {
+          "name": "Challenge Spark",
+          "color": "#FF4500",
+          "description": "+20% Challenge Room Chance",
+          "icon": "the_vault:gui/modifiers/challenging"
+        }
       }
     },
     "the_vault:modifier_type/objective_shuffle": {
@@ -5492,6 +5520,132 @@
           "color": "#4A0E4E",
           "description": "Every Minute in the vault adds 1 challenge stack.",
           "icon": "the_vault:gui/modifiers/impossible"
+        }
+      }
+    },
+    "the_vault:modifier_type/divine_dust_chest": {
+      "the_vault:divine_dust_chest": {
+        "properties": {
+          "entries": [
+            {
+              "chestType": "WOODEN",
+              "rarity": "COMMON",
+              "chance": 0.02,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "WOODEN",
+              "rarity": "RARE",
+              "chance": 0.03,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "WOODEN",
+              "rarity": "EPIC",
+              "chance": 0.05,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "WOODEN",
+              "rarity": "OMEGA",
+              "chance": 0.1,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "LIVING",
+              "rarity": "COMMON",
+              "chance": 0.02,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "LIVING",
+              "rarity": "RARE",
+              "chance": 0.03,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "LIVING",
+              "rarity": "EPIC",
+              "chance": 0.05,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "LIVING",
+              "rarity": "OMEGA",
+              "chance": 0.1,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "GILDED",
+              "rarity": "COMMON",
+              "chance": 0.02,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "GILDED",
+              "rarity": "RARE",
+              "chance": 0.03,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "GILDED",
+              "rarity": "EPIC",
+              "chance": 0.05,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "GILDED",
+              "rarity": "OMEGA",
+              "chance": 0.1,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "ORNATE",
+              "rarity": "COMMON",
+              "chance": 0.02,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "ORNATE",
+              "rarity": "RARE",
+              "chance": 0.03,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "ORNATE",
+              "rarity": "EPIC",
+              "chance": 0.05,
+              "minAmount": 1,
+              "maxAmount": 1
+            },
+            {
+              "chestType": "ORNATE",
+              "rarity": "OMEGA",
+              "chance": 0.1,
+              "minAmount": 1,
+              "maxAmount": 1
+            }
+          ]
+        },
+        "display": {
+          "name": "Divine Dusting",
+          "color": "#8A78FF",
+          "description": "Chests can contain Divine Dust",
+          "icon": "the_vault:gui/modifiers/god_token_tenos"
         }
       }
     }

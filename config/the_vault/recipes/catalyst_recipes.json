@@ -249,6 +249,96 @@
           "NBT": "{}"
         }
       ]
+    },
+    {
+      "id": "the_vault:catalyst_omega_fortune_20",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:vault_catalyst_infused",
+        "NBT": "{model:16,modifiers:[\"the_vault:omega_fortune_20\",\"the_vault:challenge_stack\"],pool:\"the_vault:craft_omega_fortune_20\",size:10}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_catalyst_fragment",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gem_benitoite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:dreamstone",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:god_blessing",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:catalyst_challenge_fortune_20",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:vault_catalyst_infused",
+        "NBT": "{model:17,modifiers:[\"the_vault:challenge_fortune_20\",\"the_vault:challenge_stack\"],pool:\"the_vault:craft_challenge_fortune_20\",size:10}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_catalyst_fragment",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gem_benitoite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:dreamstone",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:god_blessing",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:catalyst_divine_dust",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:vault_catalyst_infused",
+        "NBT": "{model:18,modifiers:[\"the_vault:divine_dust_chest\",\"the_vault:challenge_stack\"],pool:\"the_vault:craft_divine_dust\",size:10}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_catalyst_fragment",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gem_benitoite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:dreamstone",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:god_blessing",
+          "NBT": "{}"
+        }
+      ]
     }
   ]
 }
