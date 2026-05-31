@@ -827,6 +827,196 @@
         "minAmount": 1,
         "maxAmount": 1
       }
+    ],
+    "super_inscriptions_common": [
+      {
+        "type": "inscription",
+        "weight": 24,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "COMMON",
+              "count": 1,
+              "color": 16777215
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 16777215
+        }
+      }
+    ],
+    "super_inscriptions_ore": [
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore1",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore2",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore3",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore4",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      }
+    ],
+    "super_inscriptions_challenge": [
+      {
+        "type": "inscription",
+        "weight": 12,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "CHALLENGE",
+              "count": 1,
+              "color": 16755200
+            }
+          ],
+          "minTime": 900,
+          "maxTime": 2400,
+          "isSuper": true,
+          "color": 16755200
+        }
+      }
+    ],
+    "greed_pack": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:greed_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "mega_greed_pack": [
+      {
+        "type": "item",
+        "weight": 8,
+        "minGreedTier": 8,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:mega_greed_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "knack_pack": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 5,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:knack_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "mega_knack_pack": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 6,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:mega_knack_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "deluxe_knack_pack": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 8,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:deluxe_knack_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
     ]
   },
   "roomPoolsByType": {

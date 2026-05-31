@@ -4,21 +4,14 @@
     "1": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
         "minCoinCost": 18,
         "maxCoinCost": 32
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
+        "weight": 14,
         "poolId": "catalysts",
         "minCoinCost": 28,
         "maxCoinCost": 48
@@ -26,36 +19,50 @@
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 8,
         "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "minCoinCost": 15,
+        "maxCoinCost": 20
+      },
+      {
+        "type": "pool",
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
       }
     ],
     "2": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
         "minCoinCost": 18,
         "maxCoinCost": 32
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
+        "weight": 14,
         "poolId": "catalysts",
         "minCoinCost": 28,
         "maxCoinCost": 48
@@ -63,20 +70,27 @@
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
@@ -84,29 +98,36 @@
       {
         "type": "pool",
         "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
+      },
+      {
+        "type": "pool",
+        "weight": 8,
         "poolId": "greed_companion_relics",
         "minCoinCost": 48,
         "maxCoinCost": 86
+      },
+      {
+        "type": "pool",
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
       }
     ],
     "3": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
         "minCoinCost": 18,
         "maxCoinCost": 32
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
+        "weight": 14,
         "poolId": "catalysts",
         "minCoinCost": 28,
         "maxCoinCost": 48
@@ -114,23 +135,37 @@
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
+      },
+      {
+        "type": "pool",
+        "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
       },
       {
         "type": "pool",
@@ -141,7 +176,14 @@
       },
       {
         "type": "pool",
-        "weight": 6,
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
+      },
+      {
+        "type": "pool",
+        "weight": 5,
         "poolId": "expertise_orbs",
         "minCoinCost": 30,
         "maxCoinCost": 55
@@ -150,45 +192,52 @@
     "4": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "catalysts",
         "minCoinCost": 28,
-        "maxCoinCost": 48
+        "maxCoinCost": 46
+      },
+      {
+        "type": "pool",
+        "weight": 14,
+        "poolId": "catalysts",
+        "minCoinCost": 42,
+        "maxCoinCost": 74
       },
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
+      },
+      {
+        "type": "pool",
+        "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
       },
       {
         "type": "pool",
@@ -199,24 +248,10 @@
       },
       {
         "type": "pool",
-        "weight": 6,
-        "poolId": "expertise_orbs",
-        "minCoinCost": 30,
-        "maxCoinCost": 55
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
       },
       {
         "type": "pool",
@@ -224,50 +259,64 @@
         "poolId": "greater_cores",
         "minCoinCost": 70,
         "maxCoinCost": 120
+      },
+      {
+        "type": "pool",
+        "weight": 5,
+        "poolId": "expertise_orbs",
+        "minCoinCost": 30,
+        "maxCoinCost": 55
       }
     ],
     "5": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "catalysts",
         "minCoinCost": 28,
-        "maxCoinCost": 48
+        "maxCoinCost": 46
+      },
+      {
+        "type": "pool",
+        "weight": 14,
+        "poolId": "catalysts",
+        "minCoinCost": 42,
+        "maxCoinCost": 74
       },
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
+      },
+      {
+        "type": "pool",
+        "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
       },
       {
         "type": "pool",
@@ -278,24 +327,17 @@
       },
       {
         "type": "pool",
-        "weight": 6,
-        "poolId": "expertise_orbs",
-        "minCoinCost": 30,
-        "maxCoinCost": 55
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
+        "poolId": "knack_pack",
+        "minCoinCost": 40,
+        "maxCoinCost": 75
       },
       {
         "type": "pool",
@@ -306,54 +348,61 @@
       },
       {
         "type": "pool",
-        "weight": 7,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 40,
-        "maxCoinCost": 75
+        "weight": 5,
+        "poolId": "expertise_orbs",
+        "minCoinCost": 30,
+        "maxCoinCost": 55
       }
     ],
     "6": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "catalysts",
         "minCoinCost": 28,
-        "maxCoinCost": 48
+        "maxCoinCost": 46
+      },
+      {
+        "type": "pool",
+        "weight": 14,
+        "poolId": "catalysts",
+        "minCoinCost": 42,
+        "maxCoinCost": 74
       },
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
+      },
+      {
+        "type": "pool",
+        "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
       },
       {
         "type": "pool",
@@ -364,24 +413,17 @@
       },
       {
         "type": "pool",
-        "weight": 6,
-        "poolId": "expertise_orbs",
-        "minCoinCost": 30,
-        "maxCoinCost": 55
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
+        "poolId": "knack_pack",
+        "minCoinCost": 40,
+        "maxCoinCost": 75
       },
       {
         "type": "pool",
@@ -392,75 +434,82 @@
       },
       {
         "type": "pool",
-        "weight": 7,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 40,
-        "maxCoinCost": 75
-      },
-      {
-        "type": "pool",
-        "weight": 4,
-        "poolId": "companion_candy",
-        "minCoinCost": 95,
-        "maxCoinCost": 155
+        "weight": 5,
+        "poolId": "expertise_orbs",
+        "minCoinCost": 30,
+        "maxCoinCost": 55
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "knack_booster_packs",
+        "poolId": "mega_knack_pack",
         "minCoinCost": 52,
         "maxCoinCost": 92
       },
       {
         "type": "pool",
-        "weight": 1,
+        "weight": 4,
         "poolId": "greed_hourglass",
         "minCoinCost": 170,
         "maxCoinCost": 260
+      },
+      {
+        "type": "pool",
+        "weight": 3,
+        "poolId": "companion_candy",
+        "minCoinCost": 95,
+        "maxCoinCost": 155
       }
     ],
     "7": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
+        "minCoinCost": 38,
+        "maxCoinCost": 62
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
+        "weight": 14,
         "poolId": "catalysts",
-        "minCoinCost": 28,
-        "maxCoinCost": 48
+        "minCoinCost": 42,
+        "maxCoinCost": 74
       },
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
+      },
+      {
+        "type": "pool",
+        "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
       },
       {
         "type": "pool",
@@ -471,24 +520,17 @@
       },
       {
         "type": "pool",
-        "weight": 6,
-        "poolId": "expertise_orbs",
-        "minCoinCost": 30,
-        "maxCoinCost": 55
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
+        "poolId": "knack_pack",
+        "minCoinCost": 40,
+        "maxCoinCost": 75
       },
       {
         "type": "pool",
@@ -499,89 +541,89 @@
       },
       {
         "type": "pool",
-        "weight": 7,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 40,
-        "maxCoinCost": 75
-      },
-      {
-        "type": "pool",
-        "weight": 4,
-        "poolId": "companion_candy",
-        "minCoinCost": 95,
-        "maxCoinCost": 155
+        "weight": 5,
+        "poolId": "greed_trinkets",
+        "minCoinCost": 85,
+        "maxCoinCost": 140
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "knack_booster_packs",
+        "poolId": "expertise_orbs",
+        "minCoinCost": 30,
+        "maxCoinCost": 55
+      },
+      {
+        "type": "pool",
+        "weight": 5,
+        "poolId": "mega_knack_pack",
         "minCoinCost": 52,
         "maxCoinCost": 92
       },
       {
         "type": "pool",
-        "weight": 1,
+        "weight": 4,
         "poolId": "greed_hourglass",
         "minCoinCost": 170,
         "maxCoinCost": 260
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 38,
-        "maxCoinCost": 62
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_trinkets",
-        "minCoinCost": 85,
-        "maxCoinCost": 140
+        "weight": 3,
+        "poolId": "companion_candy",
+        "minCoinCost": 95,
+        "maxCoinCost": 155
       }
     ],
     "8": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
+        "minCoinCost": 38,
+        "maxCoinCost": 62
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
+        "weight": 14,
         "poolId": "catalysts",
-        "minCoinCost": 28,
-        "maxCoinCost": 48
+        "minCoinCost": 42,
+        "maxCoinCost": 74
       },
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
+      },
+      {
+        "type": "pool",
+        "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
       },
       {
         "type": "pool",
@@ -592,24 +634,24 @@
       },
       {
         "type": "pool",
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
+      },
+      {
+        "type": "pool",
         "weight": 6,
-        "poolId": "expertise_orbs",
-        "minCoinCost": 30,
-        "maxCoinCost": 55
+        "poolId": "mega_greed_pack",
+        "minCoinCost": 58,
+        "maxCoinCost": 100
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
+        "poolId": "knack_pack",
+        "minCoinCost": 40,
+        "maxCoinCost": 75
       },
       {
         "type": "pool",
@@ -617,41 +659,6 @@
         "poolId": "greater_cores",
         "minCoinCost": 70,
         "maxCoinCost": 120
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 40,
-        "maxCoinCost": 75
-      },
-      {
-        "type": "pool",
-        "weight": 4,
-        "poolId": "companion_candy",
-        "minCoinCost": 95,
-        "maxCoinCost": 155
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 52,
-        "maxCoinCost": 92
-      },
-      {
-        "type": "pool",
-        "weight": 1,
-        "poolId": "greed_hourglass",
-        "minCoinCost": 170,
-        "maxCoinCost": 260
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 38,
-        "maxCoinCost": 62
       },
       {
         "type": "pool",
@@ -663,60 +670,95 @@
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 58,
-        "maxCoinCost": 100
+        "poolId": "expertise_orbs",
+        "minCoinCost": 30,
+        "maxCoinCost": 55
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "knack_booster_packs",
+        "poolId": "mega_knack_pack",
+        "minCoinCost": 52,
+        "maxCoinCost": 92
+      },
+      {
+        "type": "pool",
+        "weight": 5,
+        "poolId": "deluxe_knack_pack",
         "minCoinCost": 62,
         "maxCoinCost": 110
+      },
+      {
+        "type": "pool",
+        "weight": 4,
+        "poolId": "greed_hourglass",
+        "minCoinCost": 170,
+        "maxCoinCost": 260
+      },
+      {
+        "type": "pool",
+        "weight": 3,
+        "poolId": "companion_candy",
+        "minCoinCost": 95,
+        "maxCoinCost": 155
       }
     ],
     "9": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
+        "minCoinCost": 38,
+        "maxCoinCost": 62
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
+        "weight": 14,
         "poolId": "catalysts",
-        "minCoinCost": 28,
-        "maxCoinCost": 48
+        "minCoinCost": 42,
+        "maxCoinCost": 74
+      },
+      {
+        "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
       },
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
+      },
+      {
+        "type": "pool",
+        "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
       },
       {
         "type": "pool",
@@ -727,24 +769,24 @@
       },
       {
         "type": "pool",
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
+      },
+      {
+        "type": "pool",
         "weight": 6,
-        "poolId": "expertise_orbs",
-        "minCoinCost": 30,
-        "maxCoinCost": 55
+        "poolId": "mega_greed_pack",
+        "minCoinCost": 58,
+        "maxCoinCost": 100
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
+        "poolId": "knack_pack",
+        "minCoinCost": 40,
+        "maxCoinCost": 75
       },
       {
         "type": "pool",
@@ -752,41 +794,6 @@
         "poolId": "greater_cores",
         "minCoinCost": 70,
         "maxCoinCost": 120
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 40,
-        "maxCoinCost": 75
-      },
-      {
-        "type": "pool",
-        "weight": 4,
-        "poolId": "companion_candy",
-        "minCoinCost": 95,
-        "maxCoinCost": 155
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 52,
-        "maxCoinCost": 92
-      },
-      {
-        "type": "pool",
-        "weight": 1,
-        "poolId": "greed_hourglass",
-        "minCoinCost": 170,
-        "maxCoinCost": 260
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 38,
-        "maxCoinCost": 62
       },
       {
         "type": "pool",
@@ -798,67 +805,95 @@
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 58,
-        "maxCoinCost": 100
+        "poolId": "expertise_orbs",
+        "minCoinCost": 30,
+        "maxCoinCost": 55
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "knack_booster_packs",
+        "poolId": "mega_knack_pack",
+        "minCoinCost": 52,
+        "maxCoinCost": 92
+      },
+      {
+        "type": "pool",
+        "weight": 5,
+        "poolId": "deluxe_knack_pack",
         "minCoinCost": 62,
         "maxCoinCost": 110
       },
       {
         "type": "pool",
-        "weight": 6,
-        "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "weight": 4,
+        "poolId": "greed_hourglass",
+        "minCoinCost": 170,
+        "maxCoinCost": 260
+      },
+      {
+        "type": "pool",
+        "weight": 3,
+        "poolId": "companion_candy",
+        "minCoinCost": 95,
+        "maxCoinCost": 155
       }
     ],
     "10": [
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 18,
         "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
+        "minCoinCost": 55,
+        "maxCoinCost": 90
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
+        "weight": 14,
         "poolId": "catalysts",
-        "minCoinCost": 28,
-        "maxCoinCost": 48
+        "minCoinCost": 85,
+        "maxCoinCost": 150
+      },
+      {
+        "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
       },
       {
         "type": "pool",
         "weight": 7,
-        "poolId": "super_inscriptions",
+        "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
         "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
+        "weight": 6,
+        "poolId": "super_inscriptions_ore",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
       },
       {
         "type": "pool",
-        "weight": 7,
+        "weight": 4,
+        "poolId": "super_inscriptions_challenge",
+        "minCoinCost": 26,
+        "maxCoinCost": 50
+      },
+      {
+        "type": "pool",
+        "weight": 10,
         "poolId": "super_inscriptions_omega",
         "minCoinCost": 44,
         "maxCoinCost": 78
+      },
+      {
+        "type": "pool",
+        "weight": 8,
+        "poolId": "greed_crystals",
+        "minCoinCost": 15,
+        "maxCoinCost": 20
       },
       {
         "type": "pool",
@@ -869,24 +904,24 @@
       },
       {
         "type": "pool",
+        "weight": 7,
+        "poolId": "greed_pack",
+        "minCoinCost": 16,
+        "maxCoinCost": 30
+      },
+      {
+        "type": "pool",
         "weight": 6,
-        "poolId": "expertise_orbs",
-        "minCoinCost": 30,
-        "maxCoinCost": 55
+        "poolId": "mega_greed_pack",
+        "minCoinCost": 58,
+        "maxCoinCost": 100
       },
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
+        "poolId": "knack_pack",
+        "minCoinCost": 40,
+        "maxCoinCost": 75
       },
       {
         "type": "pool",
@@ -894,41 +929,6 @@
         "poolId": "greater_cores",
         "minCoinCost": 70,
         "maxCoinCost": 120
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 40,
-        "maxCoinCost": 75
-      },
-      {
-        "type": "pool",
-        "weight": 4,
-        "poolId": "companion_candy",
-        "minCoinCost": 95,
-        "maxCoinCost": 155
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 52,
-        "maxCoinCost": 92
-      },
-      {
-        "type": "pool",
-        "weight": 1,
-        "poolId": "greed_hourglass",
-        "minCoinCost": 170,
-        "maxCoinCost": 260
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 38,
-        "maxCoinCost": 62
       },
       {
         "type": "pool",
@@ -940,92 +940,6 @@
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 58,
-        "maxCoinCost": 100
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 62,
-        "maxCoinCost": 110
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 55,
-        "maxCoinCost": 90
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "catalysts",
-        "minCoinCost": 85,
-        "maxCoinCost": 150
-      }
-    ],
-    "11": [
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "catalysts",
-        "minCoinCost": 28,
-        "maxCoinCost": 48
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "super_inscriptions",
-        "minCoinCost": 26,
-        "maxCoinCost": 50
-      },
-      {
-        "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "super_inscriptions_omega",
-        "minCoinCost": 44,
-        "maxCoinCost": 78
-      },
-      {
-        "type": "pool",
-        "weight": 8,
-        "poolId": "greed_companion_relics",
-        "minCoinCost": 48,
-        "maxCoinCost": 86
-      },
-      {
-        "type": "pool",
-        "weight": 6,
         "poolId": "expertise_orbs",
         "minCoinCost": 30,
         "maxCoinCost": 55
@@ -1033,256 +947,30 @@
       {
         "type": "pool",
         "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greater_cores",
-        "minCoinCost": 70,
-        "maxCoinCost": 120
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 40,
-        "maxCoinCost": 75
-      },
-      {
-        "type": "pool",
-        "weight": 4,
-        "poolId": "companion_candy",
-        "minCoinCost": 95,
-        "maxCoinCost": 155
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "knack_booster_packs",
+        "poolId": "mega_knack_pack",
         "minCoinCost": 52,
         "maxCoinCost": 92
       },
       {
         "type": "pool",
-        "weight": 1,
+        "weight": 5,
+        "poolId": "deluxe_knack_pack",
+        "minCoinCost": 62,
+        "maxCoinCost": 110
+      },
+      {
+        "type": "pool",
+        "weight": 4,
         "poolId": "greed_hourglass",
         "minCoinCost": 170,
         "maxCoinCost": 260
       },
       {
         "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 38,
-        "maxCoinCost": 62
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_trinkets",
-        "minCoinCost": 85,
-        "maxCoinCost": 140
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 58,
-        "maxCoinCost": 100
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 62,
-        "maxCoinCost": 110
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 55,
-        "maxCoinCost": 90
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "catalysts",
-        "minCoinCost": 85,
-        "maxCoinCost": 150
-      }
-    ],
-    "12": [
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "etchings",
-        "minCoinCost": 18,
-        "maxCoinCost": 32
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 16,
-        "maxCoinCost": 30
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "catalysts",
-        "minCoinCost": 28,
-        "maxCoinCost": 48
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "super_inscriptions",
-        "minCoinCost": 26,
-        "maxCoinCost": 50
-      },
-      {
-        "type": "pool",
-        "weight": 2,
-        "poolId": "greed_crystals",
-        "minCoinCost": 85,
-        "maxCoinCost": 145
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "super_inscriptions_omega",
-        "minCoinCost": 44,
-        "maxCoinCost": 78
-      },
-      {
-        "type": "pool",
-        "weight": 8,
-        "poolId": "greed_companion_relics",
-        "minCoinCost": 48,
-        "maxCoinCost": 86
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "expertise_orbs",
-        "minCoinCost": 30,
-        "maxCoinCost": 55
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 28,
-        "maxCoinCost": 46
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "catalysts",
-        "minCoinCost": 42,
-        "maxCoinCost": 74
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greater_cores",
-        "minCoinCost": 70,
-        "maxCoinCost": 120
-      },
-      {
-        "type": "pool",
-        "weight": 7,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 40,
-        "maxCoinCost": 75
-      },
-      {
-        "type": "pool",
-        "weight": 4,
+        "weight": 3,
         "poolId": "companion_candy",
         "minCoinCost": 95,
         "maxCoinCost": 155
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 52,
-        "maxCoinCost": 92
-      },
-      {
-        "type": "pool",
-        "weight": 1,
-        "poolId": "greed_hourglass",
-        "minCoinCost": 170,
-        "maxCoinCost": 260
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 38,
-        "maxCoinCost": 62
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_trinkets",
-        "minCoinCost": 85,
-        "maxCoinCost": 140
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "greed_booster_packs",
-        "minCoinCost": 58,
-        "maxCoinCost": 100
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "knack_booster_packs",
-        "minCoinCost": 62,
-        "maxCoinCost": 110
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
-      },
-      {
-        "type": "pool",
-        "weight": 5,
-        "poolId": "etchings",
-        "minCoinCost": 55,
-        "maxCoinCost": 90
-      },
-      {
-        "type": "pool",
-        "weight": 6,
-        "poolId": "catalysts",
-        "minCoinCost": 85,
-        "maxCoinCost": 150
       }
     ]
   },
@@ -1926,7 +1614,7 @@
           "item": "woldsvaults:expertise_orb"
         },
         "minAmount": 1,
-        "maxAmount": 2
+        "maxAmount": 1
       }
     ],
     "companion_candy": [
@@ -1952,7 +1640,7 @@
           "item": "the_vault:greed_point_orb"
         },
         "minAmount": 2,
-        "maxAmount": 3
+        "maxAmount": 2
       },
       {
         "type": "item",
@@ -1963,7 +1651,7 @@
           "item": "the_vault:greed_point_orb"
         },
         "minAmount": 1,
-        "maxAmount": 2
+        "maxAmount": 1
       },
       {
         "type": "item",
@@ -1974,7 +1662,7 @@
           "item": "the_vault:greed_point_orb"
         },
         "minAmount": 1,
-        "maxAmount": 2
+        "maxAmount": 1
       },
       {
         "type": "item",
@@ -1985,7 +1673,7 @@
           "item": "the_vault:greed_point_orb"
         },
         "minAmount": 1,
-        "maxAmount": 2
+        "maxAmount": 1
       },
       {
         "type": "item",
@@ -1995,8 +1683,8 @@
         "itemStack": {
           "item": "the_vault:greed_point_orb"
         },
-        "minAmount": 2,
-        "maxAmount": 3
+        "minAmount": 1,
+        "maxAmount": 2
       },
       {
         "type": "item",
@@ -2006,8 +1694,8 @@
         "itemStack": {
           "item": "the_vault:greed_point_orb"
         },
-        "minAmount": 2,
-        "maxAmount": 3
+        "minAmount": 1,
+        "maxAmount": 2
       },
       {
         "type": "item",
@@ -2017,8 +1705,8 @@
         "itemStack": {
           "item": "the_vault:greed_point_orb"
         },
-        "minAmount": 2,
-        "maxAmount": 4
+        "minAmount": 1,
+        "maxAmount": 2
       },
       {
         "type": "item",
@@ -2028,8 +1716,8 @@
         "itemStack": {
           "item": "the_vault:greed_point_orb"
         },
-        "minAmount": 2,
-        "maxAmount": 4
+        "minAmount": 1,
+        "maxAmount": 3
       },
       {
         "type": "item",
@@ -2039,8 +1727,8 @@
         "itemStack": {
           "item": "the_vault:greed_point_orb"
         },
-        "minAmount": 2,
-        "maxAmount": 4
+        "minAmount": 1,
+        "maxAmount": 3
       },
       {
         "type": "item",
@@ -2050,8 +1738,8 @@
         "itemStack": {
           "item": "the_vault:greed_point_orb"
         },
-        "minAmount": 3,
-        "maxAmount": 5
+        "minAmount": 2,
+        "maxAmount": 3
       },
       {
         "type": "item",
@@ -2061,8 +1749,8 @@
         "itemStack": {
           "item": "the_vault:greed_point_orb"
         },
-        "minAmount": 3,
-        "maxAmount": 5
+        "minAmount": 2,
+        "maxAmount": 3
       },
       {
         "type": "item",
@@ -2072,8 +1760,8 @@
         "itemStack": {
           "item": "the_vault:greed_point_orb"
         },
-        "minAmount": 3,
-        "maxAmount": 5
+        "minAmount": 2,
+        "maxAmount": 3
       }
     ],
     "greed_hourglass": [
@@ -2110,6 +1798,196 @@
         "maxGreedTier": -1,
         "itemStack": {
           "item": "the_vault:greed_market_reroll"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "super_inscriptions_common": [
+      {
+        "type": "inscription",
+        "weight": 24,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "COMMON",
+              "count": 1,
+              "color": 16777215
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 16777215
+        }
+      }
+    ],
+    "super_inscriptions_ore": [
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore1",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore2",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore3",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      },
+      {
+        "type": "inscription",
+        "weight": 8,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "pool": "the_vault:vault/rooms/common/ore4",
+              "count": 1,
+              "color": 12051455
+            }
+          ],
+          "minTime": 1200,
+          "maxTime": 3600,
+          "isSuper": true,
+          "color": 12051455
+        }
+      }
+    ],
+    "super_inscriptions_challenge": [
+      {
+        "type": "inscription",
+        "weight": 12,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "inscription": {
+          "rooms": [
+            {
+              "roomType": "CHALLENGE",
+              "count": 1,
+              "color": 16755200
+            }
+          ],
+          "minTime": 900,
+          "maxTime": 2400,
+          "isSuper": true,
+          "color": 16755200
+        }
+      }
+    ],
+    "greed_pack": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 1,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:greed_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "mega_greed_pack": [
+      {
+        "type": "item",
+        "weight": 8,
+        "minGreedTier": 8,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:mega_greed_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "knack_pack": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 5,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:knack_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "mega_knack_pack": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 6,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:mega_knack_pack\"}"
+        },
+        "minAmount": 1,
+        "maxAmount": 1
+      }
+    ],
+    "deluxe_knack_pack": [
+      {
+        "type": "item",
+        "weight": 10,
+        "minGreedTier": 8,
+        "maxGreedTier": -1,
+        "itemStack": {
+          "item": "the_vault:booster_pack",
+          "nbt": "{id:\"the_vault:deluxe_knack_pack\"}"
         },
         "minAmount": 1,
         "maxAmount": 1
@@ -3885,14 +3763,14 @@
     },
     {
       "displayName": "Gone in 60 seconds",
-      "description": "A good movie, how good is it inside a vault though…",
+      "description": "A good movie, how good is it inside a vault though\u2026",
       "challengeCrystalId": "gone_in_60_seconds",
       "minTier": 5,
       "maxTier": 5
     },
     {
       "displayName": "The Pacifist",
-      "description": "So you say this is more efficient, faster, better, stronger? Weak…",
+      "description": "So you say this is more efficient, faster, better, stronger? Weak\u2026",
       "challengeCrystalId": "the_pacifist",
       "minTier": 6,
       "maxTier": 6
