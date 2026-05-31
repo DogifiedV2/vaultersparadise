@@ -40,8 +40,8 @@
             },
             "Properties": {
               "type": "capacity",
-              "exhausted": 0,
-              "volume": 50
+              "exhausted": 1,
+              "volume": 0
             },
             "Version": 3
           }
@@ -79,8 +79,8 @@
             },
             "Properties": {
               "type": "capacity",
-              "exhausted": 0,
-              "volume": 50
+              "exhausted": 1,
+              "volume": 0
             },
             "Version": 3
           }
@@ -118,8 +118,8 @@
             },
             "Properties": {
               "type": "capacity",
-              "exhausted": 0,
-              "volume": 50
+              "exhausted": 1,
+              "volume": 0
             },
             "Version": 3
           }
@@ -157,8 +157,8 @@
             },
             "Properties": {
               "type": "capacity",
-              "exhausted": 0,
-              "volume": 50
+              "exhausted": 1,
+              "volume": 0
             },
             "Version": 3
           }
