@@ -25,19 +25,11 @@
       "weight": 3
     },
     {
-      "value": "the_vault:flawless_mining",
-      "weight": 2
-    },
-    {
-      "value": "the_vault:item_discovery",
-      "weight": 2
-    },
-    {
-      "value": "the_vault:item_submission",
+      "value": "the_vault:open_block",
       "weight": 1
     },
     {
-      "value": "the_vault:open_block",
+      "value": "the_vault:room_discovery",
       "weight": 1
     }
   ],
