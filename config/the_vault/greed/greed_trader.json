@@ -69,6 +69,13 @@
       },
       {
         "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
+      },
+      {
+        "type": "pool",
         "weight": 7,
         "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
@@ -131,6 +138,13 @@
         "poolId": "catalysts",
         "minCoinCost": 28,
         "maxCoinCost": 48
+      },
+      {
+        "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
       },
       {
         "type": "pool",
@@ -203,6 +217,13 @@
         "poolId": "catalysts",
         "minCoinCost": 42,
         "maxCoinCost": 74
+      },
+      {
+        "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
       },
       {
         "type": "pool",
@@ -285,6 +306,13 @@
       },
       {
         "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
+      },
+      {
+        "type": "pool",
         "weight": 7,
         "poolId": "super_inscriptions_common",
         "minCoinCost": 26,
@@ -352,6 +380,13 @@
         "poolId": "expertise_orbs",
         "minCoinCost": 30,
         "maxCoinCost": 55
+      },
+      {
+        "type": "pool",
+        "weight": 3,
+        "poolId": "companion_candy",
+        "minCoinCost": 95,
+        "maxCoinCost": 155
       }
     ],
     "6": [
@@ -368,6 +403,13 @@
         "poolId": "catalysts",
         "minCoinCost": 42,
         "maxCoinCost": 74
+      },
+      {
+        "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
       },
       {
         "type": "pool",
@@ -475,6 +517,13 @@
         "poolId": "catalysts",
         "minCoinCost": 42,
         "maxCoinCost": 74
+      },
+      {
+        "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
       },
       {
         "type": "pool",
@@ -589,6 +638,13 @@
         "poolId": "catalysts",
         "minCoinCost": 42,
         "maxCoinCost": 74
+      },
+      {
+        "type": "pool",
+        "weight": 12,
+        "poolId": "greed_catalysts",
+        "minCoinCost": 70,
+        "maxCoinCost": 125
       },
       {
         "type": "pool",

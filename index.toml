@@ -1678,7 +1678,7 @@ hash = "cd06d56223ee28d315d2cdcf00d7a8602cc35163026157634aa6cb0bb87275ff"
 
 [[files]]
 file = "config/the_vault/black_market/greed_trades.json"
-hash = "97963ba99614aad446377bf214935360ddad28a447dfdf4dcb448aaea5207d8e"
+hash = "a3c8fc306e32d822f6802da3a6e7c1f95417efdaa381a0064e683096f22dc880"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
@@ -1694,7 +1694,7 @@ hash = "cb2e16ba541166e8cba60a48caec0fb6156a7c7a5cdde25316b06623b00ec2c3"
 
 [[files]]
 file = "config/the_vault/bounty/greed_rewards.json"
-hash = "8a5311ed8d445afa63941301786990ec890b86ea1107d834cf4a7ccb38443c4b"
+hash = "6efbf580bc6185080887d2021db2085660268b68c01b79512ea88260b2556623"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/completion.json"
@@ -14666,7 +14666,7 @@ hash = "ca678686237b7da5739b05ad56029dd4aefc3b137e51c2c58228431e093d8a39"
 
 [[files]]
 file = "config/the_vault/greed/greed_objective.json"
-hash = "3c99c44da3cd779679d8e74a55d6b55cea5488bffe49291f4a1206b12437c0a5"
+hash = "8a490700d3613a89b7a9f64c54758c3c3e0f4d595b888e5fad92798fd2b32ace"
 
 [[files]]
 file = "config/the_vault/greed/greed_progression.json"
@@ -14674,7 +14674,7 @@ hash = "fb774169a4af6e0a30accbe19e05a3ecc031f402f3138043967256c5004c7cbd"
 
 [[files]]
 file = "config/the_vault/greed/greed_trader.json"
-hash = "47d2cd09399f09b8830f3f97d74fd33a122285826c32610005084063383b97a9"
+hash = "b60ef9348d4fa82ad3ef1a5b03c5e0e27f812a4ff48e9ed720df466c7f89488f"
 
 [[files]]
 file = "config/the_vault/greed/greed_tree.json"
@@ -14682,11 +14682,11 @@ hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 
 [[files]]
 file = "config/the_vault/greed/reward_pools.json"
-hash = "2f51b7ef8bcde11403605c0245afcb3880f543b4fde6851761e83b0369869f3c"
+hash = "acf00ad4c36949d63deb1e3718e8a588a6344e60944d1a7803d7375152b3b639"
 
 [[files]]
 file = "config/the_vault/greed/trials_screen.json"
-hash = "be4fc0aa29b9d03af34bd01edc749bf11603f71dc17a1ce832ba11c84375fc6e"
+hash = "88ee9fb0fe951289a423598d0a632ce6d3b40c65809658e40821af6b0a2cbb45"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -18373,7 +18373,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "dfc7b1f2130d3a0b021e07ac3462aec40914295a61263c3326754cf68384a2ff"
+hash = "ceed3f83a36255d244c9f5f524b51a5e86e7c53b01d08304bc42715901c7974f"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

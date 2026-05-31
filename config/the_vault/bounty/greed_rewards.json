@@ -30,35 +30,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -72,28 +72,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -114,44 +114,44 @@
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -185,35 +185,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -227,28 +227,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -269,44 +269,44 @@
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -340,35 +340,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -382,28 +382,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -424,44 +424,44 @@
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -495,35 +495,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -537,28 +537,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -579,44 +579,44 @@
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -650,35 +650,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -692,28 +692,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -727,51 +727,51 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -805,35 +805,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -847,28 +847,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -882,51 +882,51 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -960,35 +960,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1002,28 +1002,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -1037,51 +1037,51 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -1115,35 +1115,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1157,28 +1157,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -1199,44 +1199,44 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -1270,35 +1270,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1312,28 +1312,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -1354,44 +1354,44 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -1425,35 +1425,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1467,28 +1467,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -1509,44 +1509,44 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -1580,35 +1580,35 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 11,
+            "weight": 14,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 8,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1622,28 +1622,28 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -1664,44 +1664,44 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 3,
+            "weight": 2,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 1,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 1,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 2,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -1737,49 +1737,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1793,7 +1793,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1807,14 +1807,14 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
@@ -1828,37 +1828,37 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -1892,49 +1892,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1948,7 +1948,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -1962,14 +1962,14 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
@@ -1983,37 +1983,37 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -2047,49 +2047,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2103,7 +2103,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2117,14 +2117,14 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
@@ -2138,37 +2138,37 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -2202,49 +2202,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2258,7 +2258,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2272,14 +2272,14 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
@@ -2293,37 +2293,37 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -2357,49 +2357,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 11,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2413,7 +2413,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2427,7 +2427,7 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -2448,37 +2448,37 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -2512,49 +2512,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 11,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2568,7 +2568,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2582,7 +2582,7 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -2603,37 +2603,37 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -2667,49 +2667,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 11,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2723,7 +2723,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2737,7 +2737,7 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -2758,37 +2758,37 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -2822,49 +2822,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2878,7 +2878,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -2892,58 +2892,58 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -2977,49 +2977,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3033,7 +3033,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3047,58 +3047,58 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -3132,49 +3132,49 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 13,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3188,7 +3188,7 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3202,58 +3202,58 @@
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -3294,42 +3294,42 @@
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 6,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3343,72 +3343,72 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 5,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 4,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 4,
+            "weight": 3,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 3,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 2,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 4,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -3444,14 +3444,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3479,7 +3479,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -3507,28 +3507,28 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -3556,16 +3556,16 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -3599,14 +3599,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3634,7 +3634,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -3662,28 +3662,28 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -3711,16 +3711,16 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -3754,14 +3754,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3789,7 +3789,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -3817,28 +3817,28 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -3866,16 +3866,16 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -3909,14 +3909,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 9,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -3944,7 +3944,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -3972,28 +3972,28 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -4021,16 +4021,16 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -4064,14 +4064,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -4099,7 +4099,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -4127,14 +4127,14 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -4148,14 +4148,14 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 5,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
@@ -4176,16 +4176,16 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -4219,14 +4219,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -4254,7 +4254,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -4282,14 +4282,14 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -4303,14 +4303,14 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 5,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
@@ -4331,16 +4331,16 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -4374,14 +4374,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -4409,7 +4409,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -4437,14 +4437,14 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -4458,14 +4458,14 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 7,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 5,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
@@ -4486,16 +4486,16 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -4529,14 +4529,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 14,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -4564,7 +4564,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -4592,21 +4592,21 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
@@ -4627,7 +4627,7 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 5,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
@@ -4641,16 +4641,16 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -4684,14 +4684,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 14,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -4719,7 +4719,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -4747,21 +4747,21 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
@@ -4782,7 +4782,7 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 5,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
@@ -4796,16 +4796,16 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -4839,14 +4839,14 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 14,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 11,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -4874,7 +4874,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -4902,21 +4902,21 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
@@ -4937,7 +4937,7 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 5,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
@@ -4951,16 +4951,16 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
             "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -4994,7 +4994,7 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 15,
+            "weight": 11,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -5029,7 +5029,7 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
@@ -5057,28 +5057,28 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 6,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -5099,23 +5099,23 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 5,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 11,
+            "weight": 8,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -5151,91 +5151,91 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 16,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -5256,23 +5256,23 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -5306,91 +5306,91 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 16,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -5411,23 +5411,23 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -5461,91 +5461,91 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 16,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -5566,23 +5566,23 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -5616,91 +5616,91 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 16,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 12,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -5721,23 +5721,23 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -5771,77 +5771,77 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 17,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -5855,14 +5855,14 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
@@ -5876,23 +5876,23 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -5926,77 +5926,77 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 17,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -6010,14 +6010,14 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
@@ -6031,23 +6031,23 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -6081,77 +6081,77 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 17,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
@@ -6165,14 +6165,14 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "expertise_orbs",
             "minGreedTier": 3,
             "maxGreedTier": -1
@@ -6186,23 +6186,23 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -6236,91 +6236,91 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 18,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -6334,14 +6334,14 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -6350,14 +6350,14 @@
             "type": "pool",
             "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -6391,91 +6391,91 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 18,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -6489,14 +6489,14 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -6505,14 +6505,14 @@
             "type": "pool",
             "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -6546,91 +6546,91 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 18,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "mega_greed_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -6644,14 +6644,14 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 6,
             "poolId": "mega_knack_pack",
             "minGreedTier": 6,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 8,
             "poolId": "deluxe_knack_pack",
             "minGreedTier": 8,
             "maxGreedTier": -1
@@ -6660,14 +6660,14 @@
             "type": "pool",
             "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]
@@ -6701,63 +6701,63 @@
         "generatedPool": [
           {
             "type": "pool",
-            "weight": 19,
+            "weight": 9,
             "poolId": "etchings",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 14,
+            "weight": 10,
             "poolId": "catalysts",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 5,
             "poolId": "super_inscriptions_common",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 4,
             "poolId": "super_inscriptions_challenge",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 10,
+            "weight": 8,
             "poolId": "super_inscriptions_omega",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_crystals",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 7,
             "poolId": "greed_companion_relics",
             "minGreedTier": 2,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 6,
             "poolId": "greed_pack",
             "minGreedTier": 1,
             "maxGreedTier": -1
@@ -6771,21 +6771,21 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "knack_pack",
             "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 7,
             "poolId": "greater_cores",
             "minGreedTier": 4,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 9,
             "poolId": "greed_trinkets",
             "minGreedTier": 7,
             "maxGreedTier": -1
@@ -6815,14 +6815,14 @@
             "type": "pool",
             "weight": 7,
             "poolId": "companion_candy",
-            "minGreedTier": 6,
+            "minGreedTier": 5,
             "maxGreedTier": -1
           },
           {
             "type": "pool",
-            "weight": 13,
+            "weight": 12,
             "poolId": "greed_catalysts",
-            "minGreedTier": 9,
+            "minGreedTier": 2,
             "maxGreedTier": -1
           }
         ]

@@ -110,6 +110,16 @@
           "text": "Greed Companion Relics",
           "color": "#DDDDDD"
         }
+      ],
+      [
+        {
+          "text": "Greed Catalysts ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "T1",
+          "color": "#FFAA00"
+        }
       ]
     ],
     "3": [
@@ -232,6 +242,12 @@
           "text": "Knack Booster Packs",
           "color": "#FFAA00"
         }
+      ],
+      [
+        {
+          "text": "Companion Candy",
+          "color": "#FFAA00"
+        }
       ]
     ],
     "6": [
@@ -249,12 +265,6 @@
         {
           "text": "Greed Trade Slot",
           "color": "#DDDDDD"
-        }
-      ],
-      [
-        {
-          "text": "Companion Candy",
-          "color": "#FFAA00"
         }
       ],
       [
