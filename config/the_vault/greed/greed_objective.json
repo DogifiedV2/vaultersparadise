@@ -3,6 +3,14 @@
   "bossBaseHealth": 100000.0,
   "bossHealthMultiplierPerContinue": 1.25,
   "bossDamageMultiplierPerContinue": 1.05,
+  "bossLearnedScalingEnabled": true,
+  "bossLearnedTargetFightSeconds": 180.0,
+  "bossLearnedStoredFightSamples": 5,
+  "bossLearnedRecentWeightMultiplier": 1.35,
+  "bossLearnedMaxHealthMultiplier": 25.0,
+  "bossLearnedHighestHitSafetyMultiplier": 8.0,
+  "bossLearnedPowerExponent": 1.0,
+  "bossLearnedMinFightSeconds": 5.0,
   "crateLootKey": "greed",
   "taskPools": {
     "IDONA": [
