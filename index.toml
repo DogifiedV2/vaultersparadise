@@ -1694,7 +1694,7 @@ hash = "cb2e16ba541166e8cba60a48caec0fb6156a7c7a5cdde25316b06623b00ec2c3"
 
 [[files]]
 file = "config/the_vault/bounty/greed_rewards.json"
-hash = "12378684205ebd5af29869ca18379a97bab25029dfad9af9c7dde39d8b8c6378"
+hash = "eab8eef782aede5704ef37038af4cb351c43cf09b5c875047cb536a8b8e1b82e"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/completion.json"
@@ -14746,7 +14746,7 @@ hash = "35b63ac3b6811738c83cd133e92ad668961f68384fbcabd21c23aaca1336ebfe"
 
 [[files]]
 file = "config/the_vault/lang/de_de/skill_descriptions.json"
-hash = "9e11ed0df4f708ec3a53dbab90a273906f97f7865160fbbb029a7e84dc2d0f40"
+hash = "0a0597796e703e1b32350581b83598cb84f624fa435bef2936d3a7c7a1f75e7d"
 
 [[files]]
 file = "config/the_vault/lang/de_de/tooltip.json"
@@ -14774,7 +14774,7 @@ hash = "281047d11bc9f412887e69a13a11d486779740fc5662bff2ac4a2b79b37a01af"
 
 [[files]]
 file = "config/the_vault/lang/es_es/skill_descriptions.json"
-hash = "f9b3713ce6ab3b27a2d1a79032182f0d7c1e9ec8d7dcf7b96602963a70a1bf84"
+hash = "9b9da1516dd7d1d2962899ccc73fd581e874d7416cdaa586566bb1c661264d61"
 
 [[files]]
 file = "config/the_vault/lang/es_es/tooltip.json"
@@ -14802,7 +14802,7 @@ hash = "d58464eb031bc0569fe94c9e2c19036a5d5bb4bfb8e05162e85c97ab5f09cb39"
 
 [[files]]
 file = "config/the_vault/lang/fr_fr/skill_descriptions.json"
-hash = "4959081fd2fe96694bfb0ad2c99426ac7020a5894e4ce466e105e76a1aef1c3a"
+hash = "b221b04bd813ba076028e819e9ab7139595c4e212f5af5031989b3c5b3eaf1ba"
 
 [[files]]
 file = "config/the_vault/lang/fr_fr/tooltip.json"
@@ -14830,7 +14830,7 @@ hash = "ab97f85e24d5f14ba2e3d2eaff12f3a2bf86f8bdcb7c0a993074e4243deb4d25"
 
 [[files]]
 file = "config/the_vault/lang/pt_br/skill_descriptions.json"
-hash = "4959081fd2fe96694bfb0ad2c99426ac7020a5894e4ce466e105e76a1aef1c3a"
+hash = "b221b04bd813ba076028e819e9ab7139595c4e212f5af5031989b3c5b3eaf1ba"
 
 [[files]]
 file = "config/the_vault/lang/pt_br/tooltip.json"
@@ -14858,7 +14858,7 @@ hash = "ef530fcf51680c39d2bf27f2e2fe19865add3e070237555ecba1984fd1bc4f03"
 
 [[files]]
 file = "config/the_vault/lang/ru_ru/skill_descriptions.json"
-hash = "4959081fd2fe96694bfb0ad2c99426ac7020a5894e4ce466e105e76a1aef1c3a"
+hash = "b221b04bd813ba076028e819e9ab7139595c4e212f5af5031989b3c5b3eaf1ba"
 
 [[files]]
 file = "config/the_vault/lang/ru_ru/tooltip.json"
@@ -14886,7 +14886,7 @@ hash = "c8d4295cf63b6a5a34f6be8a1394a2a3b814adfd430897c6d11cd762e8f62e8e"
 
 [[files]]
 file = "config/the_vault/lang/sv_se/skill_descriptions.json"
-hash = "4959081fd2fe96694bfb0ad2c99426ac7020a5894e4ce466e105e76a1aef1c3a"
+hash = "b221b04bd813ba076028e819e9ab7139595c4e212f5af5031989b3c5b3eaf1ba"
 
 [[files]]
 file = "config/the_vault/lang/sv_se/tooltip.json"
@@ -14914,7 +14914,7 @@ hash = "0233dd2cd412d4cd365286a9a2551214f6ec91f3bdab645ddff86865ee6412a1"
 
 [[files]]
 file = "config/the_vault/lang/zh_cn/skill_descriptions.json"
-hash = "4959081fd2fe96694bfb0ad2c99426ac7020a5894e4ce466e105e76a1aef1c3a"
+hash = "b221b04bd813ba076028e819e9ab7139595c4e212f5af5031989b3c5b3eaf1ba"
 
 [[files]]
 file = "config/the_vault/lang/zh_cn/tooltip.json"
@@ -15170,7 +15170,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "4410aea227be3246f51a5d88493905ee37cd91baaf1d18954a59da42658e7249"
+hash = "12469cd30084d01baf84f71be57902d5adf70017e51a0fd29f479c00dbe732dc"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -15414,7 +15414,7 @@ hash = "bfe1904d209108a069722379bc5c6de7d8bfa69f6e3140d0f3bb5750587839b1"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
-hash = "d2fc49cbd35b6468905e6cd455f69c5568a1b7d54aba69f7fb616ecddd172a75"
+hash = "963b9d105e4a741cb334c62ba5b5e76257ed8d4fb956ee34568b7eaa40ff3de7"
 
 [[files]]
 file = "config/the_vault/vault_stew.json"
@@ -17910,8 +17910,8 @@ file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
-file = "mods/companion_locker-3.21.3.jar"
-hash = "bf2aa525fb59b7175accd9dd1f36660f234a23bf1b47544b2f0f9d6281631cd8"
+file = "mods/companion_locker-3.21.4.jar"
+hash = "cd8831cb681e7e10c698f4e8eebb8fb55e850a80f8e8bbebf93c624a137ec098"
 
 [[files]]
 file = "mods/connectivity-1.18.2-3.2.jar"
@@ -18373,7 +18373,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "0b07f7dfa8a22e463ee7fd89c75b4692e02321ef06e1ce58551ce71c6c4e7fa1"
+hash = "c5191ecc9ba43c566982c189f95b27387b0b76e410354f6e2ff70bba391a64a2"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
