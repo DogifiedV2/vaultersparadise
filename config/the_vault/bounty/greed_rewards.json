@@ -13,8 +13,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 6,
-                "maxCount": 12
+                "minCount": 4,
+                "maxCount": 8
               },
               "weight": 1
             }
@@ -169,8 +169,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 6,
-                "maxCount": 12
+                "minCount": 4,
+                "maxCount": 8
               },
               "weight": 1
             }
@@ -325,8 +325,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 8,
-                "maxCount": 14
+                "minCount": 6,
+                "maxCount": 10
               },
               "weight": 1
             }
@@ -481,8 +481,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 8,
-                "maxCount": 14
+                "minCount": 6,
+                "maxCount": 10
               },
               "weight": 1
             }
@@ -637,8 +637,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 10,
-                "maxCount": 18
+                "minCount": 7,
+                "maxCount": 13
               },
               "weight": 1
             }
@@ -793,8 +793,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 10,
-                "maxCount": 18
+                "minCount": 7,
+                "maxCount": 13
               },
               "weight": 1
             }
@@ -949,8 +949,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 12,
-                "maxCount": 22
+                "minCount": 8,
+                "maxCount": 15
               },
               "weight": 1
             }
@@ -1105,8 +1105,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 14,
-                "maxCount": 24
+                "minCount": 10,
+                "maxCount": 17
               },
               "weight": 1
             }
@@ -1261,8 +1261,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 14,
-                "maxCount": 24
+                "minCount": 10,
+                "maxCount": 17
               },
               "weight": 1
             }
@@ -1417,8 +1417,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 16,
-                "maxCount": 26
+                "minCount": 11,
+                "maxCount": 18
               },
               "weight": 1
             }
@@ -1573,8 +1573,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 18,
-                "maxCount": 28
+                "minCount": 13,
+                "maxCount": 20
               },
               "weight": 1
             }
@@ -1731,8 +1731,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 10,
-                "maxCount": 18
+                "minCount": 7,
+                "maxCount": 13
               },
               "weight": 1
             }
@@ -1887,8 +1887,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 10,
-                "maxCount": 18
+                "minCount": 7,
+                "maxCount": 13
               },
               "weight": 1
             }
@@ -2043,8 +2043,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 12,
-                "maxCount": 22
+                "minCount": 8,
+                "maxCount": 15
               },
               "weight": 1
             }
@@ -2199,8 +2199,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 12,
-                "maxCount": 22
+                "minCount": 8,
+                "maxCount": 15
               },
               "weight": 1
             }
@@ -2355,8 +2355,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 16,
-                "maxCount": 26
+                "minCount": 11,
+                "maxCount": 18
               },
               "weight": 1
             }
@@ -2511,8 +2511,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 16,
-                "maxCount": 26
+                "minCount": 11,
+                "maxCount": 18
               },
               "weight": 1
             }
@@ -2667,8 +2667,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 20,
-                "maxCount": 32
+                "minCount": 14,
+                "maxCount": 22
               },
               "weight": 1
             }
@@ -2823,8 +2823,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 22,
-                "maxCount": 34
+                "minCount": 15,
+                "maxCount": 24
               },
               "weight": 1
             }
@@ -2979,8 +2979,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 22,
-                "maxCount": 36
+                "minCount": 15,
+                "maxCount": 25
               },
               "weight": 1
             }
@@ -3135,8 +3135,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 24,
-                "maxCount": 38
+                "minCount": 17,
+                "maxCount": 27
               },
               "weight": 1
             }
@@ -3291,8 +3291,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 26,
-                "maxCount": 42
+                "minCount": 18,
+                "maxCount": 29
               },
               "weight": 1
             }
@@ -3449,8 +3449,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 14,
-                "maxCount": 24
+                "minCount": 10,
+                "maxCount": 17
               },
               "weight": 1
             }
@@ -3605,8 +3605,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 14,
-                "maxCount": 24
+                "minCount": 10,
+                "maxCount": 17
               },
               "weight": 1
             }
@@ -3761,8 +3761,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 18,
-                "maxCount": 28
+                "minCount": 13,
+                "maxCount": 20
               },
               "weight": 1
             }
@@ -3917,8 +3917,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 18,
-                "maxCount": 28
+                "minCount": 13,
+                "maxCount": 20
               },
               "weight": 1
             }
@@ -4073,8 +4073,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 22,
-                "maxCount": 34
+                "minCount": 15,
+                "maxCount": 24
               },
               "weight": 1
             }
@@ -4229,8 +4229,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 22,
-                "maxCount": 36
+                "minCount": 15,
+                "maxCount": 25
               },
               "weight": 1
             }
@@ -4385,8 +4385,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 26,
-                "maxCount": 42
+                "minCount": 18,
+                "maxCount": 29
               },
               "weight": 1
             }
@@ -4541,8 +4541,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 28,
-                "maxCount": 46
+                "minCount": 20,
+                "maxCount": 32
               },
               "weight": 1
             }
@@ -4697,8 +4697,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 30,
-                "maxCount": 46
+                "minCount": 21,
+                "maxCount": 32
               },
               "weight": 1
             }
@@ -4853,8 +4853,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 32,
-                "maxCount": 50
+                "minCount": 22,
+                "maxCount": 35
               },
               "weight": 1
             }
@@ -5009,8 +5009,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 36,
-                "maxCount": 56
+                "minCount": 25,
+                "maxCount": 39
               },
               "weight": 1
             }
@@ -5167,8 +5167,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 26,
-                "maxCount": 46
+                "minCount": 18,
+                "maxCount": 32
               },
               "weight": 1
             }
@@ -5323,8 +5323,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 26,
-                "maxCount": 46
+                "minCount": 18,
+                "maxCount": 32
               },
               "weight": 1
             }
@@ -5479,8 +5479,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 34,
-                "maxCount": 58
+                "minCount": 24,
+                "maxCount": 41
               },
               "weight": 1
             }
@@ -5635,8 +5635,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 34,
-                "maxCount": 58
+                "minCount": 24,
+                "maxCount": 41
               },
               "weight": 1
             }
@@ -5791,8 +5791,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 42,
-                "maxCount": 72
+                "minCount": 29,
+                "maxCount": 50
               },
               "weight": 1
             }
@@ -5947,8 +5947,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 42,
-                "maxCount": 72
+                "minCount": 29,
+                "maxCount": 50
               },
               "weight": 1
             }
@@ -6103,8 +6103,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 50,
-                "maxCount": 86
+                "minCount": 35,
+                "maxCount": 60
               },
               "weight": 1
             }
@@ -6259,8 +6259,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 54,
-                "maxCount": 94
+                "minCount": 38,
+                "maxCount": 66
               },
               "weight": 1
             }
@@ -6415,8 +6415,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 56,
-                "maxCount": 96
+                "minCount": 39,
+                "maxCount": 67
               },
               "weight": 1
             }
@@ -6571,8 +6571,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 60,
-                "maxCount": 102
+                "minCount": 42,
+                "maxCount": 71
               },
               "weight": 1
             }
@@ -6727,8 +6727,8 @@
                 "stack": {
                   "item": "the_vault:greed_coin"
                 },
-                "minCount": 68,
-                "maxCount": 114
+                "minCount": 48,
+                "maxCount": 80
               },
               "weight": 1
             }

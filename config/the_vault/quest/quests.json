@@ -838,7 +838,6 @@
             "text": "and offer the highest base ",
             "color": "$text"
           },
-
           {
             "text": "Attack Speed",
             "color": "$speed"
@@ -1765,7 +1764,6 @@
             "text": ": Tool won't take durability damage outside of the vault. (Need 100% for an unbreakable non-vault tool)\n\n",
             "color": "$text"
           },
-
           {
             "text": "You will encounter many different jewels and it is possible to obtain a jewel with more than one attribute.",
             "color": "$text"
@@ -1898,7 +1896,6 @@
         "vaultExp": 0
       }
     },
-
     {
       "type": "level_up",
       "id": "level_five",
@@ -4633,7 +4630,6 @@
             "text": "CANNOT ",
             "color": "dark_red"
           },
-
           {
             "text": "be undone.",
             "color": "$text"
@@ -4741,7 +4737,7 @@
             "color": "$qhighlight"
           },
           {
-            "text": ". Load an inscription into the Crucible and materialise the full build on the spot — no more placing every block by hand.\n\n",
+            "text": ". Load an inscription into the Crucible and materialise the full build on the spot \u2014 no more placing every block by hand.\n\n",
             "color": "$text"
           },
           {
@@ -5451,19 +5447,19 @@
             "color": "$text"
           },
           {
-            "text": "• Companion Scroll\n",
+            "text": "\u2022 Companion Scroll\n",
             "color": "$qhighlight"
           },
           {
-            "text": "• Mystic Pear\n",
+            "text": "\u2022 Mystic Pear\n",
             "color": "$qhighlight"
           },
           {
-            "text": "• Treasure+ Deck\n",
+            "text": "\u2022 Treasure+ Deck\n",
             "color": "$qhighlight"
           },
           {
-            "text": "• A new Unique",
+            "text": "\u2022 A new Unique",
             "color": "$qhighlight"
           },
           {
@@ -6366,7 +6362,6 @@
         "vaultExp": 0
       }
     },
-
     {
       "type": "level_up",
       "id": "reach_level_100",
@@ -6492,13 +6487,13 @@
       }
     },
     {
-      "type": "complete_vault",
+      "type": "checkmark",
       "id": "greed",
-      "name": "Greed",
+      "name": "Greed Awakens",
       "descriptionData": {
         "description": [
           {
-            "text": "Well done! After defeating the ",
+            "text": "The ",
             "color": "$text"
           },
           {
@@ -6506,138 +6501,283 @@
             "color": "$qhighlight"
           },
           {
-            "text": ", you have unlocked the final chapter of Vault Hunters: ",
+            "text": " is dead. Greed has noticed.\n\n",
             "color": "$text"
           },
           {
-            "text": "Greed",
+            "text": "Greed Vaults",
             "color": "$omega"
           },
           {
-            "text": ".\n\nYou now have access to the ",
+            "text": " are the next loop: build a crystal, enter, choose tasks for reputation, then decide when to cash out and fight. More completed tasks means a better crate, but the vault gets rougher each time.\n\n",
             "color": "$text"
           },
           {
-            "text": "Greed Trial",
-            "color": "$omega"
-          },
-          {
-            "text": ", an infinite-length vault that will push you to your limits. When you eventually fall, your progress will increase your ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Tier",
+            "text": "Greed Tiers",
             "color": "$qhighlight"
           },
           {
-            "text": ", unlocking powerful new ",
+            "text": " come from completed Greed Vaults and unlock new reward pools, Greed Bounties, the Greed Market and stronger Greed card scaling.\n\n",
             "color": "$text"
           },
           {
-            "text": "Greed Nodes",
-            "color": "$omega"
-          },
-          {
-            "text": ".\n\nUpon reaching your first Greed Tier, you will receive a ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Anchor",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ". Place it to summon ",
-            "color": "$text"
-          },
-          {
-            "text": "Mr Greedy",
-            "color": "$omega"
-          },
-          {
-            "text": ", a mysterious merchant who offers a ",
-            "color": "$text"
-          },
-          {
-            "text": "Shop",
-            "color": "$white"
-          },
-          {
-            "text": " for purchasing Greed items with ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Coins",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Quests",
-            "color": "$white"
-          },
-          {
-            "text": " that reward reputation through vault challenges, and ",
-            "color": "$text"
-          },
-          {
-            "text": "Challenge Crystals",
-            "color": "$white"
-          },
-          {
-            "text": " with an all-new ",
-            "color": "$text"
-          },
-          {
-            "text": "Hazard",
-            "color": "$omega"
-          },
-          {
-            "text": " system.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Beware of Greed Assassins...",
-            "color": "$omega"
-          },
-          {
-            "text": " how far will you dare to climb? How Greedy will you become?\n\nNeed more coins? The ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Cauldron",
-            "color": "$omega"
-          },
-          {
-            "text": " hungers for vault materials. Feed it what it demands, and it will reward you with ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Coins",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " in return.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Complete the Greed Trial",
+            "text": "Begin Greed",
             "color": "$heal"
           }
         ]
       },
       "icon": "the_vault:gui/quests/greed",
-      "targetId": "the_vault:rebirth",
+      "targetId": "the_vault:any",
       "targetProgress": 1.0,
       "unlockedBy": "herald",
       "reward": {
-        "items": [
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "crafting",
+      "id": "craft_greed_altar",
+      "name": "Craft a Greed Altar",
+      "descriptionData": {
+        "description": [
           {
-            "item": "minecraft:stick",
-            "amount": 1
+            "text": "A ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Altar",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " works like a Vault Altar, but it asks for vault resources and creates crystals for Greed Vaults.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Greed crystals can still be prepared while your Greed Vault cooldown is running.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Craft a Greed Altar",
+            "color": "$heal"
           }
-        ],
+        ]
+      },
+      "icon": "the_vault:gui/quests/altar",
+      "targetId": "the_vault:vault_greed_altar",
+      "targetProgress": 1.0,
+      "unlockedBy": "greed",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "craft_greed_crystal",
+      "id": "craft_greed_crystal",
+      "name": "Create a Greed Crystal",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Put a Vault Rock on the ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Altar",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and complete the requested ingredients to create a ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Crystal",
+            "color": "$omega"
+          },
+          {
+            "text": ".\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "The crystal shows its ",
+            "color": "$text"
+          },
+          {
+            "text": "Player Capacity",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". Fresh crystals start as ",
+            "color": "$text"
+          },
+          {
+            "text": "Solo",
+            "color": "$white"
+          },
+          {
+            "text": ". Put the finished crystal back on the Greed Altar and complete another set of ingredients to add +1 player slot.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Create a Greed Crystal",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/crystal",
+      "targetId": "the_vault:vault_crystal",
+      "targetProgress": 1.0,
+      "unlockedBy": "craft_greed_altar",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "complete_vault",
+      "id": "complete_greed_vault",
+      "name": "Complete a Greed Vault",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Inside a ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Vault",
+            "color": "$omega"
+          },
+          {
+            "text": ", each god offers a task. Completing a task gives reputation with that god, adds Greed stacks, improves your crate and makes the next step harder.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "When you are ready, choose ",
+            "color": "$text"
+          },
+          {
+            "text": "Fight",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and kill the boss to complete. Reputation earned during the vault is kept either way.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Complete a Greed Vault",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/greed",
+      "targetId": "the_vault:greed",
+      "targetProgress": 1.0,
+      "unlockedBy": "craft_greed_crystal",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "external_progress",
+      "id": "greed_bounty_tab",
+      "name": "Greed Bounties",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "At Greed Tier 1, the ",
+            "color": "$text"
+          },
+          {
+            "text": "Bounty Table",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " gains a Greed tab. These bounties pay Greed Coins and can roll Greed item rewards without replacing the main Greed Vault loop.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Open the Greed tab on a Bounty Table",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/bounty_table",
+      "targetId": "the_vault:greedy_bounty_pearl",
+      "targetProgress": 1.0,
+      "unlockedBy": "complete_greed_vault",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "external_progress",
+      "id": "greed_market_tab",
+      "name": "Greed Market",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "At Greed Tier 1, the ",
+            "color": "$text"
+          },
+          {
+            "text": "Black Market",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " gains a Greed tab. It sells the same kind of items as the Greed Trader, but costs more and also takes Soul Shards.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Open the Greed tab on the Black Market",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/black_market",
+      "targetId": "the_vault:greed_market_reroll",
+      "targetProgress": 1.0,
+      "unlockedBy": "greed_bounty_tab",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "external_progress",
+      "id": "spend_greed_point",
+      "name": "Spend a Greed Point",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Greed Crates give ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Point Orbs",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". Use them, then spend the points in the Greed tree.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "The number of points you can use is capped by your current Greed Tier, so pushing tiers matters as much as farming orbs.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Spend a Greed Point",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/expertises",
+      "targetId": "the_vault:greed_point_orb",
+      "targetProgress": 1.0,
+      "unlockedBy": "greed_market_tab",
+      "reward": {
+        "items": [],
         "vaultExp": 0
       }
     },
@@ -6676,7 +6816,7 @@
       "icon": "the_vault:gui/quests/etching_table",
       "targetId": "the_vault:etching_application_table",
       "targetProgress": 1.0,
-      "unlockedBy": "greed",
+      "unlockedBy": "spend_greed_point",
       "reward": {
         "items": [
           {
@@ -6722,72 +6862,7 @@
       "icon": "the_vault:gui/quests/architects_workbench",
       "targetId": "the_vault:personal_vault",
       "targetProgress": 1.0,
-      "unlockedBy": "greed",
-      "reward": {
-        "items": [],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "crafting",
-      "id": "greed_cauldron",
-      "name": "Greed Cauldron",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Cauldron",
-            "color": "$omega"
-          },
-          {
-            "text": " is a powerful device that hungers for vault materials. Craft one and place it down to begin feeding its insatiable appetite.\n\nThe ",
-            "color": "$text"
-          },
-          {
-            "text": "Crucible",
-            "color": "$omega"
-          },
-          {
-            "text": " will demand large quantities of vault resources. For each request you fulfil, you will receive ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Coins",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ". But here's the trick: every completed request increases your ",
-            "color": "$text"
-          },
-          {
-            "text": "multiplier",
-            "color": "$white"
-          },
-          {
-            "text": ", causing subsequent completions to reward even more ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Coins",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ".\n\nKeep feeding the Crucible to maximise your returns.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Craft a Greed Cauldron",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/greed_cauldron",
-      "targetId": "the_vault:greed_cauldron",
-      "targetProgress": 1.0,
-      "unlockedBy": "greed",
+      "unlockedBy": "spend_greed_point",
       "reward": {
         "items": [],
         "vaultExp": 0
