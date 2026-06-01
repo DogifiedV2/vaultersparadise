@@ -340,7 +340,23 @@
       "the_vault:augment{theme:\"the_vault:classic_vault_season_winter\"}": 9,
       "the_vault:augment{theme:\"the_vault:classic_vault_aurora_cave\"}": 9,
       "the_vault:augment{theme:\"the_vault:classic_vault_plastic\"}": 0,
-      "the_vault:augment{theme:\"the_vault:classic_vault_alpha\"}": 0
+      "the_vault:augment{theme:\"the_vault:classic_vault_alpha\"}": 0,
+      "the_vault:augment{theme:\"the_vault:classic_vault_wendarr_normal\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_velara_normal\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_tenos_normal\"}": 5,
+      "the_vault:augment{theme:\"the_vault:classic_vault_idona_normal\"}": 5
+    },
+    "the_vault:classic_vault_wendarr_normal": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_wendarr_normal\"}": 5
+    },
+    "the_vault:classic_vault_velara_normal": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_velara_normal\"}": 5
+    },
+    "the_vault:classic_vault_tenos_normal": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_tenos_normal\"}": 5
+    },
+    "the_vault:classic_vault_idona_normal": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_idona_normal\"}": 5
     }
   }
 }

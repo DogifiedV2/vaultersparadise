@@ -1654,7 +1654,7 @@ hash = "c2b07047565e72f025fa5be4eeca1034b995981cf96f9534ab0e79b25c275b9c"
 
 [[files]]
 file = "config/the_vault/augment.json"
-hash = "823697ad58ae8afccc160faff56af30fa86bab4404a481ddab3f0764a713b8db"
+hash = "97a6b385526ccab6dc4828fe42e183f9f5273e19bde3de32836eb0f898e42859"
 
 [[files]]
 file = "config/the_vault/augment_box.json"
@@ -12742,7 +12742,7 @@ hash = "0eb27f0d31af6b848cec59496fdc48288e387bdc294f8570ced57b1928fa7bc4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/idona/omega/blacksmith.json"
-hash = "60dd47f8fa92ed92c386aa4ba655b6a763e974730028a3f97c356dcd4f99c5e4"
+hash = "f30438e72375872c9ad3fcd25a51fc09c5d48059e26b33604876efdf5cbf9302"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/idona/omega/cove.json"
@@ -12822,7 +12822,7 @@ hash = "0807b1b12769e96e12687f76b5633dd8ac7dca1d361715faae0999668c6fa246"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/omega/blacksmith.json"
-hash = "c6932d8ce18f788e0f882a0880d8a03c557e742621d157578e47ef4ed92aaf51"
+hash = "b0bd2b937d131714a5dc160a4763a86680576def1392b83b0546b98e619d82ce"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/tenos/omega/cove.json"
@@ -12902,7 +12902,7 @@ hash = "e141acead218d9241c8644cfd8598628b4fc9fc03011187b576847f449402d95"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/omega/blacksmith.json"
-hash = "96c1443f0ed30a19fc516686fc536bfda58b83d4467b1c6254496d753a073190"
+hash = "fadfb2b46103227f7029ec68856bf6926c7b50f64916a6d280be0c6d882dbe49"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/velara/omega/cove.json"
@@ -12982,7 +12982,7 @@ hash = "1f69ac40fd0f68eb75a35b8af8d4fefe0d2eb7142bc19c37df306acd1f6269f1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/omega/blacksmith.json"
-hash = "f1573359cf7e449761b99671d372433f37c0d75d5d2faad36a9f814693c35657"
+hash = "8db2794092a44eb04a14d09ead83fcc93d4e327f9eed33435a0fd3fc390895ce"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/omega/cove.json"
@@ -14666,7 +14666,7 @@ hash = "ca678686237b7da5739b05ad56029dd4aefc3b137e51c2c58228431e093d8a39"
 
 [[files]]
 file = "config/the_vault/greed/greed_objective.json"
-hash = "d2aecce2133271228ee0cac3568df24fe909f099e8f49724f540638648aff2be"
+hash = "6ec4e3e1f42d226d4d543ce129ef0b047b100740b479ffa93ba406895dc3e987"
 
 [[files]]
 file = "config/the_vault/greed/greed_progression.json"
@@ -15214,7 +15214,7 @@ hash = "64e0e34b9d4bc78a036d8bbbd2dab83786579c4d36ce355a2b65aa37d8beae23"
 
 [[files]]
 file = "config/the_vault/theme_augment_lore.json"
-hash = "91da45136a0e6ef59c6d0da3be4066c501ceb8039e168a2fef1e25e04ddf56b9"
+hash = "d36c58e02efe59ec07df62089a62d088f57ce7f7c586876e612b5fea0e83430b"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
@@ -15278,7 +15278,7 @@ hash = "1abfa8a424603504da3743566ddad41cc9df2f7c26f1a0ad90850ab0372771e2"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "fb980b6268f5417ef176fcf97e6d2f80a159104ceac05fd4c1c0e586549e427f"
+hash = "12c5111233254d475367efefd6d1a2020e694ae571940f7b45db285dfddda045"
 
 [[files]]
 file = "config/the_vault/vault_altar/greed_vault_altar_ingredients.json"
@@ -18373,7 +18373,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "c9feddc04173c8010b65afdb5ac0e497b3e67061a0ee0d21e45b8d30197a741d"
+hash = "bb8a4208a85c9220026142a43264368b264c9ddcc1f441c6e6a74d62ac96b545"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18462,7 +18462,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.22.9-all.jar"
-hash = "053d3f62a0394c72ebd741736be5561aa146011d2f46b3ffc6952b8d3271a915"
+hash = "425992e64741d5cb501384d6dfe4d372b2c649bf6c99c85c07e365adecd047d3"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
