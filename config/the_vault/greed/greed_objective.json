@@ -1,5 +1,5 @@
 {
-  "taskMultiplierPerContinue": 1.22,
+  "taskMultiplierPerContinue": 1.4,
   "bossBaseHealth": 100000.0,
   "bossHealthMultiplierPerContinue": 1.25,
   "bossDamageMultiplierPerContinue": 1.05,
@@ -14,10 +14,11 @@
   "bossLearnedUseActiveDamageWindow": true,
   "bossLearnedMinActiveDamageSeconds": 10.0,
   "bossLearnedDamageScalingEnabled": true,
-  "bossLearnedTargetHitsToKill": 7.0,
+  "bossLearnedTargetHitsToKill": 11.0,
   "bossLearnedMinDamageMultiplier": 0.35,
   "bossLearnedMaxDamageMultiplier": 25.0,
   "bossLearnedDamagePowerExponent": 1.0,
+  "bossLearnedDamageTolerance": 0.1,
   "crateLootKey": "greed",
   "taskPools": {
     "IDONA": [
@@ -37,8 +38,8 @@
               "type": "target",
               "target": {
                 "type": "uniform",
-                "min": 120,
-                "max": 260
+                "min": 180,
+                "max": 360
               },
               "variables": {
                 "targetPlayerContribution": 0.75
@@ -478,8 +479,8 @@
               "type": "target",
               "target": {
                 "type": "uniform",
-                "min": 48,
-                "max": 96
+                "min": 62,
+                "max": 110
               },
               "variables": {
                 "targetPlayerContribution": 0.8
