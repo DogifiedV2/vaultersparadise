@@ -391,7 +391,7 @@
           "minModifiers": 1,
           "maxModifiers": 1,
           "isSuper": false,
-          "isGreedy": false
+          "isGreedy": true
         }
       }
     ],
@@ -1078,11 +1078,6 @@
         "pool": "the_vault:vault/rooms/challenge/memory",
         "weight": 10,
         "model": 23
-      },
-      {
-        "pool": "the_vault:vault/rooms/challenge/horderush",
-        "weight": 10,
-        "model": 0
       }
     ],
     "OMEGA": [

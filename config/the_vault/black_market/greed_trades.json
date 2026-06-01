@@ -117,10 +117,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 81300,
-            "maxShardPrice": 155500,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },
@@ -234,10 +234,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 88900,
-            "maxShardPrice": 151800,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },
@@ -351,10 +351,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 83800,
-            "maxShardPrice": 170700,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },
@@ -479,10 +479,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 94800,
-            "maxShardPrice": 156300,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },
@@ -629,10 +629,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 87600,
-            "maxShardPrice": 154400,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },
@@ -801,10 +801,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 87700,
-            "maxShardPrice": 164400,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },
@@ -984,10 +984,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 84700,
-            "maxShardPrice": 163600,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },
@@ -1189,10 +1189,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 93500,
-            "maxShardPrice": 161600,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },
@@ -1394,10 +1394,10 @@
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 95600,
-            "maxShardPrice": 172300,
-            "minGreedCoinPrice": 88,
-            "maxGreedCoinPrice": 157
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
           },
           "weight": 12
         },

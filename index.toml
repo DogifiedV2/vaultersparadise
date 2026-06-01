@@ -1678,7 +1678,7 @@ hash = "cd06d56223ee28d315d2cdcf00d7a8602cc35163026157634aa6cb0bb87275ff"
 
 [[files]]
 file = "config/the_vault/black_market/greed_trades.json"
-hash = "a3c8fc306e32d822f6802da3a6e7c1f95417efdaa381a0064e683096f22dc880"
+hash = "ca9517b4314ecacb93242b0550e8b2e9b906365e1382fabed4d1b79219e2fd60"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
@@ -1694,7 +1694,7 @@ hash = "cb2e16ba541166e8cba60a48caec0fb6156a7c7a5cdde25316b06623b00ec2c3"
 
 [[files]]
 file = "config/the_vault/bounty/greed_rewards.json"
-hash = "6efbf580bc6185080887d2021db2085660268b68c01b79512ea88260b2556623"
+hash = "12378684205ebd5af29869ca18379a97bab25029dfad9af9c7dde39d8b8c6378"
 
 [[files]]
 file = "config/the_vault/bounty/greed_task/completion.json"
@@ -14674,7 +14674,7 @@ hash = "fb774169a4af6e0a30accbe19e05a3ecc031f402f3138043967256c5004c7cbd"
 
 [[files]]
 file = "config/the_vault/greed/greed_trader.json"
-hash = "f530dc26ddfd9de171522bb85d8c0f74a4fe73fd9a8391290768049d631ac80c"
+hash = "65f1fa74596bdbbbf375d0287c5f6e4df2e6f05efdacdcf9da85a17c8180ae38"
 
 [[files]]
 file = "config/the_vault/greed/greed_tree.json"
@@ -14682,11 +14682,11 @@ hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 
 [[files]]
 file = "config/the_vault/greed/reward_pools.json"
-hash = "60a1050c9d3bbf501ec687462b927615bfdb4d9f077573aa97fb7382af9763d1"
+hash = "53b7be68476fccd1a355fa290796981fc2313441dbbb01825bc4b8c6f3a0fbd3"
 
 [[files]]
 file = "config/the_vault/greed/trials_screen.json"
-hash = "88ee9fb0fe951289a423598d0a632ce6d3b40c65809658e40821af6b0a2cbb45"
+hash = "f485539ee5fc4e76b4258cbe9b4f8d3e3ec0ad4ebc63dd533a8329a6736a6b12"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -15042,7 +15042,7 @@ hash = "bbd8195b8aba8f14eb41a8b2dda0d23d2dd29c69beee7c44cf44ce63dbb9fd66"
 
 [[files]]
 file = "config/the_vault/prestige_powers.json"
-hash = "8f29f4ba5b45074c44f58bcb840098d04d9dfed6d24df3f9dd97748fc8a088e1"
+hash = "92de95b0c9f46078f550a267ee94fc4c836f2087bc511e5e67712d2d39b65f93"
 
 [[files]]
 file = "config/the_vault/prestige_powers_gui_styles.json"
@@ -18373,7 +18373,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "9cf4917efde90b230fd4d88ab38ab141c08b4c69f10e8358b66028be64fdeaa0"
+hash = "0b07f7dfa8a22e463ee7fd89c75b4692e02321ef06e1ce58551ce71c6c4e7fa1"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

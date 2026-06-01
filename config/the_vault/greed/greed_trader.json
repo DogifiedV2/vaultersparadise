@@ -71,8 +71,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -143,8 +143,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -222,8 +222,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -308,8 +308,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -408,8 +408,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -522,8 +522,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -643,8 +643,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -778,8 +778,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -913,8 +913,8 @@
         "type": "pool",
         "weight": 12,
         "poolId": "greed_catalysts",
-        "minCoinCost": 70,
-        "maxCoinCost": 125
+        "minCoinCost": 20,
+        "maxCoinCost": 45
       },
       {
         "type": "pool",
@@ -2091,11 +2091,6 @@
         "pool": "the_vault:vault/rooms/challenge/memory",
         "weight": 10,
         "model": 23
-      },
-      {
-        "pool": "the_vault:vault/rooms/challenge/horderush",
-        "weight": 10,
-        "model": 0
       }
     ],
     "OMEGA": [
@@ -3827,14 +3822,14 @@
     },
     {
       "displayName": "Gone in 60 seconds",
-      "description": "A good movie, how good is it inside a vault though…",
+      "description": "A good movie, how good is it inside a vault though\u2026",
       "challengeCrystalId": "gone_in_60_seconds",
       "minTier": 5,
       "maxTier": 5
     },
     {
       "displayName": "The Pacifist",
-      "description": "So you say this is more efficient, faster, better, stronger? Weak…",
+      "description": "So you say this is more efficient, faster, better, stronger? Weak\u2026",
       "challengeCrystalId": "the_pacifist",
       "minTier": 6,
       "maxTier": 6
