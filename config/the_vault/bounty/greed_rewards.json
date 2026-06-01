@@ -154,7 +154,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "1": {
         "vaultExp": {
@@ -309,7 +310,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "2": {
         "vaultExp": {
@@ -464,7 +466,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "3": {
         "vaultExp": {
@@ -619,7 +622,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "4": {
         "vaultExp": {
@@ -774,7 +778,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "5": {
         "vaultExp": {
@@ -929,7 +934,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "6": {
         "vaultExp": {
@@ -1084,7 +1090,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "7": {
         "vaultExp": {
@@ -1239,7 +1246,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "8": {
         "vaultExp": {
@@ -1394,7 +1402,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "9": {
         "vaultExp": {
@@ -1549,7 +1558,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "10": {
         "vaultExp": {
@@ -1704,7 +1714,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       }
     },
     "rare": {
@@ -1861,7 +1872,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "1": {
         "vaultExp": {
@@ -2016,7 +2028,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "2": {
         "vaultExp": {
@@ -2171,7 +2184,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "3": {
         "vaultExp": {
@@ -2326,7 +2340,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "4": {
         "vaultExp": {
@@ -2481,7 +2496,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "5": {
         "vaultExp": {
@@ -2636,7 +2652,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "6": {
         "vaultExp": {
@@ -2791,7 +2808,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "7": {
         "vaultExp": {
@@ -2946,7 +2964,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "8": {
         "vaultExp": {
@@ -3101,7 +3120,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "9": {
         "vaultExp": {
@@ -3256,7 +3276,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "10": {
         "vaultExp": {
@@ -3411,7 +3432,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       }
     },
     "epic": {
@@ -3568,7 +3590,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "1": {
         "vaultExp": {
@@ -3723,7 +3746,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "2": {
         "vaultExp": {
@@ -3878,7 +3902,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "3": {
         "vaultExp": {
@@ -4033,7 +4058,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "4": {
         "vaultExp": {
@@ -4188,7 +4214,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "5": {
         "vaultExp": {
@@ -4343,7 +4370,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "6": {
         "vaultExp": {
@@ -4498,7 +4526,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "7": {
         "vaultExp": {
@@ -4653,7 +4682,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "8": {
         "vaultExp": {
@@ -4808,7 +4838,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "9": {
         "vaultExp": {
@@ -4963,7 +4994,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "10": {
         "vaultExp": {
@@ -5118,7 +5150,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       }
     },
     "legendary": {
@@ -5275,7 +5308,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "1": {
         "vaultExp": {
@@ -5430,7 +5464,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "2": {
         "vaultExp": {
@@ -5585,7 +5620,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "3": {
         "vaultExp": {
@@ -5740,7 +5776,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "4": {
         "vaultExp": {
@@ -5895,7 +5932,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "5": {
         "vaultExp": {
@@ -6050,7 +6088,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "6": {
         "vaultExp": {
@@ -6205,7 +6244,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "7": {
         "vaultExp": {
@@ -6360,7 +6400,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "8": {
         "vaultExp": {
@@ -6515,7 +6556,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "9": {
         "vaultExp": {
@@ -6670,7 +6712,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       },
       "10": {
         "vaultExp": {
@@ -6825,7 +6868,8 @@
             "minGreedTier": 2,
             "maxGreedTier": -1
           }
-        ]
+        ],
+        "generatedCoinChance": 0.5
       }
     }
   }
