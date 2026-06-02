@@ -2898,11 +2898,11 @@ hash = "9152dc8b1c9dd5a23112f62b53f5e02b76dda62296e8eab6d7ef677d2646d0b1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_101.json"
-hash = "f74f788f869ff48864c781a6291892b7b3ff373b035a645eac37b9147878beea"
+hash = "56762857f1e33464300115620f0070f3f6db69e2f8f2e357da80c20ededb1807"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_101_objective.json"
-hash = "3538d422fb0419c6461c0f7616dc44370723783ce2eee83ff6f7a5857588b5e7"
+hash = "1828b27fbb69b8b50b8a040d9cd96626f91c881bcd172e4155bcc3cb40c1e4a1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
@@ -15182,7 +15182,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "aa843a3d1eb9a83566b93623f71aecdbe54d7b06a901d4e7a4a6568b833993a8"
+hash = "330b0c613e30f4568fb31f0e58423b8e8c048e0f530b944113a1093324eedabd"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -18385,7 +18385,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "418c6fad37cad781f93ccc60ebbb336a0778c6635b9665916810ae973b1d74e6"
+hash = "32563d95e5fdc56b7e381f7640578b0ecf15e4d6877fc02f83a8678586483402"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18474,7 +18474,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.22.9-all.jar"
-hash = "21148975aa12b200323bb9f34b20b6f882200ae1faf3093d8f6e4b703463d12d"
+hash = "6fcfa3f53434fd55a54099a35d4064954c23756e6f977c0bb385e97ba9f1b3cc"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
