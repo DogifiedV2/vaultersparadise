@@ -78,7 +78,7 @@
             "type": "gear_attribute_boolean_power",
             "attribute": "the_vault:kinetic_immunity",
             "value": true,
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 3,
             "unlockLevel": 0,
@@ -94,7 +94,7 @@
         "tiers": [
           {
             "type": "shielded_power",
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -144,7 +144,7 @@
         "tiers": [
           {
             "type": "chain_miner_power",
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -161,7 +161,7 @@
           {
             "type": "no_uses_power",
             "itemId": "the_vault:vault_necklace",
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -179,7 +179,7 @@
             "type": "champion_damage_power",
             "attribute": "the_vault:damage_champion",
             "value": 0.5,
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -195,7 +195,7 @@
         "tiers": [
           {
             "type": "triplejump_power",
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -227,7 +227,7 @@
           {
             "type": "super_crystals_power",
             "extraCapacity": 100,
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -244,7 +244,7 @@
           {
             "type": "no_uses_power",
             "itemId": "the_vault:vault_god_charm",
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -261,7 +261,7 @@
           {
             "type": "activatable_trinket_power",
             "trinketEffectId": "the_vault:high_heels",
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -296,7 +296,7 @@
             "type": "treasure_hunter_power",
             "bonusPerStack": 0.05,
             "maxStacks": 20,
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -316,7 +316,7 @@
             "ambient": true,
             "visible": false,
             "amplifier": 0,
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -332,7 +332,7 @@
         "tiers": [
           {
             "type": "black_marketer_power",
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -349,7 +349,7 @@
           {
             "type": "temporal_shard_chance_power",
             "chance": 0.3,
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -366,7 +366,7 @@
           {
             "type": "activatable_trinket_power",
             "trinketEffectId": "the_vault:carapace",
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -400,7 +400,7 @@
           {
             "type": "commander_power",
             "durationMultiplier": 2.0,
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -417,7 +417,7 @@
           {
             "type": "movement_speed_multiplier_power",
             "multiplier": 1.25,
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -434,7 +434,7 @@
           {
             "type": "tool_durability_power",
             "damageReduction": 1.0,
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 2,
             "unlockLevel": 0,
@@ -451,7 +451,7 @@
           {
             "type": "tool_capacity_power",
             "capacityIncrease": 100,
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -467,7 +467,7 @@
         "tiers": [
           {
             "type": "empowered_chaotic_focus_power",
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -484,7 +484,7 @@
           {
             "type": "original_ward_power",
             "thresholdTicks": 1200,
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -500,7 +500,7 @@
         "tiers": [
           {
             "type": "wings_power",
-            "learnPointCost": 1,
+            "learnPointCost": 2,
             "learnKnowledgeCost": 500,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -516,7 +516,7 @@
           {
             "type": "gear_durability_power",
             "damageReduction": 1.0,
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 2,
             "unlockLevel": 0,
@@ -533,7 +533,7 @@
           {
             "type": "gear_sealer_power",
             "sealChance": 0.5,
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -551,7 +551,7 @@
             "type": "gear_attribute_power",
             "attribute": "the_vault:fruit_effectiveness",
             "value": 1,
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -567,7 +567,7 @@
         "tiers": [
           {
             "type": "masterful_power",
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -584,7 +584,7 @@
           {
             "type": "crystal_size_power",
             "sizeAvoidChance": 0.1,
-            "learnPointCost": 1,
+            "learnPointCost": 4,
             "learnKnowledgeCost": 2000,
             "regretPointCost": 1,
             "unlockLevel": 0,
@@ -600,7 +600,7 @@
         "tiers": [
           {
             "type": "berserk_power",
-            "learnPointCost": 1,
+            "learnPointCost": 3,
             "learnKnowledgeCost": 1000,
             "regretPointCost": 1,
             "unlockLevel": 0,

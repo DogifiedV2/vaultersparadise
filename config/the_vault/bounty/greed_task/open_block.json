@@ -11,6 +11,410 @@
             },
             "amount": {
               "min": 5,
+              "max": 5
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 7,
+              "max": 7
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 7,
+              "max": 7
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 7,
+              "max": 7
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "1": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 5,
+              "max": 5
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 7,
+              "max": 7
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 7,
+              "max": 7
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 7,
+              "max": 7
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "2": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 6,
+              "max": 6
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 8,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 8,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
               "max": 10
             },
             "floorToNearestTen": false,
@@ -18,7 +422,1407 @@
             "vaultOnly": true,
             "rewardPool": "epic"
           },
-          "weight": 10
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 8,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "3": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 6,
+              "max": 6
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 8,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 8,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 8,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "4": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 7,
+              "max": 7
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "5": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 7,
+              "max": 7
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "6": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 8,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 14,
+              "max": 14
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 14,
+              "max": 14
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "7": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 8,
+              "max": 8
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 14,
+              "max": 14
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 14,
+              "max": 14
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "8": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 15,
+              "max": 15
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 15,
+              "max": 15
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "9": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 9,
+              "max": 9
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 15,
+              "max": 15
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 11,
+              "max": 11
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 13,
+              "max": 13
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 15,
+              "max": 15
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 10,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Treasure Rooms",
+              "pre": "the_vault:treasure_door[open=false]",
+              "post": "the_vault:treasure_door[open=true]"
+            },
+            "amount": {
+              "min": 14,
+              "max": 14
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 14,
+              "max": 14
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Dungeon Doors",
+              "pre": "the_vault:dungeon_door[open=false]",
+              "post": "the_vault:dungeon_door[open=true]"
+            },
+            "amount": {
+              "min": 16,
+              "max": 16
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 12,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 65
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 14,
+              "max": 14
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 32
+        },
+        {
+          "value": {
+            "value": {
+              "displayName": "Vendoors",
+              "pre": "the_vault:vendor_door[open=false]",
+              "post": "the_vault:vendor_door[open=true]"
+            },
+            "amount": {
+              "min": 16,
+              "max": 16
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 3
         }
       ]
     }

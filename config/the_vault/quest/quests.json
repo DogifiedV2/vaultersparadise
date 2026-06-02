@@ -838,7 +838,6 @@
             "text": "and offer the highest base ",
             "color": "$text"
           },
-
           {
             "text": "Attack Speed",
             "color": "$speed"
@@ -1765,7 +1764,6 @@
             "text": ": Tool won't take durability damage outside of the vault. (Need 100% for an unbreakable non-vault tool)\n\n",
             "color": "$text"
           },
-
           {
             "text": "You will encounter many different jewels and it is possible to obtain a jewel with more than one attribute.",
             "color": "$text"
@@ -1898,7 +1896,6 @@
         "vaultExp": 0
       }
     },
-
     {
       "type": "level_up",
       "id": "level_five",
@@ -4543,6 +4540,71 @@
       }
     },
     {
+      "type": "checkmark",
+      "id": "zealot_vaults",
+      "name": "Zealot Vaults",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Zealot Vaults",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " are built for earning god reputation. Craft one by placing the god item on a Vault Altar instead of a Vault Rock.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Velara",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ": Velaran Emerald Apple\n",
+            "color": "$text"
+          },
+          {
+            "text": "Idona",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ": Idonian Sacrificial Dagger\n",
+            "color": "$text"
+          },
+          {
+            "text": "Tenos",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ": Tome of Tenos\n",
+            "color": "$text"
+          },
+          {
+            "text": "Wendarr",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ": Wendarrian Focus Gem\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Use Zealot Vaults when one god is lagging behind.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nLearn about Zealot Vaults",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/zealot_vaults",
+      "targetId": "the_vault:any",
+      "targetProgress": 1.0,
+      "unlockedBy": "god_altars",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
       "type": "level_up",
       "id": "reach_level_50",
       "name": "Forgetting Expertises",
@@ -4561,7 +4623,7 @@
       "icon": "the_vault:gui/quests/level50",
       "targetId": "the_vault:50",
       "targetProgress": 1.0,
-      "unlockedBy": "god_altars",
+      "unlockedBy": "zealot_vaults",
       "reward": {
         "items": [
           {
@@ -4633,7 +4695,6 @@
             "text": "CANNOT ",
             "color": "dark_red"
           },
-
           {
             "text": "be undone.",
             "color": "$text"
@@ -4741,7 +4802,7 @@
             "color": "$qhighlight"
           },
           {
-            "text": ". Load an inscription into the Crucible and materialise the full build on the spot — no more placing every block by hand.\n\n",
+            "text": ". Load an inscription into the Crucible and materialise the full build on the spot \u2014 no more placing every block by hand.\n\n",
             "color": "$text"
           },
           {
@@ -5451,19 +5512,19 @@
             "color": "$text"
           },
           {
-            "text": "• Companion Scroll\n",
+            "text": "\u2022 Companion Scroll\n",
             "color": "$qhighlight"
           },
           {
-            "text": "• Mystic Pear\n",
+            "text": "\u2022 Mystic Pear\n",
             "color": "$qhighlight"
           },
           {
-            "text": "• Treasure+ Deck\n",
+            "text": "\u2022 Treasure+ Deck\n",
             "color": "$qhighlight"
           },
           {
-            "text": "• A new Unique",
+            "text": "\u2022 A new Unique",
             "color": "$qhighlight"
           },
           {
@@ -6366,7 +6427,6 @@
         "vaultExp": 0
       }
     },
-
     {
       "type": "level_up",
       "id": "reach_level_100",
@@ -6492,13 +6552,13 @@
       }
     },
     {
-      "type": "complete_vault",
+      "type": "checkmark",
       "id": "greed",
-      "name": "Greed",
+      "name": "Greed Awakens",
       "descriptionData": {
         "description": [
           {
-            "text": "Well done! After defeating the ",
+            "text": "The ",
             "color": "$text"
           },
           {
@@ -6506,67 +6566,64 @@
             "color": "$qhighlight"
           },
           {
-            "text": ", you have unlocked the final chapter of Vault Hunters: ",
+            "text": " is dead. The Gods have noticed.\n\n",
             "color": "$text"
           },
           {
-            "text": "Greed",
+            "text": "Greed Vaults",
             "color": "$omega"
           },
           {
-            "text": ".\n\nYou now have access to the ",
+            "text": " are the next test: build a crystal, enter, choose tasks for reputation, then decide when to cash out and fight. More completed tasks means a better crate, but the vault gets rougher each time.\n\n",
             "color": "$text"
           },
           {
-            "text": "Greed Trial",
-            "color": "$omega"
-          },
-          {
-            "text": ", an infinite-length vault that will push you to your limits. When you eventually fall, your progress will increase your ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Tier",
+            "text": "Greed Tiers",
             "color": "$qhighlight"
           },
           {
-            "text": ", unlocking powerful new ",
+            "text": " come from completed Greed Vaults and unlock new reward pools, Greed Bounties, the Greed Market and stronger Greed card scaling.\n\n",
             "color": "$text"
           },
           {
-            "text": "Greed Nodes",
+            "text": "Begin Greed",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/greed",
+      "targetId": "the_vault:any",
+      "targetProgress": 1.0,
+      "unlockedBy": "herald",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "core_god_reputation",
+      "id": "become_worthy",
+      "name": "Become Worthy",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Greed Vaults",
             "color": "$omega"
           },
           {
-            "text": ".\n\nUpon reaching your first Greed Tier, you will receive a ",
+            "text": " will not open for the unproven. Before you can run them, you need at least ",
             "color": "$text"
           },
           {
-            "text": "Greed Anchor",
+            "text": "50 reputation",
             "color": "$qhighlight"
           },
           {
-            "text": ". Place it to summon ",
+            "text": " with all four gods: ",
             "color": "$text"
           },
           {
-            "text": "Mr Greedy",
-            "color": "$omega"
-          },
-          {
-            "text": ", a mysterious merchant who offers a ",
-            "color": "$text"
-          },
-          {
-            "text": "Shop",
-            "color": "$white"
-          },
-          {
-            "text": " for purchasing Greed items with ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Coins",
+            "text": "Idona",
             "color": "$qhighlight"
           },
           {
@@ -6574,70 +6631,344 @@
             "color": "$text"
           },
           {
-            "text": "Quests",
-            "color": "$white"
-          },
-          {
-            "text": " that reward reputation through vault challenges, and ",
-            "color": "$text"
-          },
-          {
-            "text": "Challenge Crystals",
-            "color": "$white"
-          },
-          {
-            "text": " with an all-new ",
-            "color": "$text"
-          },
-          {
-            "text": "Hazard",
-            "color": "$omega"
-          },
-          {
-            "text": " system.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Beware of Greed Assassins...",
-            "color": "$omega"
-          },
-          {
-            "text": " how far will you dare to climb? How Greedy will you become?\n\nNeed more coins? The ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Cauldron",
-            "color": "$omega"
-          },
-          {
-            "text": " hungers for vault materials. Feed it what it demands, and it will reward you with ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Coins",
+            "text": "Tenos",
             "color": "$qhighlight"
           },
           {
-            "text": " in return.\n\n",
+            "text": ", ",
             "color": "$text"
           },
           {
-            "text": "Complete the Greed Trial",
+            "text": "Velara",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and ",
+            "color": "$text"
+          },
+          {
+            "text": "Wendarr",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ".\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "If one god is behind, ",
+            "color": "$text"
+          },
+          {
+            "text": "Zealot Vaults",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " are the direct way to push that reputation up.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Reach 50 reputation with Idona, Tenos, Velara and Wendarr",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/gods_quest",
+      "targetId": "the_vault:any",
+      "targetProgress": 50.0,
+      "unlockedBy": "greed",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "crafting",
+      "id": "craft_greed_altar",
+      "name": "Craft a Greed Altar",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Altar",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " works like a Vault Altar, but it asks for vault resources and creates crystals for Greed Vaults.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Greed crystals can still be prepared while your Greed Vault cooldown is running.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Craft a Greed Altar",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/altar",
+      "targetId": "the_vault:vault_greed_altar",
+      "targetProgress": 1.0,
+      "unlockedBy": "become_worthy",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "craft_greed_crystal",
+      "id": "craft_greed_crystal",
+      "name": "Create a Greed Crystal",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Put a Vault Rock on the ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Altar",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and complete the requested ingredients to create a ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Crystal",
+            "color": "$omega"
+          },
+          {
+            "text": ".\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "The crystal shows its ",
+            "color": "$text"
+          },
+          {
+            "text": "Player Capacity",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". Fresh crystals start as ",
+            "color": "$text"
+          },
+          {
+            "text": "Solo",
+            "color": "$white"
+          },
+          {
+            "text": ". Put the finished crystal back on the Greed Altar and complete another set of ingredients to add +1 player slot.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Create a Greed Crystal",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/crystal",
+      "targetId": "the_vault:vault_crystal",
+      "targetProgress": 1.0,
+      "unlockedBy": "craft_greed_altar",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "complete_vault",
+      "id": "complete_greed_vault",
+      "name": "Complete a Greed Vault",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Inside a ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Vault",
+            "color": "$omega"
+          },
+          {
+            "text": ", each god offers a task. Completing a task gives reputation with that god, adds Greed stacks, improves your crate and makes the next step harder.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "When you are ready, choose ",
+            "color": "$text"
+          },
+          {
+            "text": "Fight",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and kill the boss to complete. You must complete to count for Greed Tiers. Each task completed adds +1 tier to your crate. Reputation earned during the vault is kept either way.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Complete a Greed Vault",
             "color": "$heal"
           }
         ]
       },
       "icon": "the_vault:gui/quests/greed",
-      "targetId": "the_vault:rebirth",
+      "targetId": "the_vault:greed",
       "targetProgress": 1.0,
-      "unlockedBy": "herald",
+      "unlockedBy": "craft_greed_crystal",
       "reward": {
-        "items": [
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "external_progress",
+      "id": "greed_bounty_tab",
+      "name": "Greed Bounties",
+      "descriptionData": {
+        "description": [
           {
-            "item": "minecraft:stick",
-            "amount": 1
+            "text": "At Greed Tier 1, the ",
+            "color": "$text"
+          },
+          {
+            "text": "Bounty Table",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " gains a Greed tab. These bounties pay Greed Coins and can roll Greed item rewards without replacing the main Greed Vault objective.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Open the Greed tab on a Bounty Table",
+            "color": "$heal"
           }
-        ],
+        ]
+      },
+      "icon": "the_vault:gui/quests/bounty_table",
+      "targetId": "the_vault:greedy_bounty_pearl",
+      "targetProgress": 1.0,
+      "unlockedBy": "complete_greed_vault",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "external_progress",
+      "id": "greed_market_tab",
+      "name": "Greed Market",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "At Greed Tier 1, the ",
+            "color": "$text"
+          },
+          {
+            "text": "Black Market",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " gains a Greed tab. It sells the same kind of items as the Greed Trader, but costs more and also takes Soul Shards.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Open the Greed tab on the Black Market",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/black_market",
+      "targetId": "the_vault:greed_market_reroll",
+      "targetProgress": 1.0,
+      "unlockedBy": "greed_bounty_tab",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "external_progress",
+      "id": "spend_greed_point",
+      "name": "Spend a Greed Point",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Greed Crates give ",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Point Orbs",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". Use them, then spend the points in the Greed tree.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "The number of points you can use is capped by your current Greed Tier, so pushing tiers matters as much as farming orbs.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Spend a Greed Point",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/greed_point_orb",
+      "targetId": "the_vault:greed_point_orb",
+      "targetProgress": 1.0,
+      "unlockedBy": "greed_market_tab",
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      }
+    },
+    {
+      "type": "checkmark",
+      "id": "greed_reward_items",
+      "name": "Greed Reward Items",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Greed Booster Packs",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " contain Greed Cards. Greed Cards scale from your current Greed Tier, not from leveling the card itself.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Expertise Orbs",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " grant extra expertise levels. They are one of the major reasons to keep pushing Greed Vault completions.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Greed Hourglass",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " reduces your Greed Vault cooldown when used on a Greed Altar.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Learn the first Greed reward tools",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/greed",
+      "targetId": "the_vault:any",
+      "targetProgress": 1.0,
+      "unlockedBy": "spend_greed_point",
+      "reward": {
+        "items": [],
         "vaultExp": 0
       }
     },
@@ -6676,7 +7007,7 @@
       "icon": "the_vault:gui/quests/etching_table",
       "targetId": "the_vault:etching_application_table",
       "targetProgress": 1.0,
-      "unlockedBy": "greed",
+      "unlockedBy": "greed_reward_items",
       "reward": {
         "items": [
           {
@@ -6722,72 +7053,52 @@
       "icon": "the_vault:gui/quests/architects_workbench",
       "targetId": "the_vault:personal_vault",
       "targetProgress": 1.0,
-      "unlockedBy": "greed",
+      "unlockedBy": "greed_reward_items",
       "reward": {
         "items": [],
         "vaultExp": 0
       }
     },
     {
-      "type": "crafting",
-      "id": "greed_cauldron",
-      "name": "Greed Cauldron",
+      "type": "greed_tier",
+      "id": "reach_greed_tier_5",
+      "name": "Reach Greed Tier 5",
       "descriptionData": {
         "description": [
           {
-            "text": "The ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Cauldron",
+            "text": "Greed Tier 5",
             "color": "$omega"
           },
           {
-            "text": " is a powerful device that hungers for vault materials. Craft one and place it down to begin feeding its insatiable appetite.\n\nThe ",
+            "text": " is where the reward pool starts adding more specialised progression items.\n\n",
             "color": "$text"
           },
           {
-            "text": "Crucible",
-            "color": "$omega"
-          },
-          {
-            "text": " will demand large quantities of vault resources. For each request you fulfil, you will receive ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Coins",
+            "text": "Knack Booster Packs",
             "color": "$qhighlight"
           },
           {
-            "text": ". But here's the trick: every completed request increases your ",
+            "text": " contain Talent Overlevel cards, letting talents go beyond their normal limits.\n\n",
             "color": "$text"
           },
           {
-            "text": "multiplier",
-            "color": "$white"
-          },
-          {
-            "text": ", causing subsequent completions to reward even more ",
-            "color": "$text"
-          },
-          {
-            "text": "Greed Coins",
+            "text": "Companion Candy",
             "color": "$qhighlight"
           },
           {
-            "text": ".\n\nKeep feeding the Crucible to maximise your returns.\n\n",
+            "text": " converts a normal companion relic slot into an Ancient Relic Slot. Drag it onto the slot in a Companion Home or Vending Machine.\n\n",
             "color": "$text"
           },
           {
-            "text": "Craft a Greed Cauldron",
+            "text": "Reach Greed Tier 5",
             "color": "$heal"
           }
         ]
       },
-      "icon": "the_vault:gui/quests/greed_cauldron",
-      "targetId": "the_vault:greed_cauldron",
+      "icon": "the_vault:gui/quests/greed",
+      "targetId": "the_vault:5",
       "targetProgress": 1.0,
-      "unlockedBy": "greed",
+      "unlockedBy": "greed_reward_items",
       "reward": {
         "items": [],
         "vaultExp": 0

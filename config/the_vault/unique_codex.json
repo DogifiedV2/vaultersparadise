@@ -69,7 +69,8 @@
         "the_vault:frozen_heart",
         "the_vault:eternal_stella",
         "the_vault:piggybank",
-        "the_vault:swiss_army"
+        "the_vault:swiss_army",
+        "the_vault:breaching_jewel"
       ],
       "MAGNET": [
         "the_vault:quickstone",
@@ -119,7 +120,6 @@
             "text": "Laboratory Rooms",
             "color": "#7D520E"
           }
-
         ]
       },
       "uniqueId": "the_vault:jester"
@@ -198,7 +198,6 @@
       },
       "uniqueId": "the_vault:stormcrown"
     },
-
     {
       "title": {
         "description": {
@@ -340,7 +339,6 @@
       },
       "uniqueId": "the_vault:vitalis"
     },
-
     {
       "title": {
         "description": {
@@ -391,7 +389,6 @@
       },
       "uniqueId": "the_vault:swarmwalkers"
     },
-
     {
       "title": {
         "description": {
@@ -476,7 +473,6 @@
       "uniqueId": "the_vault:plaguewalker",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -792,7 +788,6 @@
       "uniqueId": "the_vault:young_kitsune",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -947,7 +942,6 @@
       "uniqueId": "the_vault:butchers_cleaver",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -1136,7 +1130,6 @@
       "uniqueId": "the_vault:broodmother",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -1270,7 +1263,6 @@
       "uniqueId": "the_vault:pistol",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -1358,7 +1350,6 @@
       },
       "uniqueId": "the_vault:echoflare"
     },
-
     {
       "title": {
         "description": {
@@ -1578,7 +1569,6 @@
       "uniqueId": "the_vault:swiss_army",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -1734,7 +1724,6 @@
       },
       "uniqueId": "the_vault:treasure_hunter_magnet"
     },
-
     {
       "title": {
         "description": {
@@ -1787,7 +1776,6 @@
       "uniqueId": "the_vault:bamboo_fightstick",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -1840,7 +1828,6 @@
       "uniqueId": "the_vault:marlin",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -1867,7 +1854,6 @@
       "uniqueId": "the_vault:safer_spaces",
       "isNewInUpdate": true
     },
-
     {
       "title": {
         "description": {
@@ -1893,6 +1879,43 @@
       },
       "uniqueId": "the_vault:trirang",
       "isNewInUpdate": true
+    },
+    {
+      "title": {
+        "description": {
+          "text": "Breaching Jewel",
+          "color": "#7D520E"
+        }
+      },
+      "description": {
+        "description": [
+          {
+            "text": "The ",
+            "color": "$text"
+          },
+          {
+            "text": "Breaching Jewel",
+            "color": "#7D520E"
+          },
+          {
+            "text": " grants the ",
+            "color": "$text"
+          },
+          {
+            "text": "Breaching",
+            "color": "#7D520E"
+          },
+          {
+            "text": " modifier, letting compatible tools break vault chests more decisively.\n\nFound in: ",
+            "color": "$text"
+          },
+          {
+            "text": "Not yet obtainable",
+            "color": "#7D520E"
+          }
+        ]
+      },
+      "uniqueId": "the_vault:breaching_jewel"
     }
   ]
 }

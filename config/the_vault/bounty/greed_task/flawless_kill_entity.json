@@ -6,57 +6,657 @@
           "value": {
             "value": "@the_vault:mob_type/horde",
             "amount": {
-              "min": 80,
-              "max": 140
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true,
-            "rewardPool": "rare"
-          },
-          "weight": 10
-        },
-        {
-          "value": {
-            "value": "@the_vault:mob_type/assassin",
-            "amount": {
-              "min": 25,
-              "max": 45
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true,
-            "rewardPool": "rare"
-          },
-          "weight": 10
-        },
-        {
-          "value": {
-            "value": "@the_vault:mob_type/tank",
-            "amount": {
-              "min": 8,
-              "max": 16
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true,
-            "rewardPool": "rare"
-          },
-          "weight": 10
-        },
-        {
-          "value": {
-            "value": "@the_vault:mob_type/champion",
-            "amount": {
-              "min": 1,
-              "max": 2
+              "min": 55,
+              "max": 100
             },
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": true,
             "rewardPool": "epic"
           },
-          "weight": 4
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 20,
+              "max": 38
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 82,
+              "max": 150
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 30,
+              "max": 57
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "1": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 58,
+              "max": 105
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 21,
+              "max": 40
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 87,
+              "max": 158
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 32,
+              "max": 60
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "2": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 61,
+              "max": 110
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 22,
+              "max": 42
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 91,
+              "max": 165
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 33,
+              "max": 63
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "3": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 63,
+              "max": 115
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 23,
+              "max": 44
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 95,
+              "max": 172
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 34,
+              "max": 66
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "4": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 66,
+              "max": 120
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 24,
+              "max": 46
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 99,
+              "max": 180
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 36,
+              "max": 68
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "5": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 69,
+              "max": 125
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 25,
+              "max": 48
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 103,
+              "max": 188
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 38,
+              "max": 71
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "6": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 72,
+              "max": 130
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 26,
+              "max": 49
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 107,
+              "max": 195
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 39,
+              "max": 74
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "7": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 74,
+              "max": 135
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 27,
+              "max": 51
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 111,
+              "max": 202
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 40,
+              "max": 77
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "8": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 77,
+              "max": 140
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 28,
+              "max": 53
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 115,
+              "max": 210
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 42,
+              "max": 80
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "9": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 80,
+              "max": 145
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 29,
+              "max": 55
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 120,
+              "max": 218
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 44,
+              "max": 83
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 82,
+              "max": 150
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 30,
+              "max": 57
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 85
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 124,
+              "max": 225
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 45,
+              "max": 86
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "legendary"
+          },
+          "weight": 15
         }
       ]
     }

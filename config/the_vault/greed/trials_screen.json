@@ -76,6 +76,60 @@
           "text": "Greed Crystals",
           "color": "#DDDDDD"
         }
+      ],
+      [
+        {
+          "text": "Treasure Chests: ",
+          "color": "#888888"
+        },
+        {
+          "text": "new Greed loot",
+          "color": "#FFAA00"
+        }
+      ],
+      [
+        {
+          "text": "Breaching Jewel",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": ", ",
+          "color": "#888888"
+        },
+        {
+          "text": "Peaceful Capstone",
+          "color": "#DDDDDD"
+        }
+      ],
+      [
+        {
+          "text": "Lost Greed Bounty",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": ", ",
+          "color": "#888888"
+        },
+        {
+          "text": "Greed Goodie Box",
+          "color": "#DDDDDD"
+        }
+      ],
+      [
+        {
+          "text": "Divine Shards",
+          "color": "#DDDDDD"
+        }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "2x",
+          "color": "#FFAA00"
+        }
       ]
     ],
     "2": [
@@ -109,6 +163,26 @@
         {
           "text": "Greed Companion Relics",
           "color": "#DDDDDD"
+        }
+      ],
+      [
+        {
+          "text": "Greed Catalysts ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "T1",
+          "color": "#FFAA00"
+        }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "2.25x",
+          "color": "#FFAA00"
         }
       ]
     ],
@@ -152,6 +226,16 @@
         },
         {
           "text": "4h",
+          "color": "#FFAA00"
+        }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "2.5x",
           "color": "#FFAA00"
         }
       ]
@@ -198,6 +282,16 @@
           "text": "Greater Cores",
           "color": "#FFAA00"
         }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "3x",
+          "color": "#FFAA00"
+        }
       ]
     ],
     "5": [
@@ -223,6 +317,16 @@
           "color": "#FFAA00"
         },
         {
+          "text": "God Blessing per Crate Tier",
+          "color": "#DDDDDD"
+        }
+      ],
+      [
+        {
+          "text": "+1 ",
+          "color": "#FFAA00"
+        },
+        {
           "text": "Free Greed Market Reroll / 4h",
           "color": "#DDDDDD"
         }
@@ -230,6 +334,22 @@
       [
         {
           "text": "Knack Booster Packs",
+          "color": "#FFAA00"
+        }
+      ],
+      [
+        {
+          "text": "Companion Candy",
+          "color": "#FFAA00"
+        }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "3.25x",
           "color": "#FFAA00"
         }
       ]
@@ -253,13 +373,17 @@
       ],
       [
         {
-          "text": "Companion Candy",
+          "text": "Mega Knack Booster Packs",
           "color": "#FFAA00"
         }
       ],
       [
         {
-          "text": "Mega Knack Booster Packs",
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "3.5x",
           "color": "#FFAA00"
         }
       ]
@@ -296,6 +420,16 @@
           "text": "Greed Trinkets",
           "color": "#FFAA00"
         }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "3.75x",
+          "color": "#FFAA00"
+        }
       ]
     ],
     "8": [
@@ -324,6 +458,16 @@
       [
         {
           "text": "Deluxe Knack Booster Packs",
+          "color": "#FFAA00"
+        }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "4x",
           "color": "#FFAA00"
         }
       ]
@@ -364,6 +508,16 @@
           "text": "Free Greed Market Reroll / 4h",
           "color": "#DDDDDD"
         }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "4.25x",
+          "color": "#FFAA00"
+        }
       ]
     ],
     "10": [
@@ -400,6 +554,16 @@
         },
         {
           "text": "T3",
+          "color": "#FFAA00"
+        }
+      ],
+      [
+        {
+          "text": "Greed Cards scale to ",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": "4.5x",
           "color": "#FFAA00"
         }
       ]

@@ -6,71 +6,293 @@
           "value": {
             "value": "@the_vault:mob_type/horde",
             "amount": {
-              "min": 940,
-              "max": 1840
+              "min": 210,
+              "max": 350
             },
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": true,
             "rewardPool": "common"
           },
-          "weight": 10
+          "weight": 80
         },
         {
           "value": {
             "value": "@the_vault:mob_type/assassin",
             "amount": {
-              "min": 376,
-              "max": 736
+              "min": 75,
+              "max": 130
             },
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": true,
             "rewardPool": "common"
           },
-          "weight": 10
+          "weight": 80
         },
         {
           "value": {
             "value": "@the_vault:mob_type/tank",
             "amount": {
-              "min": 94,
-              "max": 184
+              "min": 22,
+              "max": 42
             },
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": true,
             "rewardPool": "common"
           },
-          "weight": 10
+          "weight": 80
         },
         {
           "value": {
             "value": "@the_vault:mob_type/champion",
             "amount": {
-              "min": 5,
-              "max": 8
+              "min": 2,
+              "max": 4
             },
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": true,
             "rewardPool": "rare"
           },
-          "weight": 10
+          "weight": 45
         },
         {
           "value": {
             "value": "@the_vault:mob_type/dungeon_boss",
             "amount": {
-              "min": 8,
-              "max": 15
+              "min": 1,
+              "max": 3
             },
             "floorToNearestTen": false,
             "validDimensions": [],
             "vaultOnly": true,
             "rewardPool": "epic"
           },
-          "weight": 10
+          "weight": 15
+        }
+      ]
+    },
+    "4": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 256,
+              "max": 427
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 92,
+              "max": 159
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/tank",
+            "amount": {
+              "min": 27,
+              "max": 51
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/champion",
+            "amount": {
+              "min": 2,
+              "max": 5
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 45
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/dungeon_boss",
+            "amount": {
+              "min": 1,
+              "max": 4
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "7": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 291,
+              "max": 485
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 104,
+              "max": 180
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/tank",
+            "amount": {
+              "min": 30,
+              "max": 58
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/champion",
+            "amount": {
+              "min": 3,
+              "max": 6
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 45
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/dungeon_boss",
+            "amount": {
+              "min": 1,
+              "max": 4
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 15
+        }
+      ]
+    },
+    "10": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:mob_type/horde",
+            "amount": {
+              "min": 326,
+              "max": 542
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/assassin",
+            "amount": {
+              "min": 116,
+              "max": 202
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/tank",
+            "amount": {
+              "min": 34,
+              "max": 65
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 80
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/champion",
+            "amount": {
+              "min": 3,
+              "max": 6
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 45
+        },
+        {
+          "value": {
+            "value": "@the_vault:mob_type/dungeon_boss",
+            "amount": {
+              "min": 2,
+              "max": 5
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "epic"
+          },
+          "weight": 15
         }
       ]
     }

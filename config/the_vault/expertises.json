@@ -86,7 +86,7 @@
           },
           {
             "type": "shop_pedestal",
-            "costReduction": 0.30,
+            "costReduction": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -114,7 +114,7 @@
           },
           {
             "type": "crafting_potential",
-            "reducePotentialAmount": 0.30,
+            "reducePotentialAmount": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -172,6 +172,24 @@
             "abandonedPenaltyReduction": 0.9376,
             "maxActive": 2,
             "unlockLevel": 0
+          },
+          {
+            "type": "bounty_hunter",
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "waitingPeriodReduction": 6300,
+            "abandonedPenaltyReduction": 0.9376,
+            "maxActive": 2,
+            "unlockLevel": 0
+          },
+          {
+            "type": "bounty_hunter",
+            "learnPointCost": 2,
+            "regretPointCost": 0,
+            "waitingPeriodReduction": 6300,
+            "abandonedPenaltyReduction": 0.9376,
+            "maxActive": 3,
+            "unlockLevel": 0
           }
         ]
       },
@@ -191,7 +209,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.10,
+            "value": 0.1,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -207,7 +225,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.20,
+            "value": 0.2,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -223,7 +241,7 @@
           {
             "type": "gear_attribute",
             "attribute": "the_vault:durability_wear_reduction",
-            "value": 0.30,
+            "value": 0.3,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
@@ -255,6 +273,20 @@
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0
+          },
+          {
+            "type": "divine",
+            "affinityIncrease": 0.4,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
+          },
+          {
+            "type": "divine",
+            "affinityIncrease": 0.5,
+            "learnPointCost": 1,
+            "regretPointCost": 0,
+            "unlockLevel": 0
           }
         ]
       },
@@ -279,7 +311,7 @@
           },
           {
             "type": "trinketer",
-            "damageAvoidanceChance": 0.50,
+            "damageAvoidanceChance": 0.5,
             "learnPointCost": 1,
             "regretPointCost": 0,
             "unlockLevel": 0

@@ -4,419 +4,595 @@
   "trades": [
     {
       "minGreedTier": 1,
-      "randomTradeShardPrice": 1650,
+      "randomTradeShardPrice": 5400,
       "randomTradeGreedCoinPrice": 5,
       "shardTrades": [
         {
           "value": {
             "type": "pool",
             "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
+            "minShardPrice": 21100,
+            "maxShardPrice": 38200,
+            "minGreedCoinPrice": 23,
+            "maxGreedCoinPrice": 40
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
+          "weight": 18
         },
         {
           "value": {
             "type": "pool",
             "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
+            "minShardPrice": 32100,
+            "maxShardPrice": 64000,
+            "minGreedCoinPrice": 35,
+            "maxGreedCoinPrice": 60
           },
-          "weight": 5
+          "weight": 14
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 33600,
+            "maxShardPrice": 66900,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 29900,
+            "maxShardPrice": 68100,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 6
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 32200,
+            "maxShardPrice": 57900,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
-          "weight": 2
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 19700,
+            "maxShardPrice": 24200,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 22000,
+            "maxShardPrice": 36800,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
         }
       ]
     },
     {
       "minGreedTier": 2,
-      "randomTradeShardPrice": 1800,
+      "randomTradeShardPrice": 5500,
       "randomTradeGreedCoinPrice": 6,
       "shardTrades": [
         {
           "value": {
             "type": "pool",
             "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
+            "minShardPrice": 24700,
+            "maxShardPrice": 40900,
+            "minGreedCoinPrice": 23,
+            "maxGreedCoinPrice": 40
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
+          "weight": 18
         },
         {
           "value": {
             "type": "pool",
             "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
+            "minShardPrice": 37400,
+            "maxShardPrice": 55300,
+            "minGreedCoinPrice": 35,
+            "maxGreedCoinPrice": 60
           },
-          "weight": 5
+          "weight": 14
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
+            "poolId": "greed_catalysts",
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 35800,
+            "maxShardPrice": 62300,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 31000,
+            "maxShardPrice": 61800,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 6
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 29700,
+            "maxShardPrice": 65800,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
-          "weight": 2
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 52700,
+            "maxShardPrice": 90300,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 17400,
+            "maxShardPrice": 27500,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
         },
         {
           "value": {
             "type": "pool",
             "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
+            "minShardPrice": 55400,
+            "maxShardPrice": 110300,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
           },
-          "weight": 3
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 20000,
+            "maxShardPrice": 35200,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
         }
       ]
     },
     {
       "minGreedTier": 3,
-      "randomTradeShardPrice": 1950,
-      "randomTradeGreedCoinPrice": 6,
+      "randomTradeShardPrice": 6400,
+      "randomTradeGreedCoinPrice": 7,
       "shardTrades": [
         {
           "value": {
             "type": "pool",
             "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
+            "minShardPrice": 24500,
+            "maxShardPrice": 38300,
+            "minGreedCoinPrice": 23,
+            "maxGreedCoinPrice": 40
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
+          "weight": 18
         },
         {
           "value": {
             "type": "pool",
             "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
+            "minShardPrice": 33100,
+            "maxShardPrice": 54300,
+            "minGreedCoinPrice": 35,
+            "maxGreedCoinPrice": 60
           },
-          "weight": 5
+          "weight": 14
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
+            "poolId": "greed_catalysts",
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 32100,
+            "maxShardPrice": 64000,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 33500,
+            "maxShardPrice": 68300,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 6
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 32700,
+            "maxShardPrice": 56800,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
-          "weight": 2
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 53500,
+            "maxShardPrice": 94000,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 18500,
+            "maxShardPrice": 27200,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
         },
         {
           "value": {
             "type": "pool",
             "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
+            "minShardPrice": 60000,
+            "maxShardPrice": 112600,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
           },
-          "weight": 3
+          "weight": 8
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "expertise_orbs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
+            "poolId": "greed_pack",
+            "minShardPrice": 20300,
+            "maxShardPrice": 39800,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
           },
-          "weight": 4
+          "weight": 7
         }
       ]
     },
     {
       "minGreedTier": 4,
-      "randomTradeShardPrice": 2100,
-      "randomTradeGreedCoinPrice": 7,
+      "randomTradeShardPrice": 8700,
+      "randomTradeGreedCoinPrice": 8,
       "shardTrades": [
         {
           "value": {
             "type": "pool",
             "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
+            "minShardPrice": 35400,
+            "maxShardPrice": 52500,
+            "minGreedCoinPrice": 35,
+            "maxGreedCoinPrice": 58
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
+          "weight": 18
         },
         {
           "value": {
             "type": "pool",
             "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
+            "minShardPrice": 57300,
+            "maxShardPrice": 99500,
+            "minGreedCoinPrice": 53,
+            "maxGreedCoinPrice": 93
           },
-          "weight": 5
+          "weight": 14
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
+            "poolId": "greed_catalysts",
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 30000,
+            "maxShardPrice": 69200,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 35400,
+            "maxShardPrice": 62600,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 6
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "expertise_orbs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 36200,
+            "maxShardPrice": 66600,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 4
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greater_cores",
-            "minShardPrice": 3600,
-            "maxShardPrice": 7000,
-            "minGreedCoinPrice": 10,
-            "maxGreedCoinPrice": 20
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 51500,
+            "maxShardPrice": 97200,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
           },
-          "weight": 2
+          "weight": 10
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 20100,
+            "maxShardPrice": 22900,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_companion_relics",
+            "minShardPrice": 54400,
+            "maxShardPrice": 118200,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 18100,
+            "maxShardPrice": 38400,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greater_cores",
+            "minShardPrice": 80600,
+            "maxShardPrice": 146400,
+            "minGreedCoinPrice": 88,
+            "maxGreedCoinPrice": 150
+          },
+          "weight": 5
         }
       ]
     },
     {
       "minGreedTier": 5,
-      "randomTradeShardPrice": 2250,
-      "randomTradeGreedCoinPrice": 7,
+      "randomTradeShardPrice": 8500,
+      "randomTradeGreedCoinPrice": 9,
       "shardTrades": [
         {
           "value": {
             "type": "pool",
             "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
+            "minShardPrice": 36800,
+            "maxShardPrice": 52600,
+            "minGreedCoinPrice": 35,
+            "maxGreedCoinPrice": 58
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
+          "weight": 18
         },
         {
           "value": {
             "type": "pool",
             "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
+            "minShardPrice": 56200,
+            "maxShardPrice": 92600,
+            "minGreedCoinPrice": 53,
+            "maxGreedCoinPrice": 93
           },
-          "weight": 5
+          "weight": 14
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
+            "poolId": "greed_catalysts",
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 35700,
+            "maxShardPrice": 64700,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 35800,
+            "maxShardPrice": 61500,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 6
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "expertise_orbs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 35800,
+            "maxShardPrice": 66200,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 4
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greater_cores",
-            "minShardPrice": 3600,
-            "maxShardPrice": 7000,
-            "minGreedCoinPrice": 10,
-            "maxGreedCoinPrice": 20
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 55400,
+            "maxShardPrice": 92300,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
           },
-          "weight": 2
+          "weight": 10
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 1400,
-            "maxShardPrice": 2600,
-            "minGreedCoinPrice": 4,
-            "maxGreedCoinPrice": 8
+            "poolId": "greed_crystals",
+            "minShardPrice": 18200,
+            "maxShardPrice": 23900,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_companion_relics",
+            "minShardPrice": 63900,
+            "maxShardPrice": 100600,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 19500,
+            "maxShardPrice": 35600,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "knack_pack",
+            "minShardPrice": 49000,
+            "maxShardPrice": 100400,
+            "minGreedCoinPrice": 50,
+            "maxGreedCoinPrice": 94
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greater_cores",
+            "minShardPrice": 84700,
+            "maxShardPrice": 146100,
+            "minGreedCoinPrice": 88,
+            "maxGreedCoinPrice": 150
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "companion_candy",
+            "minShardPrice": 113300,
+            "maxShardPrice": 186900,
+            "minGreedCoinPrice": 119,
+            "maxGreedCoinPrice": 194
           },
           "weight": 3
         }
@@ -424,599 +600,764 @@
     },
     {
       "minGreedTier": 6,
-      "randomTradeShardPrice": 2400,
-      "randomTradeGreedCoinPrice": 8,
+      "randomTradeShardPrice": 9900,
+      "randomTradeGreedCoinPrice": 10,
       "shardTrades": [
         {
           "value": {
             "type": "pool",
             "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
+            "minShardPrice": 36300,
+            "maxShardPrice": 54900,
+            "minGreedCoinPrice": 35,
+            "maxGreedCoinPrice": 58
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
+          "weight": 18
         },
         {
           "value": {
             "type": "pool",
             "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
+            "minShardPrice": 53100,
+            "maxShardPrice": 90800,
+            "minGreedCoinPrice": 53,
+            "maxGreedCoinPrice": 93
           },
-          "weight": 5
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "expertise_orbs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greater_cores",
-            "minShardPrice": 3600,
-            "maxShardPrice": 7000,
-            "minGreedCoinPrice": 10,
-            "maxGreedCoinPrice": 20
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 1400,
-            "maxShardPrice": 2600,
-            "minGreedCoinPrice": 4,
-            "maxGreedCoinPrice": 8
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "companion_candy",
-            "minShardPrice": 5200,
-            "maxShardPrice": 9000,
-            "minGreedCoinPrice": 16,
-            "maxGreedCoinPrice": 28
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 2000,
-            "maxShardPrice": 3400,
-            "minGreedCoinPrice": 6,
-            "maxGreedCoinPrice": 11
-          },
-          "weight": 2
-        }
-      ]
-    },
-    {
-      "minGreedTier": 7,
-      "randomTradeShardPrice": 2550,
-      "randomTradeGreedCoinPrice": 8,
-      "shardTrades": [
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
-          },
-          "weight": 5
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "expertise_orbs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greater_cores",
-            "minShardPrice": 3600,
-            "maxShardPrice": 7000,
-            "minGreedCoinPrice": 10,
-            "maxGreedCoinPrice": 20
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 1400,
-            "maxShardPrice": 2600,
-            "minGreedCoinPrice": 4,
-            "maxGreedCoinPrice": 8
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "companion_candy",
-            "minShardPrice": 5200,
-            "maxShardPrice": 9000,
-            "minGreedCoinPrice": 16,
-            "maxGreedCoinPrice": 28
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 2000,
-            "maxShardPrice": 3400,
-            "minGreedCoinPrice": 6,
-            "maxGreedCoinPrice": 11
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_trinkets",
-            "minShardPrice": 4500,
-            "maxShardPrice": 8500,
-            "minGreedCoinPrice": 14,
-            "maxGreedCoinPrice": 26
-          },
-          "weight": 2
-        }
-      ]
-    },
-    {
-      "minGreedTier": 8,
-      "randomTradeShardPrice": 2700,
-      "randomTradeGreedCoinPrice": 9,
-      "shardTrades": [
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
-          },
-          "weight": 5
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "expertise_orbs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greater_cores",
-            "minShardPrice": 3600,
-            "maxShardPrice": 7000,
-            "minGreedCoinPrice": 10,
-            "maxGreedCoinPrice": 20
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 1400,
-            "maxShardPrice": 2600,
-            "minGreedCoinPrice": 4,
-            "maxGreedCoinPrice": 8
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "companion_candy",
-            "minShardPrice": 5200,
-            "maxShardPrice": 9000,
-            "minGreedCoinPrice": 16,
-            "maxGreedCoinPrice": 28
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 2000,
-            "maxShardPrice": 3400,
-            "minGreedCoinPrice": 6,
-            "maxGreedCoinPrice": 11
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_trinkets",
-            "minShardPrice": 4500,
-            "maxShardPrice": 8500,
-            "minGreedCoinPrice": 14,
-            "maxGreedCoinPrice": 26
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 2200,
-            "maxShardPrice": 4000,
-            "minGreedCoinPrice": 7,
-            "maxGreedCoinPrice": 13
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 2400,
-            "maxShardPrice": 4400,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 15
-          },
-          "weight": 2
-        }
-      ]
-    },
-    {
-      "minGreedTier": 9,
-      "randomTradeShardPrice": 2850,
-      "randomTradeGreedCoinPrice": 9,
-      "shardTrades": [
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
-          },
-          "weight": 5
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "expertise_orbs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greater_cores",
-            "minShardPrice": 3600,
-            "maxShardPrice": 7000,
-            "minGreedCoinPrice": 10,
-            "maxGreedCoinPrice": 20
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 1400,
-            "maxShardPrice": 2600,
-            "minGreedCoinPrice": 4,
-            "maxGreedCoinPrice": 8
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "companion_candy",
-            "minShardPrice": 5200,
-            "maxShardPrice": 9000,
-            "minGreedCoinPrice": 16,
-            "maxGreedCoinPrice": 28
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 2000,
-            "maxShardPrice": 3400,
-            "minGreedCoinPrice": 6,
-            "maxGreedCoinPrice": 11
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_trinkets",
-            "minShardPrice": 4500,
-            "maxShardPrice": 8500,
-            "minGreedCoinPrice": 14,
-            "maxGreedCoinPrice": 26
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 2200,
-            "maxShardPrice": 4000,
-            "minGreedCoinPrice": 7,
-            "maxGreedCoinPrice": 13
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 2400,
-            "maxShardPrice": 4400,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 15
-          },
-          "weight": 2
+          "weight": 14
         },
         {
           "value": {
             "type": "pool",
             "poolId": "greed_catalysts",
-            "minShardPrice": 3000,
-            "maxShardPrice": 5600,
-            "minGreedCoinPrice": 9,
-            "maxGreedCoinPrice": 18
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 33600,
+            "maxShardPrice": 58100,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 34800,
+            "maxShardPrice": 68000,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 30800,
+            "maxShardPrice": 59500,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 54800,
+            "maxShardPrice": 105200,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 17600,
+            "maxShardPrice": 23800,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_companion_relics",
+            "minShardPrice": 60200,
+            "maxShardPrice": 103900,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 20500,
+            "maxShardPrice": 35800,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "knack_pack",
+            "minShardPrice": 51100,
+            "maxShardPrice": 90000,
+            "minGreedCoinPrice": 50,
+            "maxGreedCoinPrice": 94
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greater_cores",
+            "minShardPrice": 94200,
+            "maxShardPrice": 143300,
+            "minGreedCoinPrice": 88,
+            "maxGreedCoinPrice": 150
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "mega_knack_pack",
+            "minShardPrice": 62600,
+            "maxShardPrice": 108400,
+            "minGreedCoinPrice": 65,
+            "maxGreedCoinPrice": 115
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_hourglass",
+            "minShardPrice": 223100,
+            "maxShardPrice": 298800,
+            "minGreedCoinPrice": 213,
+            "maxGreedCoinPrice": 325
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "companion_candy",
+            "minShardPrice": 120200,
+            "maxShardPrice": 178200,
+            "minGreedCoinPrice": 119,
+            "maxGreedCoinPrice": 194
+          },
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "minGreedTier": 7,
+      "randomTradeShardPrice": 10900,
+      "randomTradeGreedCoinPrice": 11,
+      "shardTrades": [
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "etchings",
+            "minShardPrice": 51800,
+            "maxShardPrice": 70300,
+            "minGreedCoinPrice": 48,
+            "maxGreedCoinPrice": 78
+          },
+          "weight": 18
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "catalysts",
+            "minShardPrice": 52000,
+            "maxShardPrice": 88500,
+            "minGreedCoinPrice": 53,
+            "maxGreedCoinPrice": 93
+          },
+          "weight": 14
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_catalysts",
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 34100,
+            "maxShardPrice": 61200,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 36200,
+            "maxShardPrice": 62200,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 35500,
+            "maxShardPrice": 67900,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 59600,
+            "maxShardPrice": 94400,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 19300,
+            "maxShardPrice": 23000,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_companion_relics",
+            "minShardPrice": 56600,
+            "maxShardPrice": 113300,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 18200,
+            "maxShardPrice": 34400,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "knack_pack",
+            "minShardPrice": 45800,
+            "maxShardPrice": 95000,
+            "minGreedCoinPrice": 50,
+            "maxGreedCoinPrice": 94
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greater_cores",
+            "minShardPrice": 85400,
+            "maxShardPrice": 139200,
+            "minGreedCoinPrice": 88,
+            "maxGreedCoinPrice": 150
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_trinkets",
+            "minShardPrice": 115900,
+            "maxShardPrice": 188700,
+            "minGreedCoinPrice": 107,
+            "maxGreedCoinPrice": 175
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "mega_knack_pack",
+            "minShardPrice": 67100,
+            "maxShardPrice": 121000,
+            "minGreedCoinPrice": 65,
+            "maxGreedCoinPrice": 115
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_hourglass",
+            "minShardPrice": 230300,
+            "maxShardPrice": 312400,
+            "minGreedCoinPrice": 213,
+            "maxGreedCoinPrice": 325
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "companion_candy",
+            "minShardPrice": 113500,
+            "maxShardPrice": 178400,
+            "minGreedCoinPrice": 119,
+            "maxGreedCoinPrice": 194
+          },
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "minGreedTier": 8,
+      "randomTradeShardPrice": 12600,
+      "randomTradeGreedCoinPrice": 12,
+      "shardTrades": [
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "etchings",
+            "minShardPrice": 43300,
+            "maxShardPrice": 82700,
+            "minGreedCoinPrice": 48,
+            "maxGreedCoinPrice": 78
+          },
+          "weight": 18
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "catalysts",
+            "minShardPrice": 56500,
+            "maxShardPrice": 87800,
+            "minGreedCoinPrice": 53,
+            "maxGreedCoinPrice": 93
+          },
+          "weight": 14
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_catalysts",
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 32300,
+            "maxShardPrice": 62400,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 33300,
+            "maxShardPrice": 65900,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 30400,
+            "maxShardPrice": 65300,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 60100,
+            "maxShardPrice": 90000,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 19900,
+            "maxShardPrice": 27300,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_companion_relics",
+            "minShardPrice": 65200,
+            "maxShardPrice": 112900,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 21200,
+            "maxShardPrice": 39000,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "mega_greed_pack",
+            "minShardPrice": 71200,
+            "maxShardPrice": 118100,
+            "minGreedCoinPrice": 73,
+            "maxGreedCoinPrice": 125
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "knack_pack",
+            "minShardPrice": 53300,
+            "maxShardPrice": 86600,
+            "minGreedCoinPrice": 50,
+            "maxGreedCoinPrice": 94
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greater_cores",
+            "minShardPrice": 91800,
+            "maxShardPrice": 146000,
+            "minGreedCoinPrice": 88,
+            "maxGreedCoinPrice": 150
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_trinkets",
+            "minShardPrice": 101800,
+            "maxShardPrice": 161300,
+            "minGreedCoinPrice": 107,
+            "maxGreedCoinPrice": 175
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "mega_knack_pack",
+            "minShardPrice": 67100,
+            "maxShardPrice": 126100,
+            "minGreedCoinPrice": 65,
+            "maxGreedCoinPrice": 115
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "deluxe_knack_pack",
+            "minShardPrice": 71400,
+            "maxShardPrice": 134500,
+            "minGreedCoinPrice": 78,
+            "maxGreedCoinPrice": 138
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_hourglass",
+            "minShardPrice": 211900,
+            "maxShardPrice": 341500,
+            "minGreedCoinPrice": 213,
+            "maxGreedCoinPrice": 325
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "companion_candy",
+            "minShardPrice": 109700,
+            "maxShardPrice": 190500,
+            "minGreedCoinPrice": 119,
+            "maxGreedCoinPrice": 194
+          },
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "minGreedTier": 9,
+      "randomTradeShardPrice": 12400,
+      "randomTradeGreedCoinPrice": 13,
+      "shardTrades": [
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "etchings",
+            "minShardPrice": 51300,
+            "maxShardPrice": 83600,
+            "minGreedCoinPrice": 48,
+            "maxGreedCoinPrice": 78
+          },
+          "weight": 18
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "catalysts",
+            "minShardPrice": 50600,
+            "maxShardPrice": 99400,
+            "minGreedCoinPrice": 53,
+            "maxGreedCoinPrice": 93
+          },
+          "weight": 14
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_catalysts",
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 29900,
+            "maxShardPrice": 58100,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 31100,
+            "maxShardPrice": 64100,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 31300,
+            "maxShardPrice": 66600,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 50100,
+            "maxShardPrice": 98200,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 17700,
+            "maxShardPrice": 25300,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_companion_relics",
+            "minShardPrice": 61200,
+            "maxShardPrice": 99700,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 21900,
+            "maxShardPrice": 37900,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "mega_greed_pack",
+            "minShardPrice": 76500,
+            "maxShardPrice": 122500,
+            "minGreedCoinPrice": 73,
+            "maxGreedCoinPrice": 125
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "knack_pack",
+            "minShardPrice": 48800,
+            "maxShardPrice": 100600,
+            "minGreedCoinPrice": 50,
+            "maxGreedCoinPrice": 94
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greater_cores",
+            "minShardPrice": 91300,
+            "maxShardPrice": 152200,
+            "minGreedCoinPrice": 88,
+            "maxGreedCoinPrice": 150
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_trinkets",
+            "minShardPrice": 98400,
+            "maxShardPrice": 161000,
+            "minGreedCoinPrice": 107,
+            "maxGreedCoinPrice": 175
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "mega_knack_pack",
+            "minShardPrice": 66100,
+            "maxShardPrice": 114400,
+            "minGreedCoinPrice": 65,
+            "maxGreedCoinPrice": 115
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "deluxe_knack_pack",
+            "minShardPrice": 70300,
+            "maxShardPrice": 147400,
+            "minGreedCoinPrice": 78,
+            "maxGreedCoinPrice": 138
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_hourglass",
+            "minShardPrice": 232400,
+            "maxShardPrice": 354700,
+            "minGreedCoinPrice": 213,
+            "maxGreedCoinPrice": 325
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "companion_candy",
+            "minShardPrice": 123500,
+            "maxShardPrice": 175500,
+            "minGreedCoinPrice": 119,
+            "maxGreedCoinPrice": 194
           },
           "weight": 3
         }
@@ -1024,200 +1365,211 @@
     },
     {
       "minGreedTier": 10,
-      "randomTradeShardPrice": 3000,
-      "randomTradeGreedCoinPrice": 10,
+      "randomTradeShardPrice": 14900,
+      "randomTradeGreedCoinPrice": 14,
       "shardTrades": [
         {
           "value": {
             "type": "pool",
             "poolId": "etchings",
-            "minShardPrice": 1200,
-            "maxShardPrice": 2200,
-            "minGreedCoinPrice": 3,
-            "maxGreedCoinPrice": 6
+            "minShardPrice": 65300,
+            "maxShardPrice": 111300,
+            "minGreedCoinPrice": 69,
+            "maxGreedCoinPrice": 113
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
-          },
-          "weight": 3
+          "weight": 18
         },
         {
           "value": {
             "type": "pool",
             "poolId": "catalysts",
-            "minShardPrice": 1800,
-            "maxShardPrice": 4200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 14
+            "minShardPrice": 103600,
+            "maxShardPrice": 202100,
+            "minGreedCoinPrice": 107,
+            "maxGreedCoinPrice": 188
           },
-          "weight": 5
+          "weight": 14
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "super_inscriptions",
-            "minShardPrice": 1800,
-            "maxShardPrice": 3200,
-            "minGreedCoinPrice": 5,
-            "maxGreedCoinPrice": 10
+            "poolId": "greed_catalysts",
+            "minShardPrice": 25000,
+            "maxShardPrice": 56000,
+            "minGreedCoinPrice": 25,
+            "maxGreedCoinPrice": 56
+          },
+          "weight": 12
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_common",
+            "minShardPrice": 31100,
+            "maxShardPrice": 64200,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "super_inscriptions_ore",
+            "minShardPrice": 30500,
+            "maxShardPrice": 64800,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 6
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greed_crystals",
-            "minShardPrice": 3500,
-            "maxShardPrice": 6500,
-            "minGreedCoinPrice": 12,
-            "maxGreedCoinPrice": 24
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "greed_companion_relics",
-            "minShardPrice": 2600,
-            "maxShardPrice": 5200,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 16
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "expertise_orbs",
-            "minShardPrice": 900,
-            "maxShardPrice": 1800,
-            "minGreedCoinPrice": 2,
-            "maxGreedCoinPrice": 5
+            "poolId": "super_inscriptions_challenge",
+            "minShardPrice": 32800,
+            "maxShardPrice": 58100,
+            "minGreedCoinPrice": 33,
+            "maxGreedCoinPrice": 63
           },
           "weight": 4
         },
         {
           "value": {
             "type": "pool",
+            "poolId": "super_inscriptions_omega",
+            "minShardPrice": 55500,
+            "maxShardPrice": 99300,
+            "minGreedCoinPrice": 55,
+            "maxGreedCoinPrice": 98
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_crystals",
+            "minShardPrice": 18300,
+            "maxShardPrice": 24900,
+            "minGreedCoinPrice": 19,
+            "maxGreedCoinPrice": 25
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_companion_relics",
+            "minShardPrice": 64600,
+            "maxShardPrice": 110200,
+            "minGreedCoinPrice": 60,
+            "maxGreedCoinPrice": 108
+          },
+          "weight": 8
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "greed_pack",
+            "minShardPrice": 20700,
+            "maxShardPrice": 41300,
+            "minGreedCoinPrice": 20,
+            "maxGreedCoinPrice": 38
+          },
+          "weight": 7
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "mega_greed_pack",
+            "minShardPrice": 70800,
+            "maxShardPrice": 126000,
+            "minGreedCoinPrice": 73,
+            "maxGreedCoinPrice": 125
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "knack_pack",
+            "minShardPrice": 51000,
+            "maxShardPrice": 94000,
+            "minGreedCoinPrice": 50,
+            "maxGreedCoinPrice": 94
+          },
+          "weight": 5
+        },
+        {
+          "value": {
+            "type": "pool",
             "poolId": "greater_cores",
-            "minShardPrice": 3600,
-            "maxShardPrice": 7000,
-            "minGreedCoinPrice": 10,
-            "maxGreedCoinPrice": 20
+            "minShardPrice": 87600,
+            "maxShardPrice": 150700,
+            "minGreedCoinPrice": 88,
+            "maxGreedCoinPrice": 150
           },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 1400,
-            "maxShardPrice": 2600,
-            "minGreedCoinPrice": 4,
-            "maxGreedCoinPrice": 8
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "companion_candy",
-            "minShardPrice": 5200,
-            "maxShardPrice": 9000,
-            "minGreedCoinPrice": 16,
-            "maxGreedCoinPrice": 28
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 2000,
-            "maxShardPrice": 3400,
-            "minGreedCoinPrice": 6,
-            "maxGreedCoinPrice": 11
-          },
-          "weight": 2
+          "weight": 5
         },
         {
           "value": {
             "type": "pool",
             "poolId": "greed_trinkets",
-            "minShardPrice": 4500,
-            "maxShardPrice": 8500,
-            "minGreedCoinPrice": 14,
-            "maxGreedCoinPrice": 26
+            "minShardPrice": 111200,
+            "maxShardPrice": 170900,
+            "minGreedCoinPrice": 107,
+            "maxGreedCoinPrice": 175
           },
-          "weight": 2
+          "weight": 5
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greed_booster_packs",
-            "minShardPrice": 2200,
-            "maxShardPrice": 4000,
-            "minGreedCoinPrice": 7,
-            "maxGreedCoinPrice": 13
+            "poolId": "mega_knack_pack",
+            "minShardPrice": 65000,
+            "maxShardPrice": 107200,
+            "minGreedCoinPrice": 65,
+            "maxGreedCoinPrice": 115
           },
-          "weight": 2
+          "weight": 5
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "knack_booster_packs",
-            "minShardPrice": 2400,
-            "maxShardPrice": 4400,
-            "minGreedCoinPrice": 8,
-            "maxGreedCoinPrice": 15
+            "poolId": "deluxe_knack_pack",
+            "minShardPrice": 83500,
+            "maxShardPrice": 138700,
+            "minGreedCoinPrice": 78,
+            "maxGreedCoinPrice": 138
           },
-          "weight": 2
+          "weight": 5
         },
         {
           "value": {
             "type": "pool",
-            "poolId": "greed_catalysts",
-            "minShardPrice": 3000,
-            "maxShardPrice": 5600,
-            "minGreedCoinPrice": 9,
-            "maxGreedCoinPrice": 18
+            "poolId": "greed_hourglass",
+            "minShardPrice": 204400,
+            "maxShardPrice": 357100,
+            "minGreedCoinPrice": 213,
+            "maxGreedCoinPrice": 325
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "type": "pool",
+            "poolId": "companion_candy",
+            "minShardPrice": 127400,
+            "maxShardPrice": 205000,
+            "minGreedCoinPrice": 119,
+            "maxGreedCoinPrice": 194
           },
           "weight": 3
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "catalysts",
-            "minShardPrice": 4200,
-            "maxShardPrice": 8200,
-            "minGreedCoinPrice": 14,
-            "maxGreedCoinPrice": 28
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "type": "pool",
-            "poolId": "etchings",
-            "minShardPrice": 2200,
-            "maxShardPrice": 3800,
-            "minGreedCoinPrice": 7,
-            "maxGreedCoinPrice": 13
-          },
-          "weight": 2
         }
       ]
     }
   ],
   "baseTrades": 6,
-  "rerollItem": "the_vault:greed_coin",
+  "rerollItem": "the_vault:greed_market_reroll",
   "rerollCost": 1
 }

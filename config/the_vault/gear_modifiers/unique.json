@@ -1,7 +1,8 @@
 {
   "modifierGroup": {
     "BASE_ATTRIBUTES": [
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:base_durability",
         "tags": [
@@ -100,7 +101,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:offhand_base_durability",
         "tags": [
@@ -149,7 +151,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:magnet_base_durability",
         "tags": [
@@ -178,11 +181,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:living",
+      {
+        "attribute": "the_vault:living",
         "group": "BaseLiving",
         "identifier": "the_vault:u_living",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -236,10 +239,10 @@
       }
     ],
     "IMPLICIT": [
-      { "attribute": "the_vault:movement_speed",
+      {
+        "attribute": "the_vault:movement_speed",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_movement",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -283,11 +286,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:block",
+      {
+        "attribute": "the_vault:block",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_block_chance",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 20,
@@ -311,7 +314,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:armor",
+      {
+        "attribute": "the_vault:armor",
         "group": "BaseModAbility",
         "identifier": "the_vault:base_armor",
         "tiers": [
@@ -407,7 +411,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:health",
+      {
+        "attribute": "the_vault:health",
         "group": "ModHealthMana",
         "identifier": "the_vault:base_health",
         "tags": [
@@ -496,10 +501,10 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_power",
+      {
+        "attribute": "the_vault:ability_power",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_ap",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -603,7 +608,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:lucky_hit_chance",
+      {
+        "attribute": "the_vault:lucky_hit_chance",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_lucky_hit_chance",
         "tiers": [
@@ -629,11 +635,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:mana_additive",
+      {
+        "attribute": "the_vault:mana_additive",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_mana_additive",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -677,13 +683,12 @@
           }
         ]
       },
-      { "attribute": "the_vault:mana_additive",
+      {
+        "attribute": "the_vault:mana_additive",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_offhand_mana_additive",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
-
           {
             "minLevel": 0,
             "maxLevel": -1,
@@ -736,7 +741,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:attack_damage",
+      {
+        "attribute": "the_vault:attack_damage",
         "group": "BaseAttackDamage",
         "identifier": "the_vault:base_attack_damage",
         "tiers": [
@@ -862,7 +868,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:attack_speed",
+      {
+        "attribute": "the_vault:attack_speed",
         "group": "BaseAttackSpeed",
         "identifier": "the_vault:base_attack_speed",
         "tiers": [
@@ -888,10 +895,10 @@
           }
         ]
       },
-      { "attribute": "the_vault:critical_hit_mitigation",
+      {
+        "attribute": "the_vault:critical_hit_mitigation",
         "group": "uCritHitImplicit",
         "identifier": "the_vault:u_base_crit_hit",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -915,10 +922,10 @@
           }
         ]
       },
-      { "attribute": "the_vault:critical_hit_mitigation",
+      {
+        "attribute": "the_vault:critical_hit_mitigation",
         "group": "uCritHitImplicit",
         "identifier": "the_vault:u_critical_hit_mitigation",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -942,7 +949,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:jewel_size",
+      {
+        "attribute": "the_vault:jewel_size",
         "group": "ModHealthMana",
         "identifier": "the_vault:u_jewel_size",
         "tags": [
@@ -961,7 +969,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:jewel_size",
+      {
+        "attribute": "the_vault:jewel_size",
         "group": "ModHealthMana",
         "identifier": "the_vault:small_jewel_size",
         "tags": [
@@ -980,7 +989,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:jewel_size",
+      {
+        "attribute": "the_vault:jewel_size",
         "group": "ModHealthMana",
         "identifier": "the_vault:u_jewel_size_pax",
         "tags": [
@@ -999,7 +1009,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:jewel_size",
+      {
+        "attribute": "the_vault:jewel_size",
         "group": "ModHealthMana",
         "identifier": "the_vault:u_jewel_size_manabloom",
         "tags": [
@@ -1018,7 +1029,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:thorns_damage_flat",
+      {
+        "attribute": "the_vault:thorns_damage_flat",
         "group": "BaseBlock",
         "identifier": "the_vault:base_thorns_damage_flat",
         "tiers": [
@@ -1084,7 +1096,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:block",
+      {
+        "attribute": "the_vault:block",
         "group": "BaseBlock",
         "identifier": "the_vault:u_base_block",
         "tiers": [
@@ -1140,11 +1153,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:sweeping_hit_damage",
+      {
+        "attribute": "the_vault:sweeping_hit_damage",
         "group": "baseSweepingHit",
         "identifier": "the_vault:base_sweeping_hit_damage",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -1265,7 +1278,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:range",
+      {
+        "attribute": "the_vault:range",
         "group": "BaseRange",
         "identifier": "the_vault:base_range",
         "tiers": [
@@ -1351,7 +1365,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:velocity",
+      {
+        "attribute": "the_vault:velocity",
         "group": "BaseVelocity",
         "identifier": "the_vault:base_velocity",
         "tiers": [
@@ -1397,9 +1412,6 @@
           }
         ]
       },
-
-
-
       {
         "attribute": "the_vault:attack_speed",
         "group": "BaseAttackSpeed",
@@ -1618,10 +1630,10 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_power",
+      {
+        "attribute": "the_vault:ability_power",
         "group": "BaseBonusPool",
         "identifier": "the_vault:base_ap_pistol",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -1705,7 +1717,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:jewel_size",
+      {
+        "attribute": "the_vault:jewel_size",
         "group": "ModHealthMana",
         "identifier": "the_vault:u_jewel_size_piggy",
         "tags": [
@@ -1903,7 +1916,6 @@
               "step": 1
             }
           }
-
         ]
       },
       {
@@ -1929,7 +1941,7 @@
             "maxLevel": 51,
             "weight": 10,
             "value": {
-              "min": 0.10,
+              "min": 0.1,
               "max": 0.14,
               "step": 0.01
             }
@@ -2381,7 +2393,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:range",
+      {
+        "attribute": "the_vault:range",
         "group": "TreasureMagnetRange",
         "identifier": "the_vault:u_treasure_magnet_range",
         "tiers": [
@@ -2397,7 +2410,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:pull_floating_items",
+      {
+        "attribute": "the_vault:pull_floating_items",
         "group": "TreasureMagnetPull",
         "identifier": "the_vault:u_pull_floating_items",
         "tiers": [
@@ -2413,7 +2427,8 @@
       }
     ],
     "PREFIX": [
-      { "attribute": "the_vault:thorns_damage_flat",
+      {
+        "attribute": "the_vault:thorns_damage_flat",
         "group": "ModBlockThorns",
         "identifier": "the_vault:u_thorns_damage",
         "tags": [
@@ -2452,10 +2467,10 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_power",
+      {
+        "attribute": "the_vault:ability_power",
         "group": "BaseBonusPool",
         "identifier": "the_vault:mod_ap",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -2559,7 +2574,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:resistance",
+      {
+        "attribute": "the_vault:resistance",
         "group": "ModResistance",
         "identifier": "the_vault:mod_resistance",
         "tags": [
@@ -2622,13 +2638,14 @@
             "weight": 100,
             "value": {
               "min": 0.19,
-              "max": 0.20,
+              "max": 0.2,
               "step": 0.01
             }
           }
         ]
       },
-      { "attribute": "the_vault:lucky_hit_chance",
+      {
+        "attribute": "the_vault:lucky_hit_chance",
         "group": "BaseBonusPool",
         "identifier": "the_vault:jester_lucky_hit",
         "tiers": [
@@ -2654,7 +2671,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:attack_damage",
+      {
+        "attribute": "the_vault:attack_damage",
         "group": "ModOnHitAddition",
         "identifier": "the_vault:mod_attack_damage",
         "tags": [
@@ -2767,16 +2785,26 @@
         "attribute": "the_vault:broodmother_web",
         "group": "ModEnhancement",
         "identifier": "the_vault:u_broodmother_web",
-        "tags": ["noLegendary", "noImbuement"],
+        "tags": [
+          "noLegendary",
+          "noImbuement"
+        ],
         "tiers": [
           {
             "minLevel": 0,
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "chance": { "min": 0.2, "max": 0.7, "step": 0.05 },
-              "percentAttackDamage": { "min": 0.20, "max": 0.60, "step":
-              0.05 }
+              "chance": {
+                "min": 0.2,
+                "max": 0.7,
+                "step": 0.05
+              },
+              "percentAttackDamage": {
+                "min": 0.2,
+                "max": 0.6,
+                "step": 0.05
+              }
             }
           },
           {
@@ -2784,9 +2812,16 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "chance": { "min": 0.2, "max": 0.7, "step": 0.05 },
-              "percentAttackDamage": { "min": 0.6, "max": 1.2, "step":
-              0.05 }
+              "chance": {
+                "min": 0.2,
+                "max": 0.7,
+                "step": 0.05
+              },
+              "percentAttackDamage": {
+                "min": 0.6,
+                "max": 1.2,
+                "step": 0.05
+              }
             }
           }
         ]
@@ -2838,11 +2873,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:mod_fear",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 25,
@@ -2891,11 +2926,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:u_entropic_bind",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 25,
@@ -2926,7 +2961,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:u_all_skills",
         "tags": [
@@ -2953,7 +2989,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:damage_increase",
+      {
+        "attribute": "the_vault:damage_increase",
         "group": "ModResistance",
         "identifier": "the_vault:mod_damage_increase",
         "tags": [
@@ -3032,11 +3069,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:mod_jav_scatter",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -3067,7 +3104,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:health",
+      {
+        "attribute": "the_vault:health",
         "group": "ModHealthMana",
         "identifier": "the_vault:mod_health",
         "tags": [
@@ -3156,7 +3194,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:damage_baby",
+      {
+        "attribute": "the_vault:damage_baby",
         "group": "uDamageBaby",
         "identifier": "the_vault:mod_damage_baby",
         "tags": [
@@ -3205,7 +3244,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_special_modification",
+      {
+        "attribute": "the_vault:ability_special_modification",
         "group": "ModEnhancement",
         "identifier": "the_vault:unique_frost_nova_vulnerability",
         "tags": [
@@ -3256,8 +3296,8 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:ability_area_of_effect_percent",
+      {
+        "attribute": "the_vault:ability_area_of_effect_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:fear_effect_increase",
         "tags": [
@@ -3299,7 +3339,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_area_of_effect_percent",
+      {
+        "attribute": "the_vault:ability_area_of_effect_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:storm_aoe_reduce",
         "tags": [
@@ -3319,7 +3360,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_area_of_effect_percent",
+      {
+        "attribute": "the_vault:ability_area_of_effect_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:fireball_aoe_increase",
         "tags": [
@@ -3350,7 +3392,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_cooldown_percent",
+      {
+        "attribute": "the_vault:ability_cooldown_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:storm_cooldown",
         "tags": [
@@ -3370,7 +3413,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_cooldown_percent",
+      {
+        "attribute": "the_vault:ability_cooldown_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:heal_cooldown",
         "tags": [
@@ -3390,7 +3434,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_cooldown_percent",
+      {
+        "attribute": "the_vault:ability_cooldown_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:warp_cooldown",
         "tags": [
@@ -3402,7 +3447,7 @@
             "maxLevel": 49,
             "weight": 5,
             "value": {
-              "min": -0.10,
+              "min": -0.1,
               "max": -0.25,
               "step": 0.01,
               "abilityKey": "Dash_Warp"
@@ -3414,14 +3459,15 @@
             "weight": 5,
             "value": {
               "min": -0.26,
-              "max": -0.50,
+              "max": -0.5,
               "step": 0.01,
               "abilityKey": "Dash_Warp"
             }
           }
         ]
       },
-      { "attribute": "the_vault:ability_power_percent",
+      {
+        "attribute": "the_vault:ability_power_percent",
         "group": "ModAP",
         "identifier": "the_vault:mod_ability_increase",
         "tags": [
@@ -3481,7 +3527,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAPLvl",
         "identifier": "the_vault:mod_added_ability_level_fireball",
         "tags": [
@@ -3527,7 +3574,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAPLvl",
         "identifier": "the_vault:mod_added_ability_level_heal",
         "tags": [
@@ -3564,7 +3612,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAPLvl",
         "identifier": "the_vault:mod_added_ability_level_groupheal",
         "tags": [
@@ -3637,7 +3686,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:mod_added_ability_level_dashwarp",
         "tags": [
@@ -3674,7 +3724,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:area_of_effect",
+      {
+        "attribute": "the_vault:area_of_effect",
         "group": "ModEffectRadius",
         "identifier": "the_vault:unique_area_of_effect",
         "tags": [
@@ -3733,7 +3784,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:cooldown_reduction",
+      {
+        "attribute": "the_vault:cooldown_reduction",
         "group": "ModCooldownReduction",
         "identifier": "the_vault:mod_cooldown_reduction",
         "tags": [
@@ -3812,7 +3864,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAPLvl",
         "identifier": "the_vault:unique_storm_arrow_level",
         "tags": [
@@ -3840,7 +3893,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModLvlDefensive",
         "identifier": "the_vault:unique_added_ability_level_frostnova",
         "tags": [
@@ -3931,7 +3985,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAPLvl",
         "identifier": "the_vault:unique_rampage_level",
         "tags": [
@@ -3959,7 +4014,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAPLvl",
         "identifier": "the_vault:unique_ice_bolt_level",
         "tags": [
@@ -4014,7 +4070,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAPLvl",
         "identifier": "the_vault:unique_dash_level",
         "tags": [
@@ -4060,7 +4117,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:damage_tank",
+      {
+        "attribute": "the_vault:damage_tank",
         "group": "modDamageTank",
         "identifier": "the_vault:u_damage_tank",
         "tags": [
@@ -4099,7 +4157,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:on_hit_chain",
+      {
+        "attribute": "the_vault:on_hit_chain",
         "group": "ModOnHitType",
         "identifier": "the_vault:mod_on_hit_chain",
         "tags": [
@@ -4168,7 +4227,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:on_hit_aoe",
+      {
+        "attribute": "the_vault:on_hit_aoe",
         "group": "ModOnHitType",
         "identifier": "the_vault:u_on_hit_aoe",
         "tags": [
@@ -4188,7 +4248,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:knockback_resistance",
+      {
+        "attribute": "the_vault:knockback_resistance",
         "group": "ModKnockbackResistance",
         "identifier": "the_vault:u_knockback_resistance",
         "tags": [
@@ -4237,7 +4298,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:armor",
+      {
+        "attribute": "the_vault:armor",
         "group": "ModArmor",
         "identifier": "the_vault:u_mod_armor",
         "tags": [
@@ -4306,10 +4368,10 @@
           }
         ]
       },
-      { "attribute": "the_vault:movement_speed",
+      {
+        "attribute": "the_vault:movement_speed",
         "group": "uMovementSpeed",
         "identifier": "the_vault:u_movement",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -4353,10 +4415,10 @@
           }
         ]
       },
-      { "attribute": "the_vault:movement_speed",
+      {
+        "attribute": "the_vault:movement_speed",
         "group": "uMovementSpeed",
         "identifier": "the_vault:u_pacifist_movement",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -4410,10 +4472,13 @@
           }
         ]
       },
-      { "attribute": "the_vault:effect",
+      {
+        "attribute": "the_vault:effect",
         "group": "uSaturation",
         "identifier": "the_vault:u_saturation",
-        "tags": [ "noImbuement" ],
+        "tags": [
+          "noImbuement"
+        ],
         "tiers": [
           {
             "minLevel": 0,
@@ -4426,10 +4491,13 @@
           }
         ]
       },
-      { "attribute": "the_vault:effect",
+      {
+        "attribute": "the_vault:effect",
         "group": "uJump",
         "identifier": "the_vault:ujump",
-        "tags": [ "noImbuement" ],
+        "tags": [
+          "noImbuement"
+        ],
         "tiers": [
           {
             "minLevel": 0,
@@ -4442,8 +4510,8 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:lucky_thorns",
+      {
+        "attribute": "the_vault:lucky_thorns",
         "group": "ModLuckyThorns",
         "identifier": "the_vault:u_lucky_thorns",
         "tags": [
@@ -4461,8 +4529,8 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:relentless_strike",
+      {
+        "attribute": "the_vault:relentless_strike",
         "group": "ModRelentlessStrike",
         "identifier": "the_vault:u_relentless_strike",
         "tags": [
@@ -4482,7 +4550,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_on_damage",
+      {
+        "attribute": "the_vault:ability_on_damage",
         "group": "ModOnDamageType",
         "identifier": "the_vault:u_frost_nova_on_damage",
         "tags": [
@@ -4510,7 +4579,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:third_attack",
+      {
+        "attribute": "the_vault:third_attack",
         "group": "ModThirdAttack",
         "identifier": "the_vault:u_third_attack",
         "tags": [
@@ -4530,8 +4600,8 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:wooden_affinity",
+      {
+        "attribute": "the_vault:wooden_affinity",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_wooden_affinity",
         "tags": [
@@ -4549,7 +4619,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:gilded_affinity",
+      {
+        "attribute": "the_vault:gilded_affinity",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_gilded_affinity",
         "tags": [
@@ -4567,7 +4638,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ornate_affinity",
+      {
+        "attribute": "the_vault:ornate_affinity",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_ornate_affinity",
         "tags": [
@@ -4585,7 +4657,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:living_affinity",
+      {
+        "attribute": "the_vault:living_affinity",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_living_affinity",
         "tags": [
@@ -4603,7 +4676,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:coin_affinity",
+      {
+        "attribute": "the_vault:coin_affinity",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_coin_affinity",
         "tags": [
@@ -4621,7 +4695,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:picking",
+      {
+        "attribute": "the_vault:picking",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_picking",
         "tags": [
@@ -4639,7 +4714,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:shovelling",
+      {
+        "attribute": "the_vault:shovelling",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_shovelling",
         "tags": [
@@ -4657,7 +4733,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:shocking_hit_chance",
+      {
+        "attribute": "the_vault:shocking_hit_chance",
         "group": "ModOnHitAddition",
         "identifier": "the_vault:u_shocking_hit",
         "tags": [
@@ -4669,8 +4746,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.20,
-              "max": 0.40,
+              "min": 0.2,
+              "max": 0.4,
               "step": 0.01
             }
           },
@@ -4680,7 +4757,7 @@
             "weight": 10,
             "value": {
               "min": 0.41,
-              "max": 0.60,
+              "max": 0.6,
               "step": 0.01
             }
           },
@@ -4690,7 +4767,7 @@
             "weight": 10,
             "value": {
               "min": 0.61,
-              "max": 0.80,
+              "max": 0.8,
               "step": 0.01
             }
           },
@@ -4714,10 +4791,10 @@
               "step": 0.01
             }
           }
-
         ]
       },
-      { "attribute": "the_vault:on_hit_stun",
+      {
+        "attribute": "the_vault:on_hit_stun",
         "group": "ModOnHitAddition",
         "identifier": "the_vault:u_stun_hit",
         "tags": [
@@ -4786,7 +4863,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:axing",
+      {
+        "attribute": "the_vault:axing",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_axing",
         "tags": [
@@ -4804,7 +4882,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:mana_per_looted_tile",
+      {
+        "attribute": "the_vault:mana_per_looted_tile",
         "group": "uLootedTile",
         "identifier": "the_vault:u_mana_looting",
         "tags": [],
@@ -4849,7 +4928,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:phoenix",
+      {
+        "attribute": "the_vault:phoenix",
         "group": "ModPhoenix",
         "identifier": "the_vault:u_phoenix",
         "tags": [
@@ -4868,7 +4948,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:reaping",
+      {
+        "attribute": "the_vault:reaping",
         "group": "ModSoulbound",
         "identifier": "the_vault:u_reaping",
         "tags": [
@@ -4886,8 +4967,8 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:warp_projectile_speed",
+      {
+        "attribute": "the_vault:warp_projectile_speed",
         "group": "ModWarpSpeed",
         "identifier": "the_vault:mod_warp_projectile_speed",
         "tags": [
@@ -4910,13 +4991,14 @@
             "weight": 100,
             "value": {
               "min": 0.25,
-              "max": 0.50,
+              "max": 0.5,
               "step": 0.01
             }
           }
         ]
       },
-      { "attribute": "the_vault:copiously",
+      {
+        "attribute": "the_vault:copiously",
         "group": "ModCopiously",
         "identifier": "the_vault:copiously",
         "tags": [
@@ -4995,7 +5077,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:mining_speed_percent",
+      {
+        "attribute": "the_vault:mining_speed_percent",
         "group": "ModCopiously",
         "identifier": "the_vault:u_mining_speed_percent",
         "tags": [
@@ -5007,16 +5090,13 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 0.20,
-              "max": 0.50,
+              "min": 0.2,
+              "max": 0.5,
               "step": 0.05
             }
           }
         ]
       },
-
-
-
       {
         "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
@@ -5488,7 +5568,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:unique_porcupine_level",
         "tiers": [
@@ -5521,7 +5602,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:unique_quill_level",
         "tiers": [
@@ -5554,7 +5636,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_power_percent",
+      {
+        "attribute": "the_vault:ability_power_percent",
         "group": "ModAP",
         "identifier": "the_vault:mod_ability_increase_pistol",
         "tags": [
@@ -5671,7 +5754,7 @@
             }
           },
           {
-            "minLevel":90,
+            "minLevel": 90,
             "maxLevel": -1,
             "weight": 100,
             "value": {
@@ -5715,7 +5798,7 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 0.50,
+              "min": 0.5,
               "max": 0.74,
               "step": 0.01
             }
@@ -5726,7 +5809,7 @@
             "weight": 100,
             "value": {
               "min": 0.75,
-              "max": 1.00,
+              "max": 1.0,
               "step": 0.01
             }
           },
@@ -5736,7 +5819,7 @@
             "weight": 50,
             "value": {
               "min": 1.01,
-              "max": 1.50,
+              "max": 1.5,
               "step": 0.01
             }
           },
@@ -5752,7 +5835,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:durability",
+      {
+        "attribute": "the_vault:durability",
         "group": "BaseDurability",
         "identifier": "the_vault:piggy_dura",
         "tags": [
@@ -5924,7 +6008,7 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 1.20,
+              "min": 1.2,
               "max": 1.34,
               "step": 0.01
             }
@@ -5935,7 +6019,7 @@
             "weight": 100,
             "value": {
               "min": 1.35,
-              "max": 1.50,
+              "max": 1.5,
               "step": 0.01
             }
           }
@@ -5954,7 +6038,7 @@
             "maxLevel": 50,
             "weight": 100,
             "value": {
-              "min": 0.60,
+              "min": 0.6,
               "max": 0.99,
               "step": 0.01
             }
@@ -6434,7 +6518,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:on_hit_chain",
+      {
+        "attribute": "the_vault:on_hit_chain",
         "group": "ModOnHitType",
         "identifier": "the_vault:u_chaining",
         "tags": [
@@ -6453,10 +6538,10 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_power",
+      {
+        "attribute": "the_vault:ability_power",
         "group": "BaseBonusPool",
         "identifier": "the_vault:mjolnir_ability_power",
-
         "tiers": [
           {
             "minLevel": 0,
@@ -6540,7 +6625,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:trident_wind_up_percent",
+      {
+        "attribute": "the_vault:trident_wind_up_percent",
         "group": "ModWindUp",
         "identifier": "the_vault:mod_marlin_windup",
         "tags": [
@@ -6697,7 +6783,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:jewel_size",
+      {
+        "attribute": "the_vault:jewel_size",
         "group": "ModHealthMana",
         "identifier": "the_vault:u_jewel_size_kaleid",
         "tags": [
@@ -6715,10 +6802,30 @@
             }
           }
         ]
+      },
+      {
+        "attribute": "the_vault:chestbreaching",
+        "group": "ModSoulbound",
+        "identifier": "the_vault:u_breaching",
+        "tags": [
+          "noLegendary",
+          "noImbuement"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "flag": true
+            }
+          }
+        ]
       }
     ],
     "SUFFIX": [
-      { "attribute": "the_vault:item_rarity",
+      {
+        "attribute": "the_vault:item_rarity",
         "group": "ModItemRarity",
         "identifier": "the_vault:u_item_rarity",
         "tags": [
@@ -6747,7 +6854,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:knockback_resistance",
+      {
+        "attribute": "the_vault:knockback_resistance",
         "group": "ModKnockbackResistance",
         "identifier": "the_vault:mod_knockback_resistance",
         "tags": [
@@ -6906,7 +7014,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:mana_regen",
+      {
+        "attribute": "the_vault:mana_regen",
         "group": "ModManaRegen",
         "identifier": "the_vault:mod_mana_regen",
         "tags": [
@@ -7015,7 +7124,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:area_of_effect",
+      {
+        "attribute": "the_vault:area_of_effect",
         "group": "ModEffectRadius",
         "identifier": "the_vault:mod_area_of_effect",
         "tags": [
@@ -7084,7 +7194,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:kinetic_immunity",
+      {
+        "attribute": "the_vault:kinetic_immunity",
         "group": "UniqueKineticImmunity",
         "identifier": "the_vault:mod_kinetic_immunity",
         "tags": [
@@ -7101,7 +7212,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:lucky_hit_chance",
+      {
+        "attribute": "the_vault:lucky_hit_chance",
         "group": "ModOnHit",
         "identifier": "the_vault:unique_lucky_hit_chance",
         "tags": [
@@ -7140,7 +7252,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:lucky_hit_chance",
+      {
+        "attribute": "the_vault:lucky_hit_chance",
         "group": "ModOnHit",
         "identifier": "the_vault:u_lucky_hit_chance",
         "tags": [
@@ -7179,7 +7292,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:effect_list_avoidance",
+      {
+        "attribute": "the_vault:effect_list_avoidance",
         "group": "ModEffectAvoidance",
         "identifier": "the_vault:u_effect_avoidance",
         "tags": [
@@ -7249,7 +7363,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:attack_speed_percent",
+      {
+        "attribute": "the_vault:attack_speed_percent",
         "group": "uAttackSpeed",
         "identifier": "the_vault:mod_attack_speed_percent",
         "tags": [
@@ -7300,7 +7415,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:attack_range",
+      {
+        "attribute": "the_vault:attack_range",
         "group": "uAttackRange",
         "identifier": "the_vault:mod_attack_range",
         "tags": [
@@ -7350,7 +7466,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_special_modification",
+      {
+        "attribute": "the_vault:ability_special_modification",
         "group": "ModEnhancement",
         "identifier": "the_vault:unique_entropic_poison",
         "tags": [
@@ -7387,7 +7504,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:effect_trail",
+      {
+        "attribute": "the_vault:effect_trail",
         "group": "ModEnhancement",
         "identifier": "the_vault:u_chilled_effect_trail",
         "tags": [
@@ -7424,7 +7542,7 @@
             "value": {
               "chance": {
                 "min": 0.05,
-                "max": 0.20,
+                "max": 0.2,
                 "step": 0.01
               },
               "amount": {
@@ -7450,8 +7568,8 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 0.20,
-              "max": 0.50,
+              "min": 0.2,
+              "max": 0.5,
               "step": 0.01
             }
           }
@@ -7472,8 +7590,8 @@
             "weight": 100,
             "value": {
               "chance": {
-                "min": 0.20,
-                "max": 0.50,
+                "min": 0.2,
+                "max": 0.5,
                 "step": 0.05
               },
               "amount": {
@@ -7485,7 +7603,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_cooldown_skip",
+      {
+        "attribute": "the_vault:ability_cooldown_skip",
         "group": "ModEnhancement",
         "identifier": "the_vault:mod_ability_cooldown_skip",
         "tags": [
@@ -7499,7 +7618,7 @@
             "weight": 100,
             "value": {
               "min": 0.05,
-              "max": 0.20,
+              "max": 0.2,
               "step": 0.01
             }
           }
@@ -7529,8 +7648,8 @@
                 "step": 1
               },
               "percentAbilityPower": {
-                "min": 0.50,
-                "max": 2.00,
+                "min": 0.5,
+                "max": 2.0,
                 "step": 0.05
               }
             }
@@ -7555,7 +7674,7 @@
               "displayName": "Omega Chest",
               "chance": {
                 "min": 0.05,
-                "max": 0.20,
+                "max": 0.2,
                 "step": 0.05
               },
               "level": {
@@ -7567,9 +7686,6 @@
           }
         ]
       },
-
-
-
       {
         "attribute": "the_vault:ability_special_modification",
         "group": "ModEnhancement",
@@ -7867,7 +7983,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:area_of_effect",
+      {
+        "attribute": "the_vault:area_of_effect",
         "group": "ModEffectRadius",
         "identifier": "the_vault:mod_area_of_effect_pistol",
         "tags": [
@@ -7926,7 +8043,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:cooldown_reduction",
+      {
+        "attribute": "the_vault:cooldown_reduction",
         "group": "ModCooldownReduction",
         "identifier": "the_vault:mod_cooldown_reduction_pistol",
         "tags": [
@@ -7938,7 +8056,7 @@
             "maxLevel": 40,
             "weight": 100,
             "value": {
-              "min": 0.10,
+              "min": 0.1,
               "max": 0.12,
               "step": 0.01
             }
@@ -7959,7 +8077,7 @@
             "weight": 100,
             "value": {
               "min": 0.17,
-              "max": 0.20,
+              "max": 0.2,
               "step": 0.01
             }
           },
@@ -8246,7 +8364,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:relentless_strike",
+      {
+        "attribute": "the_vault:relentless_strike",
         "group": "ModRelentlessStrike",
         "identifier": "the_vault:u_relentless_strike_battlestaff",
         "tags": [
@@ -8259,7 +8378,7 @@
             "weight": 20,
             "value": {
               "min": 0.05,
-              "max": 0.10,
+              "max": 0.1,
               "step": 0.01
             }
           }
@@ -8276,7 +8395,7 @@
             "maxLevel": 45,
             "weight": 10,
             "value": {
-              "min": 0.10,
+              "min": 0.1,
               "max": 0.25,
               "step": 0.01
             }
@@ -8287,7 +8406,7 @@
             "weight": 10,
             "value": {
               "min": 0.15,
-              "max": 0.30,
+              "max": 0.3,
               "step": 0.01
             }
           },
@@ -8297,7 +8416,7 @@
             "weight": 10,
             "value": {
               "min": 0.25,
-              "max": 0.50,
+              "max": 0.5,
               "step": 0.01
             }
           },
@@ -8316,8 +8435,8 @@
             "maxLevel": -1,
             "weight": 10,
             "value": {
-              "min": 0.70,
-              "max": 0.90,
+              "min": 0.7,
+              "max": 0.9,
               "step": 0.01
             }
           },
@@ -8327,7 +8446,7 @@
             "weight": 10,
             "value": {
               "min": 0.91,
-              "max": 1.00,
+              "max": 1.0,
               "step": 0.01
             }
           }
@@ -8384,7 +8503,7 @@
             "weight": 10,
             "value": {
               "min": 0.48,
-              "max": 0.50,
+              "max": 0.5,
               "step": 0.01
             }
           }
@@ -8490,7 +8609,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:poison_trail",
+      {
+        "attribute": "the_vault:poison_trail",
         "group": "ModEnhancement",
         "identifier": "the_vault:u_poison_effect_trail",
         "tags": [
@@ -8577,7 +8697,7 @@
             "weight": 10,
             "value": {
               "min": 0.45,
-              "max": 0.50,
+              "max": 0.5,
               "step": 0.01
             }
           }
@@ -8586,7 +8706,8 @@
     ],
     "ABILITY_ENHANCEMENT": [],
     "CORRUPTED_IMPLICIT": [
-      { "attribute": "the_vault:lucky_thorns",
+      {
+        "attribute": "the_vault:lucky_thorns",
         "group": "ModLuckyThorns",
         "identifier": "the_vault:seal_lucky_thorns",
         "tags": [
@@ -8603,7 +8724,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:relentless_strike",
+      {
+        "attribute": "the_vault:relentless_strike",
         "group": "ModRelentlessStrike",
         "identifier": "the_vault:seal_relentless_strike",
         "tags": [
@@ -8622,11 +8744,11 @@
           }
         ]
       },
-      { "attribute": "the_vault:kinetic_immunity",
+      {
+        "attribute": "the_vault:kinetic_immunity",
         "group": "UniqueKineticImmunity",
         "identifier": "the_vault:seal_kinetic_immunity",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -8638,7 +8760,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_special_modification",
+      {
+        "attribute": "the_vault:ability_special_modification",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_entropic_poison",
         "tags": [],
@@ -8673,7 +8796,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:effect_trail",
+      {
+        "attribute": "the_vault:effect_trail",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_chilled_effect_trail",
         "tags": [],
@@ -8693,7 +8817,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:warp_projectile_speed",
+      {
+        "attribute": "the_vault:warp_projectile_speed",
         "group": "ModWarpSpeed",
         "identifier": "the_vault:seal_warp_projectile_speed",
         "tags": [],
@@ -8714,13 +8839,14 @@
             "weight": 250,
             "value": {
               "min": 0.25,
-              "max": 0.50,
+              "max": 0.5,
               "step": 0.01
             }
           }
         ]
       },
-      { "attribute": "the_vault:mana_per_looted_tile",
+      {
+        "attribute": "the_vault:mana_per_looted_tile",
         "group": "uLootedTile",
         "identifier": "the_vault:seal_mana_looting",
         "tags": [],
@@ -8746,7 +8872,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:third_attack",
+      {
+        "attribute": "the_vault:third_attack",
         "group": "ModThirdAttack",
         "identifier": "the_vault:seal_third_attack",
         "tags": [
@@ -8765,7 +8892,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_on_damage",
+      {
+        "attribute": "the_vault:ability_on_damage",
         "group": "ModOnDamageType",
         "identifier": "the_vault:seal_frost_nova_on_damage",
         "tags": [
@@ -8792,7 +8920,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_area_of_effect_percent",
+      {
+        "attribute": "the_vault:ability_area_of_effect_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_fireball_aoe_increase",
         "tags": [],
@@ -8821,7 +8950,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_area_of_effect_percent",
+      {
+        "attribute": "the_vault:ability_area_of_effect_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_storm_aoe_reduce",
         "tags": [],
@@ -8839,7 +8969,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_area_of_effect_percent",
+      {
+        "attribute": "the_vault:ability_area_of_effect_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_fear_effect_increase",
         "tags": [],
@@ -8879,7 +9010,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_special_modification",
+      {
+        "attribute": "the_vault:ability_special_modification",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_frost_nova_vulnerability",
         "tags": [],
@@ -8928,8 +9060,8 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:ability_cooldown_percent",
+      {
+        "attribute": "the_vault:ability_cooldown_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_storm_cooldown",
         "tags": [],
@@ -8947,7 +9079,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_cooldown_percent",
+      {
+        "attribute": "the_vault:ability_cooldown_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_heal_cooldown",
         "tags": [],
@@ -8965,7 +9098,8 @@
           }
         ]
       },
-      { "attribute": "the_vault:ability_cooldown_percent",
+      {
+        "attribute": "the_vault:ability_cooldown_percent",
         "group": "ModEnhancement",
         "identifier": "the_vault:seal_warp_cooldown",
         "tags": [],
@@ -8975,7 +9109,7 @@
             "maxLevel": 49,
             "weight": 250,
             "value": {
-              "min": -0.10,
+              "min": -0.1,
               "max": -0.25,
               "step": 0.01,
               "abilityKey": "Dash_Warp"
@@ -8987,15 +9121,15 @@
             "weight": 250,
             "value": {
               "min": -0.26,
-              "max": -0.50,
+              "max": -0.5,
               "step": 0.01,
               "abilityKey": "Dash_Warp"
             }
           }
         ]
       },
-
-      { "attribute": "the_vault:on_hit_aoe",
+      {
+        "attribute": "the_vault:on_hit_aoe",
         "group": "ModOnHitType",
         "identifier": "the_vault:seal_on_hit_aoe",
         "tags": [
@@ -9014,12 +9148,11 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:seal_all_skills",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -9041,12 +9174,11 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:seal_offensive_skills",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -9086,12 +9218,11 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:seal_utility_skills",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -9131,12 +9262,11 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:seal_powerup_skills",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
@@ -9176,12 +9306,11 @@
           }
         ]
       },
-
-      { "attribute": "the_vault:added_ability_level",
+      {
+        "attribute": "the_vault:added_ability_level",
         "group": "ModAbility",
         "identifier": "the_vault:seal_ultimate_skills",
-        "tags": [
-        ],
+        "tags": [],
         "tiers": [
           {
             "minLevel": 0,
