@@ -1682,7 +1682,7 @@ hash = "cd06d56223ee28d315d2cdcf00d7a8602cc35163026157634aa6cb0bb87275ff"
 
 [[files]]
 file = "config/the_vault/black_market/greed_trades.json"
-hash = "ca9517b4314ecacb93242b0550e8b2e9b906365e1382fabed4d1b79219e2fd60"
+hash = "e75452010547d87656da53e62874a406c182fefdf58b51ec0158a2f3b2ba6d83"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
@@ -2898,11 +2898,11 @@ hash = "9152dc8b1c9dd5a23112f62b53f5e02b76dda62296e8eab6d7ef677d2646d0b1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_101.json"
-hash = "205489811c164b887d42c808591cc579e805aad741ce2cb8104e02c8ab2b5a82"
+hash = "f74f788f869ff48864c781a6291892b7b3ff373b035a645eac37b9147878beea"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_101_objective.json"
-hash = "b7e099bb474e34680a347a0d229bfbdae761da3b83f56552e9cc02a7fb5dd314"
+hash = "3538d422fb0419c6461c0f7616dc44370723783ce2eee83ff6f7a5857588b5e7"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
@@ -14662,7 +14662,7 @@ hash = "ca960b103dbfb88718f1942de1b997bba714d1b75caf67aeea2a6f55266c76ba"
 
 [[files]]
 file = "config/the_vault/greed/greed.json"
-hash = "dda66274af6c99d35eb3d217a2577daa5df7f0fd5ef0fe562af4570e231ec55f"
+hash = "aaea5191cfd8648f9978ea0fccf72b8056891421b396e89f4c0237edb1a802c0"
 
 [[files]]
 file = "config/the_vault/greed/greed_cauldron.json"
@@ -14686,7 +14686,7 @@ hash = "fb774169a4af6e0a30accbe19e05a3ecc031f402f3138043967256c5004c7cbd"
 
 [[files]]
 file = "config/the_vault/greed/greed_trader.json"
-hash = "65f1fa74596bdbbbf375d0287c5f6e4df2e6f05efdacdcf9da85a17c8180ae38"
+hash = "8120921595a9b3d8b729ecd06756ae30ef0ebceaa4800488fae41dd0b9c93498"
 
 [[files]]
 file = "config/the_vault/greed/greed_tree.json"
@@ -14694,7 +14694,7 @@ hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 
 [[files]]
 file = "config/the_vault/greed/reward_pools.json"
-hash = "eb6c484c40289298846bfc2a4da253c36fc4b9013dea721a3acf1acbf7df8162"
+hash = "066829ef8ce55fc561ecdd30fa86be8bed1348ef8e31f0b75497003bcb139869"
 
 [[files]]
 file = "config/the_vault/greed/trials_screen.json"
@@ -15182,7 +15182,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "12469cd30084d01baf84f71be57902d5adf70017e51a0fd29f479c00dbe732dc"
+hash = "aa843a3d1eb9a83566b93623f71aecdbe54d7b06a901d4e7a4a6568b833993a8"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -18474,7 +18474,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.22.9-all.jar"
-hash = "22b77db0e5644e2a98450926e7cada6e76ab76fb41c5cee11ef21ff7f8f6323e"
+hash = "21148975aa12b200323bb9f34b20b6f882200ae1faf3093d8f6e4b703463d12d"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
@@ -18834,7 +18834,7 @@ hash = "9e89a3abb726d8cbcd06ef44fae66bc93bf38822134d82f60784b596d55bb2dd"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "843efe035af7e034dabdb77cbcecc5f819cd23dcca14eded2e41793cb3dcc4fe"
+hash = "88c810352a4bb9855f6ff995a82427335c79458d47b55157bf1d78b172dbe0b1"
 
 [[files]]
 file = "scripts/Backpacks.zs"

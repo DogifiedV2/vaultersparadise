@@ -986,6 +986,9 @@ craftingTable.remove(<item:powah:solar_panel_basic>);
 craftingTable.remove(<item:entangled:block>);
 craftingTable.remove(<item:entangled:item>);
 
+// BlockCarpentry
+craftingTable.remove(<item:blockcarpentry:frame_layered_block>);
+
 
 // craftingTable.remove();
 
@@ -1021,6 +1024,7 @@ JEI.hideIngredient(<item:sophisticatedbackpacks:blasting_upgrade>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:copper_backpack>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:stack_upgrade_starter_tier>);
 JEI.hideIngredient(<item:sophisticatedbackpacks:anvil_upgrade>);
+JEI.hideIngredient(<item:blockcarpentry:frame_layered_block>);
 // Refined
 JEI.hideIngredient(<item:refinedstorage:raw_basic_processor>);
 JEI.hideIngredient(<item:refinedstorage:processor_binding>);
@@ -1599,7 +1603,6 @@ JEI.hideIngredient(<item:the_vault:small_charm>);
 JEI.hideIngredient(<item:the_vault:large_charm>);
 JEI.hideIngredient(<item:the_vault:grand_charm>);
 JEI.hideIngredient(<item:the_vault:majestic_charm>);
-JEI.hideIngredient(<item:the_vault:god_blessing>);
 JEI.hideIngredient(<item:the_vault:god_token>);
 JEI.hideIngredient(<item:the_vault:red_vault_essence>);
 JEI.hideIngredient(<item:the_vault:vault_charm>);
