@@ -142,7 +142,7 @@
           }
         },
         {
-          "weight": 1000,
+          "weight": 107,
           "item": {
             "id": "the_vault:lost_greed_bounty",
             "count": {
@@ -302,7 +302,7 @@
           }
         },
         {
-          "weight": 600,
+          "weight": 53,
           "item": {
             "id": "the_vault:greed_goodie_box",
             "count": {
@@ -313,7 +313,7 @@
           }
         },
         {
-          "weight": 800,
+          "weight": 107,
           "item": {
             "id": "the_vault:jewel",
             "nbt": {
