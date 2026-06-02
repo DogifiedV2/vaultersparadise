@@ -1027,8 +1027,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 25,
+                "max": 25,
                 "type": "uniform"
               },
               "modifiers": [
@@ -1049,8 +1049,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 25,
+                "max": 25,
                 "type": "uniform"
               },
               "modifiers": [
