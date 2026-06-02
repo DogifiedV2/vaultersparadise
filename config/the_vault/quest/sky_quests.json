@@ -3999,7 +3999,7 @@
           }
         ]
       },
-      "icon": "the_vault:gui/quests/gods_quest",
+      "icon": "the_vault:gui/quests/zealot_vaults",
       "targetId": "the_vault:any",
       "targetProgress": 1.0,
       "unlockedBy": "god_altars",
@@ -5744,7 +5744,7 @@
           }
         ]
       },
-      "icon": "the_vault:gui/quests/expertises",
+      "icon": "the_vault:gui/quests/greed_point_orb",
       "targetId": "the_vault:greed_point_orb",
       "targetProgress": 1.0,
       "unlockedBy": "greed_market_tab",

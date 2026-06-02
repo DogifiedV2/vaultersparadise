@@ -8,7 +8,7 @@
       },
       "pool": [
         {
-          "weight": 9680,
+          "weight": 9288,
           "item": {
             "id": "the_vault:mod_box",
             "count": {
@@ -19,7 +19,7 @@
           }
         },
         {
-          "weight": 9680,
+          "weight": 9288,
           "item": {
             "id": "the_vault:vault_catalyst_infused",
             "nbt": "{\"pool\":\"the_vault:treasure_chest\"}",
@@ -33,7 +33,7 @@
         {
           "weight": 9680,
           "item": {
-            "id": "the_vault:sour_orange",
+            "id": "the_vault:star_fruit",
             "count": {
               "type": "uniform",
               "min": 1,
@@ -142,7 +142,7 @@
           }
         },
         {
-          "weight": 1615,
+          "weight": 1000,
           "item": {
             "id": "the_vault:lost_greed_bounty",
             "count": {
@@ -233,6 +233,17 @@
           }
         },
         {
+          "weight": 784,
+          "item": {
+            "id": "woldsvaults:general_decor_scroll",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
           "weight": 4150,
           "item": {
             "id": "the_vault:deck_socket",
@@ -280,7 +291,7 @@
           }
         },
         {
-          "weight": 1000,
+          "weight": 1615,
           "item": {
             "id": "the_vault:divine_star_shard",
             "count": {
