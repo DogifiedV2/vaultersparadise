@@ -6501,7 +6501,7 @@
             "color": "$qhighlight"
           },
           {
-            "text": " is dead. Greed has noticed.\n\n",
+            "text": " is dead. The Gods have noticed.\n\n",
             "color": "$text"
           },
           {
@@ -6509,7 +6509,7 @@
             "color": "$omega"
           },
           {
-            "text": " are the next loop: build a crystal, enter, choose tasks for reputation, then decide when to cash out and fight. More completed tasks means a better crate, but the vault gets rougher each time.\n\n",
+            "text": " are the next test: build a crystal, enter, choose tasks for reputation, then decide when to cash out and fight. More completed tasks means a better crate, but the vault gets rougher each time.\n\n",
             "color": "$text"
           },
           {
@@ -6660,7 +6660,7 @@
             "color": "$qhighlight"
           },
           {
-            "text": " and kill the boss to complete. Reputation earned during the vault is kept either way.\n\n",
+            "text": " and kill the boss to complete. You must complete to count for Greed Tiers. Each task completed adds +1 tier to your crate. Reputation earned during the vault is kept either way.\n\n",
             "color": "$text"
           },
           {
@@ -6693,7 +6693,7 @@
             "color": "$qhighlight"
           },
           {
-            "text": " gains a Greed tab. These bounties pay Greed Coins and can roll Greed item rewards without replacing the main Greed Vault loop.\n\n",
+            "text": " gains a Greed tab. These bounties pay Greed Coins and can roll Greed item rewards without replacing the main Greed Vault objective.\n\n",
             "color": "$text"
           },
           {
