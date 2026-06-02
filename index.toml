@@ -14694,7 +14694,7 @@ hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 
 [[files]]
 file = "config/the_vault/greed/reward_pools.json"
-hash = "066829ef8ce55fc561ecdd30fa86be8bed1348ef8e31f0b75497003bcb139869"
+hash = "6c9adec3f82bfbe7ec74787e5ff9671cac3eeac614978f68a5bf5b2b6672f708"
 
 [[files]]
 file = "config/the_vault/greed/trials_screen.json"
@@ -18385,7 +18385,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "57bae8dd3da8dade18eb6f19e0cc34a0c27c21484f09e0d330db545db8910d14"
+hash = "418c6fad37cad781f93ccc60ebbb336a0778c6635b9665916810ae973b1d74e6"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -19027,10 +19027,6 @@ hash = "15d1fc67f5748ec36b5427c09147d5023a5fd12c7107a3bbabcd6fe9b0eaf463"
 [[files]]
 file = "shaderpacks/Solas Shader V3.5.zip.txt"
 hash = "b254a3aad88729b8a12c67182685e026904179b396a75e2a2d61bb542bb359e1"
-
-[[files]]
-file = "unsup.ini"
-hash = "7b2c846d0791b4beef8367200c6ca6c478aa485a53c02fe9e714e6d35877a677"
 
 [[files]]
 file = "vault_pickup_notifier.json"
