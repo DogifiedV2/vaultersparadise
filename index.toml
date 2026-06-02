@@ -1185,6 +1185,10 @@ file = "config/forge-common.toml"
 hash = "55c992b7e9fe0c07ae54f36f31104a85ebda7571a01f623ff20df4acfdcc9b0c"
 
 [[files]]
+file = "config/forgematica.json"
+hash = "e99d252e9dbd8b6da2c817a4702153b6f9bd40ccf14708e6dcdca7ba863ce6be"
+
+[[files]]
 file = "config/ftbbackups2.json"
 hash = "881014ed7af5b108dc609e2bc3304afa4f127f18c0700b04d58c89f921369c41"
 
