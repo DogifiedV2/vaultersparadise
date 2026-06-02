@@ -2897,6 +2897,14 @@ file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_0.json"
 hash = "9152dc8b1c9dd5a23112f62b53f5e02b76dda62296e8eab6d7ef677d2646d0b1"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_101.json"
+hash = "03ce536b76e77eb9a95c3c5ea407762f7d29118ab16822b5ef9b1f70c341d936"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_101_objective.json"
+hash = "d96cb01ba00aa986c4ca9c31c640522393e720aba87534b376a83562b2b84d3f"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
 hash = "e1c2493fbbbba110a5318065c900bd1d6358bcdbab1961ca7aaa315862e64488"
 
@@ -14618,7 +14626,7 @@ hash = "b0a5aa8a79f3bb56b94bad34ccebf0adc102f7fcc658f1f3c23badac1e4b4ba5"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "0528b7aed725b443bca6f0232efa9357268e89e0575d373d74964b05acc28c1b"
+hash = "54662b419c79518cd41c2226e563970e707ca7c63fe7c637d7f897202f788daa"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
@@ -14686,11 +14694,11 @@ hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 
 [[files]]
 file = "config/the_vault/greed/reward_pools.json"
-hash = "53b7be68476fccd1a355fa290796981fc2313441dbbb01825bc4b8c6f3a0fbd3"
+hash = "eb6c484c40289298846bfc2a4da253c36fc4b9013dea721a3acf1acbf7df8162"
 
 [[files]]
 file = "config/the_vault/greed/trials_screen.json"
-hash = "f485539ee5fc4e76b4258cbe9b4f8d3e3ec0ad4ebc63dd533a8329a6736a6b12"
+hash = "fa631fe1bf6fa9fa69654e55ee48ec5cf2b7b33bb7b1dff9317ee124d2010752"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -14942,7 +14950,7 @@ hash = "7010e68a8d2f778837b62e5f4885f80002ec1a3ff69256d3ce62cf6b5dd6d610"
 
 [[files]]
 file = "config/the_vault/loot_info.json"
-hash = "fc1839b3440087fa453ed13eb78fd0a557eb464983396d18127d5b3072fadeaf"
+hash = "1ffb800b9948ea098d57d6ca1f0df8abd79b16433593bdbffce7ed9f571d30b5"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
@@ -15054,11 +15062,11 @@ hash = "fbb606814d63726291418edb3f6629e386637065d48503011c8d7650f5dc867a"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "b5f17fe59bc94684a562bc6d73addc2415658959de37d7ca64346f1ed320dca4"
+hash = "94c1ff2b81543df8e3062dd6d53489d0e54d0746e6206790399b13ff4b58df9e"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
-hash = "324b3152ddbe48650b3dc16dc49de5dc50ef952d1e04a049cb5610bc9ea1913a"
+hash = "298f4f6c605ae39bcbd82036880a50b89af4ae1380fa0d5255ee6eabba8717c0"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
@@ -18377,7 +18385,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "f2c8f7479fda50d14dc000b918f745a92a2de5f26f73d377e58009993bff65c7"
+hash = "120cbbf671fe31c0ea69e38e547bc42917efe66a146f24c135dac5b95725a1f3"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

@@ -79,6 +79,50 @@
       ],
       [
         {
+          "text": "Treasure Chests: ",
+          "color": "#888888"
+        },
+        {
+          "text": "new Greed loot",
+          "color": "#FFAA00"
+        }
+      ],
+      [
+        {
+          "text": "Breaching Jewel",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": ", ",
+          "color": "#888888"
+        },
+        {
+          "text": "Peaceful Capstone",
+          "color": "#DDDDDD"
+        }
+      ],
+      [
+        {
+          "text": "Lost Greed Bounty",
+          "color": "#DDDDDD"
+        },
+        {
+          "text": ", ",
+          "color": "#888888"
+        },
+        {
+          "text": "Greed Goodie Box",
+          "color": "#DDDDDD"
+        }
+      ],
+      [
+        {
+          "text": "Divine Shards",
+          "color": "#DDDDDD"
+        }
+      ],
+      [
+        {
           "text": "Greed Cards scale to ",
           "color": "#DDDDDD"
         },

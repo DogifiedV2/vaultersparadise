@@ -1,0 +1,348 @@
+{
+  "entries": [
+    {
+      "roll": {
+        "type": "uniform",
+        "min": 9,
+        "max": 9
+      },
+      "pool": [
+        {
+          "weight": 9680,
+          "item": {
+            "id": "the_vault:mod_box",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 16
+            }
+          }
+        },
+        {
+          "weight": 9680,
+          "item": {
+            "id": "the_vault:vault_catalyst_infused",
+            "nbt": "{\"pool\":\"the_vault:treasure_chest\"}",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 9680,
+          "item": {
+            "id": "the_vault:sour_orange",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 4810,
+          "item": {
+            "id": "the_vault:capstone_pylon_hunter",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 4810,
+          "item": {
+            "id": "the_vault:capstone_vendoor_hunter",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 1620,
+          "item": {
+            "id": "the_vault:vault_catalyst_chaos",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 9680,
+          "item": {
+            "id": "the_vault:vault_catalyst_infused",
+            "nbt": "{\"pool\":\"the_vault:treasure_bonus\"}",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 3230,
+          "item": {
+            "id": "the_vault:resilient_focus",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 3230,
+          "item": {
+            "id": "the_vault:recharge_core",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 1610,
+          "item": {
+            "id": "the_vault:crystal_seal_raid_infinite",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 3230,
+          "item": {
+            "id": "the_vault:pyretic_focus",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 3230,
+          "item": {
+            "id": "the_vault:empowered_chaotic_focus",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 1615,
+          "item": {
+            "id": "the_vault:lost_greed_bounty",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 3230,
+          "item": {
+            "id": "the_vault:unique_shard",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 3230,
+          "item": {
+            "id": "the_vault:capstone_dungeon_hunter",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 1610,
+          "item": {
+            "id": "the_vault:trinket",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 5000,
+          "item": {
+            "id": "the_vault:temporal_shard",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 4300,
+          "item": {
+            "id": "the_vault:opportunistic_focus",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 4300,
+          "item": {
+            "id": "the_vault:sigil",
+            "nbt": {
+              "SigilPool": "treasure"
+            },
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 1080,
+          "item": {
+            "id": "the_vault:treasure_chest_scroll",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 4150,
+          "item": {
+            "id": "the_vault:deck_socket",
+            "nbt": {
+              "Modifier": "@treasure_sand"
+            },
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 220,
+          "item": {
+            "id": "the_vault:crystal_seal_treasure",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 430,
+          "item": {
+            "id": "the_vault:companion_scroll",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 430,
+          "item": {
+            "id": "woldsvaults:wold_star_chunk",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 200,
+          "item": {
+            "id": "the_vault:capstone_peaceful",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 1000,
+          "item": {
+            "id": "the_vault:divine_star_shard",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 600,
+          "item": {
+            "id": "the_vault:greed_goodie_box",
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 800,
+          "item": {
+            "id": "the_vault:jewel",
+            "nbt": {
+              "the_vault:gear_unique_pool": "the_vault:breaching_jewel",
+              "the_vault:gear_roll_type": "Unique"
+            },
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        },
+        {
+          "weight": 110,
+          "item": {
+            "id": "the_vault:magnet",
+            "nbt": {
+              "the_vault:gear_unique_pool": "the_vault:treasure_hunter_magnet",
+              "the_vault:gear_roll_type": "Unique"
+            },
+            "count": {
+              "type": "uniform",
+              "min": 1,
+              "max": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

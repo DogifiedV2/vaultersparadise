@@ -121,9 +121,19 @@
       "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_50.json"
     },
     {
+      "id": "the_vault:treasure_chest_lvl101",
+      "name": "Treasure Chest Lvl101",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_101.json"
+    },
+    {
       "id": "the_vault:treasure_chest_lvl50_objective",
       "name": "Treasure Chest Lvl50 Objective",
       "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_50_objective.json"
+    },
+    {
+      "id": "the_vault:treasure_chest_lvl101_objective",
+      "name": "Treasure Chest Lvl101 Objective",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/treasure_chest_101_objective.json"
     },
     {
       "id": "the_vault:treasure_pillar",

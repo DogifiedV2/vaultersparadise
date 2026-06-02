@@ -1782,6 +1782,51 @@
     },
     {
       "type": "pool",
+      "weight": 1,
+      "poolId": "greed_hourglass",
+      "minGreedTier": 1,
+      "maxGreedTier": 2,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 2,
+      "poolId": "greed_hourglass",
+      "minGreedTier": 3,
+      "maxGreedTier": 4,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 3,
+      "poolId": "greed_hourglass",
+      "minGreedTier": 5,
+      "maxGreedTier": 6,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 4,
+      "poolId": "greed_hourglass",
+      "minGreedTier": 7,
+      "maxGreedTier": 8,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
+      "weight": 5,
+      "poolId": "greed_hourglass",
+      "minGreedTier": 9,
+      "maxGreedTier": -1,
+      "minCrateTier": 0,
+      "maxCrateTier": -1
+    },
+    {
+      "type": "pool",
       "weight": 7,
       "poolId": "companion_candy",
       "minGreedTier": 5,
