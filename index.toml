@@ -12621,6 +12621,14 @@ file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed/greed_death_ro
 hash = "dd9b4855c358b03859a3ca4cc9e9faf6c8f2634ff40886e82d825053c43d7876"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos_common_rooms.json"
+hash = "4cccbb3ee27fbf377c6af1776748f10ecf9e35cf080b7f64fff13353d488e14a"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos_rooms.json"
+hash = "ae4a9c631836b2caed322fa2e728def851c7df603933b0db4fa4ed1169f4183d"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/haunted_common_rooms.json"
 hash = "41a2237703f941e89a093020fe4ef6ae1f585df2d74d642165e1828f93c9c83f"
 
@@ -13817,6 +13825,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/starts/greed_acid_starts.j
 hash = "ec5fd30ce6eef08891e718007cc68317c410411d01f2f77879723de01147d2a7"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/starts/greed_chaos_starts.json"
+hash = "6b26b1d8541d3737764785f72aa2b4d5a46d22c61c2d78e50b6319417dc6bdd7"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/starts/greed_death_starts.json"
 hash = "a37d85381164c4789fce60c3c6faf566ba0e4947b0c51404d970763c13158925"
 
@@ -14091,6 +14103,10 @@ hash = "973e04695037f659f0e2b2b96b4c2d6904fe54c44564072655e53d8afc08ef42"
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/greed_acid_tunnels.json"
 hash = "55613558b9a6f084cf1aa20f6b210dfe75c55eabbd6c22215fc00d4be0b415e5"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/greed_chaos_tunnels.json"
+hash = "c8a0be1acd99116d5876b2e6071050f66c38d559c9d04649ad7e0e2dfc3aca20"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/greed_death_tunnels.json"
@@ -14537,6 +14553,10 @@ file = "config/the_vault/gen/1.0/themes/greed/classic_vault_greed_acid.json"
 hash = "97d910b54d87f692c1b91026160b8a02b9fb38ebcbf31f377b532d3348dd0812"
 
 [[files]]
+file = "config/the_vault/gen/1.0/themes/greed/classic_vault_greed_chaos.json"
+hash = "e93b2fc35f303836b21308888022725cf832cbeaf077f44e7f7e901ad7dd0231"
+
+[[files]]
 file = "config/the_vault/gen/1.0/themes/greed/classic_vault_greed_death.json"
 hash = "c07f9536f6462f95f6b9a70294d276d0b4e9d8ac4655148f23a0acd5d372a87b"
 
@@ -14650,7 +14670,7 @@ hash = "f62babee10e14918a9134a4531314b7baafec0c8e317ac047305cffd2d63418a"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "49adae0e2c34811c3f2ad0742d5faf39e93947f7be53380dd9a58ae2950e8a84"
+hash = "07c2737b48104332bc53f45169643a20079c1cebbaf75e544069a7dc6bee945f"
 
 [[files]]
 file = "config/the_vault/god_shop.json"
@@ -15350,7 +15370,7 @@ hash = "593d8a608707c712a376d63aab6a53396ae968acd7d1627aeac1375a817488ac"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
-hash = "1b1ca020314426bba891f12522c2a77300246cba338de70aa930984b2670e0db"
+hash = "4ba9b979a010f2ef5767e00d10c2e6bcb496c5109f8d4167b817b016a88f56d9"
 
 [[files]]
 file = "config/the_vault/vault_guardian.json"
@@ -18385,7 +18405,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "5ab434aa09d79406a3d094f2dd390e156f9e9ace2cfece1221e3cc7a702d4581"
+hash = "d47330718b8d86d8eab71717c8aea9ad4c2d26334a232c443deb3b4679f77688"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
