@@ -3838,6 +3838,26 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/greed_death_tunnels.json"
     },
     {
+      "id": "the_vault:vault/starts/greed_chaos_starts",
+      "name": "Greed Chaos Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/greed_chaos_starts.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos_rooms",
+      "name": "Greed Chaos Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos_common_rooms",
+      "name": "Greed Chaos Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/greed_chaos_tunnels",
+      "name": "Greed Chaos Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/greed_chaos_tunnels.json"
+    },
+    {
       "id": "the_vault:vault/rooms/omega/warehouse",
       "name": "Warehouse",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/warehouse.json"
