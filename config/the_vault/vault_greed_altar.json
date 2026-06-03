@@ -12,5 +12,6 @@
     "the_vault:rotten"
   ],
   "squareLayoutRadius": 20,
-  "layoutTunnelSpan": 1
+  "layoutTunnelSpan": 1,
+  "theme": "the_vault:classic_vault_greed_chaos"
 }

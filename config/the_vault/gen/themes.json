@@ -210,7 +210,7 @@
     },
     {
       "id": "the_vault:classic_vault_flooded",
-      "name":"Flooded",
+      "name": "Flooded",
       "color": 7775663,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_flooded.json"
     },
@@ -495,6 +495,12 @@
       "name": "Death",
       "color": 16250625,
       "1.0": "config/the_vault/gen/1.0/themes/greed/classic_vault_greed_death.json"
+    },
+    {
+      "id": "the_vault:classic_vault_greed_chaos",
+      "name": "Greed Chaos",
+      "color": 12358351,
+      "1.0": "config/the_vault/gen/1.0/themes/greed/classic_vault_greed_chaos.json"
     },
     {
       "id": "the_vault:classic_vault_alpha",
