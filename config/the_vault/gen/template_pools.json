@@ -3858,6 +3858,56 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/greed_chaos_tunnels.json"
     },
     {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge_rooms",
+      "name": "Greed Chaos Challenge Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/village",
+      "name": "Greed Chaos Village Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/village.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/wildwest",
+      "name": "Greed Chaos Wild West Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/wildwest.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/x-mark",
+      "name": "Greed Chaos X-Mark Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/x-mark.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega_rooms",
+      "name": "Greed Chaos Omega Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/blacksmith",
+      "name": "Greed Chaos Blacksmith Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/blacksmith.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/library",
+      "name": "Greed Chaos Library Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/library.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/mush_room",
+      "name": "Greed Chaos Mush Room Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/mush_room.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/painting",
+      "name": "Greed Chaos Painting Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/painting.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/vendor",
+      "name": "Greed Chaos Vendor Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/vendor.json"
+    },
+    {
       "id": "the_vault:vault/rooms/omega/warehouse",
       "name": "Warehouse",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/warehouse.json"
@@ -4426,6 +4476,211 @@
       "id": "the_vault:vault/rooms/nonparadox/wendarr/omega/pixel",
       "name": "Wendarr Pixel",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/nonparadox/wendarr/omega/pixel.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/aurora_cave_common_rooms",
+      "name": "Greed Aurora Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/aurora_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/beach_common_rooms",
+      "name": "Greed Beach Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/beach_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/blank_common_rooms",
+      "name": "Greed Blank Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/blank_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/blood_moon_common_rooms",
+      "name": "Greed Blood Moon Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/blood_moon_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/cave_common_rooms",
+      "name": "Greed Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/cave_deepslate_common_rooms",
+      "name": "Greed Cave Deepslate Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/cave_deepslate_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/cave_geode_common_rooms",
+      "name": "Greed Cave Geode Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/cave_geode_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/cave_wasteland_common_rooms",
+      "name": "Greed Cave Wasteland Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/cave_wasteland_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/deep_mesa_common_rooms",
+      "name": "Greed Deep Mesa Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/deep_mesa_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/desert_common_rooms",
+      "name": "Greed Desert Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/desert_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/easter_egg_common_rooms",
+      "name": "Greed Easter Egg Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/easter_egg_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/easter_pastel_common_rooms",
+      "name": "Greed Easter Pastel Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/easter_pastel_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/end_void_common_rooms",
+      "name": "Greed End Void Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/end_void_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/factory_void_common_rooms",
+      "name": "Greed Factory Void Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/factory_void_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/fairy_ring_common_rooms",
+      "name": "Greed Fairy Ring Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/fairy_ring_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/festive_common_rooms",
+      "name": "Greed Festive Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/festive_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/flesh_common_rooms",
+      "name": "Greed Flesh Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/flesh_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/flooded_common_rooms",
+      "name": "Greed Flooded Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/flooded_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/haunted_common_rooms",
+      "name": "Greed Haunted Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/haunted_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/ice_common_rooms",
+      "name": "Greed Ice Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/ice_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/ice_cave_common_rooms",
+      "name": "Greed Ice Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/ice_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/living_cave_common_rooms",
+      "name": "Greed Living Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/living_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/lush_cave_common_rooms",
+      "name": "Greed Lush Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/lush_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/mesa_common_rooms",
+      "name": "Greed Mesa Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/mesa_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/mushroom_common_rooms",
+      "name": "Greed Mushroom Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/mushroom_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/nether_blackstone_common_rooms",
+      "name": "Greed Nether Blackstone Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/nether_blackstone_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/nether_crimson_common_rooms",
+      "name": "Greed Nether Crimson Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/nether_crimson_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/nether_soul_common_rooms",
+      "name": "Greed Nether Soul Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/nether_soul_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/nether_warped_common_rooms",
+      "name": "Greed Nether Warped Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/nether_warped_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/plastic_rooms",
+      "name": "Greed Plastic Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/plastic_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/poison_common_rooms",
+      "name": "Greed Poison Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/poison_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/sandy_cave_common_rooms",
+      "name": "Greed Sandy Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/sandy_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/sea_floor_common_rooms",
+      "name": "Greed Sea Floor Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/sea_floor_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/shipwreck_common_rooms",
+      "name": "Greed Shipwreck Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/shipwreck_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/sweet_common_rooms",
+      "name": "Greed Sweet Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/sweet_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/void_common_rooms",
+      "name": "Greed Void Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/void_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/white_common_rooms",
+      "name": "Greed White Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/white_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/season_fall_common_rooms",
+      "name": "Greed Season Fall Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/season_fall_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/season_spring_common_rooms",
+      "name": "Greed Season Spring Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/season_spring_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/season_summer_common_rooms",
+      "name": "Greed Season Summer Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/season_summer_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/common/season_winter_common_rooms",
+      "name": "Greed Season Winter Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/season_winter_common_rooms.json"
     }
   ]
 }

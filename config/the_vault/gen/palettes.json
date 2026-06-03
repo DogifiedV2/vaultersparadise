@@ -626,6 +626,51 @@
       "1.0": "config/the_vault/gen/1.0/palettes/chaos/vendor/base.json"
     },
     {
+      "id": "the_vault:greed/chaos/room_base",
+      "name": "Greed Chaos Room Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/room_base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/village/base",
+      "name": "Greed Chaos Village Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/village/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/wildwest/base",
+      "name": "Greed Chaos Wild West Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/wildwest/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/x-mark/base",
+      "name": "Greed Chaos X-Mark Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/x-mark/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/blacksmith/base",
+      "name": "Greed Chaos Blacksmith Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/blacksmith/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/library/base",
+      "name": "Greed Chaos Library Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/library/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/mush_room/base",
+      "name": "Greed Chaos Mush Room Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/mush_room/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/painting/base",
+      "name": "Greed Chaos Painting Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/painting/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/vendor/base",
+      "name": "Greed Chaos Vendor Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/vendor/base.json"
+    },
+    {
       "id": "the_vault:painting/base",
       "name": "Omega Painting Base",
       "1.0": "config/the_vault/gen/1.0/palettes/painting/base.json"
@@ -2514,6 +2559,16 @@
       "id": "the_vault:universal_idona_normal",
       "name": "Universal Idona",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_idona_normal.json"
+    },
+    {
+      "id": "the_vault:greed/pylon_placeholder",
+      "name": "Greed Pylon Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/pylon_placeholder.json"
+    },
+    {
+      "id": "the_vault:greed/treasure",
+      "name": "Greed Treasure",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/treasure.json"
     }
   ]
 }

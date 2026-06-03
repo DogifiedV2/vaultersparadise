@@ -1,0 +1,16 @@
+{
+  "tile_processors": [
+    {
+      "type": "reference",
+      "id": "the_vault:greed/treasure"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/spawner_base"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:chaos/chaos_antique_tags"
+    }
+  ]
+}
