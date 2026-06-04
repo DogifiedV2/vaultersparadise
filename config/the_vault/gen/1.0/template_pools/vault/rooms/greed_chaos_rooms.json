@@ -5,10 +5,10 @@
   },
   {
     "weight": 7,
-    "reference": "the_vault:vault/rooms/chaos/challenge_rooms"
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge_rooms"
   },
   {
     "weight": 2,
-    "reference": "the_vault:vault/rooms/chaos/omega_rooms"
+    "reference": "the_vault:vault/rooms/greed_chaos/omega_rooms"
   }
 ]
