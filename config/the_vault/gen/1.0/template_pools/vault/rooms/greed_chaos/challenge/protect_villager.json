@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/rooms/challenge/protect_villager1",
+      "palettes": [
+        "the_vault:greed/chaos/protect_villager/base"
+      ]
+    }
+  }
+]

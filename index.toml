@@ -3802,23 +3802,123 @@ hash = "90d144011076e2459033ab69766cb8dd1f3e239faba1d8c50b473d5fbcd4a168"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/blacksmith/base.json"
-hash = "2ac762d36c454dd5a87d8ea1c39c7c4370b8d22757727aadf3fc2e51613869ac"
+hash = "51eeeb51a7ec387c9328ab55bb803df4044f1f2a6df1d99a7c42e9c2c313a29b"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/cove/base.json"
+hash = "03a1a2525012a90cb647b0ee072dddbaca31c2e45477f717179cc891d64d66fe"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/base.json"
+hash = "4b0197271c1fdf1475a463b31983e8865f6468bcd616a57f3a281d8e17a0f24d"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/blue.json"
+hash = "c056dc2f75cc9b4290f082c148c2c88e2c099841c4d1f94f9d7df14e83e56baf"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/green.json"
+hash = "776f121ccebe8d576b9e9b0c65afb06490598ea8db6db4bc40430445cd0969fe"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/ore_placeholder.json"
+hash = "1f1168172c34861347f6889f8940d661bddc2125437fe153ccfb100c55721a3e"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/violet.json"
+hash = "b22591b7b2146cbd0d70768aed1de9d6f792721eec3efd09f9d421830c6e6cfc"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/dragon/base.json"
+hash = "d84b96fd3dd7510b792fbb496ca3511775800a4f07a12aed5aaa4051db121900"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/dragon/room1.json"
+hash = "f9ce16eb7916762cab2394dc9dec287a5a89daad1d4dc2f7865be8ac8154b5e4"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/dragon/room2.json"
+hash = "64596bbd09cd0658833f0900479508413da603f5fb53d1102da0960e4f70fa96"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/factory/base.json"
+hash = "18650c79ba802472fcdc00d4d64be78d7e4ba3bcdecf15272747e8b794baddbe"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/garden/base.json"
+hash = "afda55394a7b55b7e532d2fada3739a6e1ab1a9797b6943b1ea063678a889355"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/horderush/base.json"
+hash = "aacebca8098784c82d262433372fa4ba31fce270062cbee3219e7a1d57e45842"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/laboratory/base.json"
+hash = "034bf5c751e6c031c2ae84b1fd7a5c0e2aabc8bede510173b46cca7c4fff9701"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/library/base.json"
-hash = "4473a6b38fcebaca0a58e1ce82b872c5704b8f922060598a8f39ad015cc4ef38"
+hash = "3f73af522061944c26d3760ab8aace07638d60bd3530f37315feb21dc437aa84"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/memory/base.json"
+hash = "16ed5cb23947f433935c8cad9e409648386359734990ccb7d78d0393c5317c54"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/mine/base.json"
+hash = "8769b9c2eead486664c52d8e4ebdc6acccb648bc21a79d1f2b287a92c5f1f1d4"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/mine/ore_placeholder.json"
+hash = "23e7e1138e37ee3c7e774ef1dbdc8b8340e388cca8ad54384e9f7fa49e0c1bb8"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/mush_room/base.json"
-hash = "ff229eee872153758ab339903ba61fa4b1d83d96faaa112346de4fd6bc154203"
+hash = "4cdcfe88b9da7664e735b8fe8c68cd0492d29e6b37d052cb30bd62c9f4e94bdd"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/mush_room/mush_room2.json"
+hash = "cf27e9fa5388e4f41ed9d54aaf3406f29119b5b8b670f6e08af28d3c2938bfe9"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/omega_digsite/base2.json"
+hash = "b66579d92d666a27594c54a8a10b8dd9bf8a146b368026d9dafbe026014586e2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/painting/base.json"
-hash = "e11e7772e5d8c8a564afe9310bd88bd43eb836cf5c46dac391a8b191e90a16dd"
+hash = "2258abe0da291178d537558bc4144ee0c5899a7d1d0041bf45d14ff63e624f90"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/pixel/base.json"
+hash = "ab713be466619ce81209caebfb760e947824c8ab79fd006ef2753474f61d3bb1"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/protect_villager/base.json"
+hash = "165d6a766c0d236bd5612d9439fcd7f312a0634242c1986101fade4c3c312e70"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/raid/base.json"
+hash = "319ea82545fba4f9c7733e3de7abbf484d86b7b0ebece9960c4d31a07d48467d"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/raid/easter.json"
+hash = "ab14ddab9281d467216f9a192f3e10ea93e033093a9570b2342970c653fe3746"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/raid/orcish.json"
+hash = "277affaa292863cfb5028baf31ab4bb787505f8789ecc2f8ef4867f8bc141255"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/room_base.json"
 hash = "4faf90d5a52782e8a07c44ba74e4990e8604ad03eba476c7666511023e1cd63c"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/temple/base.json"
+hash = "c24bde6468da055aa4c0c27870bee831b9a63ef95381004c64612d5dfa02fabf"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/trove/base.json"
+hash = "f0c24acb922709ed62420929901a51c8141024d28e8202b7cf28a341a72c48cf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/vendor/base.json"
@@ -3826,15 +3926,27 @@ hash = "2e99021163324ae2c18603618340f5420dd10c18d5784d52dcf6172a1308aade"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/village/base.json"
-hash = "5b07e15353f147069c29885e714d94911764465ed7ec98b10a523503797231fa"
+hash = "33d8ea32fc63327d9e381fae4158a968b3e954cadab1360ce1a6da124391e13f"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/village/silverfish_spawner_settings.json"
+hash = "1ca25145fc6d728fe1ad99cfec514966be752afc5601b91f282ce94fdbf539c4"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/warehouse/base.json"
+hash = "7d127a175c9d6f7685f32a73449310abaf57caa11d2eae42fa945d269ad4a05a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/wildwest/base.json"
-hash = "bec7b30428a8b68fd18222d2f26e5df77fd290ea1a760ea2d687a77dc031e129"
+hash = "e5031858c5dfcc4659062b6e804f4dc5f037d48b02340cba0fc06e96a267065e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/chaos/x-mark/base.json"
-hash = "714237b107188fff526238fd926530490129460bb73f99da4a2b8145f944851e"
+hash = "e3f8bea7b4a62e1f51c9a03c3ab6eae9627c124ef25bed4d25067605053464a0"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/greed/chaos/x-mark/trap_spawners.json"
+hash = "27ae36a28f209c97733c7931837a625dff1b30a8f58eef8a3dcabbd1f278386e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/greed/pylon_placeholder.json"
@@ -12665,20 +12777,64 @@ file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed/greed_death_ro
 hash = "dd9b4855c358b03859a3ca4cc9e9faf6c8f2634ff40886e82d825053c43d7876"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/crystal_caves.json"
+hash = "fc1d27094cad97c1f092df42162e90a2e143b2f3c648ce7ceefa25a8c6754b8d"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/dragon.json"
+hash = "704ea914ad57e160f4be3e1afbb81b23f9c288edb32ceb2c8a61a28c7997896f"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/factory.json"
+hash = "3a9a7ebd2384500723fff74bb80e3a91d35120d0523f7f2d9be832959b9f9f05"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/horderush.json"
+hash = "9e6f0292ddc87f1edc9f8e9239d60388132a543486878758636a070c8023ab4f"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/laboratory.json"
+hash = "a0f20f69d121a772512aea448fa3e38c7c9e8eb127bfcce75c4a0dbf36645da0"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/memory.json"
+hash = "5a87ad9bbe4c3b9c7d51d59394dc6122e5c27316538428b5e8ec85882ed329ae"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/protect_villager.json"
+hash = "117d30f357947bd51ec71314130df5960ba1294d325710d6d2859fe02e0f8501"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/raid/base_rooms.json"
+hash = "7c464073acc56749561c8f5c0ae673ab1ebf6b7662a7a648827a9785ab0766ee"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/raid/easter_rooms.json"
+hash = "d5e913a1b290d102ab9933aa30be6ec9921338b0ebf3ca7911b432d1d79ac026"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/raid/orcish_rooms.json"
+hash = "15188124990cfd6906f036bd1f7b317c66b2ac311a2b30bce3d9343947e5b3df"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/raid/rooms.json"
+hash = "0126c33f7126381844ccad65fdb08b5d18f97d698cb3f9a21fdbd20f82e743ee"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/village.json"
-hash = "3fb00fa8ed0273778c46a387759c2856c35545e5ed37ba4886e83d5df8e06b5f"
+hash = "a40b3a90cb5773c5c285ed14125b37bfcf612498462ca8801cb342159d809655"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/wildwest.json"
-hash = "30bd49d63e50f958bf55583c5d9fec252a5e70a4ed2b7e8063d668b67bfbbc67"
+hash = "2c341e276e60a48ab1a54b73690ff1806b8fb300ef69908bba5ecd5c8185b7e4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/x-mark.json"
-hash = "d7bb5da774097740ed2836c2db0ac1df67137e16d21fcc8c03dff654c75ffd6f"
+hash = "c09fddee72dabcf135d9845e10dd4a0ea997b620f150539ecc4f4d985f44c615"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge_rooms.json"
-hash = "345a7bccdbbc9880fac39dddc5898a149058eadcaf7029917b7439693fecc1ba"
+hash = "36d0a0553fd68dfefe3a95e2dae97b204a160bd7a3e43b889b992c5f05e64e10"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/aurora_cave_common_rooms.json"
@@ -12846,27 +13002,59 @@ hash = "9d6b7e6554c7007fabd36c19425bec1e4995c316326f3a24e0b211b067d9c63f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/blacksmith.json"
-hash = "1634d2c0bba702261d0cfb28ee233e057f81a7a018b874bdf70e2404fa21d71a"
+hash = "49eb0ebdefca17f0815b2c02a78917f476b06d7a8a54ffa41525bb64f448cab5"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/cove.json"
+hash = "ed64f7a07b2321ceadc923f4c477c5ddebe0a0162aa8c33172379033308a0c7d"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/digsite2.json"
+hash = "dadff02fe71659a4ab39b36cc5390b61a65ecd62dcb1e66234643562a04dea84"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/garden.json"
+hash = "61a2505388784b93f52959580212ba9c7d4175bf03ea4c498d649eb35aac0ca4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/library.json"
-hash = "3fe001c08c51b9b8a667cb624f06e100306389cb9410b01e1ec0ae5ea0aaaf66"
+hash = "bd37ea348107ec003cb903e05294abf19d80352208a7a1820d5f1a33072b5ac6"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/mine.json"
+hash = "1df86631e18bf3c479b998bf367d1967ce3a169609b54a5a370151ce576393d0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/mush_room.json"
-hash = "f505c56978a34c424ef9a198922229783770947b73ed1b4cf9a52e614b84a953"
+hash = "88f7cfc6c17858cea9290e4898081336487cf11ea33acea310b27a51b17cd3d0"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/painting.json"
-hash = "daa97c766fe6ee96a46584e33f7c54853e43b3b38e5982872d14f37ce1e44549"
+hash = "c09832e106805abfa81be32829a81a877be1e6e8cf7282079515327f2650af8e"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/pixel.json"
+hash = "12b4fa4800ea57a824171ed1d594423131f5118a0f83e4206c8e5892ebfa70d7"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/temple.json"
+hash = "a9c078ec5d871116a0f2320c54b6aabeb0776d32fc5e86e028502c58d0f614c1"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/trove.json"
+hash = "fe8342db7996399e87f95ef25c6f8722b2cf2481304b7aed5fdeb0470991ee56"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/vendor.json"
 hash = "b7584a4ab4db1323d8e0f6ba2ac8a83e7de56e95d71d03885e5ca9e121588776"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/warehouse.json"
+hash = "694f61671554605937cc92a1ccbb427e6ee37be5db6f6e78154641a44d958a11"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega_rooms.json"
-hash = "34f44462dd11e9cadb45de15d921b4052b4d50342794ecfdf959fd6554c5453c"
+hash = "5539d14a2d20b057cb9eb287f001c6110c653bc66560660a88f2be9a032ccb10"
 
 [[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos_common_rooms.json"
@@ -14898,7 +15086,7 @@ hash = "54662b419c79518cd41c2226e563970e707ca7c63fe7c637d7f897202f788daa"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "89321670c2fec9d326a7e3d3f3a4f911131b6020db3e8c4a765d74c444a83fb7"
+hash = "c6af4f5eeec5b685aa6df0c6cd2d8d6e6a67b2a74bd4db8db400594daed0337f"
 
 [[files]]
 file = "config/the_vault/gen/room_level_lock.json"
@@ -14910,7 +15098,7 @@ hash = "98b5bd2810aca02159116cc4ea14586fadfcc9d1d40f298b1e08df439d701dda"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "badb6e5f09d8d225108bca771d371cf0d46c0c905e8cfd1412857f94905056bb"
+hash = "cde13626deadb898c8652f632e750bac2977fb73a4d12c620a82805d7600c447"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
@@ -18742,7 +18930,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.22.9-all.jar"
-hash = "6fcfa3f53434fd55a54099a35d4064954c23756e6f977c0bb385e97ba9f1b3cc"
+hash = "b324c8f465b8bf0a4167cdae630a4533d41f7c00852d4dff6950fcc2f1cb82c7"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"

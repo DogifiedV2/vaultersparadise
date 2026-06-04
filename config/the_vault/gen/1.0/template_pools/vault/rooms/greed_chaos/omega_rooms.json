@@ -1,30 +1,55 @@
 [
   {
-    "weight": 1,
-    "reference": "the_vault:vault/rooms/omega/digsite2"
+    "weight": 198,
+    "reference": "the_vault:vault/rooms/greed_chaos/omega/garden"
   },
   {
-    "weight": 7,
+    "weight": 47,
+    "reference": "the_vault:vault/rooms/greed_chaos/omega/digsite2"
+  },
+  {
+    "weight": 1386,
     "reference": "the_vault:vault/rooms/greed_chaos/omega/painting"
   },
   {
-    "weight": 3,
-    "reference": "the_vault:vault/rooms/omega/mine"
+    "weight": 594,
+    "reference": "the_vault:vault/rooms/greed_chaos/omega/mine"
   },
   {
-    "weight": 7,
+    "weight": 1386,
     "reference": "the_vault:vault/rooms/greed_chaos/omega/blacksmith"
   },
   {
-    "weight": 3,
-    "reference": "the_vault:vault/rooms/omega/cove"
+    "weight": 1386,
+    "reference": "the_vault:vault/rooms/greed_chaos/omega/cove"
   },
   {
-    "weight": 7,
+    "weight": 1386,
     "reference": "the_vault:vault/rooms/greed_chaos/omega/mush_room"
   },
   {
-    "weight": 7,
+    "weight": 1386,
     "reference": "the_vault:vault/rooms/greed_chaos/omega/library"
+  },
+  {
+    "weight": 1386,
+    "reference": "the_vault:vault/rooms/greed_chaos/omega/pixel"
+  },
+  {
+    "weight": 47,
+    "reference": "the_vault:vault/rooms/greed_chaos/omega/trove"
+  },
+  {
+    "weight": 198,
+    "reference": {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/warehouse",
+      "conditions": [
+        {
+          "type": "level",
+          "min": 50,
+          "max": -1
+        }
+      ]
+    }
   }
 ]

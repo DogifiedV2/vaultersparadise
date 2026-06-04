@@ -1,0 +1,14 @@
+{
+  "tile_processors": [
+    {
+      "type": "reference",
+      "id": "the_vault:greed/chaos/mine/ore_placeholder"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:greed/chaos/room_base"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

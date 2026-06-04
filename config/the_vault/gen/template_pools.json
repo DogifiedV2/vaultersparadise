@@ -3864,17 +3864,17 @@
     },
     {
       "id": "the_vault:vault/rooms/greed_chaos/challenge/village",
-      "name": "Greed Chaos Village Rooms",
+      "name": "Greed Chaos Village",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/village.json"
     },
     {
       "id": "the_vault:vault/rooms/greed_chaos/challenge/wildwest",
-      "name": "Greed Chaos Wild West Rooms",
+      "name": "Greed Chaos Wildwest",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/wildwest.json"
     },
     {
       "id": "the_vault:vault/rooms/greed_chaos/challenge/x-mark",
-      "name": "Greed Chaos X-Mark Rooms",
+      "name": "Greed Chaos X Mark",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/x-mark.json"
     },
     {
@@ -3884,22 +3884,22 @@
     },
     {
       "id": "the_vault:vault/rooms/greed_chaos/omega/blacksmith",
-      "name": "Greed Chaos Blacksmith Rooms",
+      "name": "Greed Chaos Blacksmith",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/blacksmith.json"
     },
     {
       "id": "the_vault:vault/rooms/greed_chaos/omega/library",
-      "name": "Greed Chaos Library Rooms",
+      "name": "Greed Chaos Library",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/library.json"
     },
     {
       "id": "the_vault:vault/rooms/greed_chaos/omega/mush_room",
-      "name": "Greed Chaos Mush Room Rooms",
+      "name": "Greed Chaos Mush Room",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/mush_room.json"
     },
     {
       "id": "the_vault:vault/rooms/greed_chaos/omega/painting",
-      "name": "Greed Chaos Painting Rooms",
+      "name": "Greed Chaos Painting",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/painting.json"
     },
     {
@@ -4681,6 +4681,101 @@
       "id": "the_vault:vault/rooms/greed_chaos/common/season_winter_common_rooms",
       "name": "Greed Season Winter Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/common/season_winter_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/crystal_caves",
+      "name": "Greed Chaos Crystal Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/crystal_caves.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/dragon",
+      "name": "Greed Chaos Dragon",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/dragon.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/factory",
+      "name": "Greed Chaos Factory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/factory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/raid/base_rooms",
+      "name": "Greed Chaos Base Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/raid/base_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/raid/orcish_rooms",
+      "name": "Greed Chaos Orcish Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/raid/orcish_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/raid/easter_rooms",
+      "name": "Greed Chaos Easter Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/raid/easter_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/raid/rooms",
+      "name": "Greed Chaos Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/raid/rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/laboratory",
+      "name": "Greed Chaos Laboratory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/laboratory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/memory",
+      "name": "Greed Chaos Memory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/memory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/temple",
+      "name": "Greed Chaos Temple",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/temple.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/horderush",
+      "name": "Greed Chaos Horderush",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/horderush.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/protect_villager",
+      "name": "Greed Chaos Protect Villager",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/challenge/protect_villager.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/garden",
+      "name": "Greed Chaos Garden",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/garden.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/digsite2",
+      "name": "Greed Chaos Digsite2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/digsite2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/mine",
+      "name": "Greed Chaos Mine",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/mine.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/cove",
+      "name": "Greed Chaos Cove",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/cove.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/pixel",
+      "name": "Greed Chaos Pixel",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/pixel.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/trove",
+      "name": "Greed Chaos Trove",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/trove.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/greed_chaos/omega/warehouse",
+      "name": "Greed Chaos Warehouse",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/greed_chaos/omega/warehouse.json"
     }
   ]
 }

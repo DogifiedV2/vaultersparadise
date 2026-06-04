@@ -1,34 +1,50 @@
 [
-      {
-        "weight": 5,
-        "reference": "the_vault:vault/rooms/challenge/crystal_caves"
-      },
-      {
-        "weight": 2,
-        "reference": "the_vault:vault/rooms/challenge/dragon"
-      },
-      {
-        "weight": 10,
-        "reference": "the_vault:vault/rooms/greed_chaos/challenge/village"
-      },
-      {
-        "weight": 0,
-        "reference": "the_vault:vault/rooms/greed_chaos/challenge/wildwest"
-      },
-      {
-        "weight": 6,
-        "reference": "the_vault:vault/rooms/challenge/factory"
-      },
-      {
-        "weight": 10,
-        "reference": "the_vault:vault/rooms/greed_chaos/challenge/x-mark"
-      },
-      {
-        "weight": 4,
-        "reference": "the_vault:vault/rooms/challenge/raid/rooms"
-      },
-      {
-        "weight": 0,
-        "reference": "the_vault:vault/rooms/challenge/laboratory"
-      }
+  {
+    "weight": 5,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/crystal_caves"
+  },
+  {
+    "weight": 2,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/dragon"
+  },
+  {
+    "weight": 10,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/village"
+  },
+  {
+    "weight": 4,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/wildwest"
+  },
+  {
+    "weight": 6,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/factory"
+  },
+  {
+    "weight": 10,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/x-mark"
+  },
+  {
+    "weight": 4,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/raid/rooms"
+  },
+  {
+    "weight": 10,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/laboratory"
+  },
+  {
+    "weight": 4,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/memory"
+  },
+  {
+    "weight": 4,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/temple"
+  },
+  {
+    "weight": 0,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/horderush"
+  },
+  {
+    "weight": 0,
+    "reference": "the_vault:vault/rooms/greed_chaos/challenge/protect_villager"
+  }
 ]

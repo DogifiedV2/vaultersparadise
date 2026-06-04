@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "reference": {
+      "id": "the_vault:vault/rooms/greed_chaos/challenge/raid/base_rooms",
+      "palettes": [
+        "the_vault:greed/chaos/raid/easter"
+      ]
+    }
+  }
+]

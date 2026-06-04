@@ -632,37 +632,37 @@
     },
     {
       "id": "the_vault:greed/chaos/village/base",
-      "name": "Greed Chaos Village Base",
+      "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/village/base.json"
     },
     {
       "id": "the_vault:greed/chaos/wildwest/base",
-      "name": "Greed Chaos Wild West Base",
+      "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/wildwest/base.json"
     },
     {
       "id": "the_vault:greed/chaos/x-mark/base",
-      "name": "Greed Chaos X-Mark Base",
+      "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/x-mark/base.json"
     },
     {
       "id": "the_vault:greed/chaos/blacksmith/base",
-      "name": "Greed Chaos Blacksmith Base",
+      "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/blacksmith/base.json"
     },
     {
       "id": "the_vault:greed/chaos/library/base",
-      "name": "Greed Chaos Library Base",
+      "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/library/base.json"
     },
     {
       "id": "the_vault:greed/chaos/mush_room/base",
-      "name": "Greed Chaos Mush Room Base",
+      "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/mush_room/base.json"
     },
     {
       "id": "the_vault:greed/chaos/painting/base",
-      "name": "Greed Chaos Painting Base",
+      "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/painting/base.json"
     },
     {
@@ -2569,6 +2569,146 @@
       "id": "the_vault:greed/treasure",
       "name": "Greed Treasure",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/treasure.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/crystal_caves/ore_placeholder",
+      "name": "Greed Chaos Ore Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/ore_placeholder.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/crystal_caves/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/crystal_caves/violet",
+      "name": "Greed Chaos Violet",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/violet.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/crystal_caves/blue",
+      "name": "Greed Chaos Blue",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/blue.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/crystal_caves/green",
+      "name": "Greed Chaos Green",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/crystal_caves/green.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/dragon/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/dragon/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/dragon/room1",
+      "name": "Greed Chaos Room1",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/dragon/room1.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/dragon/room2",
+      "name": "Greed Chaos Room2",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/dragon/room2.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/village/silverfish_spawner_settings",
+      "name": "Greed Chaos Silverfish Spawner Settings",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/village/silverfish_spawner_settings.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/factory/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/factory/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/x-mark/trap_spawners",
+      "name": "Greed Chaos Trap Spawners",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/x-mark/trap_spawners.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/raid/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/raid/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/raid/orcish",
+      "name": "Greed Chaos Orcish",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/raid/orcish.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/raid/easter",
+      "name": "Greed Chaos Easter",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/raid/easter.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/laboratory/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/laboratory/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/memory/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/memory/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/temple/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/temple/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/horderush/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/horderush/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/protect_villager/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/protect_villager/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/garden/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/garden/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/omega_digsite/base2",
+      "name": "Greed Chaos Base2",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/omega_digsite/base2.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/mine/ore_placeholder",
+      "name": "Greed Chaos Ore Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/mine/ore_placeholder.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/mine/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/mine/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/cove/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/cove/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/mush_room/mush_room2",
+      "name": "Greed Chaos Mush Room2",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/mush_room/mush_room2.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/pixel/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/pixel/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/trove/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/trove/base.json"
+    },
+    {
+      "id": "the_vault:greed/chaos/warehouse/base",
+      "name": "Greed Chaos Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/warehouse/base.json"
     }
   ]
 }

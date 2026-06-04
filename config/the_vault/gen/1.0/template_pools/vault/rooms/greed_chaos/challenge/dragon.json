@@ -1,0 +1,22 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/rooms/challenge/dragon1",
+      "palettes": [
+        "the_vault:greed/chaos/dragon/base",
+        "the_vault:greed/chaos/dragon/room1"
+      ]
+    }
+  },
+  {
+    "weight": 0,
+    "value": {
+      "template": "the_vault:vault/rooms/challenge/dragon2",
+      "palettes": [
+        "the_vault:greed/chaos/dragon/base",
+        "the_vault:greed/chaos/dragon/room2"
+      ]
+    }
+  }
+]

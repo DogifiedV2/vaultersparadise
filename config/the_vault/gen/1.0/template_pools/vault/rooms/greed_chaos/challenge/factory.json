@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/rooms/challenge/factory1",
+      "palettes": [
+        "the_vault:greed/chaos/factory/base"
+      ]
+    }
+  }
+]

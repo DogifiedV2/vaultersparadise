@@ -38,8 +38,8 @@
       "output": {
         "the_vault:placeholder[type=coin_stacks]": 80,
         "minecraft:air": 20
-    }
-  },
+      }
+    },
     {
       "type": "reference",
       "id": "the_vault:greed/chaos/room_base"
