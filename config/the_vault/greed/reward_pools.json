@@ -1608,52 +1608,52 @@
       "max": 62
     },
     "4": {
-      "min": 83,
-      "max": 83
+      "min": 81,
+      "max": 81
     },
     "5": {
-      "min": 110,
-      "max": 110
+      "min": 102,
+      "max": 102
     },
     "6": {
-      "min": 145,
-      "max": 145
+      "min": 125,
+      "max": 125
     },
     "7": {
-      "min": 188,
-      "max": 188
+      "min": 150,
+      "max": 150
     },
     "8": {
-      "min": 240,
-      "max": 240
+      "min": 177,
+      "max": 177
     },
     "9": {
-      "min": 303,
-      "max": 303
+      "min": 206,
+      "max": 206
     },
     "10": {
-      "min": 380,
-      "max": 380
+      "min": 237,
+      "max": 237
     },
     "11": {
-      "min": 474,
-      "max": 474
+      "min": 270,
+      "max": 270
     },
     "12": {
-      "min": 589,
-      "max": 589
+      "min": 305,
+      "max": 305
     },
     "13": {
-      "min": 729,
-      "max": 729
+      "min": 342,
+      "max": 342
     },
     "14": {
-      "min": 900,
-      "max": 900
+      "min": 381,
+      "max": 381
     },
     "15": {
-      "min": 1109,
-      "max": 1109
+      "min": 422,
+      "max": 422
     }
   },
   "greedCrateRewardCountByTier": {
@@ -1898,7 +1898,7 @@
       "maxGreedTier": -1
     }
   ],
-  "greedCrateCoinGreedTierMultiplier": 0.1,
+  "greedCrateCoinGreedTierMultiplier": 0.04,
   "greedCrateCoinIncrementByTier": {
     "1": {
       "min": 30,
@@ -1913,52 +1913,52 @@
       "max": 17
     },
     "4": {
+      "min": 19,
+      "max": 19
+    },
+    "5": {
       "min": 21,
       "max": 21
     },
-    "5": {
+    "6": {
+      "min": 23,
+      "max": 23
+    },
+    "7": {
+      "min": 25,
+      "max": 25
+    },
+    "8": {
       "min": 27,
       "max": 27
     },
-    "6": {
+    "9": {
+      "min": 29,
+      "max": 29
+    },
+    "10": {
+      "min": 31,
+      "max": 31
+    },
+    "11": {
+      "min": 33,
+      "max": 33
+    },
+    "12": {
       "min": 35,
       "max": 35
     },
-    "7": {
-      "min": 43,
-      "max": 43
-    },
-    "8": {
-      "min": 52,
-      "max": 52
-    },
-    "9": {
-      "min": 63,
-      "max": 63
-    },
-    "10": {
-      "min": 77,
-      "max": 77
-    },
-    "11": {
-      "min": 94,
-      "max": 94
-    },
-    "12": {
-      "min": 115,
-      "max": 115
-    },
     "13": {
-      "min": 140,
-      "max": 140
+      "min": 37,
+      "max": 37
     },
     "14": {
-      "min": 171,
-      "max": 171
+      "min": 39,
+      "max": 39
     },
     "15": {
-      "min": 209,
-      "max": 209
+      "min": 41,
+      "max": 41
     }
   },
   "greedCrateGuaranteedPointOrbs": {
