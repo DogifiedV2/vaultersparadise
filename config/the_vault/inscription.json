@@ -3738,6 +3738,7 @@
     "the_vault:vault/rooms/challenge/memory": 23,
     "the_vault:vault/rooms/challenge/horderush": 24,
     "the_vault:vault/rooms/challenge/protect_villager": 25,
+    "the_vault:vault/rooms/omega/warehouse": 26,
     "the_vault:vault/rooms/challenge/companion_rush": 24
   },
   "ringWeights": [ 50, 40, 7, 3 ]

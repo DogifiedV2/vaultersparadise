@@ -15142,7 +15142,7 @@ hash = "fb774169a4af6e0a30accbe19e05a3ecc031f402f3138043967256c5004c7cbd"
 
 [[files]]
 file = "config/the_vault/greed/greed_trader.json"
-hash = "8120921595a9b3d8b729ecd06756ae30ef0ebceaa4800488fae41dd0b9c93498"
+hash = "94ee535d68e43e0d9476c023fb823d754b4078cc078a232fb6e12bd4299584a6"
 
 [[files]]
 file = "config/the_vault/greed/greed_tree.json"
@@ -15150,7 +15150,7 @@ hash = "344a8d25a064fe343356457c026bc4d6aebbd46549564691e71cce98294cf5c9"
 
 [[files]]
 file = "config/the_vault/greed/reward_pools.json"
-hash = "d04faadce81b920a28b8f3765babf7fbbdf02eadcea3d7510ef7c8a4a3b91c48"
+hash = "ca0a4616529a6ebe69a229a512505f77aa6b2acb54be2eaa218c28a61afca7f7"
 
 [[files]]
 file = "config/the_vault/greed/trials_screen.json"
@@ -15174,7 +15174,7 @@ hash = "c77805342a6e47652394d5711ac16aac1ca0bc3b435b64610625367aa76c40a8"
 
 [[files]]
 file = "config/the_vault/inscription.json"
-hash = "d4e86b4e7f4e257043ff8aa85a4d7befcb762d9498d026f5df0c6e394d94517d"
+hash = "af1a9ebe4c73285c52982d84c62ebee43ecf9539e3a3ce049db92626ec7dcda5"
 
 [[files]]
 file = "config/the_vault/inscription_box.json"
@@ -18841,7 +18841,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.51.jar"
-hash = "9fa2d2f6733a6000a0074876814597a7897932b582438e2529aa4a7e368b8684"
+hash = "66cdffb0f3fd5f9556d0108f1457d4102843e7e63431712ee23e91e56f336b9d"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18885,8 +18885,8 @@ file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
-file = "mods/vaultadditions-1.21.37.jar"
-hash = "9cf585a1d602e33af6a467c1272de39f548886fd7922f6be3d9326b11ad4083d"
+file = "mods/vaultadditions-1.21.38.jar"
+hash = "a0f2864c1fb7c71fc7231cba8399eb10815d5f00ae42bafe84f1cf207cf55735"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
@@ -18929,8 +18929,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaultsstandalone-0.22.10-all.jar"
-hash = "ddc0e680f231659683e710e2de4b995985842c12ccb471c346e50bb724f8aef9"
+file = "mods/woldsvaultsstandalone-0.23.0-all.jar"
+hash = "7662fc64a6fe23a46c82e1521076f8443d0e790957ec6f1690be0858387397ce"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
