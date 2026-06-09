@@ -7,7 +7,7 @@
   "bossLearnedTargetFightSeconds": 180.0,
   "bossLearnedStoredFightSamples": 5,
   "bossLearnedRecentWeightMultiplier": 1.35,
-  "bossLearnedMaxHealthMultiplier": 25.0,
+  "bossLearnedMaxHealthMultiplier": 250000.0,
   "bossLearnedHighestHitSafetyMultiplier": 8.0,
   "bossLearnedPowerExponent": 1.0,
   "bossLearnedMinFightSeconds": 5.0,
@@ -16,7 +16,7 @@
   "bossLearnedDamageScalingEnabled": true,
   "bossLearnedTargetHitsToKill": 11.0,
   "bossLearnedMinDamageMultiplier": 0.35,
-  "bossLearnedMaxDamageMultiplier": 25.0,
+  "bossLearnedMaxDamageMultiplier": 2500.0,
   "bossLearnedDamagePowerExponent": 1.0,
   "bossLearnedDamageTolerance": 0.1,
   "crateLootKey": "greed",
@@ -51,7 +51,8 @@
               "icon": "the_vault:textures/gui/bingo/killhorde.png"
             },
             "weight": 2.727273,
-            "level": 0
+            "level": 0,
+            "taskMultiplierPerContinue": 1.25
           },
           {
             "type": "kill_entity",
@@ -95,7 +96,8 @@
               "icon": "the_vault:textures/gui/bingo/killchampion.png"
             },
             "weight": 2.727273,
-            "level": 0
+            "level": 0,
+            "taskMultiplierPerContinue": 1.2
           },
           {
             "type": "kill_entity",
@@ -382,7 +384,8 @@
               "icon": "the_vault:textures/gui/bingo/wooden.png"
             },
             "weight": 5.0,
-            "level": 0
+            "level": 0,
+            "taskMultiplierPerContinue": 1.2
           },
           {
             "type": "loot_chest",
@@ -514,7 +517,8 @@
               "icon": "the_vault:textures/gui/bingo/killdungeonboss.png"
             },
             "weight": 5.0,
-            "level": 0
+            "level": 0,
+            "taskMultiplierPerContinue": 1.25
           },
           {
             "type": "generated_loot_chest_item",
