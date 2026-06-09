@@ -18909,6 +18909,11 @@ file = "mods/vh-hitman-0.3.1.jar"
 hash = "d85286dad8b07e1b2be894972497f3156795da36a69201fc5ded58e54cd3c13d"
 
 [[files]]
+file = "mods/vhat-can-i-roll-vault-hunters-3-addon.pw.toml"
+hash = "6af1812f033528c272ecd1b664be6693c89e18e2b8de2740f171edd54f381479"
+metafile = true
+
+[[files]]
 file = "mods/vhatcaniroll-1.14.1.jar"
 hash = "a9adc6040cdde53ff786bd93f5bb76581b5d0a7e1adbeb920ae6072e0612bbcf"
 
