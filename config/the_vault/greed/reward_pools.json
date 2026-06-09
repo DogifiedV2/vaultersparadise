@@ -309,7 +309,7 @@
         "type": "catalyst",
         "weight": 10,
         "minGreedTier": 1,
-        "maxGreedTier": 3,
+        "maxGreedTier": -1,
         "catalyst": {
           "size": {
             "type": "constant",
@@ -326,7 +326,7 @@
         "type": "catalyst",
         "weight": 10,
         "minGreedTier": 4,
-        "maxGreedTier": 9,
+        "maxGreedTier": -1,
         "catalyst": {
           "size": {
             "type": "constant",
