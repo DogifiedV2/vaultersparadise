@@ -15134,7 +15134,7 @@ hash = "ca678686237b7da5739b05ad56029dd4aefc3b137e51c2c58228431e093d8a39"
 
 [[files]]
 file = "config/the_vault/greed/greed_objective.json"
-hash = "1fdad620d35fb2a462912816d2b2bb7a7612b6855951c4698cb5f226bb729944"
+hash = "acf015c8e54f60d12a89e7c6c4c3e5df9e84ac925f15d227d5234b2d1c0c1b16"
 
 [[files]]
 file = "config/the_vault/greed/greed_progression.json"
@@ -18165,10 +18165,6 @@ file = "mods/Patchouli-1.18.2-71.1.jar"
 hash = "1bcd352f81124b24832b536b62c138663682527886d4aaced595e7baa50e3ebb"
 
 [[files]]
-file = "mods/Pehkui-3.7.11+1.18.2-forge.jar"
-hash = "51c3768eec12efc22315e15a7ff0a246f65bbb77210ad51269c7b85d03a5be2b"
-
-[[files]]
 file = "mods/PigPen-Forge-1.18.2-8.0.1.jar"
 hash = "2bf78dcdf55917e4b13911eaad7f69c4e2c1d470f8345f58f9a7f8174d52a89a"
 
@@ -18840,8 +18836,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.6.jar"
-hash = "6c63b73d0e6b2b250a59bf1a85ae9f9028212705e8f4c0736a2ba8b2e16d28de"
+file = "mods/the_vault-1.18.2-3.21.61.jar"
+hash = "6784ca28f476693b98a2d1c1d850d1f7018eba97c9012e4c182a02056cd2799b"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18885,8 +18881,8 @@ file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
 [[files]]
-file = "mods/vaultadditions-1.21.38.jar"
-hash = "a0f2864c1fb7c71fc7231cba8399eb10815d5f00ae42bafe84f1cf207cf55735"
+file = "mods/vaultadditions-1.21.39.jar"
+hash = "50d4c9f9021faa4bb76ce24ad9123723f60efc73e600c972c451b3c6204f78fa"
 
 [[files]]
 file = "mods/vaultchaosgod-1.0.jar"
@@ -18931,7 +18927,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.23.0-all.jar"
-hash = "7662fc64a6fe23a46c82e1521076f8443d0e790957ec6f1690be0858387397ce"
+hash = "fa328951ff3ddcdee5cc323270052da00169b8302044cc0d70f874073decf37f"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
