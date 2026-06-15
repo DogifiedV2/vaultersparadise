@@ -150,6 +150,12 @@ craftingTable.addShaped("storagedrawers_emerald_storage_upgrade", <item:storaged
     [<item:the_vault:chromatic_iron_ingot>, <item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:chromatic_iron_ingot>]
 ]);
 
+craftingTable.addShaped("storagedrawers_creative_storage_upgrade", <item:storagedrawers:creative_storage_upgrade>, [
+    [<item:storagedrawers:emerald_storage_upgrade>, <item:storagedrawers:emerald_storage_upgrade>, <item:storagedrawers:emerald_storage_upgrade>],
+    [<item:storagedrawers:emerald_storage_upgrade>, <item:woldsvaults:wold_star_chunk>, <item:storagedrawers:emerald_storage_upgrade>],
+    [<item:storagedrawers:emerald_storage_upgrade>, <item:storagedrawers:emerald_storage_upgrade>, <item:storagedrawers:emerald_storage_upgrade>]
+]);
+
 craftingTable.addShaped("storagedrawers_void_upgrade", <item:storagedrawers:void_upgrade>, [
     [<item:the_vault:chromatic_iron_ingot>, <item:the_vault:carbon>, <item:the_vault:chromatic_iron_ingot>],
     [<item:minecraft:cactus>, <item:storagedrawers:upgrade_template>, <item:minecraft:cactus>],
