@@ -1550,7 +1550,7 @@ hash = "408d6e9ab08e514d6d1e72aaf818afe26a62cf379057c203db0176c96af4d9ad"
 
 [[files]]
 file = "config/storagedrawers-common.toml"
-hash = "47147121a7e7e935ca1865f37d3ce3325a888dcdbb1c22888646364ea6ce7b2b"
+hash = "aa1df9f5e3ab71d866606bb49b1e1c50de77449c9e73056b413f91b454bed296"
 
 [[files]]
 file = "config/storagenetwork.toml"
@@ -19331,7 +19331,7 @@ hash = "0ead2f469ae9b88def94cf78cd51b35f0978df12017c69389d75c4c780613227"
 
 [[files]]
 file = "scripts/Drawers.zs"
-hash = "9346bd6b46b469a4b02ffb3f8a0272a796c75a8cc0ae9df7b4875627967bfee2"
+hash = "5ed586f0fdfab4d65dc692057ea02639f4678e6bd789d10ee8f5c70bfa27ceb5"
 
 [[files]]
 file = "scripts/Ecologics.zs"
