@@ -15134,7 +15134,7 @@ hash = "ca678686237b7da5739b05ad56029dd4aefc3b137e51c2c58228431e093d8a39"
 
 [[files]]
 file = "config/the_vault/greed/greed_objective.json"
-hash = "acf015c8e54f60d12a89e7c6c4c3e5df9e84ac925f15d227d5234b2d1c0c1b16"
+hash = "7474ae9515996c0653035ae75381d60f421796ac9267a922fcb3c00fc38c7693"
 
 [[files]]
 file = "config/the_vault/greed/greed_progression.json"
@@ -18374,8 +18374,8 @@ file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
-file = "mods/companion_locker-3.21.4.jar"
-hash = "cd8831cb681e7e10c698f4e8eebb8fb55e850a80f8e8bbebf93c624a137ec098"
+file = "mods/companion_locker-3.21.5.jar"
+hash = "c0a3c7edbd1efc9756e5476df459d82b79a93e684477e6dbfa6839bc1cf2f909"
 
 [[files]]
 file = "mods/connectivity-1.18.2-3.2.jar"
@@ -18836,8 +18836,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.61.jar"
-hash = "6784ca28f476693b98a2d1c1d850d1f7018eba97c9012e4c182a02056cd2799b"
+file = "mods/the_vault-1.18.2-3.21.62.jar"
+hash = "df9750f9709c87fd078ac94a58735e7f3b0c984fac9b2a6d02796424231bc827"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18926,8 +18926,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaultsstandalone-0.23.0-all.jar"
-hash = "fa328951ff3ddcdee5cc323270052da00169b8302044cc0d70f874073decf37f"
+file = "mods/woldsvaultsstandalone-0.23.2-all.jar"
+hash = "7ac3b52deb5686aa0576045a272f70bbf46ce4c9b4903a0c80559b8160375af1"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
