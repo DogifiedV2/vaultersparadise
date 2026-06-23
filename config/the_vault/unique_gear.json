@@ -1884,6 +1884,18 @@
       "modifierTags": [],
       "lore": "A razor-bright jewel that teaches tools to breach vault chests in a single decisive break.",
       "weight": 1
+    },
+    "the_vault:box_cutter_jewel": {
+      "name": "Box Cutter Jewel",
+      "item": "the_vault:jewel",
+      "modifierIdentifiers": {
+        "IMPLICIT": [],
+        "PREFIX": [],
+        "SUFFIX": []
+      },
+      "modifierTags": [],
+      "lore": "A sharp little gem honed for cardboard boxes. It turns packing scraps into quick, clean breaks.",
+      "weight": 1
     }
   },
   "pools": {
@@ -2243,6 +2255,9 @@
     },
     "the_vault:breaching_jewel": {
       "the_vault:breaching_jewel": 1
+    },
+    "the_vault:box_cutter_jewel": {
+      "the_vault:box_cutter_jewel": 1
     }
   }
 }
