@@ -1,66 +1,5 @@
 {
-  "summon_timer_rewards": [
-    {
-      "reward_tier": 1,
-      "min_hitman_tier": 1,
-      "max_hitman_tier": 5,
-      "modifier": "the_vault:hitman_timer_bonus_t1"
-    },
-    {
-      "reward_tier": 2,
-      "min_hitman_tier": 6,
-      "max_hitman_tier": 10,
-      "modifier": "the_vault:hitman_timer_bonus_t2"
-    },
-    {
-      "reward_tier": 3,
-      "min_hitman_tier": 11,
-      "max_hitman_tier": 15,
-      "modifier": "the_vault:hitman_timer_bonus_t3"
-    },
-    {
-      "reward_tier": 4,
-      "min_hitman_tier": 16,
-      "max_hitman_tier": 20,
-      "modifier": "the_vault:hitman_timer_bonus_t4"
-    },
-    {
-      "reward_tier": 5,
-      "min_hitman_tier": 21,
-      "max_hitman_tier": 25,
-      "modifier": "the_vault:hitman_timer_bonus_t5"
-    },
-    {
-      "reward_tier": 6,
-      "min_hitman_tier": 26,
-      "max_hitman_tier": 30,
-      "modifier": "the_vault:hitman_timer_bonus_t6"
-    },
-    {
-      "reward_tier": 7,
-      "min_hitman_tier": 31,
-      "max_hitman_tier": 35,
-      "modifier": "the_vault:hitman_timer_bonus_t7"
-    },
-    {
-      "reward_tier": 8,
-      "min_hitman_tier": 36,
-      "max_hitman_tier": 40,
-      "modifier": "the_vault:hitman_timer_bonus_t8"
-    },
-    {
-      "reward_tier": 9,
-      "min_hitman_tier": 41,
-      "max_hitman_tier": 45,
-      "modifier": "the_vault:hitman_timer_bonus_t9"
-    },
-    {
-      "reward_tier": 10,
-      "min_hitman_tier": 46,
-      "max_hitman_tier": 100,
-      "modifier": "the_vault:hitman_timer_bonus_t10"
-    }
-  ],
+  "summon_timer_rewards": [],
   "kill_positive_rewards": [
     {
       "reward_tier": 1,
@@ -218,61 +157,71 @@
       "reward_tier": 1,
       "min_hitman_tier": 1,
       "max_hitman_tier": 10,
-      "modifier": "the_vault:hitman_crate_t1"
+      "modifier": "the_vault:hitman_crate_t1",
+      "chance": 0.25
     },
     {
       "reward_tier": 2,
       "min_hitman_tier": 11,
       "max_hitman_tier": 20,
-      "modifier": "the_vault:hitman_crate_t2"
+      "modifier": "the_vault:hitman_crate_t2",
+      "chance": 0.25
     },
     {
       "reward_tier": 3,
       "min_hitman_tier": 21,
       "max_hitman_tier": 30,
-      "modifier": "the_vault:hitman_crate_t3"
+      "modifier": "the_vault:hitman_crate_t3",
+      "chance": 0.25
     },
     {
       "reward_tier": 4,
       "min_hitman_tier": 31,
       "max_hitman_tier": 40,
-      "modifier": "the_vault:hitman_crate_t4"
+      "modifier": "the_vault:hitman_crate_t4",
+      "chance": 0.25
     },
     {
       "reward_tier": 5,
       "min_hitman_tier": 41,
       "max_hitman_tier": 50,
-      "modifier": "the_vault:hitman_crate_t5"
+      "modifier": "the_vault:hitman_crate_t5",
+      "chance": 0.25
     },
     {
       "reward_tier": 6,
       "min_hitman_tier": 51,
       "max_hitman_tier": 60,
-      "modifier": "the_vault:hitman_crate_t6"
+      "modifier": "the_vault:hitman_crate_t6",
+      "chance": 0.25
     },
     {
       "reward_tier": 7,
       "min_hitman_tier": 61,
       "max_hitman_tier": 70,
-      "modifier": "the_vault:hitman_crate_t7"
+      "modifier": "the_vault:hitman_crate_t7",
+      "chance": 0.25
     },
     {
       "reward_tier": 8,
       "min_hitman_tier": 71,
       "max_hitman_tier": 80,
-      "modifier": "the_vault:hitman_crate_t8"
+      "modifier": "the_vault:hitman_crate_t8",
+      "chance": 0.25
     },
     {
       "reward_tier": 9,
       "min_hitman_tier": 81,
       "max_hitman_tier": 90,
-      "modifier": "the_vault:hitman_crate_t9"
+      "modifier": "the_vault:hitman_crate_t9",
+      "chance": 0.25
     },
     {
       "reward_tier": 10,
       "min_hitman_tier": 91,
       "max_hitman_tier": 100,
-      "modifier": "the_vault:hitman_crate_t10"
+      "modifier": "the_vault:hitman_crate_t10",
+      "chance": 0.25
     }
   ]
 }

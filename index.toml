@@ -90,7 +90,7 @@ hash = "68562d26a28f06847ea03d54bdff39f7cc7544a7cabbde5802d2c59c2aeeb287"
 
 [[files]]
 file = "config/VH-TwitchSpawn/hitmanhunt_rewards.json"
-hash = "1c200e1c940d3e0201e12ed346215d5beac9503c5aee35e12d33c9092365dd3a"
+hash = "0e02b42c4a9a965ee8e01552e9872121d3d67b316ae4eac9706fbbb848df2465"
 
 [[files]]
 file = "config/VH-TwitchSpawn/stats_message.json"
@@ -18905,8 +18905,8 @@ file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
 hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
 
 [[files]]
-file = "mods/vh-hitman-0.3.1.jar"
-hash = "ada8a9530d16d2a5aa065c6e700fec496e3cd3ba2ae2cbb2eaa3b45833cfbd5e"
+file = "mods/vh-hitman-0.3.2.jar"
+hash = "f91f558d9b67d4f4eccd53bc2633d3912b73367ee6f39f56d1056f766ad29549"
 
 [[files]]
 file = "mods/vhat-can-i-roll-vault-hunters-3-addon.pw.toml"
