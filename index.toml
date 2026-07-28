@@ -1345,10 +1345,6 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
-file = "config/launchfaster-client.toml"
-hash = "a797417b7bf6a443590d0b56d4137a93d6fd061adddea38352203e91d80bce31"
-
-[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "6b3a0c3378457ee99e01144c6a83a68ab3b40bb322d16aae4e2056fdc06e283a"
 
@@ -18245,6 +18241,10 @@ file = "mods/TweakergeCompat-0.1.1+mc1.18.2.jar"
 hash = "c7797101075fc846cbf97efead7dfa51910d55b3f7d580c704d3948a36ec882f"
 
 [[files]]
+file = "mods/VH-Accelerator-1.0.0.jar"
+hash = "477d4d3505cf5cc54dd4b8797c224a20bc0e3ad233484bc46f9d4439d96529b5"
+
+[[files]]
 file = "mods/VaultLootBeams-1.18.2-1.0.0.jar"
 hash = "678ac6b833a85c129302a2982e572291f6e75f4eb2955d0a207c954d80e47861"
 
@@ -18568,20 +18568,12 @@ file = "mods/laserio-1.4.5.jar"
 hash = "5eecb26dfcb6ec5593c39770942643b154f4e9406a54313bd97ec0d21d548121"
 
 [[files]]
-file = "mods/launchfaster-1.0.jar"
-hash = "e7594e83836e7f1aefd2533cebad7f22deb7682a35796e810042f34164f59bfc"
-
-[[files]]
 file = "mods/lazydfu-1.0-1.18+.jar"
 hash = "0f2cd2caba33e696fd810c8ea1c27c2e0a651bbeec54c7ac971840f238e40513"
 
 [[files]]
 file = "mods/libnonymous-2.1.0.jar"
 hash = "28766ce614bc8987b7feca15fac928aa53f8e974b63674cc49eb783a276c4e58"
-
-[[files]]
-file = "mods/lightspeed-1.18.2-1.0.5.jar"
-hash = "7e8ddecda4de01eab55d97dbaa749ff002638c859e1f2196de0eeb0961492fa4"
 
 [[files]]
 file = "mods/mcjtylib-1.18-6.0.20.jar"
