@@ -1186,7 +1186,7 @@ hash = "55c992b7e9fe0c07ae54f36f31104a85ebda7571a01f623ff20df4acfdcc9b0c"
 
 [[files]]
 file = "config/forgematica.json"
-hash = "e99d252e9dbd8b6da2c817a4702153b6f9bd40ccf14708e6dcdca7ba863ce6be"
+hash = "b972251814e3bf128f15e2b3f527ae790b80c16867ca420820786fabc17d76e0"
 
 [[files]]
 file = "config/ftbbackups2.json"
@@ -15742,7 +15742,7 @@ hash = "1abfa8a424603504da3743566ddad41cc9df2f7c26f1a0ad90850ab0372771e2"
 
 [[files]]
 file = "config/the_vault/vault_altar.json"
-hash = "12c5111233254d475367efefd6d1a2020e694ae571940f7b45db285dfddda045"
+hash = "3336076f62a7b7e84aeb7d1e1a0eeca3b3311726149e15b056d483a60cfc0d56"
 
 [[files]]
 file = "config/the_vault/vault_altar/greed_vault_altar_ingredients.json"
@@ -15846,7 +15846,7 @@ hash = "e8e147f8ff34ad7d31ed39711286c4fc1bd5ba2c5962f0a345f263404112334b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "3f9246bdcad239dbc36e5464880be1561d52546470c4b41c5da1942e82dce1db"
+hash = "2ea532fddede1c7e56dc14cebb1c73c21195c5dc07f61f14f94f78521d75d354"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -18922,8 +18922,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaultsstandalone-0.23.4-all.jar"
-hash = "45932dc7319a44c679f085675a7212461a8bc3b53395535737b326eeb26acb95"
+file = "mods/woldsvaultsstandalone-0.23.5-all.jar"
+hash = "62913e2f194938628c244b95e08970b41c13cf01fbfd218b756c68c134adce5f"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
