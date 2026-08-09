@@ -18873,6 +18873,11 @@ hash = "05fb1151fb332f3a02342037eb298740ac0f4ebfb7681a659c58f53343285918"
 metafile = true
 
 [[files]]
+file = "mods/vault-render-optimization.pw.toml"
+hash = "6a96fd23949fde2ce05c6aa27ce640a483083d65074ad05bf32181656191a7df"
+metafile = true
+
+[[files]]
 file = "mods/vault_hunters_item_sorting-3.1.0.jar"
 hash = "720af3578d6be80584f203bcd77a01cc91b41501922d02c88a10163bcb44277f"
 
