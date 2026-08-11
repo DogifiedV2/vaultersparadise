@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/briarpot_encampment_starts",
+  "rooms": "the_vault:vault/rooms/briarpot_encampment_rooms",
+  "tunnels": "the_vault:vault/tunnels/briarpot_encampment_tunnels",
+  "ambient_light": 0.2,
+  "fog_color": 6052152,
+  "grass_color": 6714172,
+  "foliage_color": 4740653,
+  "water_color": 5464906,
+  "water_fog_color": 2568745,
+  "particle": "minecraft:ash",
+  "particle_probability": 0.0015
+}

@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/opaline_bathhouse_starts",
+  "rooms": "the_vault:vault/rooms/opaline_bathhouse_rooms",
+  "tunnels": "the_vault:vault/tunnels/opaline_bathhouse_tunnels",
+  "ambient_light": 0.32,
+  "fog_color": 12114130,
+  "grass_color": 7059875,
+  "foliage_color": 5024143,
+  "water_color": 3910338,
+  "water_fog_color": 1988712,
+  "particle": "minecraft:splash",
+  "particle_probability": 0.002
+}

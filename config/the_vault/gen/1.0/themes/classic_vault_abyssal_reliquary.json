@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/abyssal_reliquary_starts",
+  "rooms": "the_vault:vault/rooms/abyssal_reliquary_rooms",
+  "tunnels": "the_vault:vault/tunnels/abyssal_reliquary_tunnels",
+  "ambient_light": 0.12,
+  "fog_color": 534327,
+  "grass_color": 2644567,
+  "foliage_color": 3698021,
+  "water_color": 1799819,
+  "water_fog_color": 400426,
+  "particle": "minecraft:dripping_water",
+  "particle_probability": 0.004
+}

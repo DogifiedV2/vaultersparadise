@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/verdigris_conservatory_starts",
+  "rooms": "the_vault:vault/rooms/verdigris_conservatory_rooms",
+  "tunnels": "the_vault:vault/tunnels/verdigris_conservatory_tunnels",
+  "ambient_light": 0.25,
+  "fog_color": 5930602,
+  "grass_color": 6859106,
+  "foliage_color": 4030042,
+  "water_color": 2919305,
+  "water_fog_color": 1392455,
+  "particle": "minecraft:spore_blossom_air",
+  "particle_probability": 0.003
+}

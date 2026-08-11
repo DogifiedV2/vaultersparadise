@@ -481,6 +481,9 @@
   "VOID_VAULT_THEMES": [
     "the_vault:classic_vault_void",
     "the_vault:classic_vault_end_void",
-    "the_vault:classic_vault_factory_void"
+    "the_vault:classic_vault_factory_void",
+    "the_vault:classic_vault_meltdown",
+    "the_vault:classic_vault_orrery",
+    "the_vault:classic_vault_liminal_annex"
   ]
 }

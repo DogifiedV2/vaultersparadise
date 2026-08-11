@@ -1,0 +1,627 @@
+{
+  "tile_processors": [
+    {
+      "type": "reference",
+      "id": "the_vault:generic/treasure_door_placeholder"
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite": 38,
+        "the_vault:rivetfang_warrens_soot_stained_timber": 27,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate": 18,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic": 17
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite": 5,
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:gray_concrete",
+      "output": {
+        "the_vault:rivetfang_warrens_hoardscale_mosaic": 3,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:coarse_dirt",
+      "output": {
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 5,
+        "the_vault:rivetfang_warrens_pickhammer_granite": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:grass_block",
+      "output": {
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 7,
+        "the_vault:rivetfang_warrens_pickhammer_granite": 2,
+        "minecraft:moss_block": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:dirt",
+      "output": {
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_slab",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_slab": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic_slab": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_slab",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_slab": 4,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:spruce_slab",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_slab": 4,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:purple_wool",
+      "output": {
+        "the_vault:rivetfang_warrens_hoardscale_mosaic": 3,
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:water",
+      "output": {
+        "minecraft:water": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:birch_log",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:birch_fence",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:warped_fence",
+      "output": {
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:warped_wart_block",
+      "output": {
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:shroomlight",
+      "output": {
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "architects_palette:twisted_fence",
+      "output": {
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cave_vines_plant",
+      "output": {
+        "minecraft:pointed_dripstone[thickness=frustum,vertical_direction=down]": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cave_vines",
+      "output": {
+        "minecraft:pointed_dripstone[thickness=tip,vertical_direction=down]": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:spore_blossom",
+      "output": {
+        "minecraft:hanging_roots": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:brown_wool",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_slab[type=top]": 2,
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:pink_wool",
+      "output": {
+        "the_vault:rivetfang_warrens_hoardscale_mosaic_slab[type=top]": 2,
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:grass",
+      "output": {
+        "minecraft:pointed_dripstone[thickness=tip,vertical_direction=up]": 5,
+        "minecraft:dead_tube_coral[waterlogged=false]": 1,
+        "minecraft:dead_bubble_coral[waterlogged=false]": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:tall_grass[half=lower]",
+      "output": {
+        "minecraft:pointed_dripstone[thickness=frustum,vertical_direction=up]": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:tall_grass[half=upper]",
+      "output": {
+        "minecraft:pointed_dripstone[thickness=tip,vertical_direction=up]": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:twisting_vines_plant",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:twisting_vines",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:fern",
+      "output": {
+        "quark:glow_lichen_growth": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lime_wool",
+      "output": {
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 3,
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cyan_wool",
+      "output": {
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_log",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_wood",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_leaves",
+      "output": {
+        "minecraft:azalea_leaves": 3,
+        "minecraft:flowering_azalea_leaves": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_planks",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber": 4,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_fence",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_wall": 4,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_slab",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_slab": 4,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_trapdoor",
+      "output": {
+        "minecraft:spruce_trapdoor": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_stairs",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_stairs": 4,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_fence_gate",
+      "output": {
+        "minecraft:spruce_fence_gate": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_door",
+      "output": {
+        "minecraft:spruce_door": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_bricks",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_stairs",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_stairs": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic_stairs": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:andesite_pillar",
+      "output": {
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:chiseled_stone_bricks",
+      "output": {
+        "the_vault:rivetfang_warrens_hoardscale_mosaic": 3,
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_slab",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_slab": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic_slab": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:stone_brick_vertical_slab",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_vertical_slab": 3,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_vertical_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:stone_vertical_slab",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_vertical_slab": 3,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_vertical_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_wall",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_wall": 3,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_wall",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_wall": 4,
+        "the_vault:rivetfang_warrens_soot_stained_timber_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_stairs",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_stairs": 4,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:mossy_stone_bricks",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite": 4,
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:mossy_cobblestone",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite": 4,
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:green_concrete",
+      "output": {
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:magma_block",
+      "output": {
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 3,
+        "minecraft:magma_block": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lava",
+      "output": {
+        "minecraft:water": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:moss_carpet",
+      "output": {
+        "minecraft:moss_carpet": 3,
+        "minecraft:green_carpet": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "decorative_blocks:brazier",
+      "output": {
+        "decorative_blocks:brazier": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:campfire",
+      "output": {
+        "minecraft:campfire": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lantern",
+      "output": {
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "supplementaries:wall_lantern{Lantern:{Name:\"minecraft:lantern\"}}",
+      "output": {
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:soul_lantern",
+      "output": {
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:glass",
+      "output": {
+        "minecraft:light[level=10]": 2,
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cyan_stained_glass",
+      "output": {
+        "minecraft:light_blue_stained_glass": 3,
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:light_blue_stained_glass",
+      "output": {
+        "minecraft:light_blue_stained_glass": 3,
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:bookshelf",
+      "output": {
+        "minecraft:barrel": 2,
+        "the_vault:rivetfang_warrens_soot_stained_timber": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "ecologics:azalea_log",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "ecologics:azalea_fence",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:cut_crimsite_wall",
+      "output": {
+        "the_vault:rivetfang_warrens_pickhammer_granite_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_log",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_planks",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_planks_stairs",
+      "output": {
+        "the_vault:rivetfang_warrens_soot_stained_timber_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:cut_veridium_wall",
+      "output": {
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:sand",
+      "output": {
+        "the_vault:rivetfang_warrens_sparkling_tailings_gravel": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:potted_oak_sapling",
+      "output": {
+        "minecraft:potted_azalea_bush": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:oak_hedge",
+      "output": {
+        "quark:azalea_hedge": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "decorative_blocks:oak_support",
+      "output": {
+        "decorative_blocks:spruce_support": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_bricks",
+      "output": {
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_brick_stairs",
+      "output": {
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_stairs": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic_stairs": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_brick_slab",
+      "output": {
+        "the_vault:rivetfang_warrens_riveted_cobalt_plate_slab": 3,
+        "the_vault:rivetfang_warrens_hoardscale_mosaic_slab": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone",
+      "output": {
+        "the_vault:rivetfang_warrens_geode_ember_lamp": 3,
+        "the_vault:rivetfang_warrens_pickhammer_granite": 1
+      }
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:chaos/room_base"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/spawners/cave_mobs"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/common_elite_spawners"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

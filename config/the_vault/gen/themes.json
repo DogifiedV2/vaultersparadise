@@ -531,6 +531,276 @@
       "name": "Idona",
       "color": 13041664,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_idona_normal.json"
+    },
+    {
+      "id": "the_vault:classic_vault_meltdown",
+      "name": "Meltdown",
+      "color": 10999599,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_meltdown.json"
+    },
+    {
+      "id": "the_vault:classic_vault_orrery",
+      "name": "Orrery",
+      "color": 8249343,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_orrery.json"
+    },
+    {
+      "id": "the_vault:classic_vault_chitin_hive",
+      "name": "Chitin Hive",
+      "color": 13077035,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_chitin_hive.json"
+    },
+    {
+      "id": "the_vault:classic_vault_scriptorium",
+      "name": "Scriptorium",
+      "color": 14003555,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_scriptorium.json"
+    },
+    {
+      "id": "the_vault:classic_vault_cinder_warren",
+      "name": "Cinder Warren",
+      "color": 13658660,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cinder_warren.json"
+    },
+    {
+      "id": "the_vault:classic_vault_abyssal_reliquary",
+      "name": "Abyssal Reliquary",
+      "color": 5625538,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_abyssal_reliquary.json"
+    },
+    {
+      "id": "the_vault:classic_vault_sunscorch_bazaar",
+      "name": "Sunscorch Bazaar",
+      "color": 13654578,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_sunscorch_bazaar.json"
+    },
+    {
+      "id": "the_vault:classic_vault_stormglass_citadel",
+      "name": "Stormglass Citadel",
+      "color": 6007295,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_stormglass_citadel.json"
+    },
+    {
+      "id": "the_vault:classic_vault_lanternwake_crossing",
+      "name": "Lanternwake Crossing",
+      "color": 13986338,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_lanternwake_crossing.json"
+    },
+    {
+      "id": "the_vault:classic_vault_frostfire_monastery",
+      "name": "Frostfire Monastery",
+      "color": 7200767,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_frostfire_monastery.json"
+    },
+    {
+      "id": "the_vault:classic_vault_cryptic_mire",
+      "name": "Cryptic Mire",
+      "color": 9416501,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cryptic_mire.json"
+    },
+    {
+      "id": "the_vault:classic_vault_velvet_masquerade",
+      "name": "Velvet Masquerade",
+      "color": 11749226,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_velvet_masquerade.json"
+    },
+    {
+      "id": "the_vault:classic_vault_soulscar_bastion",
+      "name": "Soulscar Bastion",
+      "color": 10771711,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_soulscar_bastion.json"
+    },
+    {
+      "id": "the_vault:classic_vault_porcelain_aviary",
+      "name": "Porcelain Aviary",
+      "color": 6019293,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_porcelain_aviary.json"
+    },
+    {
+      "id": "the_vault:classic_vault_powderwake_arsenal",
+      "name": "Powderwake Arsenal",
+      "color": 10236718,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_powderwake_arsenal.json"
+    },
+    {
+      "id": "the_vault:classic_vault_verdigris_conservatory",
+      "name": "Verdigris Conservatory",
+      "color": 4765342,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_verdigris_conservatory.json"
+    },
+    {
+      "id": "the_vault:classic_vault_waxen_basilica",
+      "name": "Waxen Basilica",
+      "color": 12862015,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_waxen_basilica.json"
+    },
+    {
+      "id": "the_vault:classic_vault_opaline_bathhouse",
+      "name": "Opaline Bathhouse",
+      "color": 8116432,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_opaline_bathhouse.json"
+    },
+    {
+      "id": "the_vault:classic_vault_cloudcrook_homestead",
+      "name": "Cloudcrook Homestead",
+      "color": 6986379,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cloudcrook_homestead.json"
+    },
+    {
+      "id": "the_vault:classic_vault_mirrorroot_labyrinth",
+      "name": "Mirrorroot Labyrinth",
+      "color": 8418216,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_mirrorroot_labyrinth.json"
+    },
+    {
+      "id": "the_vault:classic_vault_rivetfang_warrens",
+      "name": "Rivetfang Warrens",
+      "color": 2575498,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_rivetfang_warrens.json"
+    },
+    {
+      "id": "the_vault:classic_vault_rainveil_pagoda",
+      "name": "Rainveil Pagoda",
+      "color": 11095090,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_rainveil_pagoda.json"
+    },
+    {
+      "id": "the_vault:classic_vault_emberwake_orchard",
+      "name": "Emberwake Orchard",
+      "color": 12737060,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_emberwake_orchard.json"
+    },
+    {
+      "id": "the_vault:classic_vault_amberbone_menagerie",
+      "name": "Amberbone Menagerie",
+      "color": 13208108,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_amberbone_menagerie.json"
+    },
+    {
+      "id": "the_vault:classic_vault_liminal_annex",
+      "name": "Liminal Annex",
+      "color": 12890459,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_liminal_annex.json"
+    },
+    {
+      "id": "the_vault:classic_vault_hushbell_foundry",
+      "name": "Hushbell Foundry",
+      "color": 11040054,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_hushbell_foundry.json"
+    },
+    {
+      "id": "the_vault:classic_vault_prismspine_grotto",
+      "name": "Prismspine Grotto",
+      "color": 9331655,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_prismspine_grotto.json"
+    },
+    {
+      "id": "the_vault:classic_vault_moonwine_cloister",
+      "name": "Moonwine Cloister",
+      "color": 8078959,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_moonwine_cloister.json"
+    },
+    {
+      "id": "the_vault:classic_vault_blightbloom_commons",
+      "name": "Blightbloom Commons",
+      "color": 8011635,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_blightbloom_commons.json"
+    },
+    {
+      "id": "the_vault:classic_vault_mothsilk_atelier",
+      "name": "Mothsilk Atelier",
+      "color": 10118797,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_mothsilk_atelier.json"
+    },
+    {
+      "id": "the_vault:classic_vault_marrowgate_cemetery",
+      "name": "Marrowgate Cemetery",
+      "color": 7305076,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_marrowgate_cemetery.json"
+    },
+    {
+      "id": "the_vault:classic_vault_echochord_amphitheater",
+      "name": "Echochord Amphitheater",
+      "color": 9161176,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_echochord_amphitheater.json"
+    },
+    {
+      "id": "the_vault:classic_vault_petalglint_mere",
+      "name": "Petalglint Mere",
+      "color": 13012459,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_petalglint_mere.json"
+    },
+    {
+      "id": "the_vault:classic_vault_northmark_exchange",
+      "name": "Northmark Exchange",
+      "color": 13215840,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_northmark_exchange.json"
+    },
+    {
+      "id": "the_vault:classic_vault_brinehook_drydock",
+      "name": "Brinehook Drydock",
+      "color": 7063485,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_brinehook_drydock.json"
+    },
+    {
+      "id": "the_vault:classic_vault_dreamward_infirmary",
+      "name": "Dreamward Infirmary",
+      "color": 11969768,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_dreamward_infirmary.json"
+    },
+    {
+      "id": "the_vault:classic_vault_curiohex_gallery",
+      "name": "Curiohex Gallery",
+      "color": 8802485,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_curiohex_gallery.json"
+    },
+    {
+      "id": "the_vault:classic_vault_hourglass_tribunal",
+      "name": "Hourglass Tribunal",
+      "color": 11897410,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_hourglass_tribunal.json"
+    },
+    {
+      "id": "the_vault:classic_vault_thistleward_apothecary",
+      "name": "Thistleward Apothecary",
+      "color": 10849379,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_thistleward_apothecary.json"
+    },
+    {
+      "id": "the_vault:classic_vault_gloamrail_terminus",
+      "name": "Gloamrail Terminus",
+      "color": 8417627,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_gloamrail_terminus.json"
+    },
+    {
+      "id": "the_vault:classic_vault_rookfang_lodge",
+      "name": "Rookfang Lodge",
+      "color": 5135431,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_rookfang_lodge.json"
+    },
+    {
+      "id": "the_vault:classic_vault_hollowfeast_hall",
+      "name": "Hollowfeast Hall",
+      "color": 10120002,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_hollowfeast_hall.json"
+    },
+    {
+      "id": "the_vault:classic_vault_briarpot_encampment",
+      "name": "Briarpot Encampment",
+      "color": 8152378,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_briarpot_encampment.json"
+    },
+    {
+      "id": "the_vault:classic_vault_deadletter_depot",
+      "name": "Deadletter Depot",
+      "color": 12028770,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_deadletter_depot.json"
+    },
+    {
+      "id": "the_vault:classic_vault_coldharbor_pumpworks",
+      "name": "Coldharbor Pumpworks",
+      "color": 8305110,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_coldharbor_pumpworks.json"
     }
   ]
 }

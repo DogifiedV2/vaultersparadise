@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/dreamward_infirmary_starts",
+  "rooms": "the_vault:vault/rooms/dreamward_infirmary_rooms",
+  "tunnels": "the_vault:vault/tunnels/dreamward_infirmary_tunnels",
+  "ambient_light": 0.32,
+  "fog_color": 11051960,
+  "grass_color": 10135713,
+  "foliage_color": 8360333,
+  "water_color": 7645109,
+  "water_fog_color": 3558757,
+  "particle": "minecraft:end_rod",
+  "particle_probability": 0.0012
+}

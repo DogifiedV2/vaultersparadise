@@ -1,0 +1,638 @@
+{
+  "tile_processors": [
+    {
+      "type": "reference",
+      "id": "the_vault:generic/treasure_door_placeholder"
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone": 35,
+        "the_vault:abyssal_reliquary_nacre_tiles": 25,
+        "the_vault:abyssal_reliquary_tideglass_mosaic": 25,
+        "the_vault:abyssal_reliquary_verdigris_plating": 15
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone": 4,
+        "the_vault:abyssal_reliquary_verdigris_plating": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:gray_concrete",
+      "output": {
+        "the_vault:abyssal_reliquary_tideglass_mosaic": 3,
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_planks",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_slab",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_slab": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:grass_block",
+      "output": {
+        "the_vault:abyssal_reliquary_black_silt": 6,
+        "the_vault:abyssal_reliquary_pressure_stone": 3,
+        "the_vault:abyssal_reliquary_tideglass_mosaic": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:dirt",
+      "output": {
+        "the_vault:abyssal_reliquary_black_silt": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:coarse_dirt",
+      "output": {
+        "the_vault:abyssal_reliquary_black_silt": 4,
+        "the_vault:abyssal_reliquary_pressure_stone": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_slab",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone_slab": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_slab",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone_slab": 3,
+        "the_vault:abyssal_reliquary_tideglass_mosaic_slab": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:spruce_slab",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_slab": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:purple_wool",
+      "output": {
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:water",
+      "output": {
+        "minecraft:water": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:birch_log",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:birch_fence",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:warped_fence",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:warped_wart_block",
+      "output": {
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:shroomlight",
+      "output": {
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "architects_palette:twisted_fence",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cave_vines_plant",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cave_vines",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:spore_blossom",
+      "output": {
+        "minecraft:sandstone_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:brown_wool",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone_slab[type=top]": 2,
+        "minecraft:water": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:pink_wool",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_slab[type=top]": 2,
+        "minecraft:water": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:grass",
+      "output": {
+        "minecraft:grass": 3,
+        "minecraft:fern": 2,
+        "minecraft:dead_horn_coral[waterlogged=false]": 2,
+        "minecraft:dead_bubble_coral[waterlogged=false]": 2,
+        "minecraft:sea_pickle[pickles=1,waterlogged=false]": 2,
+        "minecraft:sea_pickle[pickles=2,waterlogged=false]": 2,
+        "ecologics:seashell": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:tall_grass[half=lower]",
+      "output": {
+        "minecraft:grass": 3,
+        "minecraft:fern": 2,
+        "minecraft:dead_horn_coral[waterlogged=false]": 2,
+        "minecraft:dead_bubble_coral[waterlogged=false]": 2,
+        "minecraft:sea_pickle[pickles=1,waterlogged=false]": 2,
+        "minecraft:sea_pickle[pickles=2,waterlogged=false]": 2,
+        "ecologics:seashell": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:tall_grass[half=upper]",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:twisting_vines_plant",
+      "output": {
+        "minecraft:oak_leaves": 1,
+        "quark:oak_hedge": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:twisting_vines",
+      "output": {
+        "minecraft:oak_leaves": 1,
+        "quark:oak_hedge": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:fern",
+      "output": {
+        "minecraft:warped_roots": 1,
+        "minecraft:nether_sprouts": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lime_wool",
+      "output": {
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cyan_wool",
+      "output": {
+        "the_vault:abyssal_reliquary_tideglass_mosaic": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_log",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_wood",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_leaves",
+      "output": {
+        "ecologics:coconut_leaves": 2,
+        "minecraft:oak_leaves": 1,
+        "minecraft:jungle_leaves": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_fence",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_trapdoor",
+      "output": {
+        "minecraft:warped_trapdoor": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_stairs",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_fence_gate",
+      "output": {
+        "minecraft:warped_fence_gate": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_door",
+      "output": {
+        "minecraft:warped_door": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_bricks",
+      "output": {
+        "the_vault:abyssal_reliquary_tideglass_mosaic": 4,
+        "the_vault:abyssal_reliquary_pressure_stone": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_stairs",
+      "output": {
+        "the_vault:abyssal_reliquary_tideglass_mosaic_stairs": 3,
+        "the_vault:abyssal_reliquary_pressure_stone_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:andesite_pillar",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:chiseled_stone_bricks",
+      "output": {
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_slab",
+      "output": {
+        "the_vault:abyssal_reliquary_tideglass_mosaic_slab": 3,
+        "the_vault:abyssal_reliquary_pressure_stone_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:stone_brick_vertical_slab",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_vertical_slab": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_vertical_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:stone_vertical_slab",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone_vertical_slab": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_vertical_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_wall",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_wall": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_wall",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone_wall": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_stairs",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone_stairs": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:mossy_stone_bricks",
+      "output": {
+        "the_vault:abyssal_reliquary_pressure_stone": 4,
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:mossy_cobblestone",
+      "output": {
+        "the_vault:abyssal_reliquary_black_silt": 4,
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:green_concrete",
+      "output": {
+        "the_vault:abyssal_reliquary_lantern_coral": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:magma_block",
+      "output": {
+        "the_vault:abyssal_reliquary_lantern_coral": 3,
+        "minecraft:magma_block": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lava",
+      "output": {
+        "minecraft:water": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:moss_carpet",
+      "output": {
+        "minecraft:moss_carpet": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "decorative_blocks:brazier",
+      "output": {
+        "decorative_blocks:soul_brazier": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:campfire",
+      "output": {
+        "minecraft:soul_campfire": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lantern",
+      "output": {
+        "minecraft:sea_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "supplementaries:wall_lantern{Lantern:{Name:\"minecraft:lantern\"}}",
+      "output": {
+        "supplementaries:wall_lantern{Lantern:{Name:\"minecraft:lantern\",Properties:{waterlogged:\"false\", hanging:\"false\"}}}": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:soul_lantern",
+      "output": {
+        "minecraft:sea_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:glass",
+      "output": {
+        "minecraft:light[level=10]": 1,
+        "minecraft:cyan_stained_glass": 3
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cyan_stained_glass",
+      "output": {
+        "minecraft:cyan_stained_glass": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:light_blue_stained_glass",
+      "output": {
+        "minecraft:light_blue_stained_glass": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:bookshelf",
+      "output": {
+        "minecraft:barrel": 2,
+        "minecraft:bookshelf": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "ecologics:azalea_log",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "ecologics:azalea_fence",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:cut_crimsite_wall",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_log",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_planks",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_planks_stairs",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:cut_veridium_wall",
+      "output": {
+        "the_vault:abyssal_reliquary_verdigris_plating_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:sand",
+      "output": {
+        "the_vault:abyssal_reliquary_black_silt": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:potted_oak_sapling",
+      "output": {
+        "minecraft:potted_warped_roots": 1,
+        "minecraft:potted_fern": 1,
+        "quark:potted_sea_pickle": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:oak_hedge",
+      "output": {
+        "quark:oak_hedge": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "decorative_blocks:oak_support",
+      "output": {
+        "decorative_blocks:oak_support": 1,
+        "decorative_blocks:jungle_support": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_bricks",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_brick_stairs",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_stairs": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_stairs": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_brick_slab",
+      "output": {
+        "the_vault:abyssal_reliquary_nacre_tiles_slab": 3,
+        "the_vault:abyssal_reliquary_verdigris_plating_slab": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone",
+      "output": {
+        "the_vault:abyssal_reliquary_lantern_coral": 3,
+        "the_vault:abyssal_reliquary_pressure_stone": 1
+      }
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/oasis_coin_stack_placeholder"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:chaos/room_base"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/spawners/beach_mobs"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/common_elite_spawners"
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

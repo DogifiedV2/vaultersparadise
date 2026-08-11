@@ -6,84 +6,286 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "More ", "color": "white" },
-            { "text": "ores", "color": "$name" },
-
-            { "text": " and ", "color": "white" },
-            { "text": "Chromatic Caves", "color": "$name" },
-            { "text": " generate\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "More ",
+              "color": "white"
+            },
+            {
+              "text": "ores",
+              "color": "$name"
+            },
+            {
+              "text": " and ",
+              "color": "white"
+            },
+            {
+              "text": "Chromatic Caves",
+              "color": "$name"
+            },
+            {
+              "text": " generate\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Deeprot Miners ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Orebound ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83C\uDFF9", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Vault Wraiths ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Belcher ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u271A", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Deeprot Miners ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Orebound ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Vault Wraiths ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Belcher ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ✚",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -94,80 +296,278 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "More ", "color": "white" },
-            { "text": "Coin Piles", "color": "$name" },
-            { "text": " & they're bigger\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "More ",
+              "color": "white"
+            },
+            {
+              "text": "Coin Piles",
+              "color": "$name"
+            },
+            {
+              "text": " & they're bigger\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Drowned ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83C\uDFF9", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Pirateon ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-            { "text": " Crab ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83D\uDEE1", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Sunken ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83C\uDFF9", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Drowned ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Pirateon ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Crab ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🛡",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Sunken ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -178,82 +578,286 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "Painite", "color": "$name" },
-            { "text": " and ", "color": "white" },
-            { "text": "Black Opal", "color": "$name" },
-            { "text": " is more common", "color": "white" },
-            { "text": "\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Painite",
+              "color": "$name"
+            },
+            {
+              "text": " and ",
+              "color": "white"
+            },
+            {
+              "text": "Black Opal",
+              "color": "$name"
+            },
+            {
+              "text": " is more common",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Rocklings ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Ashen Rogue ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-            { "text": " Moltfish ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Rock Hulk ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 5", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83D\uDEE1", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Rocklings ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Ashen Rogue ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Moltfish ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Rock Hulk ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 5",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🛡",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -264,95 +868,330 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "Larimar", "color": "$name" },
-            { "text": " is more common", "color": "white" },
-            { "text": "\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Larimar",
+              "color": "$name"
+            },
+            {
+              "text": " is more common",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Frostwalkers ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Stray ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83C\uDFF9 \u2744", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Snow Wolf ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Goats ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 ", "color": "gray" },
-            { "text": "\u26A0", "color": "gold" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Shiver ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2744", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Frostwalkers ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Stray ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹 ❄",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Snow Wolf ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Goats ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ",
+              "color": "gray"
+            },
+            {
+              "text": "⚠",
+              "color": "gold"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Shiver ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ❄",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -363,98 +1202,326 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "Diamond Caves", "color": "$name" },
-            { "text": " can be found.", "color": "white" },
-            { "text": "\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Diamond Caves",
+              "color": "$name"
+            },
+            {
+              "text": " can be found.",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\n", "color": "$darkgray" },
-            { "text": " Overgrown ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-
-            { "text": " Spider ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Slime ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Swamp Zombie ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-
-            { "text": " Stonewarden ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░░",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Overgrown ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Spider ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Slime ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Swamp Zombie ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Stonewarden ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -465,82 +1532,274 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "None", "color": "white" },
-            { "text": "\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "None",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\n", "color": "$darkgray" },
-            { "text": " Funguy ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-
-            { "text": " Levishroom ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Slime ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-
-            { "text": " Deathcap ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░░",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Funguy ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Levishroom ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Slime ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Deathcap ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -551,95 +1810,322 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "More Rare Gems", "color": "$name" },
-            { "text": "\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "More Rare Gems",
+              "color": "$name"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Piglin ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83C\uDFF9", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-
-            { "text": " Wither Skeleton ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Blaze ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\uD83C\uDFF9", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Magma Slime ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-
-            { "text": " Brute ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Piglin ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Wither Skeleton ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Blaze ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Magma Slime ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Brute ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -650,108 +2136,370 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "More Echo Gems", "color": "$name" },
-            { "text": "\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "More Echo Gems",
+              "color": "$name"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Deep Zombie ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Deep Skeleton ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-
-            { "text": " Enderman ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u21AF", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Shulker ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 0", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\uD83C\uDFF9 \u2623", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Deeplings ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83C\uDFF9", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\n", "color": "$darkgray" },
-
-            { "text": " Warden ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Deep Zombie ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Deep Skeleton ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Enderman ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ↯",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Shulker ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 0",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "🏹 ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Deeplings ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░░",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Warden ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -762,95 +2510,322 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "None", "color": "white" },
-            { "text": "\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "None",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Yellow Gummy Bear", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-
-            { "text": " Blue Gummy Bear", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Green Gummy Bear", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Evil Rabbit ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-
-            { "text": " Red Gummy Bear", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 5", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Yellow Gummy Bear",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Blue Gummy Bear",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Green Gummy Bear",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Evil Rabbit ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Red Gummy Bear",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 5",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -861,81 +2836,278 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "Alexandrite", "color": "$name" },
-            { "text": " is more common", "color": "white" },
-            { "text": "\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Alexandrite",
+              "color": "$name"
+            },
+            {
+              "text": " is more common",
+              "color": "white"
+            },
+            {
+              "text": "\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Husk ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Skeleton ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83C\uDFF9", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Creeper ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 0", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2738", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Mummy ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Husk ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Skeleton ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Creeper ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 0",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ✸",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Mummy ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -946,82 +3118,282 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "Vault Altar Ingredients", "color": "white" },
-            { "text": " and ", "color": "white" },
-            { "text": "\nChromatic Caves", "color": "$name" },
-            { "text": " can be found\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Vault Altar Ingredients",
+              "color": "white"
+            },
+            {
+              "text": " and ",
+              "color": "white"
+            },
+            {
+              "text": "\nChromatic Caves",
+              "color": "$name"
+            },
+            {
+              "text": " can be found\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Deeprot Miners ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Orebound ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83C\uDFF9", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Vault Wraiths ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Belcher ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u271A", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Deeprot Miners ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Orebound ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Vault Wraiths ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Belcher ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ✚",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -1032,91 +3404,314 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "Maximum Funsies!\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Maximum Funsies!\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Tricky Nicky ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\uD83C\uDFF9", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Skelebob ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83D\uDCA5", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Creeperogue ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83D\uDCA5", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Bobarian ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 4", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " NPV ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 5", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83D\uDCA5", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591\u2591", "color": "gray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Tricky Nicky ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "🏹",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Skelebob ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 💥",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Creeperogue ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 💥",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Bobarian ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 4",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " NPV ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 5",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 💥",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░░",
+              "color": "gray"
+            }
           ]
         }
       ]
@@ -1127,93 +3722,322 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "It's Spooky Season\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "It's Spooky Season\n",
+              "color": "white"
+            }
           ]
         },
         {
           "description": [
-            { "text": "Hordes", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\n", "color": "$darkgray" },
-            { "text": " Jack ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Poison Jack ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \u2623", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Assassins", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Jack O Web ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": " Grimwick ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 3", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "Tanks", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591\n", "color": "$darkgray" },
-            { "text": " Craftenstein ", "color": "white" },
-            { "text": "\uD83D\uDDE1", "color": "$orange" },
-            { "text": " 2", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2764", "color": "red" },
-            { "text": " 5", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u265D", "color": "$speed" },
-            { "text": " 1", "color": "white" },
-            { "text": " | ", "color": "gray" },
-            { "text": "\u2694 \uD83D\uDEE1", "color": "gray" },
-            { "text": "\n", "color": "gray" },
-
-            { "text": "\nDwellers", "color": "gray" },
-            { "text": " | ", "color": "$darkgray" },
-            { "text": "\u2591", "color": "gray" },
-            { "text": "\u2591\u2591\u2591", "color": "$darkgray" }
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░░",
+              "color": "gray"
+            },
+            {
+              "text": "░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Jack ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Poison Jack ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ ☣",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░░",
+              "color": "gray"
+            },
+            {
+              "text": "░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Jack O Web ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": " Grimwick ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 3",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░\n",
+              "color": "$darkgray"
+            },
+            {
+              "text": " Craftenstein ",
+              "color": "white"
+            },
+            {
+              "text": "🗡",
+              "color": "$orange"
+            },
+            {
+              "text": " 2",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "❤",
+              "color": "red"
+            },
+            {
+              "text": " 5",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "♝",
+              "color": "$speed"
+            },
+            {
+              "text": " 1",
+              "color": "white"
+            },
+            {
+              "text": " | ",
+              "color": "gray"
+            },
+            {
+              "text": "⚔ 🛡",
+              "color": "gray"
+            },
+            {
+              "text": "\n",
+              "color": "gray"
+            },
+            {
+              "text": "\nDwellers",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "░",
+              "color": "gray"
+            },
+            {
+              "text": "░░░",
+              "color": "$darkgray"
+            }
           ]
         }
       ]
@@ -1224,73 +4048,112 @@
       "description": [
         {
           "description": [
-            { "text": "Perk: ", "color": "gray" },
-            { "text": "God-themed Zealot vault\n", "color": "white" }
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "God-themed Zealot vault\n",
+              "color": "white"
+            }
           ]
         }
       ]
     }
   },
   "augments": {
-    "Deepcrag":[
+    "Deepcrag": [
       "the_vault:classic_vault_cave",
       "the_vault:classic_vault_cave_deepslate",
       "the_vault:classic_vault_cave_geode",
-      "the_vault:classic_vault_cave_wasteland"
+      "the_vault:classic_vault_cave_wasteland",
+      "the_vault:classic_vault_rivetfang_warrens",
+      "the_vault:classic_vault_prismspine_grotto",
+      "the_vault:classic_vault_echochord_amphitheater"
     ],
-    "Saltshade":[
+    "Saltshade": [
       "the_vault:classic_vault_beach",
       "the_vault:classic_vault_flooded",
       "the_vault:classic_vault_shipwreck",
       "the_vault:classic_vault_haunted",
       "the_vault:classic_vault_sea_floor",
-      "the_vault:classic_vault_season_summer"
+      "the_vault:classic_vault_season_summer",
+      "the_vault:classic_vault_abyssal_reliquary",
+      "the_vault:classic_vault_lanternwake_crossing",
+      "the_vault:classic_vault_powderwake_arsenal",
+      "the_vault:classic_vault_rainveil_pagoda",
+      "the_vault:classic_vault_brinehook_drydock"
     ],
-    "Bloodveil":[
+    "Bloodveil": [
       "the_vault:classic_vault_blood_moon",
-      "the_vault:classic_vault_blood"
+      "the_vault:classic_vault_blood",
+      "the_vault:classic_vault_waxen_basilica",
+      "the_vault:classic_vault_hollowfeast_hall"
     ],
-    "Snowfell":[
+    "Snowfell": [
       "the_vault:classic_vault_aurora_cave",
       "the_vault:classic_vault_ice_cave",
       "the_vault:classic_vault_ice",
-      "the_vault:classic_vault_season_winter"
+      "the_vault:classic_vault_season_winter",
+      "the_vault:classic_vault_frostfire_monastery",
+      "the_vault:classic_vault_coldharbor_pumpworks"
     ],
-    "Glimmergrove":[
+    "Glimmergrove": [
       "the_vault:classic_vault_lush_cave",
       "the_vault:classic_vault_living_cave",
       "the_vault:classic_vault_season_spring",
-      "the_vault:classic_vault_temple"
+      "the_vault:classic_vault_temple",
+      "the_vault:classic_vault_verdigris_conservatory",
+      "the_vault:classic_vault_cloudcrook_homestead",
+      "the_vault:classic_vault_moonwine_cloister",
+      "the_vault:classic_vault_blightbloom_commons",
+      "the_vault:classic_vault_petalglint_mere",
+      "the_vault:classic_vault_thistleward_apothecary",
+      "the_vault:classic_vault_briarpot_encampment"
     ],
-    "Sporegrove":[
+    "Sporegrove": [
       "the_vault:classic_vault_mushroom",
       "the_vault:classic_vault_fairy_ring",
       "the_vault:classic_vault_poison",
-      "the_vault:classic_vault_season_fall"
+      "the_vault:classic_vault_season_fall",
+      "the_vault:classic_vault_chitin_hive",
+      "the_vault:classic_vault_cryptic_mire"
     ],
-    "Nether":[
+    "Nether": [
       "the_vault:classic_vault_nether_crimson",
       "the_vault:classic_vault_nether_warped",
       "the_vault:classic_vault_nether_blackstone",
-      "the_vault:classic_vault_nether_soul"
+      "the_vault:classic_vault_nether_soul",
+      "the_vault:classic_vault_cinder_warren"
     ],
-    "Void":[
+    "Void": [
       "the_vault:classic_vault_void",
       "the_vault:classic_vault_factory_void",
-      "the_vault:classic_vault_end_void"
+      "the_vault:classic_vault_end_void",
+      "the_vault:classic_vault_meltdown",
+      "the_vault:classic_vault_orrery",
+      "the_vault:classic_vault_stormglass_citadel",
+      "the_vault:classic_vault_soulscar_bastion",
+      "the_vault:classic_vault_liminal_annex",
+      "the_vault:classic_vault_hourglass_tribunal"
     ],
-    "Candoria":[
+    "Candoria": [
       "the_vault:classic_vault_sweet",
       "the_vault:classic_vault_easter_egg",
-      "the_vault:classic_vault_easter_pastel"
+      "the_vault:classic_vault_easter_pastel",
+      "the_vault:classic_vault_porcelain_aviary",
+      "the_vault:classic_vault_opaline_bathhouse",
+      "the_vault:classic_vault_amberbone_menagerie"
     ],
-    "Sandsworn":[
+    "Sandsworn": [
       "the_vault:classic_vault_desert",
       "the_vault:classic_vault_sandy_cave",
       "the_vault:classic_vault_mesa",
-      "the_vault:classic_vault_deep_mesa"
+      "the_vault:classic_vault_deep_mesa",
+      "the_vault:classic_vault_sunscorch_bazaar",
+      "the_vault:classic_vault_northmark_exchange"
     ],
-    "RawVault":[
+    "RawVault": [
       "the_vault:raw_vault_cave",
       "the_vault:raw_vault_cave_lvl10",
       "the_vault:raw_vault_cave_lvl20",
@@ -1308,17 +4171,29 @@
       "the_vault:raw_vault_cave_andersite_lvl20",
       "the_vault:raw_vault_cave_andersite_lvl30"
     ],
-    "Plastic":[
+    "Plastic": [
       "the_vault:classic_vault_plastic",
-      "the_vault:classic_vault_plastic_playtime"
+      "the_vault:classic_vault_plastic_playtime",
+      "the_vault:classic_vault_dreamward_infirmary"
     ],
-    "Spooky":[
-      "the_vault:classic_vault_gloom"
+    "Spooky": [
+      "the_vault:classic_vault_gloom",
+      "the_vault:classic_vault_scriptorium",
+      "the_vault:classic_vault_velvet_masquerade",
+      "the_vault:classic_vault_mirrorroot_labyrinth",
+      "the_vault:classic_vault_emberwake_orchard",
+      "the_vault:classic_vault_hushbell_foundry",
+      "the_vault:classic_vault_mothsilk_atelier",
+      "the_vault:classic_vault_marrowgate_cemetery",
+      "the_vault:classic_vault_curiohex_gallery",
+      "the_vault:classic_vault_gloamrail_terminus",
+      "the_vault:classic_vault_rookfang_lodge",
+      "the_vault:classic_vault_deadletter_depot"
     ],
-    "Alpha":[
+    "Alpha": [
       "the_vault:classic_vault_alpha"
     ],
-    "Zealot":[
+    "Zealot": [
       "the_vault:classic_vault_tenos_normal",
       "the_vault:classic_vault_idona_normal",
       "the_vault:classic_vault_velara_normal",
@@ -1326,4 +4201,3 @@
     ]
   }
 }
-    

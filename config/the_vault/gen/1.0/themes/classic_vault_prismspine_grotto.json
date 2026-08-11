@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/prismspine_grotto_starts",
+  "rooms": "the_vault:vault/rooms/prismspine_grotto_rooms",
+  "tunnels": "the_vault:vault/tunnels/prismspine_grotto_tunnels",
+  "ambient_light": 0.25,
+  "fog_color": 9076644,
+  "grass_color": 7502707,
+  "foliage_color": 5401193,
+  "water_color": 5990824,
+  "water_fog_color": 2632526,
+  "particle": "minecraft:end_rod",
+  "particle_probability": 0.002
+}

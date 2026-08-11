@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/powderwake_arsenal_starts",
+  "rooms": "the_vault:vault/rooms/powderwake_arsenal_rooms",
+  "tunnels": "the_vault:vault/tunnels/powderwake_arsenal_tunnels",
+  "ambient_light": 0.18,
+  "fog_color": 6716036,
+  "grass_color": 6321514,
+  "foliage_color": 4941146,
+  "water_color": 3111060,
+  "water_fog_color": 1522511,
+  "particle": "minecraft:ash",
+  "particle_probability": 0.002
+}

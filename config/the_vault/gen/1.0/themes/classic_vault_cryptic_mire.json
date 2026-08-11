@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/cryptic_mire_starts",
+  "rooms": "the_vault:vault/rooms/cryptic_mire_rooms",
+  "tunnels": "the_vault:vault/tunnels/cryptic_mire_tunnels",
+  "ambient_light": 0.11,
+  "fog_color": 1973536,
+  "grass_color": 3616544,
+  "foliage_color": 4416818,
+  "water_color": 3551282,
+  "water_fog_color": 1250064,
+  "particle": "minecraft:falling_spore_blossom",
+  "particle_probability": 0.003
+}

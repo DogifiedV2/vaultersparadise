@@ -1,0 +1,61 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/scriptorium_starts",
+  "rooms": "the_vault:vault/rooms/scriptorium_rooms",
+  "tunnels": "the_vault:vault/tunnels/scriptorium_tunnels",
+  "ambient_light": 0.18,
+  "fog_color": 1512491,
+  "grass_color": 4931925,
+  "foliage_color": 6968174,
+  "water_color": 2694233,
+  "water_fog_color": 1183019,
+  "particle": "minecraft:dust_color_transition 0.08 0.06 0.16 0.7 0.28 0.05 0.38",
+  "particle_probability": 0.003,
+  "ambient_sounds": [
+    {
+      "sound": "the_vault:gloom_bats_ambient",
+      "min_rate": 100,
+      "max_rate": 500
+    },
+    {
+      "sound": "minecraft:ambient.cave",
+      "min_rate": 500,
+      "max_rate": 800
+    },
+    {
+      "sound": "minecraft:ambient.nether_wastes.additions",
+      "min_rate": 200,
+      "max_rate": 600
+    },
+    {
+      "sound": "the_vault:heartbeat",
+      "min_rate": 600,
+      "max_rate": 800
+    },
+    {
+      "sound": "the_vault:looking_for_you",
+      "min_rate": 800,
+      "max_rate": 900
+    },
+    {
+      "sound": "the_vault:never_forget",
+      "min_rate": 900,
+      "max_rate": 1000
+    },
+    {
+      "sound": "the_vault:never_left",
+      "min_rate": 1000,
+      "max_rate": 1100
+    },
+    {
+      "sound": "the_vault:the_void",
+      "min_rate": 1100,
+      "max_rate": 1200
+    },
+    {
+      "sound": "the_vault:voices",
+      "min_rate": 1200,
+      "max_rate": 1300
+    }
+  ]
+}

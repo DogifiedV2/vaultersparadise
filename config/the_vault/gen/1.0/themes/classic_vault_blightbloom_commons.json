@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/blightbloom_commons_starts",
+  "rooms": "the_vault:vault/rooms/blightbloom_commons_rooms",
+  "tunnels": "the_vault:vault/tunnels/blightbloom_commons_tunnels",
+  "ambient_light": 0.16,
+  "fog_color": 7042384,
+  "grass_color": 8028203,
+  "foliage_color": 5199652,
+  "water_color": 5595945,
+  "water_fog_color": 2634525,
+  "particle": "minecraft:spore_blossom_air",
+  "particle_probability": 0.003
+}

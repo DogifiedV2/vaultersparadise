@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/sunscorch_bazaar_starts",
+  "rooms": "the_vault:vault/rooms/sunscorch_bazaar_rooms",
+  "tunnels": "the_vault:vault/tunnels/sunscorch_bazaar_tunnels",
+  "ambient_light": 0.24,
+  "fog_color": 13873728,
+  "grass_color": 10768955,
+  "foliage_color": 9418810,
+  "water_color": 6323595,
+  "water_fog_color": 4217218,
+  "particle": "minecraft:block red_sand",
+  "particle_probability": 0.003
+}

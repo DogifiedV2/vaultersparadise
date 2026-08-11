@@ -2709,6 +2709,456 @@
       "id": "the_vault:greed/chaos/warehouse/base",
       "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/warehouse/base.json"
+    },
+    {
+      "id": "the_vault:universal_meltdown",
+      "name": "Universal Meltdown",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_meltdown.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_meltdown",
+      "name": "Universal Chaos Meltdown",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_meltdown.json"
+    },
+    {
+      "id": "the_vault:universal_orrery",
+      "name": "Universal Orrery",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_orrery.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_orrery",
+      "name": "Universal Chaos Orrery",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_orrery.json"
+    },
+    {
+      "id": "the_vault:universal_chitin_hive",
+      "name": "Universal Chitin Hive",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_chitin_hive.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_chitin_hive",
+      "name": "Universal Chaos Chitin Hive",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_chitin_hive.json"
+    },
+    {
+      "id": "the_vault:universal_scriptorium",
+      "name": "Universal Scriptorium",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_scriptorium.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_scriptorium",
+      "name": "Universal Chaos Scriptorium",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_scriptorium.json"
+    },
+    {
+      "id": "the_vault:universal_cinder_warren",
+      "name": "Universal Cinder Warren",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_cinder_warren.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cinder_warren",
+      "name": "Universal Chaos Cinder Warren",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cinder_warren.json"
+    },
+    {
+      "id": "the_vault:universal_abyssal_reliquary",
+      "name": "Universal Abyssal Reliquary",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_abyssal_reliquary.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_abyssal_reliquary",
+      "name": "Universal Chaos Abyssal Reliquary",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_abyssal_reliquary.json"
+    },
+    {
+      "id": "the_vault:universal_sunscorch_bazaar",
+      "name": "Universal Sunscorch Bazaar",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_sunscorch_bazaar.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_sunscorch_bazaar",
+      "name": "Universal Chaos Sunscorch Bazaar",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_sunscorch_bazaar.json"
+    },
+    {
+      "id": "the_vault:universal_stormglass_citadel",
+      "name": "Universal Stormglass Citadel",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_stormglass_citadel.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_stormglass_citadel",
+      "name": "Universal Chaos Stormglass Citadel",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_stormglass_citadel.json"
+    },
+    {
+      "id": "the_vault:universal_lanternwake_crossing",
+      "name": "Universal Lanternwake Crossing",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_lanternwake_crossing.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_lanternwake_crossing",
+      "name": "Universal Chaos Lanternwake Crossing",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_lanternwake_crossing.json"
+    },
+    {
+      "id": "the_vault:universal_frostfire_monastery",
+      "name": "Universal Frostfire Monastery",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_frostfire_monastery.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_frostfire_monastery",
+      "name": "Universal Chaos Frostfire Monastery",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_frostfire_monastery.json"
+    },
+    {
+      "id": "the_vault:universal_cryptic_mire",
+      "name": "Universal Cryptic Mire",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_cryptic_mire.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cryptic_mire",
+      "name": "Universal Chaos Cryptic Mire",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cryptic_mire.json"
+    },
+    {
+      "id": "the_vault:universal_velvet_masquerade",
+      "name": "Universal Velvet Masquerade",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_velvet_masquerade.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_velvet_masquerade",
+      "name": "Universal Chaos Velvet Masquerade",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_velvet_masquerade.json"
+    },
+    {
+      "id": "the_vault:universal_soulscar_bastion",
+      "name": "Universal Soulscar Bastion",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_soulscar_bastion.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_soulscar_bastion",
+      "name": "Universal Chaos Soulscar Bastion",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_soulscar_bastion.json"
+    },
+    {
+      "id": "the_vault:universal_porcelain_aviary",
+      "name": "Universal Porcelain Aviary",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_porcelain_aviary.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_porcelain_aviary",
+      "name": "Universal Chaos Porcelain Aviary",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_porcelain_aviary.json"
+    },
+    {
+      "id": "the_vault:universal_powderwake_arsenal",
+      "name": "Universal Powderwake Arsenal",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_powderwake_arsenal.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_powderwake_arsenal",
+      "name": "Universal Chaos Powderwake Arsenal",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_powderwake_arsenal.json"
+    },
+    {
+      "id": "the_vault:universal_verdigris_conservatory",
+      "name": "Universal Verdigris Conservatory",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_verdigris_conservatory.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_verdigris_conservatory",
+      "name": "Universal Chaos Verdigris Conservatory",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_verdigris_conservatory.json"
+    },
+    {
+      "id": "the_vault:universal_waxen_basilica",
+      "name": "Universal Waxen Basilica",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_waxen_basilica.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_waxen_basilica",
+      "name": "Universal Chaos Waxen Basilica",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_waxen_basilica.json"
+    },
+    {
+      "id": "the_vault:universal_opaline_bathhouse",
+      "name": "Universal Opaline Bathhouse",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_opaline_bathhouse.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_opaline_bathhouse",
+      "name": "Universal Chaos Opaline Bathhouse",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_opaline_bathhouse.json"
+    },
+    {
+      "id": "the_vault:universal_cloudcrook_homestead",
+      "name": "Universal Cloudcrook Homestead",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_cloudcrook_homestead.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cloudcrook_homestead",
+      "name": "Universal Chaos Cloudcrook Homestead",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cloudcrook_homestead.json"
+    },
+    {
+      "id": "the_vault:universal_mirrorroot_labyrinth",
+      "name": "Universal Mirrorroot Labyrinth",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_mirrorroot_labyrinth.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_mirrorroot_labyrinth",
+      "name": "Universal Chaos Mirrorroot Labyrinth",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_mirrorroot_labyrinth.json"
+    },
+    {
+      "id": "the_vault:universal_rivetfang_warrens",
+      "name": "Universal Rivetfang Warrens",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_rivetfang_warrens.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_rivetfang_warrens",
+      "name": "Universal Chaos Rivetfang Warrens",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_rivetfang_warrens.json"
+    },
+    {
+      "id": "the_vault:universal_rainveil_pagoda",
+      "name": "Universal Rainveil Pagoda",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_rainveil_pagoda.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_rainveil_pagoda",
+      "name": "Universal Chaos Rainveil Pagoda",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_rainveil_pagoda.json"
+    },
+    {
+      "id": "the_vault:universal_emberwake_orchard",
+      "name": "Universal Emberwake Orchard",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_emberwake_orchard.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_emberwake_orchard",
+      "name": "Universal Chaos Emberwake Orchard",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_emberwake_orchard.json"
+    },
+    {
+      "id": "the_vault:universal_amberbone_menagerie",
+      "name": "Universal Amberbone Menagerie",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_amberbone_menagerie.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_amberbone_menagerie",
+      "name": "Universal Chaos Amberbone Menagerie",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_amberbone_menagerie.json"
+    },
+    {
+      "id": "the_vault:universal_liminal_annex",
+      "name": "Universal Liminal Annex",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_liminal_annex.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_liminal_annex",
+      "name": "Universal Chaos Liminal Annex",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_liminal_annex.json"
+    },
+    {
+      "id": "the_vault:universal_hushbell_foundry",
+      "name": "Universal Hushbell Foundry",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_hushbell_foundry.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_hushbell_foundry",
+      "name": "Universal Chaos Hushbell Foundry",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_hushbell_foundry.json"
+    },
+    {
+      "id": "the_vault:universal_prismspine_grotto",
+      "name": "Universal Prismspine Grotto",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_prismspine_grotto.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_prismspine_grotto",
+      "name": "Universal Chaos Prismspine Grotto",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_prismspine_grotto.json"
+    },
+    {
+      "id": "the_vault:universal_moonwine_cloister",
+      "name": "Universal Moonwine Cloister",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_moonwine_cloister.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_moonwine_cloister",
+      "name": "Universal Chaos Moonwine Cloister",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_moonwine_cloister.json"
+    },
+    {
+      "id": "the_vault:universal_blightbloom_commons",
+      "name": "Universal Blightbloom Commons",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_blightbloom_commons.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_blightbloom_commons",
+      "name": "Universal Chaos Blightbloom Commons",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_blightbloom_commons.json"
+    },
+    {
+      "id": "the_vault:universal_mothsilk_atelier",
+      "name": "Universal Mothsilk Atelier",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_mothsilk_atelier.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_mothsilk_atelier",
+      "name": "Universal Chaos Mothsilk Atelier",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_mothsilk_atelier.json"
+    },
+    {
+      "id": "the_vault:universal_marrowgate_cemetery",
+      "name": "Universal Marrowgate Cemetery",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_marrowgate_cemetery.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_marrowgate_cemetery",
+      "name": "Universal Chaos Marrowgate Cemetery",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_marrowgate_cemetery.json"
+    },
+    {
+      "id": "the_vault:universal_echochord_amphitheater",
+      "name": "Universal Echochord Amphitheater",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_echochord_amphitheater.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_echochord_amphitheater",
+      "name": "Universal Chaos Echochord Amphitheater",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_echochord_amphitheater.json"
+    },
+    {
+      "id": "the_vault:universal_petalglint_mere",
+      "name": "Universal Petalglint Mere",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_petalglint_mere.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_petalglint_mere",
+      "name": "Universal Chaos Petalglint Mere",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_petalglint_mere.json"
+    },
+    {
+      "id": "the_vault:universal_northmark_exchange",
+      "name": "Universal Northmark Exchange",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_northmark_exchange.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_northmark_exchange",
+      "name": "Universal Chaos Northmark Exchange",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_northmark_exchange.json"
+    },
+    {
+      "id": "the_vault:universal_brinehook_drydock",
+      "name": "Universal Brinehook Drydock",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_brinehook_drydock.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_brinehook_drydock",
+      "name": "Universal Chaos Brinehook Drydock",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_brinehook_drydock.json"
+    },
+    {
+      "id": "the_vault:universal_dreamward_infirmary",
+      "name": "Universal Dreamward Infirmary",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_dreamward_infirmary.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_dreamward_infirmary",
+      "name": "Universal Chaos Dreamward Infirmary",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_dreamward_infirmary.json"
+    },
+    {
+      "id": "the_vault:universal_curiohex_gallery",
+      "name": "Universal Curiohex Gallery",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_curiohex_gallery.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_curiohex_gallery",
+      "name": "Universal Chaos Curiohex Gallery",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_curiohex_gallery.json"
+    },
+    {
+      "id": "the_vault:universal_hourglass_tribunal",
+      "name": "Universal Hourglass Tribunal",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_hourglass_tribunal.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_hourglass_tribunal",
+      "name": "Universal Chaos Hourglass Tribunal",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_hourglass_tribunal.json"
+    },
+    {
+      "id": "the_vault:universal_thistleward_apothecary",
+      "name": "Universal Thistleward Apothecary",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_thistleward_apothecary.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_thistleward_apothecary",
+      "name": "Universal Chaos Thistleward Apothecary",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_thistleward_apothecary.json"
+    },
+    {
+      "id": "the_vault:universal_gloamrail_terminus",
+      "name": "Universal Gloamrail Terminus",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_gloamrail_terminus.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_gloamrail_terminus",
+      "name": "Universal Chaos Gloamrail Terminus",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_gloamrail_terminus.json"
+    },
+    {
+      "id": "the_vault:universal_rookfang_lodge",
+      "name": "Universal Rookfang Lodge",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_rookfang_lodge.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_rookfang_lodge",
+      "name": "Universal Chaos Rookfang Lodge",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_rookfang_lodge.json"
+    },
+    {
+      "id": "the_vault:universal_hollowfeast_hall",
+      "name": "Universal Hollowfeast Hall",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_hollowfeast_hall.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_hollowfeast_hall",
+      "name": "Universal Chaos Hollowfeast Hall",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_hollowfeast_hall.json"
+    },
+    {
+      "id": "the_vault:universal_briarpot_encampment",
+      "name": "Universal Briarpot Encampment",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_briarpot_encampment.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_briarpot_encampment",
+      "name": "Universal Chaos Briarpot Encampment",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_briarpot_encampment.json"
+    },
+    {
+      "id": "the_vault:universal_deadletter_depot",
+      "name": "Universal Deadletter Depot",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_deadletter_depot.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_deadletter_depot",
+      "name": "Universal Chaos Deadletter Depot",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_deadletter_depot.json"
+    },
+    {
+      "id": "the_vault:universal_coldharbor_pumpworks",
+      "name": "Universal Coldharbor Pumpworks",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_coldharbor_pumpworks.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_coldharbor_pumpworks",
+      "name": "Universal Chaos Coldharbor Pumpworks",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_coldharbor_pumpworks.json"
     }
   ]
 }

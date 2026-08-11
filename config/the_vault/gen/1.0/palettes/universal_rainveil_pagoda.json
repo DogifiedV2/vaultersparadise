@@ -1,0 +1,653 @@
+{
+  "tile_processors": [
+    {
+      "type": "reference",
+      "id": "the_vault:generic/treasure_door_placeholder"
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate": 5,
+        "the_vault:rainveil_pagoda_lotus_silt": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate": 38,
+        "the_vault:rainveil_pagoda_vermilion_cedar": 27,
+        "the_vault:rainveil_pagoda_moonbronze_lattice": 18,
+        "the_vault:rainveil_pagoda_koi_current_mosaic": 17
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:gray_concrete",
+      "output": {
+        "the_vault:rainveil_pagoda_koi_current_mosaic": 3,
+        "the_vault:rainveil_pagoda_moonbronze_lattice": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:grass_block",
+      "output": {
+        "the_vault:rainveil_pagoda_lotus_silt": 7,
+        "the_vault:rainveil_pagoda_stormwashed_slate": 2,
+        "minecraft:moss_block": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:coarse_dirt",
+      "output": {
+        "the_vault:rainveil_pagoda_lotus_silt": 5,
+        "the_vault:rainveil_pagoda_stormwashed_slate": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:dirt",
+      "output": {
+        "the_vault:rainveil_pagoda_lotus_silt": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_slab",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_slab": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic_slab": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_slab",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_slab": 4,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:spruce_slab",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_slab": 4,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:purple_wool",
+      "output": {
+        "the_vault:rainveil_pagoda_koi_current_mosaic": 3,
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:water",
+      "output": {
+        "minecraft:water": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:birch_log",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:birch_fence",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:warped_fence",
+      "output": {
+        "the_vault:rainveil_pagoda_moonbronze_lattice_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:warped_wart_block",
+      "output": {
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:shroomlight",
+      "output": {
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "architects_palette:twisted_fence",
+      "output": {
+        "the_vault:rainveil_pagoda_moonbronze_lattice_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cave_vines_plant",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cave_vines",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:spore_blossom",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:brown_wool",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_slab[type=top]": 2,
+        "the_vault:rainveil_pagoda_lotus_silt": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:pink_wool",
+      "output": {
+        "the_vault:rainveil_pagoda_koi_current_mosaic_slab[type=top]": 2,
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:grass",
+      "output": {
+        "minecraft:dead_brain_coral[waterlogged=false]": 1,
+        "minecraft:dead_bubble_coral[waterlogged=false]": 1,
+        "minecraft:dead_fire_coral[waterlogged=false]": 1,
+        "minecraft:dead_horn_coral[waterlogged=false]": 1,
+        "minecraft:dead_tube_coral[waterlogged=false]": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:tall_grass[half=lower]",
+      "output": {
+        "ecologics:coconut_seedling": 1,
+        "ecologics:seashell[waterlogged=false]": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:tall_grass[half=upper]",
+      "output": {
+        "minecraft:air": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:twisting_vines_plant",
+      "output": {
+        "minecraft:cactus": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:twisting_vines",
+      "output": {
+        "minecraft:cactus": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:fern",
+      "output": {
+        "minecraft:sea_pickle[waterlogged=false,pickles=1]": 1,
+        "minecraft:sea_pickle[waterlogged=false,pickles=2]": 1,
+        "minecraft:sea_pickle[waterlogged=false,pickles=3]": 1,
+        "minecraft:sea_pickle[waterlogged=false,pickles=4]": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lime_wool",
+      "output": {
+        "the_vault:rainveil_pagoda_lotus_silt": 3,
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cyan_wool",
+      "output": {
+        "the_vault:rainveil_pagoda_moonbronze_lattice": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_log",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_wood",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_leaves",
+      "output": {
+        "minecraft:azalea_leaves": 3,
+        "minecraft:flowering_azalea_leaves": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_planks",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar": 4,
+        "the_vault:rainveil_pagoda_moonbronze_lattice": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_fence",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_wall": 4,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_slab",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_slab": 4,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_trapdoor",
+      "output": {
+        "minecraft:spruce_trapdoor": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_stairs",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_stairs": 4,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_fence_gate",
+      "output": {
+        "minecraft:spruce_fence_gate": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:oak_door",
+      "output": {
+        "minecraft:spruce_door": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_bricks",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_stairs",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_stairs": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic_stairs": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:andesite_pillar",
+      "output": {
+        "the_vault:rainveil_pagoda_moonbronze_lattice": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:chiseled_stone_bricks",
+      "output": {
+        "the_vault:rainveil_pagoda_koi_current_mosaic": 3,
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_slab",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_slab": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic_slab": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:stone_brick_vertical_slab",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_vertical_slab": 3,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_vertical_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:stone_vertical_slab",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_vertical_slab": 3,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_vertical_slab": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:stone_brick_wall",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_wall": 3,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_wall",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_wall": 4,
+        "the_vault:rainveil_pagoda_vermilion_cedar_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cobblestone_stairs",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_stairs": 4,
+        "the_vault:rainveil_pagoda_moonbronze_lattice_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:mossy_stone_bricks",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate": 4,
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:mossy_cobblestone",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate": 4,
+        "the_vault:rainveil_pagoda_lotus_silt": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:magma_block",
+      "output": {
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 3,
+        "minecraft:magma_block": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lava",
+      "output": {
+        "minecraft:water": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:green_concrete",
+      "output": {
+        "the_vault:rainveil_pagoda_lotus_silt": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:moss_carpet",
+      "output": {
+        "minecraft:moss_carpet": 3,
+        "minecraft:green_carpet": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "decorative_blocks:brazier",
+      "output": {
+        "decorative_blocks:brazier": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:campfire",
+      "output": {
+        "minecraft:campfire": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:lantern",
+      "output": {
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "supplementaries:wall_lantern{Lantern:{Name:\"minecraft:lantern\"}}",
+      "output": {
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:soul_lantern",
+      "output": {
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:glass",
+      "output": {
+        "minecraft:light[level=10]": 2,
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:cyan_stained_glass",
+      "output": {
+        "minecraft:light_blue_stained_glass": 3,
+        "the_vault:rainveil_pagoda_moonbronze_lattice": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:light_blue_stained_glass",
+      "output": {
+        "minecraft:light_blue_stained_glass": 3,
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:bookshelf",
+      "output": {
+        "minecraft:barrel": 2,
+        "the_vault:rainveil_pagoda_vermilion_cedar": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "ecologics:azalea_log",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "ecologics:azalea_fence",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:cut_crimsite_wall",
+      "output": {
+        "the_vault:rainveil_pagoda_stormwashed_slate_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_log",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_planks",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:azalea_planks_stairs",
+      "output": {
+        "the_vault:rainveil_pagoda_vermilion_cedar_stairs": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "create:cut_veridium_wall",
+      "output": {
+        "the_vault:rainveil_pagoda_moonbronze_lattice_wall": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:sand",
+      "output": {
+        "the_vault:rainveil_pagoda_lotus_silt": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:potted_oak_sapling",
+      "output": {
+        "minecraft:potted_azalea_bush": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "quark:oak_hedge",
+      "output": {
+        "quark:azalea_hedge": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "decorative_blocks:oak_support",
+      "output": {
+        "decorative_blocks:spruce_support": 1
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_bricks",
+      "output": {
+        "the_vault:rainveil_pagoda_moonbronze_lattice": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_brick_stairs",
+      "output": {
+        "the_vault:rainveil_pagoda_moonbronze_lattice_stairs": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic_stairs": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone_brick_slab",
+      "output": {
+        "the_vault:rainveil_pagoda_moonbronze_lattice_slab": 3,
+        "the_vault:rainveil_pagoda_koi_current_mosaic_slab": 2
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "minecraft:end_stone",
+      "output": {
+        "the_vault:rainveil_pagoda_paper_sun_lantern": 3,
+        "the_vault:rainveil_pagoda_stormwashed_slate": 1
+      }
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/oasis_coin_stack_placeholder"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/room_base"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/spawners/beach_mobs"
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/common_elite_spawners"
+    },
+    {
+      "type": "template_stack_tile",
+      "target": "@the_vault:vault_lootables",
+      "stack": [
+        "THEME_RAINVEIL_PAGODA",
+        "THEME_CATEGORY_BEACH"
+      ]
+    },
+    {
+      "type": "template_stack_spawner",
+      "target": "ispawner:spawner",
+      "stack": [
+        "THEME_RAINVEIL_PAGODA",
+        "THEME_CATEGORY_BEACH"
+      ]
+    }
+  ],
+  "entity_processors": [],
+  "decorators": []
+}

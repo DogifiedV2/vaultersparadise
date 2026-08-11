@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/stormglass_citadel_starts",
+  "rooms": "the_vault:vault/rooms/stormglass_citadel_rooms",
+  "tunnels": "the_vault:vault/tunnels/stormglass_citadel_tunnels",
+  "ambient_light": 0.16,
+  "fog_color": 1716559,
+  "grass_color": 4870776,
+  "foliage_color": 4347768,
+  "water_color": 2053375,
+  "water_fog_color": 856087,
+  "particle": "minecraft:dripping_water",
+  "particle_probability": 0.002
+}

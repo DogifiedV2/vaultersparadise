@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/rainveil_pagoda_starts",
+  "rooms": "the_vault:vault/rooms/rainveil_pagoda_rooms",
+  "tunnels": "the_vault:vault/tunnels/rainveil_pagoda_tunnels",
+  "ambient_light": 0.28,
+  "fog_color": 8491680,
+  "grass_color": 6977108,
+  "foliage_color": 5400143,
+  "water_color": 3109248,
+  "water_fog_color": 1523274,
+  "particle": "minecraft:splash",
+  "particle_probability": 0.003
+}

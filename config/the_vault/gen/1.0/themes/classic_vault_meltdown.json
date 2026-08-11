@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/meltdown_starts",
+  "rooms": "the_vault:vault/rooms/meltdown_rooms",
+  "tunnels": "the_vault:vault/tunnels/meltdown_tunnels",
+  "ambient_light": 0.15,
+  "fog_color": 3556634,
+  "grass_color": 7834670,
+  "foliage_color": 7834670,
+  "water_color": 8832813,
+  "water_fog_color": 2306066,
+  "particle": "minecraft:dust_color_transition 0.45 0.75 0.02 1.0 0.9 1.0 0.15",
+  "particle_probability": 0.006
+}

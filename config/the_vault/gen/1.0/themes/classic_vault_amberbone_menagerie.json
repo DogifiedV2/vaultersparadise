@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/amberbone_menagerie_starts",
+  "rooms": "the_vault:vault/rooms/amberbone_menagerie_rooms",
+  "tunnels": "the_vault:vault/tunnels/amberbone_menagerie_tunnels",
+  "ambient_light": 0.3,
+  "fog_color": 13744527,
+  "grass_color": 9210458,
+  "foliage_color": 6255190,
+  "water_color": 5012088,
+  "water_fog_color": 2640722,
+  "particle": "minecraft:end_rod",
+  "particle_probability": 0.002
+}

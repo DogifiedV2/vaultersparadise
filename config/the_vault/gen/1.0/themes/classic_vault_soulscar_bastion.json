@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/soulscar_bastion_starts",
+  "rooms": "the_vault:vault/rooms/soulscar_bastion_rooms",
+  "tunnels": "the_vault:vault/tunnels/soulscar_bastion_tunnels",
+  "ambient_light": 0.15,
+  "fog_color": 1048616,
+  "grass_color": 4861018,
+  "foliage_color": 5520435,
+  "water_color": 3211517,
+  "water_fog_color": 1114125,
+  "particle": "minecraft:dust_color_transition 0.65 0.05 0.95 1.0 0.1 0.7 0.9",
+  "particle_probability": 0.003
+}

@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/waxen_basilica_starts",
+  "rooms": "the_vault:vault/rooms/waxen_basilica_rooms",
+  "tunnels": "the_vault:vault/tunnels/waxen_basilica_tunnels",
+  "ambient_light": 0.22,
+  "fog_color": 2822165,
+  "grass_color": 5911343,
+  "foliage_color": 4336170,
+  "water_color": 8200233,
+  "water_fog_color": 3214098,
+  "particle": "minecraft:ash",
+  "particle_probability": 0.003
+}

@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/rivetfang_warrens_starts",
+  "rooms": "the_vault:vault/rooms/rivetfang_warrens_rooms",
+  "tunnels": "the_vault:vault/tunnels/rivetfang_warrens_tunnels",
+  "ambient_light": 0.18,
+  "fog_color": 3817554,
+  "grass_color": 7826517,
+  "foliage_color": 6185552,
+  "water_color": 2377578,
+  "water_fog_color": 1055275,
+  "particle": "minecraft:ash",
+  "particle_probability": 0.002
+}

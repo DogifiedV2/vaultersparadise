@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/coldharbor_pumpworks_starts",
+  "rooms": "the_vault:vault/rooms/coldharbor_pumpworks_rooms",
+  "tunnels": "the_vault:vault/tunnels/coldharbor_pumpworks_tunnels",
+  "ambient_light": 0.18,
+  "fog_color": 9218488,
+  "grass_color": 7902880,
+  "foliage_color": 6388872,
+  "water_color": 5144475,
+  "water_fog_color": 2312286,
+  "particle": "minecraft:snowflake",
+  "particle_probability": 0.006
+}

@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/northmark_exchange_starts",
+  "rooms": "the_vault:vault/rooms/northmark_exchange_rooms",
+  "tunnels": "the_vault:vault/tunnels/northmark_exchange_tunnels",
+  "ambient_light": 0.26,
+  "fog_color": 12562060,
+  "grass_color": 9144920,
+  "foliage_color": 6975566,
+  "water_color": 4741777,
+  "water_fog_color": 2505810,
+  "particle": "minecraft:ash",
+  "particle_probability": 0.0008
+}
