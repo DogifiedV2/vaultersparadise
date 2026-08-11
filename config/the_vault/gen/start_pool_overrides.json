@@ -8,6 +8,15 @@
           "type": "objective"
         }
       ]
+    },
+    {
+      "poolId": "the_vault:vault/starts/royale_starts",
+      "conditions": [
+        {
+          "objectiveId": "the_vault:tower",
+          "type": "objective"
+        }
+      ]
     }
   ]
 }
