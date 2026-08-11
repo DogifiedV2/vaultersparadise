@@ -15102,7 +15102,7 @@ hash = "cde13626deadb898c8652f632e750bac2977fb73a4d12c620a82805d7600c447"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "11daf87940345eb2efe9bb08caa00ae2815eeb843db47bdb4967ad0338b1a1b2"
+hash = "d3d69ce10383cf80dea5c11ef92b91d476cdc58d4884c6d1dcbc06100bd611d9"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -15698,7 +15698,7 @@ hash = "6edd41cf769fc5b281518075ff263521cb603bb45c6b75f2ac6d3d9e771aaba4"
 
 [[files]]
 file = "config/the_vault/tower.json"
-hash = "1444f5b3862e1b0792b9648772410e5d5a0806c0814afda7df9533f80e9c8619"
+hash = "5bde1502cab9d6dba69ccd044e20dfce787935f6603d7188187d116d2b54dcae"
 
 [[files]]
 file = "config/the_vault/trader_exclusions.json"
@@ -15786,7 +15786,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "eb85a017e9368c67ec085cc8155242fa32ea7a0d60af59a1f5c213a951514b07"
+hash = "1f1d26e2edd081f8ac60c2aa54f6a07767a5b1eb0f1d1bac3d6bd5447277c397"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
