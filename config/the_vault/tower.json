@@ -1,0 +1,20 @@
+{
+  "wavesPerFloor": 3,
+  "baseMobsPerWave": 4,
+  "floorsPerExtraMob": 10,
+  "maxMobsPerWave": 12,
+  "waveDelayTicks": 40,
+  "hordeWeight": 70,
+  "assassinWeight": 20,
+  "tankWeight": 10,
+  "weightShiftFloorInterval": 10,
+  "assassinWeightPerInterval": 2,
+  "tankWeightPerInterval": 1,
+  "minimumHordeWeight": 50,
+  "arenaCellSize": 64,
+  "arenaRegionZ": 1,
+  "arenaCenterX": 24,
+  "arenaCenterY": 65,
+  "arenaCenterZ": 24,
+  "spawnRadius": 7
+}
