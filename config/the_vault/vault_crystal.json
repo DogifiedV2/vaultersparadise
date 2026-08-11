@@ -471,6 +471,10 @@
           {
             "value": "the_vault:classic_vault_cinder_warren",
             "weight": 5
+          },
+          {
+            "value": "the_vault:classic_vault_starless_keep",
+            "weight": 5
           }
         ],
         "seasonalWeights": {
@@ -681,6 +685,10 @@
           },
           {
             "value": "the_vault:classic_vault_cinder_warren",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_starless_keep",
             "weight": 10
           }
         ],

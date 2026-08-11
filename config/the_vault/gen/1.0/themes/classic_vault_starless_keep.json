@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/starless_keep_starts",
+  "rooms": "the_vault:vault/rooms/starless_keep_rooms",
+  "tunnels": "the_vault:vault/tunnels/starless_keep_tunnels",
+  "ambient_light": 0.14,
+  "fog_color": 1052696,
+  "grass_color": 2960181,
+  "foliage_color": 3486015,
+  "water_color": 1512224,
+  "water_fog_color": 1052696,
+  "particle": "minecraft:ash",
+  "particle_probability": 0.002
+}

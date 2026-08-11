@@ -74,7 +74,8 @@
     "the_vault:classic_vault_wendarr",
     "the_vault:classic_vault_meltdown",
     "the_vault:classic_vault_abyssal_reliquary",
-    "the_vault:classic_vault_cinder_warren"
+    "the_vault:classic_vault_cinder_warren",
+    "the_vault:classic_vault_starless_keep"
   ],
   "allowedBlocks": [
     "the_vault:golden_tooth",
@@ -184,6 +185,28 @@
     "the_vault:cinder_warren_patched_bronze_plates_wall",
     "the_vault:cinder_warren_patched_bronze_plates_vertical_slab",
     "the_vault:cinder_warren_ash_gravel",
-    "the_vault:cinder_warren_hoardstone"
+    "the_vault:cinder_warren_hoardstone",
+    "the_vault:starless_keep_starless_stone",
+    "the_vault:starless_keep_starless_stone_slab",
+    "the_vault:starless_keep_starless_stone_stairs",
+    "the_vault:starless_keep_starless_stone_wall",
+    "the_vault:starless_keep_starless_stone_vertical_slab",
+    "the_vault:starless_keep_hewn_dusk_bricks",
+    "the_vault:starless_keep_hewn_dusk_bricks_slab",
+    "the_vault:starless_keep_hewn_dusk_bricks_stairs",
+    "the_vault:starless_keep_hewn_dusk_bricks_wall",
+    "the_vault:starless_keep_hewn_dusk_bricks_vertical_slab",
+    "the_vault:starless_keep_ashen_support_timber",
+    "the_vault:starless_keep_ashen_support_timber_slab",
+    "the_vault:starless_keep_ashen_support_timber_stairs",
+    "the_vault:starless_keep_ashen_support_timber_wall",
+    "the_vault:starless_keep_ashen_support_timber_vertical_slab",
+    "the_vault:starless_keep_dull_void_iron",
+    "the_vault:starless_keep_dull_void_iron_slab",
+    "the_vault:starless_keep_dull_void_iron_stairs",
+    "the_vault:starless_keep_dull_void_iron_wall",
+    "the_vault:starless_keep_dull_void_iron_vertical_slab",
+    "the_vault:starless_keep_void_ash",
+    "the_vault:starless_keep_fractured_starless_stone"
   ]
 }

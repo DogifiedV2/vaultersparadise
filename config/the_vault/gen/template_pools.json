@@ -4841,6 +4841,26 @@
       "id": "the_vault:vault/tunnels/cinder_warren_tunnels",
       "name": "Cinder Warren Tunnels",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/cinder_warren_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/starts/starless_keep_starts",
+      "name": "Starless Keep Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/starless_keep_starts.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/starless_keep_common_rooms",
+      "name": "Starless Keep Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/starless_keep_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/starless_keep_rooms",
+      "name": "Starless Keep Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/starless_keep_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/starless_keep_tunnels",
+      "name": "Starless Keep Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/starless_keep_tunnels.json"
     }
   ]
 }

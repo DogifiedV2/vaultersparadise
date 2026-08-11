@@ -2739,6 +2739,16 @@
       "id": "the_vault:chaos/universal_chaos_cinder_warren",
       "name": "Universal Chaos Cinder Warren",
       "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cinder_warren.json"
+    },
+    {
+      "id": "the_vault:universal_starless_keep",
+      "name": "Universal Starless Keep",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_starless_keep.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_starless_keep",
+      "name": "Universal Chaos Starless Keep",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_starless_keep.json"
     }
   ]
 }
