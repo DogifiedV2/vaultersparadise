@@ -16,5 +16,16 @@
   "arenaCenterX": 24,
   "arenaCenterY": 65,
   "arenaCenterZ": 24,
-  "spawnRadius": 7
+  "spawnRadius": 7,
+  "infinityPointsBase": 1.0,
+  "infinityPointsSqrtMultiplier": 0.2,
+  "startingFloorBase": 1,
+  "startingFloorPerUpgrade": 1,
+  "startingFloorMaxLevel": 5,
+  "startingFloorBaseCost": 5,
+  "startingFloorCostPerLevel": 5,
+  "extraTimeSecondsPerUpgrade": 30,
+  "extraTimeMaxLevel": 5,
+  "extraTimeBaseCost": 5,
+  "extraTimeCostPerLevel": 5
 }

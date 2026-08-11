@@ -15102,7 +15102,7 @@ hash = "cde13626deadb898c8652f632e750bac2977fb73a4d12c620a82805d7600c447"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "d3d69ce10383cf80dea5c11ef92b91d476cdc58d4884c6d1dcbc06100bd611d9"
+hash = "649c1fb1571b527cf7bb0f8cb8c808470c2ad70566374c64e95111c3bd3bcb90"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -15698,7 +15698,7 @@ hash = "6edd41cf769fc5b281518075ff263521cb603bb45c6b75f2ac6d3d9e771aaba4"
 
 [[files]]
 file = "config/the_vault/tower.json"
-hash = "5bde1502cab9d6dba69ccd044e20dfce787935f6603d7188187d116d2b54dcae"
+hash = "65f496c1ec7fba5f656ab5210a9f21e349ce61576e8438236103d402507af415"
 
 [[files]]
 file = "config/the_vault/trader_exclusions.json"
@@ -16703,6 +16703,22 @@ hash = "be2f2837d269acbae76cdff58f395bfa81939d4e24238d49a0b4890f642879c9"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/bingo/vindicator.png"
 hash = "dc835a2d4dc175d9cd680b856f35ef62094e53d24abac95e49709effb35f1f6e"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/infinity_tower/points.png"
+hash = "80b22d03cb5752be24fe82a2af7a04ef88051d7f9e7a8c18c1046d8fc7ab07d8"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/infinity_tower/ranks.png"
+hash = "f0f762446b3dbfcea8a24d7b225f06fc6665331898269295450cceb398a48307"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/infinity_tower/tower.png"
+hash = "90c329ab0d936b108ac0a9f084c9183c70f6b485462d5e5a444b52f19a700970"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/infinity_tower/upgrades.png"
+hash = "bec505a317cd25117acce3b376719e59bb252895e9a93b16dec7256a9efd3905"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/map/arcade.png"
@@ -18841,7 +18857,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "3d8840f40539c08a0020ecaa8bbf6abb17c2ed552e5828a29a9fb2aa94b009d3"
+hash = "f4ff678e2af9377e4b07b9172e98413f48ec1fa6e50dd3da5cf1bc789dcdd8b3"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
