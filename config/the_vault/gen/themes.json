@@ -543,6 +543,12 @@
       "name": "Abyssal Reliquary",
       "color": 5625538,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_abyssal_reliquary.json"
+    },
+    {
+      "id": "the_vault:classic_vault_cinder_warren",
+      "name": "Cinder Warren",
+      "color": 13658660,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_cinder_warren.json"
     }
   ]
 }

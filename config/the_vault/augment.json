@@ -363,6 +363,9 @@
     },
     "the_vault:classic_vault_abyssal_reliquary": {
       "the_vault:augment{theme:\"the_vault:classic_vault_abyssal_reliquary\"}": 5
+    },
+    "the_vault:classic_vault_cinder_warren": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_cinder_warren\"}": 5
     }
   }
 }

@@ -467,6 +467,10 @@
           {
             "value": "the_vault:classic_vault_abyssal_reliquary",
             "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_cinder_warren",
+            "weight": 5
           }
         ],
         "seasonalWeights": {
@@ -674,6 +678,10 @@
           {
             "value": "the_vault:classic_vault_abyssal_reliquary",
             "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_cinder_warren",
+            "weight": 10
           }
         ],
         "seasonalWeights": {

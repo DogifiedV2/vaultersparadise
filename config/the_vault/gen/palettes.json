@@ -2729,6 +2729,16 @@
       "id": "the_vault:chaos/universal_chaos_abyssal_reliquary",
       "name": "Universal Chaos Abyssal Reliquary",
       "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_abyssal_reliquary.json"
+    },
+    {
+      "id": "the_vault:universal_cinder_warren",
+      "name": "Universal Cinder Warren",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_cinder_warren.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cinder_warren",
+      "name": "Universal Chaos Cinder Warren",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cinder_warren.json"
     }
   ]
 }

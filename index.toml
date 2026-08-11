@@ -1654,7 +1654,7 @@ hash = "c2b07047565e72f025fa5be4eeca1034b995981cf96f9534ab0e79b25c275b9c"
 
 [[files]]
 file = "config/the_vault/augment.json"
-hash = "bb359026bd7344d703dd95d3e19260b1ec10c4fcfc41104bc382e869a0af088d"
+hash = "ee1d5eb8a12b44f91f1054ad028efc350bdcbece7fe207f36a0d9b81ce0fd918"
 
 [[files]]
 file = "config/the_vault/augment_box.json"
@@ -3023,6 +3023,10 @@ hash = "dbd64826fe6c6ae54f8a6b535075cf4ce29876b7f8b46606da77106ac89fbe2b"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave_wasteland.json"
 hash = "21ea3ff6d5a8034d5ef28ff0ff2550f92d867f71fd608e3139ca741a3c5a77a6"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cinder_warren.json"
+hash = "75ea7770093994d681937bea1239a30123e490c6f3bfd24851de635b38c7f436"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_deep_mesa.json"
@@ -4887,6 +4891,10 @@ hash = "862a3cc14f6dd82c9e26c506ea53286edd03fe7ed7b1737a1879816e6aec708b"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_cave_wasteland.json"
 hash = "8673b2571f45ee6fb847eebf6b8c800734291b4185bfc1276148d68e535a2fb8"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/universal_cinder_warren.json"
+hash = "1717e377f1c7801c66ce187ac81c99df1345b4722c1cffae9d1c26e8bee96c93"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_deep_mesa.json"
@@ -12545,6 +12553,14 @@ file = "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_rooms.json"
 hash = "e62b0bc63c3084215d65067eb416c355a5674bf96fafbfd4c72eadef4e60f385"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/cinder_warren_common_rooms.json"
+hash = "8d5d931a19184868a4ae544e998e0dab9ed473459ce63517b90ba853b5da84cd"
+
+[[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/rooms/cinder_warren_rooms.json"
+hash = "470b486a05818d844843f5772bb3d6fd7eca9f71054571bb72aa0ad3d4e0ac15"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/rooms/common/bee1.json"
 hash = "45d0910f20b138ad4747fd9db26e44f297e3b247dc1205cb24925097cc1d9c30"
 
@@ -14245,6 +14261,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/starts/chaos_starts.json"
 hash = "6b26b1d8541d3737764785f72aa2b4d5a46d22c61c2d78e50b6319417dc6bdd7"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/starts/cinder_warren_starts.json"
+hash = "c8d02c9ea5109641df0c0bb8ca28c268a8aaefc9cb4cb67fdf3064cb2e2bd902"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/starts/deep_mesa_starts.json"
 hash = "51bacc04b3c55f243f577bb3774e4ba9b257d1616b8a594785fd98ec3432b4b8"
 
@@ -14533,6 +14553,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/chaos_tunnels.json
 hash = "c8a0be1acd99116d5876b2e6071050f66c38d559c9d04649ad7e0e2dfc3aca20"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/cinder_warren_tunnels.json"
+hash = "11d78ebe8f6cb94a0e1f01f284e251a3adbab60108478c16d68f9876dd096fa4"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/deep_mesa_tunnels.json"
 hash = "9dce11417c663e2ef5ee65ac7f274750fa2f62d364262b51467ebaae71b64e9a"
 
@@ -14815,6 +14839,10 @@ hash = "9d699d0aa6aba97763d2a9cadf2239c38c87a8bd02ee9b4042e3a8707e49cf55"
 [[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_chaos_cake.json"
 hash = "09f689448c1491191dff3528559e84aace4cdadbcbc6747844bce19d50e55ec8"
+
+[[files]]
+file = "config/the_vault/gen/1.0/themes/classic_vault_cinder_warren.json"
+hash = "e01b4136867c48451bb6282001de45d5bc5a2e10f51314661c1dfeb39f803d91"
 
 [[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_deep_mesa.json"
@@ -15146,7 +15174,7 @@ hash = "54662b419c79518cd41c2226e563970e707ca7c63fe7c637d7f897202f788daa"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "00d8ddc1259e04f37d4d14615d32ca075dfe213d4a244aac089c1de56a84fcb6"
+hash = "deaa82a112847a5815b524f1a09d0ca9cd25fcf5c0ef6294735683e9c6e36582"
 
 [[files]]
 file = "config/the_vault/gen/room_level_lock.json"
@@ -15158,7 +15186,7 @@ hash = "aec2047fa0fa2ecdcc85d477943ded55ed9ea0d5348d5ff75de66eb6a9a04798"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "d614a9173c5f6de5d20fa01d0983cb673a3df9356a49c3016fb32c32d9dd443d"
+hash = "f789186cb536bd03722edd251a2a2814381ec08c8e46beece71e345195b02068"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
@@ -15166,7 +15194,7 @@ hash = "649c1fb1571b527cf7bb0f8cb8c808470c2ad70566374c64e95111c3bd3bcb90"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "de33387ed782372c8c3966bf1f21898ee466c2fdd29e455745a25a73edb93ac9"
+hash = "4f6e94a1979db81e183bc4798726eec2181c0982dccdfe8a30da4fcf26252112"
 
 [[files]]
 file = "config/the_vault/god_shop.json"
@@ -15742,7 +15770,7 @@ hash = "64e0e34b9d4bc78a036d8bbbd2dab83786579c4d36ce355a2b65aa37d8beae23"
 
 [[files]]
 file = "config/the_vault/theme_augment_lore.json"
-hash = "fefb87236c300ae2a92e7069dd9a1e41c93c9c2dff382db915502eab15a0705d"
+hash = "b05ef4132fa8fa568da65af2f7963147158f2c249f49ca3596a16e5cdec7ba85"
 
 [[files]]
 file = "config/the_vault/tile_groups.json"
@@ -15846,7 +15874,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "969b7d4f8e3feb70c7d248aee49924fbe074363e486b51e47110ceed4d6668e5"
+hash = "85759d1509104ecf1bccdedf2fb0e88f84d71c9908cf3a3f7647aa032e4ac738"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -15986,7 +16014,7 @@ hash = "b3edc988c4572d7bff65b9aadb2d21b897fc378d95beb7b0af526b3618d3847e"
 
 [[files]]
 file = "config/the_vault/void_crucible.json"
-hash = "6542579f141b37f53177a9d536f3fbf33834b122237dc651234ea2bc9583c6c5"
+hash = "a4adcfa86b4b8a8b20182b283be12bcdf1fe00e75cee1b78bf63dceda7d7675b"
 
 [[files]]
 file = "config/the_vault/void_crucible/crystal_caves.json"
@@ -18901,7 +18929,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "237a1209e56cb2d14e4145480b2b130ab503e4d4b513857b7c0ca199a271ab45"
+hash = "8090fdaca9f69f3ec547e9829f069ec0950c663050145de38127ace2dfeeaffc"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
