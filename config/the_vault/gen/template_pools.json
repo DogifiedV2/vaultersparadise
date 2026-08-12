@@ -4798,49 +4798,9 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/meltdown_tunnels.json"
     },
     {
-      "id": "the_vault:vault/starts/abyssal_reliquary_starts",
-      "name": "Abyssal Reliquary Starts",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/abyssal_reliquary_starts.json"
-    },
-    {
-      "id": "the_vault:vault/rooms/abyssal_reliquary_common_rooms",
-      "name": "Abyssal Reliquary Common Rooms",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/abyssal_reliquary_common_rooms.json"
-    },
-    {
-      "id": "the_vault:vault/rooms/abyssal_reliquary_rooms",
-      "name": "Abyssal Reliquary Rooms",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/abyssal_reliquary_rooms.json"
-    },
-    {
-      "id": "the_vault:vault/tunnels/abyssal_reliquary_tunnels",
-      "name": "Abyssal Reliquary Tunnels",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/abyssal_reliquary_tunnels.json"
-    },
-    {
       "id": "the_vault:vault/rooms/verdigris_conservatory_resource_rooms",
       "name": "Verdigris Conservatory Resource Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/verdigris_conservatory_resource_rooms.json"
-    },
-    {
-      "id": "the_vault:vault/starts/cinder_warren_starts",
-      "name": "Cinder Warren Starts",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/cinder_warren_starts.json"
-    },
-    {
-      "id": "the_vault:vault/rooms/cinder_warren_common_rooms",
-      "name": "Cinder Warren Common Rooms",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cinder_warren_common_rooms.json"
-    },
-    {
-      "id": "the_vault:vault/rooms/cinder_warren_rooms",
-      "name": "Cinder Warren Rooms",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/cinder_warren_rooms.json"
-    },
-    {
-      "id": "the_vault:vault/tunnels/cinder_warren_tunnels",
-      "name": "Cinder Warren Tunnels",
-      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/cinder_warren_tunnels.json"
     },
     {
       "id": "the_vault:vault/starts/starless_keep_starts",

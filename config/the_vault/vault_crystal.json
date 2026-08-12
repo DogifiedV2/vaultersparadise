@@ -121,10 +121,6 @@
           {
             "value": "the_vault:classic_vault_meltdown",
             "weight": 7
-          },
-          {
-            "value": "the_vault:classic_vault_abyssal_reliquary",
-            "weight": 8
           }
         ],
         "seasonalWeights": {
@@ -268,10 +264,6 @@
           {
             "value": "the_vault:classic_vault_plastic",
             "weight": 5
-          },
-          {
-            "value": "the_vault:classic_vault_abyssal_reliquary",
-            "weight": 8
           }
         ],
         "seasonalWeights": {
@@ -463,14 +455,6 @@
           {
             "value": "the_vault:classic_vault_plastic",
             "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_abyssal_reliquary",
-            "weight": 19
-          },
-          {
-            "value": "the_vault:classic_vault_cinder_warren",
-            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_starless_keep",
@@ -677,14 +661,6 @@
           },
           {
             "value": "the_vault:classic_vault_plastic",
-            "weight": 10
-          },
-          {
-            "value": "the_vault:classic_vault_abyssal_reliquary",
-            "weight": 19
-          },
-          {
-            "value": "the_vault:classic_vault_cinder_warren",
             "weight": 10
           },
           {
