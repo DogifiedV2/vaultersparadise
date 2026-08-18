@@ -1,0 +1,108 @@
+{
+  "groups": {
+    "CAKE": {
+      "group": "Cake",
+      "headerColor": -12674156,
+      "headerTextColor": -1,
+      "x": 0,
+      "y": 0,
+      "boxWidth": 170,
+      "boxHeight": 150,
+      "icon": "the_vault:gui/objective_upgrades/category_cake"
+    },
+    "ASCENSION": {
+      "group": "Ascension",
+      "headerColor": -13794410,
+      "headerTextColor": -1,
+      "x": 190,
+      "y": 0,
+      "boxWidth": 170,
+      "boxHeight": 150,
+      "icon": "the_vault:gui/objective_upgrades/category_ascension"
+    },
+    "GREED": {
+      "group": "Greed",
+      "headerColor": -5608926,
+      "headerTextColor": -1,
+      "x": 380,
+      "y": 0,
+      "boxWidth": 170,
+      "boxHeight": 150,
+      "icon": "the_vault:gui/objective_upgrades/category_greed"
+    }
+  },
+  "styles": {
+    "CAKE_GALORE": {
+      "x": 35,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/cake_galore"
+    },
+    "CHOCOLATE_FLAVOR": {
+      "x": 85,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/chocolate_flavor"
+    },
+    "STRAWBERRY_FLAVOR": {
+      "x": 135,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/strawberry_flavor"
+    },
+    "GOLDEN_CAKES": {
+      "x": 35,
+      "y": 110,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/golden_cakes"
+    },
+    "FRUITY": {
+      "x": 85,
+      "y": 110,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/fruity"
+    },
+    "MORE_EMBERS": {
+      "x": 225,
+      "y": 75,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/more_embers"
+    },
+    "VAULT_FORTUNE": {
+      "x": 275,
+      "y": 75,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/vault_fortune"
+    },
+    "SEE_IT_ALL": {
+      "x": 325,
+      "y": 75,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/see_it_all"
+    },
+    "RARER_PAYOUTS": {
+      "x": 415,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/rarer_payouts"
+    },
+    "BETTER_PAYOUTS": {
+      "x": 465,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/better_payouts"
+    },
+    "TRUE_SCAVENGER": {
+      "x": 515,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/true_scavenger"
+    },
+    "DIVINE_CONNECTION": {
+      "x": 415,
+      "y": 110,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/divine_connection"
+    }
+  }
+}

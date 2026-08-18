@@ -1,0 +1,169 @@
+{
+  "upgrades": [
+    {
+      "upgrade": "CAKE_GALORE",
+      "maxLevel": 10,
+      "fallbackCost": 250,
+      "costs": [
+        25,
+        50,
+        75,
+        100,
+        125,
+        150,
+        175,
+        200,
+        225,
+        250
+      ]
+    },
+    {
+      "upgrade": "CHOCOLATE_FLAVOR",
+      "maxLevel": 10,
+      "fallbackCost": 150,
+      "costs": [
+        15,
+        30,
+        45,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150
+      ]
+    },
+    {
+      "upgrade": "STRAWBERRY_FLAVOR",
+      "maxLevel": 10,
+      "fallbackCost": 150,
+      "costs": [
+        15,
+        30,
+        45,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150
+      ]
+    },
+    {
+      "upgrade": "GOLDEN_CAKES",
+      "maxLevel": 5,
+      "fallbackCost": 375,
+      "costs": [
+        75,
+        150,
+        225,
+        300,
+        375
+      ]
+    },
+    {
+      "upgrade": "FRUITY",
+      "maxLevel": 1,
+      "fallbackCost": 250,
+      "costs": [
+        250
+      ]
+    },
+    {
+      "upgrade": "MORE_EMBERS",
+      "maxLevel": 10,
+      "fallbackCost": 10,
+      "costs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "upgrade": "VAULT_FORTUNE",
+      "maxLevel": 1,
+      "fallbackCost": 10,
+      "costs": [
+        10
+      ]
+    },
+    {
+      "upgrade": "SEE_IT_ALL",
+      "maxLevel": 1,
+      "fallbackCost": 15,
+      "costs": [
+        15
+      ]
+    },
+    {
+      "upgrade": "RARER_PAYOUTS",
+      "maxLevel": 3,
+      "fallbackCost": 15,
+      "costs": [
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "upgrade": "BETTER_PAYOUTS",
+      "maxLevel": 3,
+      "fallbackCost": 15,
+      "costs": [
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "upgrade": "TRUE_SCAVENGER",
+      "maxLevel": 5,
+      "fallbackCost": 15,
+      "costs": [
+        3,
+        6,
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "upgrade": "DIVINE_CONNECTION",
+      "maxLevel": 1,
+      "fallbackCost": 20,
+      "costs": [
+        20
+      ]
+    }
+  ],
+  "ascensionPointsPerSuccess": 1,
+  "greedPointsPerCompletedTask": 1,
+  "cakeGalorePercentPerLevel": 10.0,
+  "chocolateChancePercentPerLevel": 1.0,
+  "strawberryChancePercentPerLevel": 1.0,
+  "goldenCakeChancePercentPerLevel": 0.5,
+  "fruityChancePercent": 5.0,
+  "fruityTimeSeconds": 30,
+  "emberBonusPercentPerLevel": 5.0,
+  "specialRoomOddsMultiplier": 1.5,
+  "rareRewardBonusPerLevel": 0.25,
+  "greedCoinBonusPercentPerLevel": 10.0,
+  "greedObjectiveItemBonusPercentPerLevel": 20.0,
+  "idonaDamagePercentPerTask": 10.0,
+  "velaraDefencePercentPerTask": 10.0,
+  "wendarrSpeedPercentPerTask": 10.0,
+  "tenosLuckyHitPercentPerTask": 5.0,
+  "maximumDivineDamagePercent": 100.0,
+  "maximumDivineDefencePercent": 80.0,
+  "maximumDivineSpeedPercent": 50.0,
+  "maximumDivineLuckyHitPercent": 25.0
+}

@@ -15513,6 +15513,14 @@ file = "config/the_vault/mystery_hostile_egg.json"
 hash = "b6da838587bc379750faeeb2c2772addfd0af6335869326920f7d98a1cb0d05f"
 
 [[files]]
+file = "config/the_vault/objective_upgrades.json"
+hash = "cd7a158d61e9d6182e948e4b1bf8172065fc3f109a23fd7a2330eb4ccad8a47b"
+
+[[files]]
+file = "config/the_vault/objective_upgrades_gui_styles.json"
+hash = "44757b5d5b4f731942a9fa8bce9e1113d270861313463c16d485cd8083968087"
+
+[[files]]
 file = "config/the_vault/old_notes.json"
 hash = "cf991056fa34449297cc84021dc9b970b4b0153b051d383e7b1b6297f378ec6f"
 
@@ -18905,7 +18913,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "2e0445a0ce797005fa6f2921779b1311f5c87f7dbce018e831a3bf7427a3762d"
+hash = "a1b3bdf9599ce05a401f4c0c7e4bb6eb2662a446f08bf130cb6c2449bfe44435"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
