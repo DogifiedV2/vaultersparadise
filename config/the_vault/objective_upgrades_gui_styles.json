@@ -51,13 +51,13 @@
       "icon": "the_vault:gui/objective_upgrades/strawberry_flavor"
     },
     "GOLDEN_CAKES": {
-      "x": 35,
+      "x": 60,
       "y": 110,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/golden_cakes"
     },
     "FRUITY": {
-      "x": 85,
+      "x": 110,
       "y": 110,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/fruity"
@@ -99,7 +99,7 @@
       "icon": "the_vault:gui/objective_upgrades/true_scavenger"
     },
     "DIVINE_CONNECTION": {
-      "x": 415,
+      "x": 465,
       "y": 110,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/divine_connection"
