@@ -113,6 +113,14 @@
   "infinityCoinsPerFloorBase": 8.0,
   "infinityCoinsGrowthPerFloor": 1.0012,
   "deathRewardMaximumPercent": 75.0,
+  "combatUpgradeEffectTiers": [
+    { "throughLevel": 100, "percentPerLevel": 2.01 },
+    { "throughLevel": 200, "percentPerLevel": 2.515625 },
+    { "throughLevel": 300, "percentPerLevel": 3.0225 },
+    { "throughLevel": 400, "percentPerLevel": 4.04 },
+    { "throughLevel": 500, "percentPerLevel": 5.0625 },
+    { "throughLevel": 2147483647, "percentPerLevel": 6.09 }
+  ],
   "majorUpgradeEffectTiers": [
     {
       "throughLevel": 100,
@@ -161,23 +169,22 @@
       "percentPerLevel": 1.25
     }
   ],
-  "allAbilitiesUnlockFloor": 1000,
   "upgradeTuning": [
     {
       "upgrade": "ATTACK_DAMAGE",
-      "priority": 5,
-      "ranksAtFloor1000": 90,
+      "priority": 4,
+      "ranksAtFloor1000": 95,
       "rankProgressionExponent": 1.8,
-      "baseCost": 10,
-      "specializationGrowth": 1.0015
+      "baseCost": 25,
+      "specializationGrowth": 1.00175
     },
     {
       "upgrade": "ARMOR",
-      "priority": 5,
-      "ranksAtFloor1000": 90,
+      "priority": 4,
+      "ranksAtFloor1000": 95,
       "rankProgressionExponent": 1.8,
-      "baseCost": 10,
-      "specializationGrowth": 1.0015
+      "baseCost": 25,
+      "specializationGrowth": 1.00175
     },
     {
       "upgrade": "STRONGER_ABILITIES",
@@ -194,39 +201,12 @@
       "rankProgressionExponent": 1.5,
       "baseCost": 25,
       "specializationGrowth": 1.003
-    },
-    {
-      "upgrade": "BETTER_GEAR",
-      "priority": 5,
-      "ranksAtFloor1000": 100,
-      "rankProgressionExponent": 1.8,
-      "baseCost": 15,
-      "specializationGrowth": 1.002
-    },
-    {
-      "upgrade": "BETTER_WEAPON",
-      "priority": 5,
-      "ranksAtFloor1000": 100,
-      "rankProgressionExponent": 1.8,
-      "baseCost": 15,
-      "specializationGrowth": 1.002
-    },
-    {
-      "upgrade": "ALL_ABILITIES",
-      "priority": 1,
-      "ranksAtFloor1000": 1,
-      "rankProgressionExponent": 1.285,
-      "baseCost": 1000,
-      "specializationGrowth": 1.15
     }
   ],
   "enabledUpgrades": [
     "ATTACK_DAMAGE",
     "ARMOR",
     "STRONGER_ABILITIES",
-    "FORTUNE",
-    "BETTER_GEAR",
-    "BETTER_WEAPON",
-    "ALL_ABILITIES"
+    "FORTUNE"
   ]
 }

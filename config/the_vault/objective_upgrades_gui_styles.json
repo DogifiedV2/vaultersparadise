@@ -29,6 +29,26 @@
       "boxWidth": 170,
       "boxHeight": 150,
       "icon": "the_vault:gui/objective_upgrades/category_greed"
+    },
+    "TOWER": {
+      "group": "Infinity Tower",
+      "headerColor": -10073944,
+      "headerTextColor": -1,
+      "x": 0,
+      "y": 170,
+      "boxWidth": 170,
+      "boxHeight": 150,
+      "icon": "the_vault:gui/objective_upgrades/category_tower"
+    },
+    "MASTERY": {
+      "group": "Vault Mastery",
+      "headerColor": -7647629,
+      "headerTextColor": -1,
+      "x": 190,
+      "y": 170,
+      "boxWidth": 170,
+      "boxHeight": 150,
+      "icon": "the_vault:gui/objective_upgrades/category_mastery"
     }
   },
   "styles": {
@@ -103,6 +123,34 @@
       "y": 110,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/divine_connection"
+    },
+    "RELENTLESS_STRIKES": {
+      "x": 35, "y": 210, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/relentless_strikes"
+    },
+    "EMPOWERED_ABILITIES": {
+      "x": 85, "y": 210, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/empowered_abilities"
+    },
+    "REINFORCED_ARMOR": {
+      "x": 135, "y": 210, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/reinforced_armor"
+    },
+    "TOWER_FORTUNE": {
+      "x": 85, "y": 280, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/tower_fortune"
+    },
+    "DEFENSE_MASTERY": {
+      "x": 225, "y": 245, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/defense_mastery"
+    },
+    "ATTACK_MASTERY": {
+      "x": 275, "y": 245, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/attack_mastery"
+    },
+    "ABILITY_MASTERY": {
+      "x": 325, "y": 245, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/ability_mastery"
     }
   }
 }

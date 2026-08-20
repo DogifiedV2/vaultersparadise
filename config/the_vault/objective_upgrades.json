@@ -143,6 +143,60 @@
       "costs": [
         20
       ]
+    },
+    {
+      "upgrade": "DEFENSE_MASTERY",
+      "maxLevel": 10,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
+        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
+        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
+        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
+        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
+        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
+        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
+        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
+        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
+        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+      ]
+    },
+    {
+      "upgrade": "ATTACK_MASTERY",
+      "maxLevel": 10,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
+        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
+        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
+        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
+        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
+        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
+        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
+        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
+        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
+        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+      ]
+    },
+    {
+      "upgrade": "ABILITY_MASTERY",
+      "maxLevel": 10,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
+        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
+        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
+        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
+        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
+        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
+        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
+        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
+        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
+        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+      ]
     }
   ],
   "ascensionPointsPerSuccess": 1,
@@ -165,5 +219,8 @@
   "maximumDivineDamagePercent": 100.0,
   "maximumDivineDefencePercent": 80.0,
   "maximumDivineSpeedPercent": 50.0,
-  "maximumDivineLuckyHitPercent": 25.0
+  "maximumDivineLuckyHitPercent": 25.0,
+  "defenseMasteryRollPercentPerLevel": 100.0,
+  "attackMasteryRollPercentPerLevel": 100.0,
+  "abilityMasteryRanksPerLevel": 1
 }
