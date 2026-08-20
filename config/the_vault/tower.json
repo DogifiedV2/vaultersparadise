@@ -1,31 +1,232 @@
 {
+  "baseVaultLevel": 100,
   "wavesPerFloor": 3,
-  "baseMobsPerWave": 4,
-  "floorsPerExtraMob": 10,
-  "maxMobsPerWave": 12,
-  "waveDelayTicks": 40,
-  "hordeWeight": 70,
-  "assassinWeight": 20,
-  "tankWeight": 10,
-  "weightShiftFloorInterval": 10,
+  "baseMobsPerWave": 3,
+  "floorsPerExtraMob": 50,
+  "maxMobsPerWave": 14,
+  "hordeWeight": 72,
+  "assassinWeight": 19,
+  "tankWeight": 9,
+  "weightShiftFloorInterval": 250,
   "assassinWeightPerInterval": 2,
   "tankWeightPerInterval": 1,
-  "minimumHordeWeight": 50,
+  "minimumHordeWeight": 42,
   "arenaCellSize": 64,
   "arenaRegionZ": 1,
+  "arenaOriginX": 12,
+  "arenaOriginY": 1,
+  "arenaOriginZ": 12,
   "arenaCenterX": 32,
-  "arenaCenterY": 1,
+  "arenaCenterY": 5,
   "arenaCenterZ": 32,
-  "spawnRadius": 7,
-  "infinityPointsBase": 1.0,
-  "infinityPointsSqrtMultiplier": 0.2,
-  "startingFloorBase": 1,
-  "startingFloorPerUpgrade": 1,
-  "startingFloorMaxLevel": 5,
-  "startingFloorBaseCost": 5,
-  "startingFloorCostPerLevel": 5,
-  "extraTimeSecondsPerUpgrade": 30,
-  "extraTimeMaxLevel": 5,
-  "extraTimeBaseCost": 5,
-  "extraTimeCostPerLevel": 5
+  "arenaTemplateSize": 41,
+  "arenaTemplateHeight": 22,
+  "soloSpawnRadius": 7,
+  "multiplayerSpawnRadius": 10,
+  "soloExitDistance": 10,
+  "multiplayerExitDistance": 15,
+  "portalTriggerDistance": 1.25,
+  "apexFloorInterval": 50,
+  "apexExtraMobsPerWave": 1,
+  "apexMobHealthMultiplier": 1.1,
+  "apexMobDamageMultiplier": 1.05,
+  "apexRewardMultiplier": 2.0,
+  "bossFloorInterval": 500,
+  "majorBossFloorInterval": 1000,
+  "bossExtraMobsPerWave": 2,
+  "majorBossExtraMobsPerWave": 3,
+  "bossMobHealthMultiplier": 1.25,
+  "bossMobDamageMultiplier": 1.15,
+  "majorBossMobHealthMultiplier": 1.3,
+  "majorBossMobDamageMultiplier": 1.18,
+  "bossCheckpointRewardMultiplier": 4.0,
+  "majorBossCheckpointRewardMultiplier": 8.0,
+  "mobHealthAnchors": [
+    {
+      "floor": 1,
+      "multiplier": 1.0
+    },
+    {
+      "floor": 250,
+      "multiplier": 2.5
+    },
+    {
+      "floor": 500,
+      "multiplier": 5.0
+    },
+    {
+      "floor": 1000,
+      "multiplier": 7.0
+    },
+    {
+      "floor": 2500,
+      "multiplier": 60.0
+    },
+    {
+      "floor": 5000,
+      "multiplier": 1000.0
+    },
+    {
+      "floor": 7500,
+      "multiplier": 10000.0
+    },
+    {
+      "floor": 10000,
+      "multiplier": 120000.0
+    }
+  ],
+  "mobDamageAnchors": [
+    {
+      "floor": 1,
+      "multiplier": 1.0
+    },
+    {
+      "floor": 250,
+      "multiplier": 1.8
+    },
+    {
+      "floor": 500,
+      "multiplier": 3.0
+    },
+    {
+      "floor": 1000,
+      "multiplier": 4.0
+    },
+    {
+      "floor": 2500,
+      "multiplier": 35.0
+    },
+    {
+      "floor": 5000,
+      "multiplier": 700.0
+    },
+    {
+      "floor": 7500,
+      "multiplier": 8000.0
+    },
+    {
+      "floor": 10000,
+      "multiplier": 75000.0
+    }
+  ],
+  "scalingBeyondLastAnchorPer1000Floors": 1.5,
+  "infinityCoinsPerFloorBase": 8.0,
+  "infinityCoinsGrowthPerFloor": 1.0012,
+  "deathRewardMaximumPercent": 75.0,
+  "majorUpgradeEffectTiers": [
+    {
+      "throughLevel": 100,
+      "percentPerLevel": 1.0
+    },
+    {
+      "throughLevel": 200,
+      "percentPerLevel": 1.25
+    },
+    {
+      "throughLevel": 300,
+      "percentPerLevel": 1.5
+    },
+    {
+      "throughLevel": 400,
+      "percentPerLevel": 2.0
+    },
+    {
+      "throughLevel": 500,
+      "percentPerLevel": 2.5
+    },
+    {
+      "throughLevel": 2147483647,
+      "percentPerLevel": 3.0
+    }
+  ],
+  "fortuneEffectTiers": [
+    {
+      "throughLevel": 100,
+      "percentPerLevel": 0.5
+    },
+    {
+      "throughLevel": 200,
+      "percentPerLevel": 0.625
+    },
+    {
+      "throughLevel": 300,
+      "percentPerLevel": 0.75
+    },
+    {
+      "throughLevel": 400,
+      "percentPerLevel": 1.0
+    },
+    {
+      "throughLevel": 2147483647,
+      "percentPerLevel": 1.25
+    }
+  ],
+  "allAbilitiesUnlockFloor": 1000,
+  "upgradeTuning": [
+    {
+      "upgrade": "ATTACK_DAMAGE",
+      "priority": 5,
+      "ranksAtFloor1000": 90,
+      "rankProgressionExponent": 1.8,
+      "baseCost": 10,
+      "specializationGrowth": 1.0015
+    },
+    {
+      "upgrade": "ARMOR",
+      "priority": 5,
+      "ranksAtFloor1000": 90,
+      "rankProgressionExponent": 1.8,
+      "baseCost": 10,
+      "specializationGrowth": 1.0015
+    },
+    {
+      "upgrade": "STRONGER_ABILITIES",
+      "priority": 4,
+      "ranksAtFloor1000": 75,
+      "rankProgressionExponent": 1.7,
+      "baseCost": 15,
+      "specializationGrowth": 1.002
+    },
+    {
+      "upgrade": "FORTUNE",
+      "priority": 3,
+      "ranksAtFloor1000": 50,
+      "rankProgressionExponent": 1.5,
+      "baseCost": 25,
+      "specializationGrowth": 1.003
+    },
+    {
+      "upgrade": "BETTER_GEAR",
+      "priority": 5,
+      "ranksAtFloor1000": 100,
+      "rankProgressionExponent": 1.8,
+      "baseCost": 15,
+      "specializationGrowth": 1.002
+    },
+    {
+      "upgrade": "BETTER_WEAPON",
+      "priority": 5,
+      "ranksAtFloor1000": 100,
+      "rankProgressionExponent": 1.8,
+      "baseCost": 15,
+      "specializationGrowth": 1.002
+    },
+    {
+      "upgrade": "ALL_ABILITIES",
+      "priority": 1,
+      "ranksAtFloor1000": 1,
+      "rankProgressionExponent": 1.285,
+      "baseCost": 1000,
+      "specializationGrowth": 1.15
+    }
+  ],
+  "enabledUpgrades": [
+    "ATTACK_DAMAGE",
+    "ARMOR",
+    "STRONGER_ABILITIES",
+    "FORTUNE",
+    "BETTER_GEAR",
+    "BETTER_WEAPON",
+    "ALL_ABILITIES"
+  ]
 }
