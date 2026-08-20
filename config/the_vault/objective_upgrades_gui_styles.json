@@ -47,7 +47,7 @@
       "x": 190,
       "y": 170,
       "boxWidth": 170,
-      "boxHeight": 150,
+      "boxHeight": 190,
       "icon": "the_vault:gui/objective_upgrades/category_mastery"
     }
   },
@@ -84,21 +84,39 @@
     },
     "MORE_EMBERS": {
       "x": 225,
-      "y": 75,
+      "y": 40,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/more_embers"
     },
-    "VAULT_FORTUNE": {
+    "CHALLENGE_FORTUNE": {
       "x": 275,
-      "y": 75,
+      "y": 40,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/vault_fortune"
+      "icon": "the_vault:gui/objective_upgrades/challenge_fortune"
     },
-    "SEE_IT_ALL": {
+    "OMEGA_FORTUNE": {
       "x": 325,
-      "y": 75,
+      "y": 40,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/see_it_all"
+      "icon": "the_vault:gui/objective_upgrades/omega_fortune"
+    },
+    "BINGO": {
+      "x": 225,
+      "y": 110,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/bingo"
+    },
+    "ELIXIR": {
+      "x": 275,
+      "y": 110,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/elixir"
+    },
+    "SCAVENGER": {
+      "x": 325,
+      "y": 110,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/scavenger"
     },
     "RARER_PAYOUTS": {
       "x": 415,
@@ -118,8 +136,20 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/true_scavenger"
     },
-    "DIVINE_CONNECTION": {
+    "LESSER_COOLDOWN": {
+      "x": 415,
+      "y": 110,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/lesser_cooldown"
+    },
+    "LESSER_PERSONAL_VAULT_COOLDOWN": {
       "x": 465,
+      "y": 110,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/lesser_personal_vault_cooldown"
+    },
+    "DIVINE_CONNECTION": {
+      "x": 515,
       "y": 110,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/divine_connection"
@@ -140,16 +170,28 @@
       "x": 85, "y": 280, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/tower_fortune"
     },
+    "COMPANION_BUNDLE": {
+      "x": 225, "y": 210, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/companion_bundle"
+    },
+    "COMPANION_MASTERY": {
+      "x": 275, "y": 210, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/companion_mastery"
+    },
+    "VAULT_MASTERY": {
+      "x": 325, "y": 210, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/vault_mastery"
+    },
     "DEFENSE_MASTERY": {
-      "x": 225, "y": 245, "frameType": "RECTANGULAR",
+      "x": 225, "y": 280, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/defense_mastery"
     },
     "ATTACK_MASTERY": {
-      "x": 275, "y": 245, "frameType": "RECTANGULAR",
+      "x": 275, "y": 280, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/attack_mastery"
     },
     "ABILITY_MASTERY": {
-      "x": 325, "y": 245, "frameType": "RECTANGULAR",
+      "x": 325, "y": 280, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/ability_mastery"
     }
   }
