@@ -539,68 +539,38 @@
     },
     {
       "upgrade": "ABILITY_MASTERY",
-      "maxLevel": 10,
+      "maxLevel": 5,
       "fallbackCost": 1,
       "costs": [],
       "currencyCosts": [
         {
-          "cake": 10,
-          "ascension": 1,
-          "greed": 1,
-          "infinity": 0
-        },
-        {
-          "cake": 15,
-          "ascension": 1,
-          "greed": 1,
-          "infinity": 0
-        },
-        {
-          "cake": 20,
-          "ascension": 1,
-          "greed": 1,
-          "infinity": 0
-        },
-        {
           "cake": 25,
-          "ascension": 1,
-          "greed": 1,
-          "infinity": 0
-        },
-        {
-          "cake": 25,
-          "ascension": 1,
+          "ascension": 2,
           "greed": 2,
-          "infinity": 0
-        },
-        {
-          "cake": 30,
-          "ascension": 1,
-          "greed": 2,
-          "infinity": 0
-        },
-        {
-          "cake": 35,
-          "ascension": 1,
-          "greed": 3,
-          "infinity": 0
-        },
-        {
-          "cake": 40,
-          "ascension": 1,
-          "greed": 3,
           "infinity": 0
         },
         {
           "cake": 45,
-          "ascension": 1,
-          "greed": 4,
+          "ascension": 2,
+          "greed": 2,
           "infinity": 0
         },
         {
           "cake": 55,
-          "ascension": 1,
-          "greed": 5,
+          "ascension": 2,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 75,
+          "ascension": 2,
+          "greed": 6,
+          "infinity": 0
+        },
+        {
+          "cake": 100,
+          "ascension": 2,
+          "greed": 9,
           "infinity": 0
         }
       ]
@@ -612,7 +582,7 @@
   "chocolateChancePercentPerLevel": 1.0,
   "strawberryChancePercentPerLevel": 1.0,
   "goldenCakeChancePercentPerLevel": 0.5,
-  "fruityChancePercent": 5.0,
+  "fruityChancePercent": 10.0,
   "fruityTimeSeconds": 30,
   "emberBonusPercentPerLevel": 5.0,
   "challengeFortunePercentPerLevel": 50.0,
@@ -621,7 +591,7 @@
   "rareRewardBonusPerLevel": 0.25,
   "greedCoinBonusPercentPerLevel": 10.0,
   "greedObjectiveItemBonusPercentPerLevel": 20.0,
-  "greedCooldownReductionSecondsPerLevel": 1800,
+  "greedCooldownReductionSecondsPerLevel": 3600,
   "personalVaultCooldownReductionSecondsPerLevel": 21600,
   "companionBundleSlotsPerLevel": 1,
   "companionMasteryPercentPerLevel": 100.0,
