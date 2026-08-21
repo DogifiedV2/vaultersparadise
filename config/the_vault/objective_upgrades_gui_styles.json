@@ -37,7 +37,7 @@
       "x": 0,
       "y": 130,
       "boxWidth": 170,
-      "boxHeight": 70,
+      "boxHeight": 110,
       "icon": "the_vault:gui/objective_upgrades/category_tower"
     },
     "MASTERY": {
@@ -155,19 +155,19 @@
       "icon": "the_vault:gui/objective_upgrades/divine_connection"
     },
     "RELENTLESS_STRIKES": {
-      "x": 25, "y": 170, "frameType": "RECTANGULAR",
+      "x": 35, "y": 170, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/relentless_strikes"
     },
     "EMPOWERED_ABILITIES": {
-      "x": 65, "y": 170, "frameType": "RECTANGULAR",
+      "x": 85, "y": 170, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/empowered_abilities"
     },
     "REINFORCED_ARMOR": {
-      "x": 105, "y": 170, "frameType": "RECTANGULAR",
+      "x": 135, "y": 170, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/reinforced_armor"
     },
     "TOWER_FORTUNE": {
-      "x": 145, "y": 170, "frameType": "RECTANGULAR",
+      "x": 85, "y": 212, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/tower_fortune"
     },
     "COMPANION_BUNDLE": {
