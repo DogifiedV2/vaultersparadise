@@ -19,7 +19,7 @@
   "bossLearnedMaxDamageMultiplier": 9999999999.0,
   "bossLearnedDamagePowerExponent": 1.0,
   "bossLearnedDamageTolerance": 0.1,
-  "bossMaxSingleHitDamageTargetHits": 7.0,
+  "bossMaxSingleHitDamageTargetHits": 7.1,
   "crateLootKey": "greed",
   "taskPools": {
     "IDONA": [
