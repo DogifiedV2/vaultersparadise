@@ -198,14 +198,6 @@
       ]
     },
     {
-      "upgrade": "DIVINE_CONNECTION",
-      "maxLevel": 1,
-      "fallbackCost": 20,
-      "costs": [
-        20
-      ]
-    },
-    {
       "upgrade": "COMPANION_BUNDLE",
       "maxLevel": 10,
       "fallbackCost": 1,
@@ -331,14 +323,6 @@
   "greedObjectiveItemBonusPercentPerLevel": 20.0,
   "greedCooldownReductionSecondsPerLevel": 3600,
   "personalVaultCooldownReductionSecondsPerLevel": 21600,
-  "idonaDamagePercentPerTask": 10.0,
-  "velaraDefencePercentPerTask": 10.0,
-  "wendarrSpeedPercentPerTask": 10.0,
-  "tenosLuckyHitPercentPerTask": 5.0,
-  "maximumDivineDamagePercent": 100.0,
-  "maximumDivineDefencePercent": 80.0,
-  "maximumDivineSpeedPercent": 50.0,
-  "maximumDivineLuckyHitPercent": 25.0,
   "companionBundleSlotsPerLevel": 1,
   "companionMasteryPercentPerLevel": 100.0,
   "companionMasteryCooldownReductionPercentPerLevel": 10.0,

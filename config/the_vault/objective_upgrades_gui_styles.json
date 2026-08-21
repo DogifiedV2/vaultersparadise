@@ -148,12 +148,6 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/lesser_personal_vault_cooldown"
     },
-    "DIVINE_CONNECTION": {
-      "x": 515,
-      "y": 82,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/divine_connection"
-    },
     "RELENTLESS_STRIKES": {
       "x": 35, "y": 170, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/relentless_strikes"
@@ -167,7 +161,7 @@
       "icon": "the_vault:gui/objective_upgrades/reinforced_armor"
     },
     "TOWER_FORTUNE": {
-      "x": 85, "y": 212, "frameType": "RECTANGULAR",
+      "x": 35, "y": 212, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/tower_fortune"
     },
     "COMPANION_BUNDLE": {
@@ -212,7 +206,6 @@
     "TRUE_SCAVENGER": -14788812,
     "LESSER_COOLDOWN": -14133638,
     "LESSER_PERSONAL_VAULT_COOLDOWN": -12630390,
-    "DIVINE_CONNECTION": -8638616,
     "RELENTLESS_STRIKES": -7395031,
     "EMPOWERED_ABILITIES": -11128436,
     "REINFORCED_ARMOR": -13741451,
