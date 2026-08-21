@@ -15178,7 +15178,7 @@ hash = "ca960b103dbfb88718f1942de1b997bba714d1b75caf67aeea2a6f55266c76ba"
 
 [[files]]
 file = "config/the_vault/greed/greed.json"
-hash = "aaea5191cfd8648f9978ea0fccf72b8056891421b396e89f4c0237edb1a802c0"
+hash = "f9c226dafec5367e19b64698077ea1ffd0d4f787adbf7c9452ea28861c72925c"
 
 [[files]]
 file = "config/the_vault/greed/greed_cauldron.json"
@@ -15514,7 +15514,7 @@ hash = "b6da838587bc379750faeeb2c2772addfd0af6335869326920f7d98a1cb0d05f"
 
 [[files]]
 file = "config/the_vault/objective_upgrades.json"
-hash = "46ae3bcf68cee35fa2a8e2b403da1791bb9e43a5765612bcb7d0155ef05bdae3"
+hash = "899be389767f92ba0af9205354247fed8c132f0da157ca54570f07f21c7d0345"
 
 [[files]]
 file = "config/the_vault/objective_upgrades_gui_styles.json"
@@ -15854,7 +15854,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "08b6259358e708289772cd79ac945bf583d805ae95d72b58b8fc7b4faa09dd55"
+hash = "2529235b047742c0ba55019f807fc2c08e7c302bb26897b801a2699d94adc3c5"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -16146,7 +16146,7 @@ hash = "bac016e1e35444e70e96f6cbddd6cb8ebf8dd0504975a088b0f838179d64aac2"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
-hash = "c25e4977d3476017e8d722dea249ef02938ae141f603618b224e4c8968a56d52"
+hash = "f00a58a26b0c9637def579c602454f8756a5c57338547cde43cdbac090ee224d"
 
 [[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
@@ -18917,7 +18917,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "cda4300d5e58c29d46eb06129a3792900b638b36c56d7bfe2bcad5558d3a4ee8"
+hash = "ec26947fdab37fac4ff8cb69155ffa46854c76a04161d820da91ff96679947e8"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

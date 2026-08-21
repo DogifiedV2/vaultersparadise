@@ -63,6 +63,7 @@
   },
   "greedVaultCooldownSeconds": 21600,
   "greedVaultFailureCooldownSeconds": 7200,
+  "greedVaultFailureCooldownMinimumSeconds": 1800,
   "greedVaultVictoriesRequired": {
     "0": 1,
     "1": 2,

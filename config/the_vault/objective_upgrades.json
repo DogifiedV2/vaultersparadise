@@ -74,127 +74,127 @@
     {
       "upgrade": "MORE_EMBERS",
       "maxLevel": 10,
-      "fallbackCost": 10,
+      "fallbackCost": 7,
       "costs": [
         1,
         2,
+        2,
+        3,
         3,
         4,
         5,
         6,
         7,
-        8,
-        9,
-        10
+        7
       ]
     },
     {
       "upgrade": "CHALLENGE_FORTUNE",
       "maxLevel": 4,
-      "fallbackCost": 20,
+      "fallbackCost": 10,
       "costs": [
+        3,
         5,
-        10,
-        15,
-        20
+        7,
+        10
       ]
     },
     {
       "upgrade": "OMEGA_FORTUNE",
       "maxLevel": 4,
-      "fallbackCost": 20,
+      "fallbackCost": 10,
       "costs": [
+        3,
         5,
-        10,
-        15,
-        20
+        7,
+        10
       ]
     },
     {
       "upgrade": "BINGO",
       "maxLevel": 4,
-      "fallbackCost": 20,
+      "fallbackCost": 12,
       "costs": [
-        5,
-        10,
-        15,
-        20
+        4,
+        6,
+        8,
+        12
       ]
     },
     {
       "upgrade": "ELIXIR",
       "maxLevel": 4,
-      "fallbackCost": 20,
+      "fallbackCost": 12,
       "costs": [
-        5,
-        10,
-        15,
-        20
+        4,
+        6,
+        8,
+        12
       ]
     },
     {
       "upgrade": "SCAVENGER",
       "maxLevel": 4,
-      "fallbackCost": 20,
+      "fallbackCost": 12,
       "costs": [
-        5,
-        10,
-        15,
-        20
+        4,
+        6,
+        8,
+        12
       ]
     },
     {
       "upgrade": "RARER_PAYOUTS",
       "maxLevel": 3,
-      "fallbackCost": 15,
+      "fallbackCost": 7,
       "costs": [
+        3,
         5,
-        10,
-        15
+        7
       ]
     },
     {
       "upgrade": "BETTER_PAYOUTS",
       "maxLevel": 3,
-      "fallbackCost": 15,
+      "fallbackCost": 7,
       "costs": [
+        3,
         5,
-        10,
-        15
+        7
       ]
     },
     {
       "upgrade": "TRUE_SCAVENGER",
       "maxLevel": 5,
-      "fallbackCost": 15,
+      "fallbackCost": 9,
       "costs": [
         3,
+        5,
         6,
-        9,
-        12,
-        15
+        7,
+        9
       ]
     },
     {
       "upgrade": "LESSER_COOLDOWN",
       "maxLevel": 5,
-      "fallbackCost": 25,
+      "fallbackCost": 12,
       "costs": [
-        5,
+        4,
+        6,
+        8,
         10,
-        15,
-        20,
-        25
+        12
       ]
     },
     {
       "upgrade": "LESSER_PERSONAL_VAULT_COOLDOWN",
       "maxLevel": 3,
-      "fallbackCost": 30,
+      "fallbackCost": 20,
       "costs": [
-        10,
-        20,
-        30
+        7,
+        13,
+        20
       ]
     },
     {
@@ -203,16 +203,66 @@
       "fallbackCost": 1,
       "costs": [],
       "currencyCosts": [
-        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
-        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
-        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
-        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
-        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
-        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
-        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
-        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
-        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
-        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
       ]
     },
     {
@@ -221,16 +271,66 @@
       "fallbackCost": 1,
       "costs": [],
       "currencyCosts": [
-        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
-        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
-        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
-        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
-        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
-        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
-        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
-        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
-        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
-        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
       ]
     },
     {
@@ -239,16 +339,66 @@
       "fallbackCost": 1,
       "costs": [],
       "currencyCosts": [
-        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
-        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
-        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
-        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
-        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
-        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
-        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
-        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
-        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
-        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
       ]
     },
     {
@@ -257,16 +407,66 @@
       "fallbackCost": 1,
       "costs": [],
       "currencyCosts": [
-        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
-        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
-        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
-        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
-        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
-        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
-        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
-        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
-        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
-        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
       ]
     },
     {
@@ -275,16 +475,66 @@
       "fallbackCost": 1,
       "costs": [],
       "currencyCosts": [
-        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
-        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
-        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
-        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
-        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
-        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
-        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
-        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
-        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
-        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
       ]
     },
     {
@@ -293,16 +543,66 @@
       "fallbackCost": 1,
       "costs": [],
       "currencyCosts": [
-        { "cake": 100, "ascension": 1, "greed": 2, "infinity": 25000 },
-        { "cake": 200, "ascension": 2, "greed": 4, "infinity": 50000 },
-        { "cake": 300, "ascension": 3, "greed": 6, "infinity": 75000 },
-        { "cake": 400, "ascension": 4, "greed": 8, "infinity": 100000 },
-        { "cake": 500, "ascension": 5, "greed": 10, "infinity": 125000 },
-        { "cake": 600, "ascension": 6, "greed": 12, "infinity": 150000 },
-        { "cake": 700, "ascension": 7, "greed": 14, "infinity": 175000 },
-        { "cake": 800, "ascension": 8, "greed": 16, "infinity": 200000 },
-        { "cake": 900, "ascension": 9, "greed": 18, "infinity": 225000 },
-        { "cake": 1000, "ascension": 10, "greed": 20, "infinity": 250000 }
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
       ]
     }
   ],
@@ -321,7 +621,7 @@
   "rareRewardBonusPerLevel": 0.25,
   "greedCoinBonusPercentPerLevel": 10.0,
   "greedObjectiveItemBonusPercentPerLevel": 20.0,
-  "greedCooldownReductionSecondsPerLevel": 3600,
+  "greedCooldownReductionSecondsPerLevel": 1800,
   "personalVaultCooldownReductionSecondsPerLevel": 21600,
   "companionBundleSlotsPerLevel": 1,
   "companionMasteryPercentPerLevel": 100.0,

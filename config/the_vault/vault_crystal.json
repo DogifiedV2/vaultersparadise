@@ -1785,6 +1785,13 @@
               "objective_probability": 0.3
             },
             "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
+            },
+            "weight": 4
           }
         ]
       }
