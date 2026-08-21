@@ -357,6 +357,12 @@
     },
     "the_vault:classic_vault_idona_normal": {
       "the_vault:augment{theme:\"the_vault:classic_vault_idona_normal\"}": 5
+    },
+    "the_vault:classic_vault_meltdown": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_meltdown\"}": 5
+    },
+    "the_vault:classic_vault_starless_keep": {
+      "the_vault:augment{theme:\"the_vault:classic_vault_starless_keep\"}": 5
     }
   }
 }

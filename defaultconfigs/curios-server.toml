@@ -118,7 +118,7 @@ priority = 17
 size = 1
 visible = true
 cosmetic = false
-icon = "curios:item/empty_cosmetic_slot"
+icon = "the_vault:gui/slot/curios/tiab"
 
 [[curiosSettings]]
 identifier = "wireless_terminal"
@@ -127,6 +127,15 @@ size = 1
 visible = true
 cosmetic = false
 icon = "curios:slot/wireless_terminal"
+
+[[curiosSettings]]
+identifier = "companion"
+priority = 19
+size = 1
+visible = true
+cosmetic = false
+icon = "the_vault:gui/slot/curios/companionslot"
+override = true
 
 
 [[curiosSettings]]

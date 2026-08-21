@@ -119,6 +119,272 @@
     {
       "modelId": "the_vault:gear/axe/greathammer",
       "cost": 4
+    },
+    {
+      "modelId": "the_vault:backpacks/duck",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:backpacks/policebackpack",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:backpacks/piratebackpack",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:backpacks/jetpack",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:backpacks/waffle_cone_suit",
+      "cost": 25
+    },
+    {
+      "modelId": "the_vault:backpacks/waffle_ice_cream_sandwich_suit",
+      "cost": 25
+    },
+    {
+      "modelId": "elitecreatures:adventure_backpack_cosmetic/backpack_3",
+      "cost": 4
+    },
+    {
+      "modelId": "elitecreatures:adventure_backpack_cosmetic/backpack_4",
+      "cost": 5
+    },
+    {
+      "modelId": "elitecreatures:adventure_backpack_cosmetic/backpack_6",
+      "cost": 5
+    },
+    {
+      "modelId": "elitecreatures:adventure_backpack_cosmetic/backpack_7",
+      "cost": 10
+    },
+    {
+      "modelId": "elitecreatures:adventure_backpack_cosmetic/backpack_8",
+      "cost": 10
+    },
+    {
+      "modelId": "elitecreatures:adventure_backpack_cosmetic/backpack_9",
+      "cost": 10
+    },
+    {
+      "modelId": "elitecreatures:adventure_backpack_cosmetic/backpack_10",
+      "cost": 25
+    },
+    {
+      "modelId": "ec_bosses_cosmetics_1:octana_the_broodmother_backpack",
+      "cost": 25
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.bunny.brown\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.bunny.grey\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.bunny.white\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.chick.black\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.chick.white\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.chick.yellow\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.dragon.blue\"}"
+      },
+      "cost": 15
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.dragon.green\"}"
+      },
+      "cost": 15
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.dragon.purple\"}"
+      },
+      "cost": 15
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.dragon.red\"}"
+      },
+      "cost": 15
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.dragon.yellow\"}"
+      },
+      "cost": 15
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.horse_glacial\"}"
+      },
+      "cost": 5
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.horse_magma\"}"
+      },
+      "cost": 5
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.horse_pegasus\"}"
+      },
+      "cost": 10
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.horse_spartan\"}"
+      },
+      "cost": 5
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.horse_unicorn\"}"
+      },
+      "cost": 5
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.vampire_horse\"}"
+      },
+      "cost": 5
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.kitsune.demonic\"}"
+      },
+      "cost": 5
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.kitsune.inferno\"}"
+      },
+      "cost": 5
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.kitsune.normal\"}"
+      },
+      "cost": 5
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.mob_throne_enderman\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.mob_throne_skeleton\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.mob_throne_slime\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.mob_throne_zombie\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.capybara\"}"
+      },
+      "cost": 4
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.phoenix.darkflame\"}"
+      },
+      "cost": 10
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.phoenix.flame\"}"
+      },
+      "cost": 10
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.phoenix.light\"}"
+      },
+      "cost": 10
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.phoenix.thunder\"}"
+      },
+      "cost": 10
+    },
+    {
+      "stack": {
+        "item": "mounts:mount_permission_scroll",
+        "nbt": "{MountPermission:\"mounts.mount.wolfhawk_dire\"}"
+      },
+      "cost": 15
     }
   ]
 }

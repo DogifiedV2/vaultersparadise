@@ -62,9 +62,9 @@
         },
         "shouldDecay": true,
         "decayTime": 5400,
-        "portalOpenLang": "\u00a73You sense an overwhelming energy in %s. (S++-Tier Vault)",
-        "loginMessage": "\u00a7oAn overwhelming OverVault presence is still open in %s. (S++-Tier Vault)",
-        "portalDecayed": "\u00a7o\u00a75The overwhelming OverVault in %s decays and closes. (S++-Tier Vault)"
+        "portalOpenLang": "§3You sense an overwhelming energy in %s. (S++-Tier Vault)",
+        "loginMessage": "§oAn overwhelming OverVault presence is still open in %s. (S++-Tier Vault)",
+        "portalDecayed": "§o§5The overwhelming OverVault in %s decays and closes. (S++-Tier Vault)"
       },
       "weight": 0
     },
@@ -114,9 +114,9 @@
         },
         "shouldDecay": true,
         "decayTime": 5400,
-        "portalOpenLang": "\u00a73You sense a crushing energy in %s. (S+-Tier Vault)",
-        "loginMessage": "\u00a7oA crushing OverVault presence is still open in %s. (S+-Tier Vault)",
-        "portalDecayed": "\u00a7o\u00a75The crushing OverVault in %s decays and closes. (S+-Tier Vault)"
+        "portalOpenLang": "§3You sense a crushing energy in %s. (S+-Tier Vault)",
+        "loginMessage": "§oA crushing OverVault presence is still open in %s. (S+-Tier Vault)",
+        "portalDecayed": "§o§5The crushing OverVault in %s decays and closes. (S+-Tier Vault)"
       },
       "weight": 0
     },
@@ -166,9 +166,9 @@
         },
         "shouldDecay": true,
         "decayTime": 5400,
-        "portalOpenLang": "\u00a73You sense a strong energy in %s. (S-Tier Vault)",
-        "loginMessage": "\u00a7oA strong OverVault presence is still open in %s. (S-Tier Vault)",
-        "portalDecayed": "\u00a7o\u00a75The strong OverVault in %s decays and closes. (S-Tier Vault)"
+        "portalOpenLang": "§3You sense a strong energy in %s. (S-Tier Vault)",
+        "loginMessage": "§oA strong OverVault presence is still open in %s. (S-Tier Vault)",
+        "portalDecayed": "§o§5The strong OverVault in %s decays and closes. (S-Tier Vault)"
       },
       "weight": 0
     },
@@ -230,9 +230,9 @@
         },
         "shouldDecay": true,
         "decayTime": 7200,
-        "portalOpenLang": "\u00a73You sense a brutal energy in %s. (A-Tier Vault)",
-        "loginMessage": "\u00a7oA brutal OverVault presence is still open in %s. (A-Tier Vault)",
-        "portalDecayed": "\u00a7o\u00a75The brutal OverVault in %s decays and closes. (A-Tier Vault)"
+        "portalOpenLang": "§3You sense a brutal energy in %s. (A-Tier Vault)",
+        "loginMessage": "§oA brutal OverVault presence is still open in %s. (A-Tier Vault)",
+        "portalDecayed": "§o§5The brutal OverVault in %s decays and closes. (A-Tier Vault)"
       },
       "weight": 0
     },
@@ -294,9 +294,9 @@
         },
         "shouldDecay": true,
         "decayTime": 7200,
-        "portalOpenLang": "\u00a73You sense a dangerous energy in %s. (B-Tier Vault)",
-        "loginMessage": "\u00a7oA dangerous OverVault presence is still open in %s. (B-Tier Vault)",
-        "portalDecayed": "\u00a7o\u00a75The dangerous OverVault in %s decays and closes. (B-Tier Vault)"
+        "portalOpenLang": "§3You sense a dangerous energy in %s. (B-Tier Vault)",
+        "loginMessage": "§oA dangerous OverVault presence is still open in %s. (B-Tier Vault)",
+        "portalDecayed": "§o§5The dangerous OverVault in %s decays and closes. (B-Tier Vault)"
       },
       "weight": 15
     },
@@ -361,9 +361,9 @@
         },
         "shouldDecay": true,
         "decayTime": 7200,
-        "portalOpenLang": "\u00a73You sense a rising energy in %s. (C-Tier Vault)",
-        "loginMessage": "\u00a7oA rising OverVault presence is still open in %s. (C-Tier Vault)",
-        "portalDecayed": "\u00a7o\u00a75The rising OverVault in %s decays and closes. (C-Tier Vault)"
+        "portalOpenLang": "§3You sense a rising energy in %s. (C-Tier Vault)",
+        "loginMessage": "§oA rising OverVault presence is still open in %s. (C-Tier Vault)",
+        "portalDecayed": "§o§5The rising OverVault in %s decays and closes. (C-Tier Vault)"
       },
       "weight": 25
     },
@@ -413,9 +413,9 @@
         },
         "shouldDecay": true,
         "decayTime": 7200,
-        "portalOpenLang": "\u00a73You sense a steady energy in %s. (D-Tier Vault)",
-        "loginMessage": "\u00a7oA steady OverVault presence is still open in %s. (D-Tier Vault)",
-        "portalDecayed": "\u00a7o\u00a75The steady OverVault in %s decays and closes. (D-Tier Vault)"
+        "portalOpenLang": "§3You sense a steady energy in %s. (D-Tier Vault)",
+        "loginMessage": "§oA steady OverVault presence is still open in %s. (D-Tier Vault)",
+        "portalDecayed": "§o§5The steady OverVault in %s decays and closes. (D-Tier Vault)"
       },
       "weight": 21
     },
@@ -465,9 +465,9 @@
         },
         "shouldDecay": true,
         "decayTime": 7200,
-        "portalOpenLang": "\u00a73You sense a faint energy in %s. (E-Tier Vault)",
-        "loginMessage": "\u00a7oA faint OverVault presence is still open in %s. (E-Tier Vault)",
-        "portalDecayed": "\u00a7o\u00a75The faint OverVault in %s decays and closes. (E-Tier Vault)"
+        "portalOpenLang": "§3You sense a faint energy in %s. (E-Tier Vault)",
+        "loginMessage": "§oA faint OverVault presence is still open in %s. (E-Tier Vault)",
+        "portalDecayed": "§o§5The faint OverVault in %s decays and closes. (E-Tier Vault)"
       },
       "weight": 20
     }
@@ -481,6 +481,7 @@
   "VOID_VAULT_THEMES": [
     "the_vault:classic_vault_void",
     "the_vault:classic_vault_end_void",
-    "the_vault:classic_vault_factory_void"
+    "the_vault:classic_vault_factory_void",
+    "the_vault:classic_vault_meltdown"
   ]
 }

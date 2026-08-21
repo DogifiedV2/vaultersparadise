@@ -2709,6 +2709,26 @@
       "id": "the_vault:greed/chaos/warehouse/base",
       "name": "Greed Chaos Base",
       "1.0": "config/the_vault/gen/1.0/palettes/greed/chaos/warehouse/base.json"
+    },
+    {
+      "id": "the_vault:universal_meltdown",
+      "name": "Universal Meltdown",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_meltdown.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_meltdown",
+      "name": "Universal Chaos Meltdown",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_meltdown.json"
+    },
+    {
+      "id": "the_vault:universal_starless_keep",
+      "name": "Universal Starless Keep",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_starless_keep.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_starless_keep",
+      "name": "Universal Chaos Starless Keep",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_starless_keep.json"
     }
   ]
 }

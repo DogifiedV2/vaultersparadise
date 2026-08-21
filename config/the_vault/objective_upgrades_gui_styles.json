@@ -1,0 +1,220 @@
+{
+  "groups": {
+    "CAKE": {
+      "group": "Cake",
+      "headerColor": -6661600,
+      "headerTextColor": -1,
+      "x": 0,
+      "y": 0,
+      "boxWidth": 170,
+      "boxHeight": 110,
+      "icon": "the_vault:gui/objective_upgrades/category_cake"
+    },
+    "ASCENSION": {
+      "group": "Ascension",
+      "headerColor": -10859887,
+      "headerTextColor": -1,
+      "x": 190,
+      "y": 0,
+      "boxWidth": 170,
+      "boxHeight": 110,
+      "icon": "the_vault:gui/objective_upgrades/category_ascension"
+    },
+    "GREED": {
+      "group": "Greed",
+      "headerColor": -6659041,
+      "headerTextColor": -1,
+      "x": 380,
+      "y": 0,
+      "boxWidth": 170,
+      "boxHeight": 110,
+      "icon": "the_vault:gui/objective_upgrades/category_greed"
+    },
+    "TOWER": {
+      "group": "Infinity Tower",
+      "headerColor": -11584372,
+      "headerTextColor": -1,
+      "x": 0,
+      "y": 130,
+      "boxWidth": 170,
+      "boxHeight": 110,
+      "icon": "the_vault:gui/objective_upgrades/category_tower"
+    },
+    "MASTERY": {
+      "group": "Vault Mastery",
+      "headerColor": -8765592,
+      "headerTextColor": -1,
+      "x": 190,
+      "y": 130,
+      "boxWidth": 170,
+      "boxHeight": 110,
+      "icon": "the_vault:gui/objective_upgrades/category_mastery"
+    }
+  },
+  "styles": {
+    "CAKE_GALORE": {
+      "x": 35,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/cake_galore"
+    },
+    "CHOCOLATE_FLAVOR": {
+      "x": 85,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/chocolate_flavor"
+    },
+    "STRAWBERRY_FLAVOR": {
+      "x": 135,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/strawberry_flavor"
+    },
+    "GOLDEN_CAKES": {
+      "x": 60,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/golden_cakes"
+    },
+    "FRUITY": {
+      "x": 110,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/fruity"
+    },
+    "MORE_EMBERS": {
+      "x": 225,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/more_embers"
+    },
+    "CHALLENGE_FORTUNE": {
+      "x": 275,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/challenge_fortune"
+    },
+    "OMEGA_FORTUNE": {
+      "x": 325,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/omega_fortune"
+    },
+    "BINGO": {
+      "x": 225,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/bingo"
+    },
+    "ELIXIR": {
+      "x": 275,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/elixir"
+    },
+    "SCAVENGER": {
+      "x": 325,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/scavenger"
+    },
+    "RARER_PAYOUTS": {
+      "x": 415,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/rarer_payouts"
+    },
+    "BETTER_PAYOUTS": {
+      "x": 465,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/better_payouts"
+    },
+    "TRUE_SCAVENGER": {
+      "x": 515,
+      "y": 40,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/true_scavenger"
+    },
+    "LESSER_COOLDOWN": {
+      "x": 415,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/lesser_cooldown"
+    },
+    "LESSER_PERSONAL_VAULT_COOLDOWN": {
+      "x": 465,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/lesser_personal_vault_cooldown"
+    },
+    "RELENTLESS_STRIKES": {
+      "x": 35, "y": 170, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/relentless_strikes"
+    },
+    "EMPOWERED_ABILITIES": {
+      "x": 85, "y": 170, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/empowered_abilities"
+    },
+    "REINFORCED_ARMOR": {
+      "x": 135, "y": 170, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/reinforced_armor"
+    },
+    "TOWER_FORTUNE": {
+      "x": 35, "y": 212, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/tower_fortune"
+    },
+    "COMPANION_BUNDLE": {
+      "x": 225, "y": 170, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/companion_bundle"
+    },
+    "COMPANION_MASTERY": {
+      "x": 275, "y": 170, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/companion_mastery"
+    },
+    "VAULT_MASTERY": {
+      "x": 325, "y": 170, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/vault_mastery"
+    },
+    "DEFENSE_MASTERY": {
+      "x": 225, "y": 212, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/defense_mastery"
+    },
+    "ATTACK_MASTERY": {
+      "x": 275, "y": 212, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/attack_mastery"
+    },
+    "ABILITY_MASTERY": {
+      "x": 325, "y": 212, "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/ability_mastery"
+    }
+  },
+  "effectColors": {
+    "CAKE_GALORE": -9093115,
+    "CHOCOLATE_FLAVOR": -10735073,
+    "STRAWBERRY_FLAVOR": -7461302,
+    "GOLDEN_CAKES": -9744896,
+    "FRUITY": -14395100,
+    "MORE_EMBERS": -7722731,
+    "CHALLENGE_FORTUNE": -9158646,
+    "OMEGA_FORTUNE": -10799732,
+    "BINGO": -14397553,
+    "ELIXIR": -9425787,
+    "SCAVENGER": -14723019,
+    "RARER_PAYOUTS": -10406513,
+    "BETTER_PAYOUTS": -10336000,
+    "TRUE_SCAVENGER": -14788812,
+    "LESSER_COOLDOWN": -14133638,
+    "LESSER_PERSONAL_VAULT_COOLDOWN": -12630390,
+    "RELENTLESS_STRIKES": -7395031,
+    "EMPOWERED_ABILITIES": -11128436,
+    "REINFORCED_ARMOR": -13741451,
+    "TOWER_FORTUNE": -10271488,
+    "COMPANION_BUNDLE": -10141409,
+    "COMPANION_MASTERY": -8769681,
+    "VAULT_MASTERY": -10866041,
+    "DEFENSE_MASTERY": -13807240,
+    "ATTACK_MASTERY": -7657432,
+    "ABILITY_MASTERY": -11651446
+  }
+}

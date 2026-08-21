@@ -11546,6 +11546,14 @@
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/garden1.nbt"
       }
+    },
+    {
+      "id": "the_vault:vault/rooms/tower_floor",
+      "name": "Infinity Tower Floor",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/tower_floor.nbt"
+      }
     }
   ]
 }

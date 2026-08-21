@@ -1,0 +1,603 @@
+{
+  "upgrades": [
+    {
+      "upgrade": "CAKE_GALORE",
+      "maxLevel": 10,
+      "fallbackCost": 250,
+      "costs": [
+        25,
+        50,
+        75,
+        100,
+        125,
+        150,
+        175,
+        200,
+        225,
+        250
+      ]
+    },
+    {
+      "upgrade": "CHOCOLATE_FLAVOR",
+      "maxLevel": 10,
+      "fallbackCost": 150,
+      "costs": [
+        15,
+        30,
+        45,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150
+      ]
+    },
+    {
+      "upgrade": "STRAWBERRY_FLAVOR",
+      "maxLevel": 10,
+      "fallbackCost": 150,
+      "costs": [
+        15,
+        30,
+        45,
+        60,
+        75,
+        90,
+        105,
+        120,
+        135,
+        150
+      ]
+    },
+    {
+      "upgrade": "GOLDEN_CAKES",
+      "maxLevel": 5,
+      "fallbackCost": 375,
+      "costs": [
+        75,
+        150,
+        225,
+        300,
+        375
+      ]
+    },
+    {
+      "upgrade": "FRUITY",
+      "maxLevel": 1,
+      "fallbackCost": 250,
+      "costs": [
+        250
+      ]
+    },
+    {
+      "upgrade": "MORE_EMBERS",
+      "maxLevel": 10,
+      "fallbackCost": 7,
+      "costs": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        5,
+        6,
+        7,
+        7
+      ]
+    },
+    {
+      "upgrade": "CHALLENGE_FORTUNE",
+      "maxLevel": 4,
+      "fallbackCost": 10,
+      "costs": [
+        3,
+        5,
+        7,
+        10
+      ]
+    },
+    {
+      "upgrade": "OMEGA_FORTUNE",
+      "maxLevel": 4,
+      "fallbackCost": 10,
+      "costs": [
+        3,
+        5,
+        7,
+        10
+      ]
+    },
+    {
+      "upgrade": "BINGO",
+      "maxLevel": 4,
+      "fallbackCost": 12,
+      "costs": [
+        4,
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "upgrade": "ELIXIR",
+      "maxLevel": 4,
+      "fallbackCost": 12,
+      "costs": [
+        4,
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "upgrade": "SCAVENGER",
+      "maxLevel": 4,
+      "fallbackCost": 12,
+      "costs": [
+        4,
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "upgrade": "RARER_PAYOUTS",
+      "maxLevel": 3,
+      "fallbackCost": 7,
+      "costs": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "upgrade": "BETTER_PAYOUTS",
+      "maxLevel": 3,
+      "fallbackCost": 7,
+      "costs": [
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "upgrade": "TRUE_SCAVENGER",
+      "maxLevel": 5,
+      "fallbackCost": 9,
+      "costs": [
+        3,
+        5,
+        6,
+        7,
+        9
+      ]
+    },
+    {
+      "upgrade": "LESSER_COOLDOWN",
+      "maxLevel": 5,
+      "fallbackCost": 12,
+      "costs": [
+        4,
+        6,
+        8,
+        10,
+        12
+      ]
+    },
+    {
+      "upgrade": "LESSER_PERSONAL_VAULT_COOLDOWN",
+      "maxLevel": 3,
+      "fallbackCost": 20,
+      "costs": [
+        7,
+        13,
+        20
+      ]
+    },
+    {
+      "upgrade": "COMPANION_BUNDLE",
+      "maxLevel": 10,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
+      ]
+    },
+    {
+      "upgrade": "COMPANION_MASTERY",
+      "maxLevel": 10,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
+      ]
+    },
+    {
+      "upgrade": "DEFENSE_MASTERY",
+      "maxLevel": 10,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
+      ]
+    },
+    {
+      "upgrade": "ATTACK_MASTERY",
+      "maxLevel": 10,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
+      ]
+    },
+    {
+      "upgrade": "VAULT_MASTERY",
+      "maxLevel": 10,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        {
+          "cake": 10,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 15,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 20,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 1,
+          "infinity": 0
+        },
+        {
+          "cake": 25,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 30,
+          "ascension": 1,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 35,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 40,
+          "ascension": 1,
+          "greed": 3,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 1,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 1,
+          "greed": 5,
+          "infinity": 0
+        }
+      ]
+    },
+    {
+      "upgrade": "ABILITY_MASTERY",
+      "maxLevel": 5,
+      "fallbackCost": 1,
+      "costs": [],
+      "currencyCosts": [
+        {
+          "cake": 25,
+          "ascension": 2,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 45,
+          "ascension": 2,
+          "greed": 2,
+          "infinity": 0
+        },
+        {
+          "cake": 55,
+          "ascension": 2,
+          "greed": 4,
+          "infinity": 0
+        },
+        {
+          "cake": 75,
+          "ascension": 2,
+          "greed": 6,
+          "infinity": 0
+        },
+        {
+          "cake": 100,
+          "ascension": 2,
+          "greed": 9,
+          "infinity": 0
+        }
+      ]
+    }
+  ],
+  "ascensionPointsPerSuccess": 1,
+  "greedPointsPerCompletedTask": 1,
+  "cakeGalorePercentPerLevel": 10.0,
+  "chocolateChancePercentPerLevel": 1.0,
+  "strawberryChancePercentPerLevel": 1.0,
+  "goldenCakeChancePercentPerLevel": 0.5,
+  "fruityChancePercent": 10.0,
+  "fruityTimeSeconds": 30,
+  "emberBonusPercentPerLevel": 5.0,
+  "challengeFortunePercentPerLevel": 50.0,
+  "omegaFortunePercentPerLevel": 50.0,
+  "ascensionObjectiveChancePercentPerLevel": 20.0,
+  "rareRewardBonusPerLevel": 0.25,
+  "greedCoinBonusPercentPerLevel": 10.0,
+  "greedObjectiveItemBonusPercentPerLevel": 20.0,
+  "greedCooldownReductionSecondsPerLevel": 3600,
+  "personalVaultCooldownReductionSecondsPerLevel": 21600,
+  "companionBundleSlotsPerLevel": 1,
+  "companionMasteryPercentPerLevel": 100.0,
+  "companionMasteryCooldownReductionPercentPerLevel": 10.0,
+  "defenseMasteryRollPercentPerLevel": 100.0,
+  "attackMasteryRollPercentPerLevel": 100.0,
+  "vaultMasteryRoomWeightPercentPerLevel": 100.0,
+  "abilityMasteryRanksPerLevel": 1
+}

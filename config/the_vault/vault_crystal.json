@@ -117,6 +117,10 @@
           {
             "value": "the_vault:classic_vault_gloom",
             "weight": 0
+          },
+          {
+            "value": "the_vault:classic_vault_meltdown",
+            "weight": 7
           }
         ],
         "seasonalWeights": {
@@ -451,6 +455,10 @@
           {
             "value": "the_vault:classic_vault_plastic",
             "weight": 8
+          },
+          {
+            "value": "the_vault:classic_vault_starless_keep",
+            "weight": 5
           }
         ],
         "seasonalWeights": {
@@ -653,6 +661,10 @@
           },
           {
             "value": "the_vault:classic_vault_plastic",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_starless_keep",
             "weight": 10
           }
         ],
@@ -1434,7 +1446,6 @@
       {
         "level": 40,
         "pool": [
-         
           {
             "value": {
               "type": "scavenger",
@@ -1733,7 +1744,6 @@
       {
         "level": 0,
         "pool": [
-
           {
             "value": {
               "type": "scavenger",
@@ -1773,6 +1783,13 @@
             "value": {
               "type": "elixir",
               "objective_probability": 0.3
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "bingo",
+              "objective_probability": 1.0
             },
             "weight": 4
           }
@@ -2396,6 +2413,28 @@
         "exhausted": true,
         "clearModifiers": true,
         "clearCapacity": true
+      }
+    ],
+    "the_vault:crystal_seal_tower": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "tower"
+        },
+        "layout": {
+          "type": "tower"
+        },
+        "theme": {
+          "type": "tower"
+        },
+        "modifiers": {
+          "type": "default",
+          "random_modifiers": false
+        }
       }
     ]
   },
