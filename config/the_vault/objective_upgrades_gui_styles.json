@@ -2,7 +2,7 @@
   "groups": {
     "CAKE": {
       "group": "Cake",
-      "headerColor": -12674156,
+      "headerColor": -6661600,
       "headerTextColor": -1,
       "x": 0,
       "y": 0,
@@ -12,7 +12,7 @@
     },
     "ASCENSION": {
       "group": "Ascension",
-      "headerColor": -13794410,
+      "headerColor": -10859887,
       "headerTextColor": -1,
       "x": 190,
       "y": 0,
@@ -22,7 +22,7 @@
     },
     "GREED": {
       "group": "Greed",
-      "headerColor": -5608926,
+      "headerColor": -6659041,
       "headerTextColor": -1,
       "x": 380,
       "y": 0,
@@ -32,7 +32,7 @@
     },
     "TOWER": {
       "group": "Infinity Tower",
-      "headerColor": -10073944,
+      "headerColor": -11584372,
       "headerTextColor": -1,
       "x": 0,
       "y": 170,
@@ -42,7 +42,7 @@
     },
     "MASTERY": {
       "group": "Vault Mastery",
-      "headerColor": -7647629,
+      "headerColor": -8765592,
       "headerTextColor": -1,
       "x": 190,
       "y": 170,
@@ -194,5 +194,34 @@
       "x": 325, "y": 280, "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/ability_mastery"
     }
+  },
+  "effectColors": {
+    "CAKE_GALORE": -9093115,
+    "CHOCOLATE_FLAVOR": -10735073,
+    "STRAWBERRY_FLAVOR": -7461302,
+    "GOLDEN_CAKES": -9744896,
+    "FRUITY": -14395100,
+    "MORE_EMBERS": -7722731,
+    "CHALLENGE_FORTUNE": -9158646,
+    "OMEGA_FORTUNE": -10799732,
+    "BINGO": -14397553,
+    "ELIXIR": -9425787,
+    "SCAVENGER": -14723019,
+    "RARER_PAYOUTS": -10406513,
+    "BETTER_PAYOUTS": -10336000,
+    "TRUE_SCAVENGER": -14788812,
+    "LESSER_COOLDOWN": -14133638,
+    "LESSER_PERSONAL_VAULT_COOLDOWN": -12630390,
+    "DIVINE_CONNECTION": -8638616,
+    "RELENTLESS_STRIKES": -7395031,
+    "EMPOWERED_ABILITIES": -11128436,
+    "REINFORCED_ARMOR": -13741451,
+    "TOWER_FORTUNE": -10271488,
+    "COMPANION_BUNDLE": -10141409,
+    "COMPANION_MASTERY": -8769681,
+    "VAULT_MASTERY": -10866041,
+    "DEFENSE_MASTERY": -13807240,
+    "ATTACK_MASTERY": -7657432,
+    "ABILITY_MASTERY": -11651446
   }
 }
