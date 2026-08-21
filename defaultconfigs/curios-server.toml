@@ -134,7 +134,7 @@ priority = 19
 size = 1
 visible = true
 cosmetic = false
-icon = "the_vault:gui/slot/curios/companion"
+icon = "the_vault:gui/slot/curios/companionslot"
 override = true
 
 
