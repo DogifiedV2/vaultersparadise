@@ -341,6 +341,7 @@
   "maximumDivineLuckyHitPercent": 25.0,
   "companionBundleSlotsPerLevel": 1,
   "companionMasteryPercentPerLevel": 100.0,
+  "companionMasteryCooldownReductionPercentPerLevel": 10.0,
   "defenseMasteryRollPercentPerLevel": 100.0,
   "attackMasteryRollPercentPerLevel": 100.0,
   "vaultMasteryRoomWeightPercentPerLevel": 100.0,
