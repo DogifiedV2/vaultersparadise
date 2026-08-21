@@ -16146,7 +16146,7 @@ hash = "bac016e1e35444e70e96f6cbddd6cb8ebf8dd0504975a088b0f838179d64aac2"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
-hash = "2bd0fc55fdd70a4d8a61233031c424e4efb26b33835402bb878f26e4368be730"
+hash = "5fc603248e48e8216c7edd5fff852993da9d76c36f890da0bb1cce1c133cf18b"
 
 [[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
@@ -17617,6 +17617,10 @@ file = "kubejs/data/curios/tags/item/wireless_terminal.json"
 hash = "98753b6056904ffec8c076acd995e9c6673854fc478506856f49537f9796a507"
 
 [[files]]
+file = "kubejs/data/curios/tags/items/companion.json"
+hash = "f42d8110edd95fb7f289b7495ab363b8710d0802cb787aa17188f11f41a3d029"
+
+[[files]]
 file = "kubejs/exported/tags/activity.txt"
 hash = "d55fab6703561bdd8b3ae40851cec836b096954744caa645c5c201ecc01b66af"
 
@@ -18913,7 +18917,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "54d636deffcd784dd07cea62772bba2fb522d8651b2ec507731c4fde08b54df2"
+hash = "8c4c591b55e56350f5783e5283aeb5593fb97c70437601f6595430317162fdb2"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
