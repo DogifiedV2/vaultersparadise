@@ -1153,6 +1153,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/farsight-common.toml"
+hash = "3eb36d6f379717b6aa4143d6718170192f7902d1d7e2ecd38acbeb86e4239aa7"
+
+[[files]]
 file = "config/fastbench.cfg"
 hash = "849655cc24f7329930c2ddaa9a54061a2db954c5932152a4591fcf56450c6971"
 
@@ -18913,7 +18917,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "f7d36c1b86d1bb9a8dc7f88aaafe7d69dbf52d45023e84c762142e96ff60771a"
+hash = "e2f5c9e0e7560264a141017df6f10458bf719f96961b55b299b3241408323460"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
