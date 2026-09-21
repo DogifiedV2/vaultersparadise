@@ -1377,6 +1377,10 @@ file = "config/mobprocessor-common.toml"
 hash = "e20eb54a02731bf22ffff0b3c4371f66ce076da8fa4a5c08422fa183cd57e5f7"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "2822718be8f4c16920d131cddaf044aa574a85c189a88108cc98c2d1bfcd6434"
+
+[[files]]
 file = "config/modularrouters-client.toml"
 hash = "7922f789cf41444b7ce28bcc7df415f94b765e9a01a817ea468487ca539dc3fc"
 
