@@ -4059,6 +4059,84 @@
           ]
         }
       ]
+    },
+    "Arcane": {
+      "displayName": "Arcane",
+      "colour": 8077247,
+      "description": [
+        {
+          "description": [
+            {
+              "text": "Perk: ",
+              "color": "gray"
+            },
+            {
+              "text": "Arcane chests",
+              "color": "$name"
+            },
+            {
+              "text": " hold Ars Nouveau materials and rare glyphs\n",
+              "color": "white"
+            }
+          ]
+        },
+        {
+          "description": [
+            {
+              "text": "Hordes",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "Wilden Hunter\n",
+              "color": "white"
+            },
+            {
+              "text": "Assassins",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "Wilden Stalker\n",
+              "color": "white"
+            },
+            {
+              "text": "Tanks",
+              "color": "gray"
+            },
+            {
+              "text": " | ",
+              "color": "$darkgray"
+            },
+            {
+              "text": "Wilden Guardian\n",
+              "color": "white"
+            }
+          ]
+        },
+        {
+          "description": [
+            {
+              "text": "Only reachable with an ",
+              "color": "gray"
+            },
+            {
+              "text": "Arcane augment",
+              "color": "$name"
+            },
+            {
+              "text": ", made outside vaults with Ars Nouveau",
+              "color": "gray"
+            }
+          ]
+        }
+      ]
     }
   },
   "augments": {
@@ -4155,6 +4233,9 @@
       "the_vault:classic_vault_idona_normal",
       "the_vault:classic_vault_velara_normal",
       "the_vault:classic_vault_wendarr_normal"
+    ],
+    "Arcane": [
+      "the_vault:classic_vault_arcane"
     ]
   }
 }

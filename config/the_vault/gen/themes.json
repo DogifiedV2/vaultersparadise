@@ -543,6 +543,12 @@
       "name": "Starless Keep",
       "color": 4932949,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_starless_keep.json"
+    },
+    {
+      "id": "the_vault:classic_vault_arcane",
+      "name": "Arcane",
+      "color": 8077247,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_arcane.json"
     }
   ]
 }

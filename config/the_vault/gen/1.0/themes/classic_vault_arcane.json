@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:vault/starts/arcane_starts",
+  "rooms": "the_vault:vault/rooms/arcane_rooms",
+  "tunnels": "the_vault:vault/tunnels/arcane_tunnels",
+  "ambient_light": 0.2,
+  "fog_color": 3809116,
+  "grass_color": 7032736,
+  "foliage_color": 9067719,
+  "water_color": 6175390,
+  "water_fog_color": 3021391,
+  "particle": "minecraft:enchant",
+  "particle_probability": 0.002
+}

@@ -2729,6 +2729,21 @@
       "id": "the_vault:chaos/universal_chaos_starless_keep",
       "name": "Universal Chaos Starless Keep",
       "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_starless_keep.json"
+    },
+    {
+      "id": "the_vault:universal_arcane",
+      "name": "Universal Arcane",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_arcane.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_arcane",
+      "name": "Universal Chaos Arcane",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_arcane.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/arcane_mobs",
+      "name": "Arcane Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/arcane_mobs.json"
     }
   ]
 }
