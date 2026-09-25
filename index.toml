@@ -15646,11 +15646,11 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "65bcce1d88093bfe677d13386bc1ca3e7d88f4fa2ffcde1f3851d7cec3d7060c"
+hash = "a730480faae296194914ebfbc003dc0d075f76d98ff8cfec934fa1043f6225b8"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "9b58a0e904d50ca29f19beb1d7b0fe59cea210e6fb0448c636ff244f71ec599c"
+hash = "64320d02d26fd909ac8212186d1ddfd49e22ad10272685a0e9497b3ea1713ca1"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -15658,7 +15658,7 @@ hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "e21b275d66f6eb3999907d96fdf21a20aa340e4e0cd7b731a4bb0ef799071c03"
+hash = "eedc08a0b912c44072c77a8b71fe64b55faf72724b9e2555af1eab256e7127cd"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -15710,7 +15710,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "129c07fe773edceb0bad584ab78c437db9af27e0e30277f7e04e7566b491e946"
+hash = "8b75a90269a50db18c0ff5c5646b9c69f9e2bea3018a8ee4de07fa23cd88d9e9"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -15878,7 +15878,7 @@ hash = "5057da8c4efc3d43f67d92e18216ad6564f043738fb9ceeaff318bb01675375b"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "593d8a608707c712a376d63aab6a53396ae968acd7d1627aeac1375a817488ac"
+hash = "cd43404c5560c2c2a899dcd392986c364b883bb840dc6d130adc146fc8e76147"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
@@ -16959,6 +16959,10 @@ hash = "c12135f609171d74fb32acfeef26c1788a4a605ec4618af167cd082de9f5999c"
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/appmek.png"
 hash = "c81ad25f8a0a07320cbddc1d7383536f88f780b61872e9227875f7b3181c3868"
+
+[[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/ars_nouveau.png"
+hash = "90772fd61472a6c78d5e595ff325fba6a9ba440233f6a887d85ade97ab5632b1"
 
 [[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/bonsai_pots.png"
@@ -18376,6 +18380,10 @@ hash = "e5fee3917f1abd665a3a4402358d9e65cd988964c1b099a522baa22056234397"
 [[files]]
 file = "mods/armor-visibility-4.0.1+1.18.2-forge.jar"
 hash = "fd60a48a98290f68e739d9ae06f8f49feb74d6f239b41f4e742d543300ad3e84"
+
+[[files]]
+file = "mods/ars_nouveau-1.18.2-2.9.0.jar"
+hash = "35aa0b3ecb218e3355d99d7302bf3f633b982f9072b39abcdb0fc176ebeecdff"
 
 [[files]]
 file = "mods/auudio_forge_1.0.3_MC_1.18-1.18.2.jar"

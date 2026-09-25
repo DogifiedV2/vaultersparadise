@@ -360,6 +360,12 @@
       "y": 160,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/industrial_foregoing"
+    },
+    "Ars Nouveau": {
+      "x": 300,
+      "y": 160,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/ars_nouveau"
     }
   }
 }

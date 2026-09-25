@@ -1,5 +1,6 @@
 {
 	"ITEM_BLACKLIST": [
+		"ars_nouveau:*",
 		"!minecraft:redstone_ore",
 		"the_vault:animatrix_block",
 		"ecologics:coconut_boat",
@@ -206,6 +207,19 @@
 		"sophisticatedstorage:*"
 	],
 	"BLOCK_BLACKLIST": [
+		"!ars_nouveau:*archwood_log",
+		"!ars_nouveau:*archwood_wood",
+		"!ars_nouveau:*archwood_leaves",
+		"!ars_nouveau:archwood_planks",
+		"!ars_nouveau:archwood_slab",
+		"!ars_nouveau:archwood_stairs",
+		"!ars_nouveau:arcane_stone",
+		"!ars_nouveau:arcane_bricks",
+		"!ars_nouveau:ab_*",
+		"!ars_nouveau:as_gold_*",
+		"!ars_nouveau:sas_*",
+		"!ars_nouveau:source_gem_block",
+		"ars_nouveau:*",
 		"!minecraft:redstone_ore",
 		"the_vault:animatrix_block",
 		"darkutils:*",
