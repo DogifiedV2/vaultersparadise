@@ -804,6 +804,23 @@
       "name": "Ars Nouveau",
       "cost": 6,
       "usesKnowledge": true
+    },
+    {
+      "modIds": [
+        "botanicalmachinery"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Botanical Machinery",
+      "cost": 4,
+      "usesKnowledge": true
     }
   ],
   "CUSTOM_RESEARCHES": [

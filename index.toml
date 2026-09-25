@@ -15690,11 +15690,11 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "a730480faae296194914ebfbc003dc0d075f76d98ff8cfec934fa1043f6225b8"
+hash = "705fa2640bacd7b0b94fc6b18bb171e2b10f1bbe607e38840e823c7c25a89275"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "64320d02d26fd909ac8212186d1ddfd49e22ad10272685a0e9497b3ea1713ca1"
+hash = "e5f5e5582153b8a4da8815966bf63459c9d369e58246d9cd9d02190875609f6b"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
@@ -15702,7 +15702,7 @@ hash = "bca4648329e31a29cd9ad51916e19bfd05fae1b325686841f66f4d45e279a9e9"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "eedc08a0b912c44072c77a8b71fe64b55faf72724b9e2555af1eab256e7127cd"
+hash = "bf4c9419d927675787aef08190c2d38fa22c169fe81cca98463c7002eab33e5a"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -15754,11 +15754,11 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "8b75a90269a50db18c0ff5c5646b9c69f9e2bea3018a8ee4de07fa23cd88d9e9"
+hash = "936bde83e754e2dcfcb190e5cdcd1060c89ed25dd11e0ba7bbf2730c659eb795"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "33d9c9f7cfea73358ba569ec42ebd191d3982514b499bec1fca94fb728dfba2a"
+hash = "3c17993ce86a672e04da36678aed61123e9d1fb222c8b183ac300ae2752f8d5f"
 
 [[files]]
 file = "config/the_vault/skill_scrolls.json"
@@ -15922,7 +15922,7 @@ hash = "5057da8c4efc3d43f67d92e18216ad6564f043738fb9ceeaff318bb01675375b"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "cd43404c5560c2c2a899dcd392986c364b883bb840dc6d130adc146fc8e76147"
+hash = "612621d45590a075eb4f4f4eb6c54eaac7126b368b9b3701a6df5ec9d3dec7a5"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
@@ -17013,6 +17013,10 @@ file = "kubejs/assets/the_vault/textures/gui/researches/bonsai_pots.png"
 hash = "387a394be02230f0e4a63ad07944426610a02da882e912075e7aa17d25e61bc4"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/researches/botanical_machinery.png"
+hash = "66d078bad4303638adc7bab762718cfec65088b9331329f79cb86bf88f971c1c"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/create_crafts_and_additions.png"
 hash = "d48f94e6c9bb9bc0f9c02c3f4edfa97deba7917ff4a8bbb9daa3daec7491ec27"
 
@@ -18081,6 +18085,10 @@ file = "mods/Botania-1.18.2-435.jar"
 hash = "1300bc74d0cc1fad40261b0a888fc3c8b88594c43b9063b5f6a6b7456518ed1f"
 
 [[files]]
+file = "mods/BotanicalMachinery-1.18.2-1.0.3.jar"
+hash = "dbfcc4c4f9768a96c781a52dacf9f8eff769f98a6dc29f259376f6ca0a56c6da"
+
+[[files]]
 file = "mods/BotanyPots-Forge-1.18.2-8.1.32.jar"
 hash = "d61ecf95f2f3cd7d6cd537502969526fc17073eac6d80460d3d6f89106c3acf2"
 
@@ -18235,6 +18243,10 @@ hash = "390463801eaf7f417f4496d4f209067018c220d6fec6185d1832762cb1893148"
 [[files]]
 file = "mods/LegendaryTooltips-1.18.2-1.3.1.jar"
 hash = "592c6db8ef5beb153eb96cc928a481aa35ac56c137d4d5e363df6da078e7f91a"
+
+[[files]]
+file = "mods/LibX-1.18.2-3.2.19.jar"
+hash = "70677e254a44e2e14b0c849a5252d41fa127b4018a040769187260fdbf86e0e7"
 
 [[files]]
 file = "mods/MaFgLib-0.1.14-mc1.18.2.jar"

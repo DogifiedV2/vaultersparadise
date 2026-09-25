@@ -1,5 +1,6 @@
 {
 	"ITEM_BLACKLIST": [
+		"botanicalmachinery:*",
 		"ars_nouveau:*",
 		"!minecraft:redstone_ore",
 		"the_vault:animatrix_block",
@@ -207,6 +208,7 @@
 		"sophisticatedstorage:*"
 	],
 	"BLOCK_BLACKLIST": [
+		"botanicalmachinery:*",
 		"!ars_nouveau:*archwood_log",
 		"!ars_nouveau:*archwood_wood",
 		"!ars_nouveau:*archwood_leaves",

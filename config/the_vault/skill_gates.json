@@ -135,6 +135,7 @@
         "ignoreArrow": true,
         "lockedBy": []
       },
+      "Botanical Machinery": {"dependsOn": [{"type": "constant", "id": "Botania"}], "ignoreArrow": true, "lockedBy": []},
       "Brews": {
         "dependsOn": [{ "type": "constant", "id": "Mixtures" }],
         "ignoreArrow": true,
