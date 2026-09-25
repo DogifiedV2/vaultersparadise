@@ -18749,6 +18749,10 @@ file = "mods/overvaults-1.6.22-1.18.2.jar"
 hash = "f17b3c1e4c7dfc98ba59322a33db76108a169fcdf39290bf48498b85a837cb5c"
 
 [[files]]
+file = "mods/paradisecore-1.18.2-2.0.jar"
+hash = "fcbf6d04bde178f96842bdc9b5033f2c4b6ec351af20183dda621896c2e75ea9"
+
+[[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
 hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
@@ -18825,10 +18829,6 @@ hash = "b06590edf24f91d655bb59f585950c11ef8c72c798b7d40dc6a4c16fbf2603a3"
 [[files]]
 file = "mods/serverconfigupdater-2.2.jar"
 hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
-
-[[files]]
-file = "mods/serverportals-1.18.2-1.5.jar"
-hash = "28825ae1f789c2f99da2c082e2136ae871443e9638e90e4df07724aded6e8b19"
 
 [[files]]
 file = "mods/servertransfer-1.3.jar"
