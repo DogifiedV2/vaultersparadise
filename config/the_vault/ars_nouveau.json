@@ -1,0 +1,6 @@
+{
+  "vaultCastDeniedMessage": "Your magic fizzles. The vault does not answer to glyphs.",
+  "shareVaultMana": true,
+  "spellDamagePerAbilityPower": 0.002,
+  "maxSpellDamageBonus": 1.0
+}

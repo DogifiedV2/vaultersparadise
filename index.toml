@@ -1649,6 +1649,10 @@ file = "config/the_vault/architect.json"
 hash = "cf0d3cc619acbcfcbff21779da214ac6cb3fc714c95f2c1e47bcf2e7a5b7178b"
 
 [[files]]
+file = "config/the_vault/ars_nouveau.json"
+hash = "ff5824d499bd6ea9a273df964226c4932a197073456aea75ac39e426b04daba8"
+
+[[files]]
 file = "config/the_vault/ascension.json"
 hash = "1eac7a0f5d57133d0fcd33c7ba29e6d01059e464175e92d1ea5f806d71d987a8"
 
