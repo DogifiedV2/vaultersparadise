@@ -368,8 +368,8 @@
       "icon": "the_vault:gui/researches/ars_nouveau"
     },
     "Botanical Machinery": {
-      "x": 200,
-      "y": 200,
+      "x": 730,
+      "y": 0,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botanical_machinery"
     }
