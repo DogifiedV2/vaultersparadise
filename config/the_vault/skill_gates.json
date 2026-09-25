@@ -136,6 +136,7 @@
         "lockedBy": []
       },
       "Botanical Machinery": {"dependsOn": [{"type": "constant", "id": "Botania"}], "ignoreArrow": true, "lockedBy": []},
+      "Super Factory Manager": {"dependsOn": [{"type": "constant", "id": "Xnet"}, {"type": "constant", "id": "Modular Routers"}], "ignoreArrow": true, "lockedBy": []},
       "Brews": {
         "dependsOn": [{ "type": "constant", "id": "Mixtures" }],
         "ignoreArrow": true,

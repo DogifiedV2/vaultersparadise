@@ -372,6 +372,12 @@
       "y": 200,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/researches/botanical_machinery"
+    },
+    "Super Factory Manager": {
+      "x": 60,
+      "y": 280,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/researches/super_factory_manager"
     }
   }
 }

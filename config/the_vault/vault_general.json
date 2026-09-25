@@ -1,5 +1,6 @@
 {
 	"ITEM_BLACKLIST": [
+		"sfm:*",
 		"botanicalmachinery:*",
 		"ars_nouveau:*",
 		"!minecraft:redstone_ore",
@@ -208,6 +209,7 @@
 		"sophisticatedstorage:*"
 	],
 	"BLOCK_BLACKLIST": [
+		"sfm:*",
 		"botanicalmachinery:*",
 		"!ars_nouveau:*archwood_log",
 		"!ars_nouveau:*archwood_wood",
