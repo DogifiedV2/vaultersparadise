@@ -1,4 +1,125 @@
 {
+  "chapters": [
+    {
+      "id": "getting_started",
+      "name": "Getting Started",
+      "icon": "the_vault:gui/quests/welcome",
+      "images": [
+        {
+          "icon": "the_vault:gui/quests/altar",
+          "x": -1.9,
+          "y": 2.08,
+          "size": 2.6,
+          "alpha": 0.12
+        }
+      ]
+    },
+    {
+      "id": "tools_and_gear",
+      "name": "Tools & Gear",
+      "icon": "the_vault:gui/quests/forge",
+      "images": [
+        {
+          "icon": "the_vault:gui/quests/forge",
+          "x": -1.9,
+          "y": 2.0,
+          "size": 2.6,
+          "alpha": 0.12
+        }
+      ],
+      "lockedHint": "Enter a vault"
+    },
+    {
+      "id": "vault_objectives",
+      "name": "Vault Objectives",
+      "icon": "the_vault:gui/quests/empty_seal",
+      "images": [
+        {
+          "icon": "the_vault:gui/quests/ten",
+          "x": 0.0,
+          "y": 0.0,
+          "size": 3.6,
+          "alpha": 0.1
+        }
+      ],
+      "lockedHint": "Level 5"
+    },
+    {
+      "id": "level_20",
+      "name": "Level 20",
+      "icon": "the_vault:gui/quests/twenty",
+      "images": [
+        {
+          "icon": "the_vault:gui/quests/twenty",
+          "x": 0.0,
+          "y": 0.0,
+          "size": 3.6,
+          "alpha": 0.1
+        }
+      ],
+      "lockedHint": "Using Knowledge"
+    },
+    {
+      "id": "the_gods",
+      "name": "The Gods",
+      "icon": "the_vault:gui/quests/gods_quest_x",
+      "images": [
+        {
+          "icon": "the_vault:gui/quests/god_altar",
+          "x": -1.9,
+          "y": 0.5,
+          "size": 2.6,
+          "alpha": 0.12
+        }
+      ],
+      "lockedHint": "Level 20"
+    },
+    {
+      "id": "level_50",
+      "name": "Level 50",
+      "icon": "the_vault:gui/quests/level50",
+      "images": [
+        {
+          "icon": "the_vault:gui/quests/level50",
+          "x": 0.0,
+          "y": 0.0,
+          "size": 3.6,
+          "alpha": 0.1
+        }
+      ],
+      "lockedHint": "Level 40"
+    },
+    {
+      "id": "level_65",
+      "name": "Level 65",
+      "icon": "the_vault:gui/quests/level65",
+      "images": [
+        {
+          "icon": "the_vault:gui/quests/ascensionforge",
+          "x": -1.9,
+          "y": 1.5,
+          "size": 2.6,
+          "alpha": 0.12
+        }
+      ],
+      "lockedHint": "Level 50"
+    },
+    {
+      "id": "endgame",
+      "name": "The Herald & Greed",
+      "icon": "the_vault:gui/quests/herald",
+      "images": [
+        {
+          "icon": "the_vault:gui/quests/greed",
+          "x": -2.0,
+          "y": 0.0,
+          "size": 2.6,
+          "alpha": 0.12
+        }
+      ],
+      "lockedHint": "Level 65"
+    }
+  ],
   "quests": [
     {
       "type": "checkmark",
@@ -71,7 +192,6 @@
       "icon": "the_vault:gui/quests/welcome",
       "targetId": "the_vault:raw_chromatic_iron",
       "targetProgress": 1.0,
-      "unlockedBy": "",
       "reward": {
         "items": [
           {
@@ -81,10 +201,12 @@
         ],
         "vaultExp": 0
       },
-      "questTypes": [
-        "SKY",
-        "NORMAL"
-      ]
+      "requires": [],
+      "chapter": "getting_started",
+      "x": 0.0,
+      "y": 2.08,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -173,11 +295,18 @@
       "icon": "the_vault:gui/quests/welcome",
       "targetId": "the_vault:any",
       "targetProgress": 1.0,
-      "unlockedBy": "welcome_quest",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "welcome_quest"
+      ],
+      "chapter": "getting_started",
+      "x": 1.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -234,7 +363,6 @@
       "icon": "the_vault:gui/quests/raw_vault",
       "targetId": "the_vault:100",
       "targetProgress": 1.0,
-      "unlockedBy": "server_commands",
       "reward": {
         "items": [
           {
@@ -242,7 +370,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "server_commands"
+      ],
+      "chapter": "getting_started",
+      "x": 2.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": true
     },
     {
       "type": "checkmark",
@@ -295,7 +431,6 @@
       "icon": "the_vault:gui/quests/wolds",
       "targetId": "the_vault:100",
       "targetProgress": 1.0,
-      "unlockedBy": "welcome_quest",
       "reward": {
         "items": [
           {
@@ -303,7 +438,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "welcome_quest"
+      ],
+      "chapter": "getting_started",
+      "x": 1.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": true
     },
     {
       "type": "collection",
@@ -364,7 +507,6 @@
       "icon": "the_vault:gui/quests/find_chromatic_iron",
       "targetId": "the_vault:raw_chromatic_iron",
       "targetProgress": 16.0,
-      "unlockedBy": "welcome_quest",
       "reward": {
         "items": [
           {
@@ -373,7 +515,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "welcome_quest"
+      ],
+      "chapter": "getting_started",
+      "x": 1.0,
+      "y": 2.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "mining",
@@ -438,7 +588,6 @@
       "icon": "the_vault:gui/quests/vault_stone",
       "targetId": "the_vault:vault_stone",
       "targetProgress": 10,
-      "unlockedBy": "welcome_quest",
       "reward": {
         "items": [
           {
@@ -447,7 +596,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "welcome_quest"
+      ],
+      "chapter": "getting_started",
+      "x": 1.0,
+      "y": 5.3,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -468,7 +625,6 @@
       "icon": "the_vault:gui/quests/altar",
       "targetId": "the_vault:vault_altar",
       "targetProgress": 1.0,
-      "unlockedBy": "mine_vault_stone",
       "reward": {
         "items": [
           {
@@ -476,7 +632,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "mine_vault_stone"
+      ],
+      "chapter": "getting_started",
+      "x": 2.0,
+      "y": 5.3,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "craft_crystal",
@@ -497,7 +661,6 @@
       "icon": "the_vault:gui/quests/crystal",
       "targetId": "the_vault:vault_crystal",
       "targetProgress": 1.0,
-      "unlockedBy": "craft_vault_altar",
       "reward": {
         "items": [
           {
@@ -505,7 +668,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "craft_vault_altar"
+      ],
+      "chapter": "getting_started",
+      "x": 3.0,
+      "y": 5.3,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -538,7 +709,6 @@
       "icon": "the_vault:gui/quests/skills",
       "targetId": "the_vault:any",
       "targetProgress": 1.0,
-      "unlockedBy": "complete_vault_crystal",
       "reward": {
         "items": [
           {
@@ -548,7 +718,15 @@
         ],
         "vaultExp": 0,
         "skillPoints": 1
-      }
+      },
+      "requires": [
+        "complete_vault_crystal"
+      ],
+      "chapter": "getting_started",
+      "x": 4.0,
+      "y": 5.3,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -573,7 +751,6 @@
       "icon": "the_vault:gui/quests/enchanter",
       "targetId": "the_vault:vault_enchanter",
       "targetProgress": 1.0,
-      "unlockedBy": "learning_skills",
       "reward": {
         "items": [
           {
@@ -586,7 +763,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "learning_skills"
+      ],
+      "chapter": "getting_started",
+      "x": 5.0,
+      "y": 3.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -671,7 +856,6 @@
       "icon": "the_vault:gui/quests/potion",
       "targetId": "the_vault:bottle",
       "targetProgress": 1.0,
-      "unlockedBy": "learning_skills",
       "reward": {
         "items": [
           {
@@ -679,236 +863,15 @@
           }
         ],
         "vaultExp": 0
-      }
-    },
-    {
-      "type": "enter_vault",
-      "id": "enter_vault",
-      "name": "Vault Hunting",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Build yourself a Vault Portal with any assortment of Vault Stone blocks in a similar fashion to the Nether Portal. Once the portal is built then you can right-click your Vault Crystal onto the frame to open a Portal.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nThere is a time limit within the Vault, requiring you to complete it before it ticks down to 0. Marking your way with blocks will allow you to easily find your way back to your portal.\n\nIf you die you will return to the overworld and if you are under vault level 20 you will be granted 'Beginners Grace' which will allow you to keep all your loot regardless of dying or escaping.\n\nIf you manage to complete the Vault you will be granted a Crate that can be placed and then Sneak+Right-Clicked to open!",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nEnter A Vault",
-            "color": "$heal"
-          }
-        ]
       },
-      "icon": "the_vault:gui/quests/enter_vault",
-      "targetId": "the_vault:any",
-      "targetProgress": 1.0,
-      "unlockedBy": "learning_skills",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:sword",
-            "nbt": ""
-          },
-          {
-            "item": "the_vault:shield",
-            "nbt": ""
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "obtain_vault_trident",
-      "name": "Vault Trident",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The Vault trident is a new piece of vault gear that is similar to vanilla tridents but instead of enchanting to obtain ",
-            "color": "$text"
-          },
-          {
-            "text": "Loyalty",
-            "color": "dark_aqua"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Riptide",
-            "color": "dark_red"
-          },
-          {
-            "text": ", or ",
-            "color": "$text"
-          },
-          {
-            "text": "Channeling",
-            "color": "red"
-          },
-          {
-            "text": ", they will roll as implicits instead.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Loyalty",
-            "color": "dark_aqua"
-          },
-          {
-            "text": " and ",
-            "color": "$text"
-          },
-          {
-            "text": "Riptide",
-            "color": "dark_red"
-          },
-          {
-            "text": " are mutually exclusive and cannot roll alongside one another, but ",
-            "color": "$text"
-          },
-          {
-            "text": "Channeling ",
-            "color": "red"
-          },
-          {
-            "text": "can roll alongside either of the two.\n\nKeep in mind that vault tridents may be used as a melee weapon, but will do twice the damage when thrown.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Channeling ",
-            "color": "red"
-          },
-          {
-            "text": "works a little different than it's vanilla counterpart. You will need the ",
-            "color": "$text"
-          },
-          {
-            "text": "% Channeling Chance Modifier ",
-            "color": "light_purple"
-          },
-          {
-            "text": "on the trident to gain a chance of triggering the effect. When successful, lightning will strike with a chance to proc any effect clouds and do twice the damage of a thrown trident to those hit with the bolt.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nObtain a Unidentified Vault Trident",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/trident",
-      "targetId": "the_vault:trident",
-      "targetProgress": 1.0,
-      "unlockedBy": "enter_vault",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "obtain_vault_battlestaff",
-      "name": "Vault Battlestaff",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The Vault Battlestaff is a new piece of vault gear that is also used in the main hand. Unlike most gear pieces, battlestaffs can roll a lot of implicits.\n\nVault Battlestaffs can be used with ",
-            "color": "$text"
-          },
-          {
-            "text": "Attack Damage",
-            "color": "$attack_damage"
-          },
-          {
-            "text": " or ",
-            "color": "$text"
-          },
-          {
-            "text": "Ability Power ",
-            "color": "$ability_power"
-          },
-          {
-            "text": "and offer the highest base ",
-            "color": "$text"
-          },
-          {
-            "text": "Attack Speed",
-            "color": "$speed"
-          },
-          {
-            "text": " rolls.\n\nBecause of this high rate of attack, battlestaffs will do a bit less damage than a normal Vault Sword.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nObtain a Unidentified Vault Battlestaff",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/battlestaff",
-      "targetId": "the_vault:battlestaff",
-      "targetProgress": 1.0,
-      "unlockedBy": "enter_vault",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold"
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "obtain_vaultarang",
-      "name": "Vaultarang",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The Vaultarang is a ranged vault weapon similar to a pickarang.\n\nVaultarangs are used strictly for damage. They will not break blocks, but they can pickup items off the floor.Vaultarangs introduce 2 new modifiers.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Piercing ",
-            "color": "$rang_pierce"
-          },
-          {
-            "text": "will allow the vaultarang to travel through an amount of entities dealing damage to each.\n",
-            "color": "$text"
-          },
-          {
-            "text": "Returning Damage ",
-            "color": "$return_damage"
-          },
-          {
-            "text": "will allow the vaultarang to deal damage to entities it passes through on it's way back to you",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nObtain a Unidentified Vaultarang",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/rang",
-      "targetId": "the_vault:rang",
-      "targetProgress": 1.0,
-      "unlockedBy": "enter_vault",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold"
-          }
-        ],
-        "vaultExp": 0
-      }
+      "requires": [
+        "learning_skills"
+      ],
+      "chapter": "getting_started",
+      "x": 5.0,
+      "y": 4.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -1053,7 +1016,6 @@
       "icon": "the_vault:gui/quests/black_market2",
       "targetId": "the_vault:shard_pouch",
       "targetProgress": 1.0,
-      "unlockedBy": "learning_skills",
       "reward": {
         "items": [
           {
@@ -1070,7 +1032,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "learning_skills"
+      ],
+      "chapter": "getting_started",
+      "x": 5.0,
+      "y": 5.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -1203,7 +1173,6 @@
       "icon": "the_vault:gui/quests/coin_pouch",
       "targetId": "the_vault:coin_pouch",
       "targetProgress": 1.0,
-      "unlockedBy": "shard_pouch",
       "reward": {
         "items": [
           {
@@ -1216,7 +1185,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "shard_pouch"
+      ],
+      "chapter": "getting_started",
+      "x": 6.0,
+      "y": 5.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "bounty_complete",
@@ -1241,7 +1218,6 @@
       "icon": "the_vault:gui/quests/bounty",
       "targetId": "the_vault:any",
       "targetProgress": 1.0,
-      "unlockedBy": "learning_skills",
       "reward": {
         "items": [
           {
@@ -1254,7 +1230,272 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "learning_skills"
+      ],
+      "chapter": "getting_started",
+      "x": 5.0,
+      "y": 6.0,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "enter_vault",
+      "id": "enter_vault",
+      "name": "Vault Hunting",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Build yourself a Vault Portal with any assortment of Vault Stone blocks in a similar fashion to the Nether Portal. Once the portal is built then you can right-click your Vault Crystal onto the frame to open a Portal.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nThere is a time limit within the Vault, requiring you to complete it before it ticks down to 0. Marking your way with blocks will allow you to easily find your way back to your portal.\n\nIf you die you will return to the overworld and if you are under vault level 20 you will be granted 'Beginners Grace' which will allow you to keep all your loot regardless of dying or escaping.\n\nIf you manage to complete the Vault you will be granted a Crate that can be placed and then Sneak+Right-Clicked to open!",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nEnter A Vault",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/enter_vault",
+      "targetId": "the_vault:any",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:sword",
+            "nbt": ""
+          },
+          {
+            "item": "the_vault:shield",
+            "nbt": ""
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "learning_skills"
+      ],
+      "chapter": "getting_started",
+      "x": 5.0,
+      "y": 8.5,
+      "milestone": true,
+      "optional": false
+    },
+    {
+      "type": "collection",
+      "id": "obtain_vault_trident",
+      "name": "Vault Trident",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Vault trident is a new piece of vault gear that is similar to vanilla tridents but instead of enchanting to obtain ",
+            "color": "$text"
+          },
+          {
+            "text": "Loyalty",
+            "color": "dark_aqua"
+          },
+          {
+            "text": ", ",
+            "color": "$text"
+          },
+          {
+            "text": "Riptide",
+            "color": "dark_red"
+          },
+          {
+            "text": ", or ",
+            "color": "$text"
+          },
+          {
+            "text": "Channeling",
+            "color": "red"
+          },
+          {
+            "text": ", they will roll as implicits instead.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Loyalty",
+            "color": "dark_aqua"
+          },
+          {
+            "text": " and ",
+            "color": "$text"
+          },
+          {
+            "text": "Riptide",
+            "color": "dark_red"
+          },
+          {
+            "text": " are mutually exclusive and cannot roll alongside one another, but ",
+            "color": "$text"
+          },
+          {
+            "text": "Channeling ",
+            "color": "red"
+          },
+          {
+            "text": "can roll alongside either of the two.\n\nKeep in mind that vault tridents may be used as a melee weapon, but will do twice the damage when thrown.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Channeling ",
+            "color": "red"
+          },
+          {
+            "text": "works a little different than it's vanilla counterpart. You will need the ",
+            "color": "$text"
+          },
+          {
+            "text": "% Channeling Chance Modifier ",
+            "color": "light_purple"
+          },
+          {
+            "text": "on the trident to gain a chance of triggering the effect. When successful, lightning will strike with a chance to proc any effect clouds and do twice the damage of a thrown trident to those hit with the bolt.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nObtain a Unidentified Vault Trident",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/trident",
+      "targetId": "the_vault:trident",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:vault_gold"
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "enter_vault"
+      ],
+      "chapter": "getting_started",
+      "x": 6.0,
+      "y": 7.0,
+      "milestone": false,
+      "optional": true
+    },
+    {
+      "type": "collection",
+      "id": "obtain_vault_battlestaff",
+      "name": "Vault Battlestaff",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Vault Battlestaff is a new piece of vault gear that is also used in the main hand. Unlike most gear pieces, battlestaffs can roll a lot of implicits.\n\nVault Battlestaffs can be used with ",
+            "color": "$text"
+          },
+          {
+            "text": "Attack Damage",
+            "color": "$attack_damage"
+          },
+          {
+            "text": " or ",
+            "color": "$text"
+          },
+          {
+            "text": "Ability Power ",
+            "color": "$ability_power"
+          },
+          {
+            "text": "and offer the highest base ",
+            "color": "$text"
+          },
+          {
+            "text": "Attack Speed",
+            "color": "$speed"
+          },
+          {
+            "text": " rolls.\n\nBecause of this high rate of attack, battlestaffs will do a bit less damage than a normal Vault Sword.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nObtain a Unidentified Vault Battlestaff",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/battlestaff",
+      "targetId": "the_vault:battlestaff",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:vault_gold"
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "enter_vault"
+      ],
+      "chapter": "getting_started",
+      "x": 6.0,
+      "y": 8.0,
+      "milestone": false,
+      "optional": true
+    },
+    {
+      "type": "collection",
+      "id": "obtain_vaultarang",
+      "name": "Vaultarang",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Vaultarang is a ranged vault weapon similar to a pickarang.\n\nVaultarangs are used strictly for damage. They will not break blocks, but they can pickup items off the floor.Vaultarangs introduce 2 new modifiers.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Piercing ",
+            "color": "$rang_pierce"
+          },
+          {
+            "text": "will allow the vaultarang to travel through an amount of entities dealing damage to each.\n",
+            "color": "$text"
+          },
+          {
+            "text": "Returning Damage ",
+            "color": "$return_damage"
+          },
+          {
+            "text": "will allow the vaultarang to deal damage to entities it passes through on it's way back to you",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nObtain a Unidentified Vaultarang",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/rang",
+      "targetId": "the_vault:rang",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:vault_gold"
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "enter_vault"
+      ],
+      "chapter": "getting_started",
+      "x": 6.0,
+      "y": 9.0,
+      "milestone": false,
+      "optional": true
     },
     {
       "type": "collection",
@@ -1379,7 +1620,6 @@
       "icon": "the_vault:gui/quests/animal_pen",
       "targetId": "the_vault:animal_pen",
       "targetProgress": 1.0,
-      "unlockedBy": "enter_vault",
       "reward": {
         "items": [
           {
@@ -1396,7 +1636,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "enter_vault"
+      ],
+      "chapter": "getting_started",
+      "x": 6.0,
+      "y": 10.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -1421,7 +1669,6 @@
       "icon": "the_vault:gui/quests/station",
       "targetId": "the_vault:tool_station",
       "targetProgress": 1.0,
-      "unlockedBy": "enter_vault",
       "reward": {
         "items": [
           {
@@ -1430,7 +1677,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "enter_vault"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 0.0,
+      "y": 2.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "forge_gear",
@@ -1559,7 +1814,6 @@
       "icon": "the_vault:gui/quests/tool",
       "targetId": "the_vault:tool/pick/chromatic_iron_ingot",
       "targetProgress": 1.0,
-      "unlockedBy": "tool_station",
       "reward": {
         "items": [
           {
@@ -1584,7 +1838,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "tool_station"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 1.0,
+      "y": 2.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -1777,7 +2039,6 @@
       "icon": "the_vault:gui/quests/tool",
       "targetId": "the_vault:jewel_pouch",
       "targetProgress": 1.0,
-      "unlockedBy": "craft_tool",
       "reward": {
         "items": [
           {
@@ -1786,7 +2047,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "craft_tool"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 2.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -1851,7 +2120,6 @@
       "icon": "the_vault:gui/quests/apply_jewel",
       "targetId": "the_vault:vault_jewel_application_station",
       "targetProgress": 1.0,
-      "unlockedBy": "craft_tool",
       "reward": {
         "items": [
           {
@@ -1860,7 +2128,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "craft_tool"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 2.0,
+      "y": 2.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -1881,7 +2157,6 @@
       "icon": "the_vault:gui/quests/jewel_cutting",
       "targetId": "the_vault:jewel_crafting_table",
       "targetProgress": 1.0,
-      "unlockedBy": "craft_tool",
       "reward": {
         "items": [
           {
@@ -1894,7 +2169,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "craft_tool"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 2.0,
+      "y": 4.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "level_up",
@@ -1915,7 +2198,6 @@
       "icon": "the_vault:gui/quests/expertises",
       "targetId": "the_vault:5",
       "targetProgress": 1.0,
-      "unlockedBy": "apply_jewel",
       "reward": {
         "items": [
           {
@@ -1924,7 +2206,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "apply_jewel"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 3.0,
+      "y": 2.0,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "collection",
@@ -1961,7 +2251,6 @@
       "icon": "the_vault:gui/quests/forge",
       "targetId": "the_vault:vault_forge",
       "targetProgress": 1.0,
-      "unlockedBy": "level_five",
       "reward": {
         "items": [
           {
@@ -1974,7 +2263,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_five"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 4.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "forge_gear",
@@ -1995,7 +2292,6 @@
       "icon": "the_vault:gui/quests/magnet",
       "targetId": "the_vault:magnet",
       "targetProgress": 1.0,
-      "unlockedBy": "vault_forge",
       "reward": {
         "items": [
           {
@@ -2004,7 +2300,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "vault_forge"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 5.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2025,7 +2329,6 @@
       "icon": "the_vault:gui/quests/artisan",
       "targetId": "the_vault:vault_artisan_station",
       "targetProgress": 1.0,
-      "unlockedBy": "gear_forge",
       "reward": {
         "items": [
           {
@@ -2034,7 +2337,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "gear_forge"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 6.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "modify_gear",
@@ -2055,7 +2366,6 @@
       "icon": "the_vault:gui/quests/reroll",
       "targetId": "the_vault:reforge_all",
       "targetProgress": 1.0,
-      "unlockedBy": "artisan_table",
       "reward": {
         "items": [
           {
@@ -2068,7 +2378,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "artisan_table"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 7.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2089,7 +2407,6 @@
       "icon": "the_vault:gui/quests/recycler",
       "targetId": "the_vault:vault_recycler",
       "targetProgress": 1.0,
-      "unlockedBy": "level_five",
       "reward": {
         "items": [
           {
@@ -2098,7 +2415,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_five"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 4.0,
+      "y": 2.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2175,7 +2500,6 @@
       "icon": "the_vault:gui/quests/alchemytable",
       "targetId": "the_vault:alchemy_table",
       "targetProgress": 1.0,
-      "unlockedBy": "level_five",
       "reward": {
         "items": [
           {
@@ -2188,7 +2512,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_five"
+      ],
+      "chapter": "tools_and_gear",
+      "x": 4.0,
+      "y": 3.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "level_up",
@@ -2209,7 +2541,6 @@
       "icon": "the_vault:gui/quests/ten",
       "targetId": "the_vault:10",
       "targetProgress": 1.0,
-      "unlockedBy": "level_five",
       "reward": {
         "items": [
           {
@@ -2217,7 +2548,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_five"
+      ],
+      "chapter": "vault_objectives",
+      "x": 0.0,
+      "y": 0.0,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2238,7 +2577,6 @@
       "icon": "the_vault:gui/quests/empty_seal",
       "targetId": "the_vault:crystal_seal_empty",
       "targetProgress": 1.0,
-      "unlockedBy": "level_ten",
       "reward": {
         "items": [
           {
@@ -2246,7 +2584,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_ten"
+      ],
+      "chapter": "vault_objectives",
+      "x": 0.0,
+      "y": -3.26,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2291,7 +2637,6 @@
       "icon": "the_vault:gui/quests/sage",
       "targetId": "the_vault:crystal_seal_sage",
       "targetProgress": 1.0,
-      "unlockedBy": "seals",
       "reward": {
         "items": [
           {
@@ -2300,7 +2645,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "seals"
+      ],
+      "chapter": "vault_objectives",
+      "x": -2.57,
+      "y": -4.58,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2345,7 +2698,6 @@
       "icon": "the_vault:gui/quests/scout",
       "targetId": "the_vault:crystal_seal_scout",
       "targetProgress": 1.0,
-      "unlockedBy": "seals",
       "reward": {
         "items": [
           {
@@ -2354,7 +2706,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "seals"
+      ],
+      "chapter": "vault_objectives",
+      "x": -1.35,
+      "y": -5.3,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2419,7 +2779,6 @@
       "icon": "the_vault:gui/quests/hunter",
       "targetId": "the_vault:crystal_seal_hunter",
       "targetProgress": 1.0,
-      "unlockedBy": "seals",
       "reward": {
         "items": [
           {
@@ -2428,7 +2787,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "seals"
+      ],
+      "chapter": "vault_objectives",
+      "x": 0.0,
+      "y": -5.54,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2521,7 +2888,6 @@
       "icon": "the_vault:gui/quests/prophet",
       "targetId": "the_vault:crystal_seal_prophet",
       "targetProgress": 1.0,
-      "unlockedBy": "seals",
       "reward": {
         "items": [
           {
@@ -2530,7 +2896,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "seals"
+      ],
+      "chapter": "vault_objectives",
+      "x": 1.35,
+      "y": -5.3,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2579,7 +2953,6 @@
       "icon": "the_vault:gui/quests/executioner",
       "targetId": "the_vault:crystal_seal_executioner",
       "targetProgress": 1.0,
-      "unlockedBy": "seals",
       "reward": {
         "items": [
           {
@@ -2588,7 +2961,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "seals"
+      ],
+      "chapter": "vault_objectives",
+      "x": 2.57,
+      "y": -4.58,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -2669,7 +3050,6 @@
       "icon": "the_vault:gui/quests/regretorb",
       "targetId": "the_vault:any",
       "targetProgress": 1.0,
-      "unlockedBy": "level_ten",
       "reward": {
         "items": [
           {
@@ -2678,7 +3058,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_ten"
+      ],
+      "chapter": "vault_objectives",
+      "x": 2.32,
+      "y": -1.63,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -2699,7 +3087,6 @@
       "icon": "the_vault:gui/quests/black_market",
       "targetId": "the_vault:black_market",
       "targetProgress": 1.0,
-      "unlockedBy": "level_ten",
       "reward": {
         "items": [
           {
@@ -2708,7 +3095,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_ten"
+      ],
+      "chapter": "vault_objectives",
+      "x": 2.32,
+      "y": 1.63,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2729,7 +3124,6 @@
       "icon": "the_vault:gui/quests/diffuser",
       "targetId": "the_vault:vault_diffuser",
       "targetProgress": 1.0,
-      "unlockedBy": "level_ten",
       "reward": {
         "items": [
           {
@@ -2738,7 +3132,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_ten"
+      ],
+      "chapter": "vault_objectives",
+      "x": 0.0,
+      "y": 3.26,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2767,7 +3169,6 @@
       "icon": "the_vault:gui/quests/identificationstand",
       "targetId": "the_vault:identification_stand",
       "targetProgress": 1.0,
-      "unlockedBy": "level_ten",
       "reward": {
         "items": [
           {
@@ -2788,7 +3189,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_ten"
+      ],
+      "chapter": "vault_objectives",
+      "x": -2.32,
+      "y": 1.63,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -2809,7 +3218,6 @@
       "icon": "the_vault:gui/quests/knowledge",
       "targetId": "the_vault:knowledge_star",
       "targetProgress": 1.0,
-      "unlockedBy": "level_ten",
       "reward": {
         "items": [
           {
@@ -2817,7 +3225,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "level_ten"
+      ],
+      "chapter": "vault_objectives",
+      "x": -2.32,
+      "y": -1.63,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "level_up",
@@ -2882,7 +3298,6 @@
       "icon": "the_vault:gui/quests/twenty",
       "targetId": "the_vault:20",
       "targetProgress": 1.0,
-      "unlockedBy": "craft_knowledge_star",
       "reward": {
         "items": [
           {
@@ -2890,65 +3305,15 @@
           }
         ],
         "vaultExp": 0
-      }
-    },
-    {
-      "type": "checkmark",
-      "id": "burgers",
-      "name": "Additional Experience",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Consuming ",
-            "color": "$text"
-          },
-          {
-            "text": "Vault Burgers",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " gives you vault experience.\nVault Burgers can be found rarely in the ",
-            "color": "$text"
-          },
-          {
-            "text": "Black Market",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " and in ",
-            "color": "$text"
-          },
-          {
-            "text": "Vendoors",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ". They come in different sizes, and the more filling, the more experience they grant.\n While extra experience can sometimes be nice, use at your own risk, as you may outlevel your current gear!",
-            "color": "$text"
-          }
-        ]
       },
-      "icon": "the_vault:gui/quests/burger",
-      "targetId": "the_vault:plain_burger",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:plain_burger",
-            "amount": 1
-          },
-          {
-            "item": "the_vault:cheese_burger",
-            "amount": 1
-          },
-          {
-            "item": "the_vault:deluxe_cheese_burger",
-            "amount": 1
-          }
-        ],
-        "vaultExp": 0
-      }
+      "requires": [
+        "craft_knowledge_star"
+      ],
+      "chapter": "level_20",
+      "x": 0.0,
+      "y": 0.0,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "collection",
@@ -3053,7 +3418,6 @@
       "icon": "the_vault:gui/quests/crystalworkbench",
       "targetId": "the_vault:crystal_workbench",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -3067,7 +3431,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": 0.0,
+      "y": -3.26,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -3184,7 +3556,6 @@
       "icon": "the_vault:gui/quests/catalyst",
       "targetId": "the_vault:catalyst_infusion_table",
       "targetProgress": 1.0,
-      "unlockedBy": "crystal_workbench",
       "reward": {
         "items": [
           {
@@ -3193,7 +3564,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "crystal_workbench"
+      ],
+      "chapter": "level_20",
+      "x": -1.35,
+      "y": -5.3,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -3294,7 +3673,6 @@
       "icon": "the_vault:gui/quests/inscriptiontable",
       "targetId": "the_vault:inscription_table",
       "targetProgress": 1.0,
-      "unlockedBy": "crystal_workbench",
       "reward": {
         "items": [
           {
@@ -3303,7 +3681,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "crystal_workbench"
+      ],
+      "chapter": "level_20",
+      "x": 0.0,
+      "y": -5.54,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "mining",
@@ -3356,7 +3742,6 @@
       "icon": "the_vault:gui/quests/temporal_shard",
       "targetId": "the_vault:pylon",
       "targetProgress": 1,
-      "unlockedBy": "crystal_workbench",
       "reward": {
         "items": [
           {
@@ -3365,7 +3750,80 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "crystal_workbench"
+      ],
+      "chapter": "level_20",
+      "x": 1.35,
+      "y": -5.3,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "checkmark",
+      "id": "burgers",
+      "name": "Additional Experience",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Consuming ",
+            "color": "$text"
+          },
+          {
+            "text": "Vault Burgers",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " gives you vault experience.\nVault Burgers can be found rarely in the ",
+            "color": "$text"
+          },
+          {
+            "text": "Black Market",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and in ",
+            "color": "$text"
+          },
+          {
+            "text": "Vendoors",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". They come in different sizes, and the more filling, the more experience they grant.\n While extra experience can sometimes be nice, use at your own risk, as you may outlevel your current gear!",
+            "color": "$text"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/burger",
+      "targetId": "the_vault:plain_burger",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:plain_burger",
+            "amount": 1
+          },
+          {
+            "item": "the_vault:cheese_burger",
+            "amount": 1
+          },
+          {
+            "item": "the_vault:deluxe_cheese_burger",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": 1.34,
+      "y": -2.82,
+      "milestone": false,
+      "optional": true
     },
     {
       "type": "collection",
@@ -3442,7 +3900,6 @@
       "icon": "the_vault:gui/quests/artifact",
       "targetId": "the_vault:artifact_projector_block",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -3450,37 +3907,15 @@
           }
         ],
         "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "spirit_extractor",
-      "name": "Revival",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The Spirit Extractor is used to recover loot lost within vaults. If you die, pick up your spirit by Sneak+Right-Clicking it and place it onto the Extractor by Right-Clicking it. This will give you a price in Vault Gold that you will have to pay in order to recieve your items.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nAcquire a Spirit Extractor",
-            "color": "$heal"
-          }
-        ]
       },
-      "icon": "the_vault:gui/quests/extractor",
-      "targetId": "the_vault:spirit_extractor",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vault_gold",
-            "amount": 4
-          }
-        ],
-        "vaultExp": 0
-      }
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": 2.32,
+      "y": -1.63,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -3609,7 +4044,6 @@
       "icon": "the_vault:gui/quests/trinket",
       "targetId": "the_vault:trinket",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -3618,7 +4052,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": 2.68,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -3675,7 +4117,6 @@
       "icon": "the_vault:gui/quests/trinket_forge",
       "targetId": "the_vault:trinket_forge",
       "targetProgress": 1.0,
-      "unlockedBy": "trinkets",
       "reward": {
         "items": [
           {
@@ -3684,7 +4125,52 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "trinkets"
+      ],
+      "chapter": "level_20",
+      "x": 4.55,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "collection",
+      "id": "spirit_extractor",
+      "name": "Revival",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Spirit Extractor is used to recover loot lost within vaults. If you die, pick up your spirit by Sneak+Right-Clicking it and place it onto the Extractor by Right-Clicking it. This will give you a price in Vault Gold that you will have to pay in order to recieve your items.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nAcquire a Spirit Extractor",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/extractor",
+      "targetId": "the_vault:spirit_extractor",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:vault_gold",
+            "amount": 4
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": 2.32,
+      "y": 1.63,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -3733,7 +4219,6 @@
       "icon": "the_vault:gui/quests/vaultrock",
       "targetId": "the_vault:none",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -3742,7 +4227,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": 1.34,
+      "y": 2.82,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -3787,7 +4280,6 @@
       "icon": "the_vault:gui/quests/wardenrock",
       "targetId": "the_vault:wardens_pearl",
       "targetProgress": 1.0,
-      "unlockedBy": "vaultrocks",
       "reward": {
         "items": [
           {
@@ -3796,7 +4288,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "vaultrocks"
+      ],
+      "chapter": "level_20",
+      "x": 2.84,
+      "y": 4.33,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -3841,7 +4341,6 @@
       "icon": "the_vault:gui/quests/plunderrock",
       "targetId": "the_vault:plunderer_pearl",
       "targetProgress": 1.0,
-      "unlockedBy": "vaultrocks",
       "reward": {
         "items": [
           {
@@ -3850,7 +4349,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "vaultrocks"
+      ],
+      "chapter": "level_20",
+      "x": 1.66,
+      "y": 5.16,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -3911,7 +4418,6 @@
       "icon": "the_vault:gui/quests/vendoor",
       "targetId": "the_vault:vendor_door",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -3920,7 +4426,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": 0.0,
+      "y": 3.26,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -4057,7 +4571,6 @@
       "icon": "the_vault:gui/quests/dungeon_quest",
       "targetId": "the_vault:dungeon_door",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -4065,7 +4578,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": -1.34,
+      "y": 2.82,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -4086,7 +4607,6 @@
       "icon": "the_vault:gui/quests/wardrobe",
       "targetId": "the_vault:wardrobe",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -4094,7 +4614,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": -2.32,
+      "y": 1.63,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -4115,7 +4643,6 @@
       "icon": "the_vault:gui/quests/skill_altar",
       "targetId": "the_vault:skill_altar",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -4124,7 +4651,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": -2.68,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -4145,7 +4680,6 @@
       "icon": "the_vault:gui/quests/transmog",
       "targetId": "the_vault:transmog_table",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [
           {
@@ -4154,7 +4688,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": -2.32,
+      "y": -1.63,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -4227,11 +4769,18 @@
       "icon": "the_vault:gui/quests/unique_codex",
       "targetId": "the_vault:unique_codex",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_20",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "level_20",
+      "x": -1.34,
+      "y": -2.82,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "level_up",
@@ -4256,7 +4805,6 @@
       "icon": "the_vault:gui/quests/level40",
       "targetId": "the_vault:40",
       "targetProgress": 1.0,
-      "unlockedBy": "transmog",
       "reward": {
         "items": [
           {
@@ -4277,7 +4825,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_20"
+      ],
+      "chapter": "the_gods",
+      "x": 0.0,
+      "y": 0.5,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -4326,7 +4882,6 @@
       "icon": "the_vault:gui/quests/reroll",
       "targetId": "the_vault:reforge_all",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_40",
       "reward": {
         "items": [
           {
@@ -4339,7 +4894,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_40"
+      ],
+      "chapter": "the_gods",
+      "x": 1.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -4452,7 +5015,6 @@
       "icon": "the_vault:gui/quests/gods_quest_x",
       "targetId": "the_vault:charms",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_40",
       "reward": {
         "items": [
           {
@@ -4460,7 +5022,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_40"
+      ],
+      "chapter": "the_gods",
+      "x": 1.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -4529,7 +5099,6 @@
       "icon": "the_vault:gui/quests/god_altar",
       "targetId": "the_vault:god_altar",
       "targetProgress": 1.0,
-      "unlockedBy": "charms",
       "reward": {
         "items": [
           {
@@ -4537,7 +5106,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "charms"
+      ],
+      "chapter": "the_gods",
+      "x": 2.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -4598,11 +5175,18 @@
       "icon": "the_vault:gui/quests/zealot_vaults",
       "targetId": "the_vault:any",
       "targetProgress": 1.0,
-      "unlockedBy": "god_altars",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "god_altars"
+      ],
+      "chapter": "the_gods",
+      "x": 3.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "level_up",
@@ -4623,7 +5207,6 @@
       "icon": "the_vault:gui/quests/level50",
       "targetId": "the_vault:50",
       "targetProgress": 1.0,
-      "unlockedBy": "zealot_vaults",
       "reward": {
         "items": [
           {
@@ -4631,7 +5214,452 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_40"
+      ],
+      "chapter": "level_50",
+      "x": 0.0,
+      "y": 0.0,
+      "milestone": true,
+      "optional": false
+    },
+    {
+      "type": "checkmark",
+      "id": "card_system",
+      "name": "Card System",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Card System lets you enhance your stats and abilities using ",
+            "color": "$text"
+          },
+          {
+            "text": "cards",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". Cards come in many different types and are equipped through ",
+            "color": "$text"
+          },
+          {
+            "text": "decks",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". Each deck has its own layout and socket limits. ",
+            "color": "$text"
+          },
+          {
+            "text": "Cores ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "provide extra strength and customization.\n\nAlong with cards, decks, and cores, there are several new workstations associated with this system.\n\nThe ",
+            "color": "$text"
+          },
+          {
+            "text": "Deck Station ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "is used to craft decks and lower tiered cores.\n\nThe ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Binder ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "can be used to store cards and build decks.\n\nThe ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Upgrade Station ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "can be used to upgrade tiered cards to make them stronger.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nTo learn more about each part of the Card System, check out the other card-related quests.",
+            "color": "$text"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/card_table",
+      "targetId": "the_vault:deck_station",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:gem_pog",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": 0.0,
+      "y": -3.26,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "collection",
+      "id": "obtain_card",
+      "name": "Card Types",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Cards are obtained from booster packs, which can be found in completion crates or purchased from the black market.\n\nThey come in four colors, and each card's purpose depends on the specific card you receive.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nStat Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack contains stat cards. They improve player based stats such as ",
+            "color": "$text"
+          },
+          {
+            "text": "health",
+            "color": "$health"
+          },
+          {
+            "text": ", ",
+            "color": "$text"
+          },
+          {
+            "text": "armor",
+            "color": "$armor"
+          },
+          {
+            "text": ", or ",
+            "color": "$text"
+          },
+          {
+            "text": "attack damage",
+            "color": "$damage"
+          },
+          {
+            "text": ".",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nResource Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack contains resource cards. Each card has a resource and a requirement. Upon vault completion and meeting the requirement, that resource will be added to your completion crate.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nArcane Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack contains arcane cards that add extra levels to your current abilities.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nEvolution Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides evolution cards. These cards are similar in function to stat cards but become more powerful when placed and paired with other cards.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nMixed Pack: ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "This pack provides players with a random card from one of the packs above.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nAll of these packs can be found in a Mega variant which will give the player more cards to choose from when opening.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nCards can be stored inside the ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Binder",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", recycled in the ",
+            "color": "$text"
+          },
+          {
+            "text": "Vault Recycler",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", and upgraded in the ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Upgrade Station",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ".",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nObtain a booster pack",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/booster",
+      "targetId": "the_vault:booster_pack",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:arcane_pack\"}",
+            "amount": 1
+          },
+          {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:evolution_pack\"}",
+            "amount": 1
+          },
+          {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:resource_pack\"}",
+            "amount": 1
+          },
+          {
+            "item": "the_vault:booster_pack",
+            "nbt": "{id:\"the_vault:stat_pack\"}",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "card_system"
+      ],
+      "chapter": "level_50",
+      "x": -1.98,
+      "y": -4.99,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "collection",
+      "id": "decks",
+      "name": "Decks",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Decks let you store and bring cards into the vault so you can benefit from their special effects. Decks must be placed in the ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Deck ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "curios slot in order for a player to gain the deck effects.\n\nDecks are crafted in the ",
+            "color": "$text"
+          },
+          {
+            "text": "Deck Station",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", with basic decks available immediately. To access the ",
+            "color": "$text"
+          },
+          {
+            "text": "Advanced Decks ",
+            "color": "$qhighlight"
+          },
+          {
+            "text": "tab within the deck station, you must first learn the ",
+            "color": "$text"
+          },
+          {
+            "text": "Vault Decks ",
+            "color": "$yellow"
+          },
+          {
+            "text": "research and then fulfill each decks unlock requirement. \n\nEach deck has a unique layout and number of sockets. Be sure to check out all the decks to find the combination that best fits the deck you want.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nDecks can be built and modified inside the ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Binder",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ".",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nCraft A Card Deck",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/deck",
+      "targetId": "the_vault:card_deck",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:card_binder",
+            "amount": 1
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "card_system"
+      ],
+      "chapter": "level_50",
+      "x": -0.68,
+      "y": -5.48,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "collection",
+      "id": "cores",
+      "name": "Deck Cores",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Cores are augments that can be applied to decks in an ",
+            "color": "$text"
+          },
+          {
+            "text": "anvil",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ".\n\nLesser cores can be crafted in the ",
+            "color": "$text"
+          },
+          {
+            "text": "Deck Station",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", but more powerful cores can be found throughout your adventures in the vaults.\n\nCores play a crucial role in creating powerful decks, so choose them carefully. ",
+            "color": "$text"
+          },
+          {
+            "text": "They can be upgraded from lesser to normal cores, but once socketed, a core can never be replaced with a different one.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nCraft a Lesser Core",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/lesser_deck_core",
+      "targetId": "the_vault:deck_socket",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:silver_scrap",
+            "amount": 256
+          },
+          {
+            "item": "the_vault:gem_black_opal",
+            "amount": 16
+          },
+          {
+            "item": "the_vault:gem_pog",
+            "amount": 1
+          },
+          {
+            "item": "the_vault:vault_gold",
+            "amount": 16
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "card_system"
+      ],
+      "chapter": "level_50",
+      "x": 0.68,
+      "y": -5.48,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "collection",
+      "id": "obtain_juicer",
+      "name": "Upgrading Cards",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Unwanted cards can be recycled in a Vault Recycler to obtain ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Juice",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ".\n\nUsing the ",
+            "color": "$text"
+          },
+          {
+            "text": "Card Upgrade Station",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", cards with tiers can be combined with the required amount of card juice to upgrade the tier.\n\nUpgrading from tier 1 to tier 2 requires 10 card juice, and higher tiers will require significantly more.",
+            "color": "$text"
+          },
+          {
+            "text": "\n\nCraft a Card Upgrade Station",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/card_upgrade_table",
+      "targetId": "the_vault:card_essence_extractor",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:card_juice",
+            "amount": 5
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "card_system"
+      ],
+      "chapter": "level_50",
+      "x": 1.98,
+      "y": -4.99,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -4760,7 +5788,6 @@
       "icon": "the_vault:gui/quests/reroll",
       "targetId": "the_vault:reforge_all",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [
           {
@@ -4769,7 +5796,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": 1.57,
+      "y": -2.64,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -4802,7 +5837,7 @@
             "color": "$qhighlight"
           },
           {
-            "text": ". Load an inscription into the Crucible and materialise the full build on the spot \u2014 no more placing every block by hand.\n\n",
+            "text": ". Load an inscription into the Crucible and materialise the full build on the spot — no more placing every block by hand.\n\n",
             "color": "$text"
           },
           {
@@ -4814,413 +5849,18 @@
       "icon": "the_vault:gui/quests/architects_crucible",
       "targetId": "the_vault:schematic_terminal",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
-    },
-    {
-      "type": "checkmark",
-      "id": "card_system",
-      "name": "Card System",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "The Card System lets you enhance your stats and abilities using ",
-            "color": "$text"
-          },
-          {
-            "text": "cards",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ". Cards come in many different types and are equipped through ",
-            "color": "$text"
-          },
-          {
-            "text": "decks",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ". Each deck has its own layout and socket limits. ",
-            "color": "$text"
-          },
-          {
-            "text": "Cores ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "provide extra strength and customization.\n\nAlong with cards, decks, and cores, there are several new workstations associated with this system.\n\nThe ",
-            "color": "$text"
-          },
-          {
-            "text": "Deck Station ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "is used to craft decks and lower tiered cores.\n\nThe ",
-            "color": "$text"
-          },
-          {
-            "text": "Card Binder ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "can be used to store cards and build decks.\n\nThe ",
-            "color": "$text"
-          },
-          {
-            "text": "Card Upgrade Station ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "can be used to upgrade tiered cards to make them stronger.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nTo learn more about each part of the Card System, check out the other card-related quests.",
-            "color": "$text"
-          }
-        ]
       },
-      "icon": "the_vault:gui/quests/card_table",
-      "targetId": "the_vault:deck_station",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:gem_pog",
-            "amount": 1
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "obtain_card",
-      "name": "Card Types",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Cards are obtained from booster packs, which can be found in completion crates or purchased from the black market.\n\nThey come in four colors, and each card's purpose depends on the specific card you receive.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nStat Pack: ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "This pack contains stat cards. They improve player based stats such as ",
-            "color": "$text"
-          },
-          {
-            "text": "health",
-            "color": "$health"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "armor",
-            "color": "$armor"
-          },
-          {
-            "text": ", or ",
-            "color": "$text"
-          },
-          {
-            "text": "attack damage",
-            "color": "$damage"
-          },
-          {
-            "text": ".",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nResource Pack: ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "This pack contains resource cards. Each card has a resource and a requirement. Upon vault completion and meeting the requirement, that resource will be added to your completion crate.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nArcane Pack: ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "This pack contains arcane cards that add extra levels to your current abilities.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nEvolution Pack: ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "This pack provides evolution cards. These cards are similar in function to stat cards but become more powerful when placed and paired with other cards.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nMixed Pack: ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "This pack provides players with a random card from one of the packs above.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nAll of these packs can be found in a Mega variant which will give the player more cards to choose from when opening.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCards can be stored inside the ",
-            "color": "$text"
-          },
-          {
-            "text": "Card Binder",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", recycled in the ",
-            "color": "$text"
-          },
-          {
-            "text": "Vault Recycler",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", and upgraded in the ",
-            "color": "$text"
-          },
-          {
-            "text": "Card Upgrade Station",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ".",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nObtain a booster pack",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/booster",
-      "targetId": "the_vault:booster_pack",
-      "targetProgress": 1.0,
-      "unlockedBy": "card_system",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:booster_pack",
-            "nbt": "{id:\"the_vault:arcane_pack\"}",
-            "amount": 1
-          },
-          {
-            "item": "the_vault:booster_pack",
-            "nbt": "{id:\"the_vault:evolution_pack\"}",
-            "amount": 1
-          },
-          {
-            "item": "the_vault:booster_pack",
-            "nbt": "{id:\"the_vault:resource_pack\"}",
-            "amount": 1
-          },
-          {
-            "item": "the_vault:booster_pack",
-            "nbt": "{id:\"the_vault:stat_pack\"}",
-            "amount": 1
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "decks",
-      "name": "Decks",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Decks let you store and bring cards into the vault so you can benefit from their special effects. Decks must be placed in the ",
-            "color": "$text"
-          },
-          {
-            "text": "Card Deck ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "curios slot in order for a player to gain the deck effects.\n\nDecks are crafted in the ",
-            "color": "$text"
-          },
-          {
-            "text": "Deck Station",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", with basic decks available immediately. To access the ",
-            "color": "$text"
-          },
-          {
-            "text": "Advanced Decks ",
-            "color": "$qhighlight"
-          },
-          {
-            "text": "tab within the deck station, you must first learn the ",
-            "color": "$text"
-          },
-          {
-            "text": "Vault Decks ",
-            "color": "$yellow"
-          },
-          {
-            "text": "research and then fulfill each decks unlock requirement. \n\nEach deck has a unique layout and number of sockets. Be sure to check out all the decks to find the combination that best fits the deck you want.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nDecks can be built and modified inside the ",
-            "color": "$text"
-          },
-          {
-            "text": "Card Binder",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ".",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCraft A Card Deck",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/deck",
-      "targetId": "the_vault:card_deck",
-      "targetProgress": 1.0,
-      "unlockedBy": "card_system",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:card_binder",
-            "amount": 1
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "cores",
-      "name": "Deck Cores",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Cores are augments that can be applied to decks in an ",
-            "color": "$text"
-          },
-          {
-            "text": "anvil",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ".\n\nLesser cores can be crafted in the ",
-            "color": "$text"
-          },
-          {
-            "text": "Deck Station",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", but more powerful cores can be found throughout your adventures in the vaults.\n\nCores play a crucial role in creating powerful decks, so choose them carefully. ",
-            "color": "$text"
-          },
-          {
-            "text": "They can be upgraded from lesser to normal cores, but once socketed, a core can never be replaced with a different one.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCraft a Lesser Core",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/lesser_deck_core",
-      "targetId": "the_vault:deck_socket",
-      "targetProgress": 1.0,
-      "unlockedBy": "card_system",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:silver_scrap",
-            "amount": 256
-          },
-          {
-            "item": "the_vault:gem_black_opal",
-            "amount": 16
-          },
-          {
-            "item": "the_vault:gem_pog",
-            "amount": 1
-          },
-          {
-            "item": "the_vault:vault_gold",
-            "amount": 16
-          }
-        ],
-        "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "obtain_juicer",
-      "name": "Upgrading Cards",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Unwanted cards can be recycled in a Vault Recycler to obtain ",
-            "color": "$text"
-          },
-          {
-            "text": "Card Juice",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ".\n\nUsing the ",
-            "color": "$text"
-          },
-          {
-            "text": "Card Upgrade Station",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", cards with tiers can be combined with the required amount of card juice to upgrade the tier.\n\nUpgrading from tier 1 to tier 2 requires 10 card juice, and higher tiers will require significantly more.",
-            "color": "$text"
-          },
-          {
-            "text": "\n\nCraft a Card Upgrade Station",
-            "color": "$heal"
-          }
-        ]
-      },
-      "icon": "the_vault:gui/quests/card_upgrade_table",
-      "targetId": "the_vault:card_essence_extractor",
-      "targetProgress": 1.0,
-      "unlockedBy": "card_system",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:card_juice",
-            "amount": 5
-          }
-        ],
-        "vaultExp": 0
-      }
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": 2.55,
+      "y": -1.01,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -5281,7 +5921,6 @@
       "icon": "the_vault:gui/quests/blank_key",
       "targetId": "the_vault:blank_key",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [
           {
@@ -5289,117 +5928,15 @@
           }
         ],
         "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "gear_sealer",
-      "name": "Sealing Gear",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Sealing your best vault gear is a very powerful way to maximise it, but beware, you could also get unlucky.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "You need to find ",
-            "color": "$text"
-          },
-          {
-            "text": "Ascendant Marks",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", which can be found in ",
-            "color": "$text"
-          },
-          {
-            "text": "Vendoors",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", ",
-            "color": "$text"
-          },
-          {
-            "text": "Black Market",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " and a few other places. These rare marks are used to seal your gear.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "When sealing a gear piece, there is a ",
-            "color": "$text"
-          },
-          {
-            "text": "1 in 10 chance",
-            "color": "$qhighlight"
-          },
-          {
-            "text": " for your gear piece to get an additional powerful sealed modifier, the other outcome is to ",
-            "color": "$text"
-          },
-          {
-            "text": "replace a random, non frozen modifier",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", on your gear with a powerful sealed modifier.\n\nThe powerful sealed modifier includes gaining ",
-            "color": "$text"
-          },
-          {
-            "text": "extra skill levels",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", or gaining a ",
-            "color": "$text"
-          },
-          {
-            "text": "unique effect",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ". The cost for sealing a gear piece depends on the ",
-            "color": "$text"
-          },
-          {
-            "text": "level of your gear",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", and the ",
-            "color": "$text"
-          },
-          {
-            "text": "rarity of your gear",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ".\n\nFinally, once a gear piece is sealed you can not modify it further.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Craft a Gear Sealer",
-            "color": "$heal"
-          }
-        ]
       },
-      "icon": "the_vault:gui/quests/modifier",
-      "targetId": "the_vault:vault_sealer",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
-      "reward": {
-        "items": [
-          {
-            "item": "the_vault:vorpal_focus",
-            "amount": 3
-          }
-        ],
-        "vaultExp": 0
-      }
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": 2.55,
+      "y": 1.01,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -5512,19 +6049,19 @@
             "color": "$text"
           },
           {
-            "text": "\u2022 Companion Scroll\n",
+            "text": "• Companion Scroll\n",
             "color": "$qhighlight"
           },
           {
-            "text": "\u2022 Mystic Pear\n",
+            "text": "• Mystic Pear\n",
             "color": "$qhighlight"
           },
           {
-            "text": "\u2022 Treasure+ Deck\n",
+            "text": "• Treasure+ Deck\n",
             "color": "$qhighlight"
           },
           {
-            "text": "\u2022 A new Unique",
+            "text": "• A new Unique",
             "color": "$qhighlight"
           },
           {
@@ -5536,7 +6073,6 @@
       "icon": "the_vault:gui/quests/treasure",
       "targetId": "the_vault:treasure_pedestal",
       "targetProgress": 1.0,
-      "unlockedBy": "blank_key",
       "reward": {
         "items": [
           {
@@ -5544,7 +6080,132 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "blank_key"
+      ],
+      "chapter": "level_50",
+      "x": 4.33,
+      "y": 1.71,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "collection",
+      "id": "gear_sealer",
+      "name": "Sealing Gear",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Sealing your best vault gear is a very powerful way to maximise it, but beware, you could also get unlucky.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "You need to find ",
+            "color": "$text"
+          },
+          {
+            "text": "Ascendant Marks",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", which can be found in ",
+            "color": "$text"
+          },
+          {
+            "text": "Vendoors",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", ",
+            "color": "$text"
+          },
+          {
+            "text": "Black Market",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " and a few other places. These rare marks are used to seal your gear.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "When sealing a gear piece, there is a ",
+            "color": "$text"
+          },
+          {
+            "text": "1 in 10 chance",
+            "color": "$qhighlight"
+          },
+          {
+            "text": " for your gear piece to get an additional powerful sealed modifier, the other outcome is to ",
+            "color": "$text"
+          },
+          {
+            "text": "replace a random, non frozen modifier",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", on your gear with a powerful sealed modifier.\n\nThe powerful sealed modifier includes gaining ",
+            "color": "$text"
+          },
+          {
+            "text": "extra skill levels",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", or gaining a ",
+            "color": "$text"
+          },
+          {
+            "text": "unique effect",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ". The cost for sealing a gear piece depends on the ",
+            "color": "$text"
+          },
+          {
+            "text": "level of your gear",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", and the ",
+            "color": "$text"
+          },
+          {
+            "text": "rarity of your gear",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ".\n\nFinally, once a gear piece is sealed you can not modify it further.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Craft a Gear Sealer",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/modifier",
+      "targetId": "the_vault:vault_sealer",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [
+          {
+            "item": "the_vault:vorpal_focus",
+            "amount": 3
+          }
+        ],
+        "vaultExp": 0
+      },
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": 1.57,
+      "y": 2.64,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -5669,7 +6330,6 @@
       "icon": "the_vault:gui/quests/royale",
       "targetId": "the_vault:crystal_seal_vault_royale",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [
           {
@@ -5677,48 +6337,15 @@
           }
         ],
         "vaultExp": 0
-      }
-    },
-    {
-      "type": "collection",
-      "id": "antiques",
-      "name": "Antiques",
-      "descriptionData": {
-        "description": [
-          {
-            "text": "Antiques are ancient stamps, carried by the realm of the vault. These ancient stamps can be collected and combined to give you a reward tied to that specific antique collection.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Antiques appear after level 50, but only if the hunter is carrying the ",
-            "color": "$text"
-          },
-          {
-            "text": "Antique Stamp Collector book",
-            "color": "$qhighlight"
-          },
-          {
-            "text": ", which can be crafted and left in your inventory. It will automatically pick up, sort, and organise all of your antiques. Once you have the required amount of any one antique, you can take them out and right-click them to trade them in for their reward.\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Where and how to find antiques will reveal itself the more of one you find. Pay attention when hovering an antique to try and figure out where it came from!\n\n",
-            "color": "$text"
-          },
-          {
-            "text": "Craft an Antique Stamp Collector book",
-            "color": "$heal"
-          }
-        ]
       },
-      "icon": "the_vault:gui/quests/antique_collector_book",
-      "targetId": "the_vault:antique_collector_book",
-      "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
-      "reward": {
-        "items": [],
-        "vaultExp": 0
-      }
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": 0.0,
+      "y": 3.26,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -5859,7 +6486,6 @@
       "icon": "the_vault:gui/quests/companion",
       "targetId": "the_vault:companion_incubator",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [
           {
@@ -5868,7 +6494,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": -1.57,
+      "y": 2.64,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -5897,7 +6531,6 @@
       "icon": "the_vault:gui/quests/relic_table",
       "targetId": "the_vault:relic_crafting_table",
       "targetProgress": 1.0,
-      "unlockedBy": "companions",
       "reward": {
         "items": [
           {
@@ -5906,7 +6539,63 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "companions"
+      ],
+      "chapter": "level_50",
+      "x": -2.68,
+      "y": 4.48,
+      "milestone": false,
+      "optional": false
+    },
+    {
+      "type": "collection",
+      "id": "antiques",
+      "name": "Antiques",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Antiques are ancient stamps, carried by the realm of the vault. These ancient stamps can be collected and combined to give you a reward tied to that specific antique collection.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Antiques appear after level 50, but only if the hunter is carrying the ",
+            "color": "$text"
+          },
+          {
+            "text": "Antique Stamp Collector book",
+            "color": "$qhighlight"
+          },
+          {
+            "text": ", which can be crafted and left in your inventory. It will automatically pick up, sort, and organise all of your antiques. Once you have the required amount of any one antique, you can take them out and right-click them to trade them in for their reward.\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Where and how to find antiques will reveal itself the more of one you find. Pay attention when hovering an antique to try and figure out where it came from!\n\n",
+            "color": "$text"
+          },
+          {
+            "text": "Craft an Antique Stamp Collector book",
+            "color": "$heal"
+          }
+        ]
+      },
+      "icon": "the_vault:gui/quests/antique_collector_book",
+      "targetId": "the_vault:antique_collector_book",
+      "targetProgress": 1.0,
+      "reward": {
+        "items": [],
+        "vaultExp": 0
+      },
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": -2.55,
+      "y": 1.01,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -5927,7 +6616,6 @@
       "icon": "the_vault:gui/quests/loot_sack",
       "targetId": "the_vault:loot_sack",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [
           {
@@ -5935,7 +6623,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": -2.55,
+      "y": -1.01,
+      "milestone": false,
+      "optional": true
     },
     {
       "type": "collection",
@@ -5972,7 +6668,6 @@
       "icon": "the_vault:gui/quests/plushie",
       "targetId": "the_vault:plushie",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [
           {
@@ -5980,7 +6675,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_50",
+      "x": -1.57,
+      "y": -2.64,
+      "milestone": false,
+      "optional": true
     },
     {
       "type": "level_up",
@@ -6001,7 +6704,6 @@
       "icon": "the_vault:gui/quests/level65",
       "targetId": "the_vault:65",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [
           {
@@ -6010,7 +6712,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_50"
+      ],
+      "chapter": "level_65",
+      "x": 0.0,
+      "y": 1.5,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "collection",
@@ -6063,7 +6773,6 @@
       "icon": "the_vault:gui/quests/flame",
       "targetId": "the_vault:soul_flame",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_65",
       "reward": {
         "items": [
           {
@@ -6072,7 +6781,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_65"
+      ],
+      "chapter": "level_65",
+      "x": 1.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -6133,7 +6850,6 @@
       "icon": "the_vault:gui/quests/ascensionforge",
       "targetId": "the_vault:ascension_forge",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_65",
       "reward": {
         "items": [
           {
@@ -6142,7 +6858,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_65"
+      ],
+      "chapter": "level_65",
+      "x": 1.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -6171,11 +6895,18 @@
       "icon": "the_vault:gui/quests/customization_table",
       "targetId": "the_vault:player_customisation_station",
       "targetProgress": 1.0,
-      "unlockedBy": "ascension_forge",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "ascension_forge"
+      ],
+      "chapter": "level_65",
+      "x": 2.0,
+      "y": 1.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "block_interact",
@@ -6300,7 +7031,6 @@
       "icon": "the_vault:gui/quests/imbuement_altar",
       "targetId": "the_vault:imbuement_altar",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_65",
       "reward": {
         "items": [
           {
@@ -6309,7 +7039,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_65"
+      ],
+      "chapter": "level_65",
+      "x": 1.0,
+      "y": 2.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -6338,7 +7076,6 @@
       "icon": "the_vault:gui/quests/augment_station",
       "targetId": "the_vault:augment_station",
       "targetProgress": 1.0,
-      "unlockedBy": "imbuement_altar",
       "reward": {
         "items": [
           {
@@ -6347,7 +7084,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "imbuement_altar"
+      ],
+      "chapter": "level_65",
+      "x": 2.0,
+      "y": 2.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -6416,7 +7161,6 @@
       "icon": "the_vault:gui/quests/crystal_seal_doomsayer",
       "targetId": "woldsvaults:crystal_seal_doomsayer",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_65",
       "reward": {
         "items": [
           {
@@ -6425,7 +7169,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_65"
+      ],
+      "chapter": "level_65",
+      "x": 1.0,
+      "y": 3.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "level_up",
@@ -6446,7 +7198,6 @@
       "icon": "the_vault:gui/quests/100",
       "targetId": "the_vault:100",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_50",
       "reward": {
         "items": [
           {
@@ -6455,7 +7206,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_65"
+      ],
+      "chapter": "endgame",
+      "x": 0.0,
+      "y": 0.0,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "complete_vault",
@@ -6540,7 +7299,6 @@
       "icon": "the_vault:gui/quests/herald",
       "targetId": "the_vault:herald",
       "targetProgress": 1.0,
-      "unlockedBy": "reach_level_100",
       "reward": {
         "items": [
           {
@@ -6549,7 +7307,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "reach_level_100"
+      ],
+      "chapter": "endgame",
+      "x": 1.0,
+      "y": 0.0,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -6594,11 +7360,18 @@
       "icon": "the_vault:gui/quests/greed",
       "targetId": "the_vault:any",
       "targetProgress": 1.0,
-      "unlockedBy": "herald",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "herald"
+      ],
+      "chapter": "endgame",
+      "x": 2.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "core_god_reputation",
@@ -6675,11 +7448,18 @@
       "icon": "the_vault:gui/quests/gods_quest",
       "targetId": "the_vault:any",
       "targetProgress": 50.0,
-      "unlockedBy": "greed",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "greed"
+      ],
+      "chapter": "endgame",
+      "x": 3.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "crafting",
@@ -6712,11 +7492,18 @@
       "icon": "the_vault:gui/quests/altar",
       "targetId": "the_vault:vault_greed_altar",
       "targetProgress": 1.0,
-      "unlockedBy": "become_worthy",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "become_worthy"
+      ],
+      "chapter": "endgame",
+      "x": 4.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "craft_greed_crystal",
@@ -6773,11 +7560,18 @@
       "icon": "the_vault:gui/quests/crystal",
       "targetId": "the_vault:vault_crystal",
       "targetProgress": 1.0,
-      "unlockedBy": "craft_greed_altar",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "craft_greed_altar"
+      ],
+      "chapter": "endgame",
+      "x": 5.0,
+      "y": 0.0,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "complete_vault",
@@ -6818,11 +7612,18 @@
       "icon": "the_vault:gui/quests/greed",
       "targetId": "the_vault:greed",
       "targetProgress": 1.0,
-      "unlockedBy": "craft_greed_crystal",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "craft_greed_crystal"
+      ],
+      "chapter": "endgame",
+      "x": 5.0,
+      "y": 1.7,
+      "milestone": true,
+      "optional": false
     },
     {
       "type": "external_progress",
@@ -6851,11 +7652,18 @@
       "icon": "the_vault:gui/quests/bounty_table",
       "targetId": "the_vault:greedy_bounty_pearl",
       "targetProgress": 1.0,
-      "unlockedBy": "complete_greed_vault",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "complete_greed_vault"
+      ],
+      "chapter": "endgame",
+      "x": 4.0,
+      "y": 1.7,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "external_progress",
@@ -6884,11 +7692,18 @@
       "icon": "the_vault:gui/quests/black_market",
       "targetId": "the_vault:greed_market_reroll",
       "targetProgress": 1.0,
-      "unlockedBy": "greed_bounty_tab",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "greed_bounty_tab"
+      ],
+      "chapter": "endgame",
+      "x": 3.0,
+      "y": 1.7,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "external_progress",
@@ -6921,11 +7736,18 @@
       "icon": "the_vault:gui/quests/greed_point_orb",
       "targetId": "the_vault:greed_point_orb",
       "targetProgress": 1.0,
-      "unlockedBy": "greed_market_tab",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "greed_market_tab"
+      ],
+      "chapter": "endgame",
+      "x": 2.0,
+      "y": 1.7,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "checkmark",
@@ -6966,11 +7788,18 @@
       "icon": "the_vault:gui/quests/greed",
       "targetId": "the_vault:any",
       "targetProgress": 1.0,
-      "unlockedBy": "spend_greed_point",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "spend_greed_point"
+      ],
+      "chapter": "endgame",
+      "x": 1.0,
+      "y": 1.7,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -7007,7 +7836,6 @@
       "icon": "the_vault:gui/quests/etching_table",
       "targetId": "the_vault:etching_application_table",
       "targetProgress": 1.0,
-      "unlockedBy": "greed_reward_items",
       "reward": {
         "items": [
           {
@@ -7016,7 +7844,15 @@
           }
         ],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "greed_reward_items"
+      ],
+      "chapter": "endgame",
+      "x": -0.1,
+      "y": 3.3,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "collection",
@@ -7053,11 +7889,18 @@
       "icon": "the_vault:gui/quests/architects_workbench",
       "targetId": "the_vault:personal_vault",
       "targetProgress": 1.0,
-      "unlockedBy": "greed_reward_items",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "greed_reward_items"
+      ],
+      "chapter": "endgame",
+      "x": 1.0,
+      "y": 3.55,
+      "milestone": false,
+      "optional": false
     },
     {
       "type": "greed_tier",
@@ -7098,11 +7941,18 @@
       "icon": "the_vault:gui/quests/greed",
       "targetId": "the_vault:5",
       "targetProgress": 1.0,
-      "unlockedBy": "greed_reward_items",
       "reward": {
         "items": [],
         "vaultExp": 0
-      }
+      },
+      "requires": [
+        "greed_reward_items"
+      ],
+      "chapter": "endgame",
+      "x": 2.1,
+      "y": 3.3,
+      "milestone": false,
+      "optional": false
     }
   ]
 }
