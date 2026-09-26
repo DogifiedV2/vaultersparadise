@@ -10886,11 +10886,11 @@ hash = "240bab02e1bd5621eca3de23358521ec28a3c80eeafb00d28d4666603985e59f"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/velara_grove.nbt"
-hash = "2093a5e1c61c8138b438067541ea1e822bd9e84331bee202f738470bbca8830f"
+hash = "87d679285a66f7b9b3a52c2274235a73d69115ef69173447dc70b8af42cf1e61"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/velara_grove_exit.nbt"
-hash = "a66cb8bf561ab008d7c397bfd17ce72c990eb21c8b6f16a0ccfaef4832181fbb"
+hash = "37f1f345efb4b94e43eb637727e6aa12822128b254f6b9c95e10f194a6db1418"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
@@ -15046,7 +15046,7 @@ hash = "bdf2f59c9c2a51b3e793580ca360d9e14c1b09a5ae24cf577992d12e1990a355"
 
 [[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_velara_grove.json"
-hash = "926a7ee4f57b578451f1b0fc807d8809c77fe7b196d1a433de4a93c7db07d390"
+hash = "a3aaf8a38cde997390e7564e21508e0dece16542f78fecf27936ff7717b2df1d"
 
 [[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_velara_normal.json"
@@ -18993,7 +18993,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "d5f8ac46759bc0055eba5e387a496ca114c58d82d5a05f1373869f2dee536511"
+hash = "b96e47cdff6d49d259bdad278d2fe011409fe073ade8735b6ddc7c0d5f63d615"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

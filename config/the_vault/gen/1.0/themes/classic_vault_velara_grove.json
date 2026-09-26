@@ -9,8 +9,8 @@
   "foliage_color": 6200892,
   "water_color": 4159204,
   "water_fog_color": 329011,
-  "particle": "minecraft:spore_blossom_air",
-  "particle_probability": 0.004,
+  "particle": "minecraft:ash",
+  "particle_probability": 0.0,
   "effects": "minecraft:overworld",
   "time": 6000
 }
