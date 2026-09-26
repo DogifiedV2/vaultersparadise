@@ -2014,7 +2014,7 @@ hash = "1063d6884ac4e54cbcfdf6701af882e6b9be04fbbc436447f6a9a8912267456d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "8e7b7be9a7ec2c39d2a6a20662f87624c091c96f36acb0984509ce2158a289ac"
+hash = "81e4d15aa83be3379dc7760cefc9efb3353ef4c4d9ce760370343bb4764e400d"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
@@ -10885,6 +10885,10 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/start_royale.nbt"
 hash = "240bab02e1bd5621eca3de23358521ec28a3c80eeafb00d28d4666603985e59f"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/velara_grove.nbt"
+hash = "be10abfb411de994dc6869193ce9a5468860e2b227974f57e84484e77a02533e"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
 hash = "19c96f096187c0df39d7771228d953c2fd6910c3fe38041af016822a42c7bbef"
 
@@ -15037,6 +15041,10 @@ file = "config/the_vault/gen/1.0/themes/classic_vault_velara.json"
 hash = "bdf2f59c9c2a51b3e793580ca360d9e14c1b09a5ae24cf577992d12e1990a355"
 
 [[files]]
+file = "config/the_vault/gen/1.0/themes/classic_vault_velara_grove.json"
+hash = "d3359ad6273def6d1f0cb7e4c817b666a88c82b824183af93165d86164ecae4f"
+
+[[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_velara_normal.json"
 hash = "64ff967bdc0b23df9b384696504602e17afbe9250471bd23d8e61060b0ec9f7a"
 
@@ -15210,11 +15218,11 @@ hash = "2aa28fd3588562f8769dbc813831835b12eaeca95248e302b5638600a74f2b4d"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "649c1fb1571b527cf7bb0f8cb8c808470c2ad70566374c64e95111c3bd3bcb90"
+hash = "a6fafcd6c49165056b0cf99222b38c90c7b0df6123a3b062acbd578075ec37ef"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "7b37e5a28c8de4a3ded8ace82eb73957d572dfa003245dad3d76c90956e980a5"
+hash = "23e91a3abe132364052a3b5854af32cae6fab16558b1195e47f21f9c229fd6ca"
 
 [[files]]
 file = "config/the_vault/god_shop.json"
@@ -18981,7 +18989,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "6fbd8d4d59e598d53e0167360e07b8912250305c3db4b0da4f966dd1e69b5c2f"
+hash = "16d9ce8bb2ad154b80b1c4bcad4ddeb33f12e4c80ebfb09137200c430045ce65"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

@@ -1984,6 +1984,14 @@
       }
     },
     {
+      "id": "the_vault:vault/starts/velara_grove",
+      "name": "Velara's Grove",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/velara_grove.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/portals/portal1",
       "name": "Portal 1",
       "1.0": {

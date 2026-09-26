@@ -467,6 +467,12 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_herald.json"
     },
     {
+      "id": "the_vault:classic_vault_velara_grove",
+      "name": "Velara's Grove",
+      "color": 9429082,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_velara_grove.json"
+    },
+    {
       "id": "the_vault:classic_vault_chaos_cake",
       "name": "Cake",
       "color": 16761049,
