@@ -177,6 +177,18 @@
       "cost": 25
     },
     {
+      "modelId": "the_vault:backpacks/treasure_chest",
+      "cost": 10
+    },
+    {
+      "modelId": "the_vault:backpacks/snail_shell",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:backpacks/vault_wings",
+      "cost": 25
+    },
+    {
       "stack": {
         "item": "mounts:mount_permission_scroll",
         "nbt": "{MountPermission:\"mounts.mount.bunny.brown\"}"
