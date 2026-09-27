@@ -10885,6 +10885,14 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/start_royale.nbt"
 hash = "240bab02e1bd5621eca3de23358521ec28a3c80eeafb00d28d4666603985e59f"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/tenos_athenaeum.nbt"
+hash = "790fed10e9531b3abfacc15eef60ea1659e0570ab10925545bc5c5a7266c9e0b"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/tenos_athenaeum_exit.nbt"
+hash = "9a6d78143cd51e678541453b267d396a0b681added44cd779907cfc728bba3bc"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/velara_grove.nbt"
 hash = "87d679285a66f7b9b3a52c2274235a73d69115ef69173447dc70b8af42cf1e61"
 
@@ -15045,6 +15053,10 @@ file = "config/the_vault/gen/1.0/themes/classic_vault_tenos.json"
 hash = "bf70adc2c26d5d4a0a842de4d86fd241b5eff5c59d66ef3a1bd6c768b80059dd"
 
 [[files]]
+file = "config/the_vault/gen/1.0/themes/classic_vault_tenos_athenaeum.json"
+hash = "92c4fc44e9b01a82033fbf958e50369179d63d3a4f4ad47cf1d669e117a83203"
+
+[[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_tenos_normal.json"
 hash = "57f39b16932589cd3258cfbe5cd221d8cb291c806760a51da7c4f7cff9932d6c"
 
@@ -15234,11 +15246,11 @@ hash = "2aa28fd3588562f8769dbc813831835b12eaeca95248e302b5638600a74f2b4d"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "1e8b1b5fddc7d0cc0b89d18cb03297b7d5de3257fa0450fcb5bcab14d36b73fc"
+hash = "d21a21358f78fbecfcee584543ae9863bf7968923e288b3cbd96ad296d913fe4"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "7c9da32fb74a1979ca3bb65afe489a56a4613648127731e04cf71d1a25e47989"
+hash = "d8e1bccd73598d63535cd8bac0477a0dc27018d4ef0a2c0df0064cbe93c91353"
 
 [[files]]
 file = "config/the_vault/god_shop.json"

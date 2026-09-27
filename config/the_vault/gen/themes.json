@@ -479,6 +479,12 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_wendarr_clockspire.json"
     },
     {
+      "id": "the_vault:classic_vault_tenos_athenaeum",
+      "name": "Tenos' Athenaeum",
+      "color": 3986889,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tenos_athenaeum.json"
+    },
+    {
       "id": "the_vault:classic_vault_chaos_cake",
       "name": "Cake",
       "color": 16761049,
