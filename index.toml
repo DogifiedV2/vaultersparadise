@@ -15670,7 +15670,7 @@ hash = "fbb606814d63726291418edb3f6629e386637065d48503011c8d7650f5dc867a"
 
 [[files]]
 file = "config/the_vault/quest/quests.json"
-hash = "2c1503bf33740f699d6abbed0dcec2e3f10dac30f10dee3dd48d6bbe6b0dc7a3"
+hash = "82ecfb4aeeb6becf3490c48453f2f497fdc22a738c3b095a1233d9258660d0a5"
 
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
@@ -18682,6 +18682,18 @@ file = "mods/framedcompactdrawers-1.18-4.1.0.jar"
 hash = "701a9a0cb381d57c9e440f3698ac8b6adaf5fdb787342bb8cf7e9e50fd885d43"
 
 [[files]]
+file = "mods/ftb-library-forge-1802.3.12-build.726.jar"
+hash = "b2eb8b4740f779b7aef4491c1408c17e2d5b0d2d43379ee757948868f6c9c5e9"
+
+[[files]]
+file = "mods/ftb-quests-forge-1802.3.16-build.479.jar"
+hash = "7622250c06c87d1abfa70dd869d15f03d109e3a07b0d0e69052e940853b35217"
+
+[[files]]
+file = "mods/ftb-teams-forge-1802.2.11-build.107.jar"
+hash = "e026cb1e2af513b590c2cf7fbacfe69f05a52e1c238eeb272e51b45bdccd143b"
+
+[[files]]
 file = "mods/fullbrightnesstoggle-1.18.2-3.1(1).jar"
 hash = "8d86b9f8dc3d26e01cd6f06d3ecd096807206f20472d837463963dc41111e6ed"
 
@@ -18710,6 +18722,10 @@ hash = "ef585a7a3f6d32541335d06eb3e18410603d815152425ff29174733eae35146d"
 [[files]]
 file = "mods/ispawner-1.1.9-forge.jar"
 hash = "5094842fa84485ab57e03a2a45e87e347ebe27cb388a16b1d55f246d2266738c"
+
+[[files]]
+file = "mods/item-filters-forge-1802.2.8-build.50.jar"
+hash = "61eb98855748e5f01706e838c72ba35f27077bdb0a48f6ea36c964dd2311ce36"
 
 [[files]]
 file = "mods/jei-1.18.2-9.7.2.1001.jar"
@@ -19017,7 +19033,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "89a8bfd482ec0172a4e41f92221a0d7620c9c8d817ef5197c8b027743331a976"
+hash = "259d18e2c135e60c7c0952c52d1c4c265e757da617c8305165b241fff151e467"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
