@@ -473,6 +473,12 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_velara_grove.json"
     },
     {
+      "id": "the_vault:classic_vault_wendarr_clockspire",
+      "name": "Wendarr's Clockspire",
+      "color": 15909198,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_wendarr_clockspire.json"
+    },
+    {
       "id": "the_vault:classic_vault_chaos_cake",
       "name": "Cake",
       "color": 16761049,

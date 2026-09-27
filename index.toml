@@ -2014,7 +2014,7 @@ hash = "1063d6884ac4e54cbcfdf6701af882e6b9be04fbbc436447f6a9a8912267456d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "8537af77eb28e09d864f15a9ddce9f8538e34e076a8a037f5bc2be3ef31a38f3"
+hash = "8373f7f8c5e728672c548d5ca5dfe08ec6d66b96753237b3c5cfb4ac6e132807"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
@@ -10893,6 +10893,14 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/velara_grove_exit.nbt"
 hash = "37f1f345efb4b94e43eb637727e6aa12822128b254f6b9c95e10f194a6db1418"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_clockspire.nbt"
+hash = "c2310e7bed0dc02fa8d10bd4b5226331074c33346a207fd2a7bc47d1127be3b1"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_clockspire_exit.nbt"
+hash = "ea0a526dedc532fae27551efec86b2bc8bf2c746689bb37aadb1ab2d247192b6"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
 hash = "19c96f096187c0df39d7771228d953c2fd6910c3fe38041af016822a42c7bbef"
 
@@ -15061,6 +15069,10 @@ file = "config/the_vault/gen/1.0/themes/classic_vault_wendarr.json"
 hash = "c4ca50d313c21df71172d697bd92c68ea71e2ada250b6a77239e4649679686b4"
 
 [[files]]
+file = "config/the_vault/gen/1.0/themes/classic_vault_wendarr_clockspire.json"
+hash = "402fbf913a51f47de346d9119833ff53c932f0e4722b8c0115f0c523eb81c97c"
+
+[[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_wendarr_normal.json"
 hash = "cb719007e10c977ab554cb7f93b627f99ba8863b6b595c3bcce0af047b38a898"
 
@@ -15222,11 +15234,11 @@ hash = "2aa28fd3588562f8769dbc813831835b12eaeca95248e302b5638600a74f2b4d"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "d131927e769d768bd63cf77c9628f0db2604a9859fa53295520adb105ace4598"
+hash = "1e8b1b5fddc7d0cc0b89d18cb03297b7d5de3257fa0450fcb5bcab14d36b73fc"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "23e91a3abe132364052a3b5854af32cae6fab16558b1195e47f21f9c229fd6ca"
+hash = "7c9da32fb74a1979ca3bb65afe489a56a4613648127731e04cf71d1a25e47989"
 
 [[files]]
 file = "config/the_vault/god_shop.json"
@@ -18993,7 +19005,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "46a0e0012fc7841a2efb21cfabc4c99038a414d5dfa59a2e6a78b92e9babb219"
+hash = "d39bbbcb8cfe6c907bce562e02dea15a66778315dd47fd1e1697bce44bf460a0"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
