@@ -46,6 +46,8 @@
       "the_vault:gear/armor/wither",
       "the_vault:gear/armor/fox",
       "the_vault:gear/armor/owl",
+      "the_vault:gear/armor/princess_helmet",
+      "the_vault:gear/armor/care_bear",
       "the_vault:gear/armor/snow_wolf",
       "the_vault:gear/armor/wither_wolf"
     ],
@@ -61,7 +63,8 @@
       "the_vault:gear/armor/goat",
       "the_vault:gear/armor/emperor_snow_wolf",
       "the_vault:gear/armor/emperor_wither_wolf",
-      "the_vault:gear/armor/lantern_warden"
+      "the_vault:gear/armor/lantern_warden",
+      "the_vault:gear/armor/snow_leopard"
 
     ],
     "OMEGA": [
@@ -76,7 +79,8 @@
       "the_vault:gear/armor/mushroom",
       "the_vault:gear/armor/sweetheart",
       "the_vault:gear/armor/princess",
-      "the_vault:gear/armor/kraken_lord"
+      "the_vault:gear/armor/kraken_lord",
+      "the_vault:gear/armor/pink_crystal"
 
     ],
     "UNIQUE": [
