@@ -145,6 +145,38 @@
       "cost": 25
     },
     {
+      "modelId": "the_vault:backpacks/mushroom_satchel",
+      "cost": 4
+    },
+    {
+      "modelId": "the_vault:backpacks/beehive",
+      "cost": 4
+    },
+    {
+      "modelId": "the_vault:backpacks/sea_turtle_shell",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:backpacks/frog_pack",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:backpacks/cake_pack",
+      "cost": 5
+    },
+    {
+      "modelId": "the_vault:backpacks/clockwork_pack",
+      "cost": 10
+    },
+    {
+      "modelId": "the_vault:backpacks/dragon_egg_carrier",
+      "cost": 10
+    },
+    {
+      "modelId": "the_vault:backpacks/phoenix_wings",
+      "cost": 25
+    },
+    {
       "stack": {
         "item": "mounts:mount_permission_scroll",
         "nbt": "{MountPermission:\"mounts.mount.bunny.brown\"}"
