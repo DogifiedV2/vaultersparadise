@@ -11,18 +11,23 @@
   "water_fog_color": 2759485,
   "particle": "minecraft:ash",
   "particle_probability": 0.002,
-  "effects": "minecraft:overworld",
+  "effects": "the_vault:hollow_night",
   "time": 18000,
   "ambient_sounds": [
     {
-      "sound": "the_vault:gloom_bats_ambient",
-      "min_rate": 100,
+      "sound": "the_vault:hollow_wind_gust",
+      "min_rate": 200,
       "max_rate": 500
     },
     {
-      "sound": "minecraft:ambient.cave",
-      "min_rate": 500,
-      "max_rate": 800
+      "sound": "the_vault:hollow_creak",
+      "min_rate": 300,
+      "max_rate": 700
+    },
+    {
+      "sound": "the_vault:gloom_bats_ambient",
+      "min_rate": 400,
+      "max_rate": 900
     }
   ]
 }
