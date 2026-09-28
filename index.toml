@@ -10869,6 +10869,14 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/personal_vault_start1.n
 hash = "1a4758ca5b0005143e87e1b77a9ced03f4a51b9ecf52487c112ea84454089b59"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/pumpking_hollow_court.nbt"
+hash = "92d43c62a02b63da3a7cc0b8d370b1f0d5fa970e97e2b22d02cb551c204b8591"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/pumpking_hollow_court_exit.nbt"
+hash = "dae3069157f4c952277c8e2f2b501c84be29fdbc06b331cafb0c4925fb50fa27"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/raid1.nbt"
 hash = "b183340000bb10264fe727e992ba0842a9831f2b186d0dda6aa73793873502bc"
 
@@ -15009,6 +15017,10 @@ file = "config/the_vault/gen/1.0/themes/classic_vault_poison.json"
 hash = "551118c57d8c1871075c20e6708ee3138f47fe418a0faf8a506366eb184d329b"
 
 [[files]]
+file = "config/the_vault/gen/1.0/themes/classic_vault_pumpking_hollow_court.json"
+hash = "c327bd4e103686f576e65756fb803ff4719992af0fa8c91af77b5aedab09b240"
+
+[[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_sandy_cave.json"
 hash = "bb1fe50ac41bde001fd4abb9536decf57ecdae935ddb867e2732fc830b762cee"
 
@@ -15246,11 +15258,11 @@ hash = "2aa28fd3588562f8769dbc813831835b12eaeca95248e302b5638600a74f2b4d"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "d21a21358f78fbecfcee584543ae9863bf7968923e288b3cbd96ad296d913fe4"
+hash = "6a70f8bfcc71ae8330913d73c258232caea37995b8d5473ebea9e9249a6363fc"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "d8e1bccd73598d63535cd8bac0477a0dc27018d4ef0a2c0df0064cbe93c91353"
+hash = "ebb4ebc50e25238d121070cc65db1841a2707b2aad1840b81d4421a624d4e5b0"
 
 [[files]]
 file = "config/the_vault/god_shop.json"

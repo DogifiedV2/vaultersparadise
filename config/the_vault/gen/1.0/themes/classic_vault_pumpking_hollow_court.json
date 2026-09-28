@@ -1,0 +1,28 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:empty",
+  "rooms": "the_vault:empty",
+  "tunnels": "the_vault:empty",
+  "ambient_light": 0.25,
+  "fog_color": 2759485,
+  "grass_color": 4867112,
+  "foliage_color": 3814432,
+  "water_color": 2111301,
+  "water_fog_color": 2759485,
+  "particle": "minecraft:ash",
+  "particle_probability": 0.002,
+  "effects": "minecraft:overworld",
+  "time": 18000,
+  "ambient_sounds": [
+    {
+      "sound": "the_vault:gloom_bats_ambient",
+      "min_rate": 100,
+      "max_rate": 500
+    },
+    {
+      "sound": "minecraft:ambient.cave",
+      "min_rate": 500,
+      "max_rate": 800
+    }
+  ]
+}

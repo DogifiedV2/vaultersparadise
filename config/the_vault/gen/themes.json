@@ -485,6 +485,12 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tenos_athenaeum.json"
     },
     {
+      "id": "the_vault:classic_vault_pumpking_hollow_court",
+      "name": "The Hollow Court",
+      "color": 16746526,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_pumpking_hollow_court.json"
+    },
+    {
       "id": "the_vault:classic_vault_chaos_cake",
       "name": "Cake",
       "color": 16761049,
