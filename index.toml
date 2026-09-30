@@ -2681,6 +2681,10 @@ file = "config/the_vault/gen/1.0/loot_tables/garden_leaves.json"
 hash = "7c0bb4b63a06a7da5f7cddc3888c411b5d2acf9f1ff9729a8df4c492d9e1b791"
 
 [[files]]
+file = "config/the_vault/gen/1.0/loot_tables/gem_embers.json"
+hash = "0e7676271fd95997e526e348f78d92575bb81c2bde011ee6f3812c543bc792b6"
+
+[[files]]
 file = "config/the_vault/gen/1.0/loot_tables/gilded_chest_0.json"
 hash = "01ae287e482f0c4f86b64d1a4b3ea9af4e5579799b74b086219c1bcd602b3aa1"
 
@@ -15238,7 +15242,7 @@ hash = "b0a5aa8a79f3bb56b94bad34ccebf0adc102f7fcc658f1f3c23badac1e4b4ba5"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "e65bc8ca48a1a9af7891fee77a6050b65476a7e76ec9f746ba0786ba16d81034"
+hash = "f7aaae01310aee110510490aa114493e8c6d7da379ba18c9c3a55167f3b93643"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
@@ -16018,7 +16022,7 @@ hash = "e8e147f8ff34ad7d31ed39711286c4fc1bd5ba2c5962f0a345f263404112334b"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "24f2d2ef1fee59e1b712d33a9d969a14ee39b1abcda514d72c0fcc91b70b7980"
+hash = "424634f88b82403b28bf9f4b4d15af8d42a2d116a6074cf4767a0e233cadbcb4"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -19045,7 +19049,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "718095cc3cc477014f4aca2e946dd86e01259326623461d1b66c7ee3e5e3cef8"
+hash = "b25a697661de8b9ecd4d41d4b0cfeca53155534f355bd1d3aec07c6ee9bf411a"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
