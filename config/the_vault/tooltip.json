@@ -922,7 +922,7 @@
     },
     {
       "item": "the_vault:vault_catalyst_chaos",
-      "value": "Put this Vault Rock on a Vault Altar to create a <#d87b00>Chaos <gray>Crystal, adding 30 completely random modifiers to the vault."
+      "value": "Put this Vault Rock on a Vault Altar to create a <#d87b00>Chaos <gray>Crystal, with a random objective and a stack of chaos modifiers that grows with vault level, plus a bonus crate tier and +50% vault experience."
     },
     {
       "item": "the_vault:vault_inhibitor",

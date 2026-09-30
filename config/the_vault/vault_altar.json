@@ -298,20 +298,12 @@
         "id": "the_vault:vault_crystal",
         "nbt": {
           "CrystalData": {
-            "Objective": {
-              "type": "chaos",
-              "objective_probability": 1.0
-            },
             "Modifiers": {
               "type": "default",
               "RandomModifiers": 0,
               "List": [
                 {
                   "id": "the_vault:chaos",
-                  "size": 1
-                },
-                {
-                  "id": "the_vault:chaos_return",
                   "size": 1
                 }
               ]

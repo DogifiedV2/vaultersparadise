@@ -1477,18 +1477,30 @@
           "icon": "the_vault:gui/modifiers/experienced",
           "descriptionFormatted": "+%d%% Vault Experience"
         }
+      },
+      "the_vault:chaos_insight": {
+        "properties": {
+          "addend": 0.5
+        },
+        "display": {
+          "name": "Chaos Insight",
+          "color": "#DB7C00",
+          "description": "+50% Vault Experience",
+          "descriptionFormatted": "+%d%% Vault Experience",
+          "icon": "the_vault:gui/modifiers/experienced"
+        }
       }
     },
     "the_vault:modifier_type/inline_pool": {
       "the_vault:chaos": {
         "properties": {
           "pool": "the_vault:chaos",
-          "level": 0
+          "level": -1
         },
         "display": {
           "name": "Chaos",
           "color": "#DB7C00",
-          "description": "A Chaotic Experience",
+          "description": "A Chaotic Experience: a random objective and a stack of modifiers that grows with level",
           "icon": "the_vault:gui/modifiers/impossible"
         }
       },
