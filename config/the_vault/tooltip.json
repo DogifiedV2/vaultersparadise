@@ -1325,7 +1325,7 @@
     },
     {
       "item": "the_vault:suppressor",
-      "value": "Stops hammers, magnets, backpack pick-up and abilities in the 3x3 chunks around it; pick which in its screen"
+      "value": "Stops hammers, magnets, backpack pick-up and abilities in the chunks around it (1x1 to 5x5); set it up in its screen"
     },
     {
       "item": "the_vault:vault_charm_controller",
