@@ -394,6 +394,18 @@
           "description": "Killing a mob will have it drop bronze or silver!",
           "icon": "the_vault:gui/modifiers/kill_coin"
         }
+      },
+      "the_vault:gem_embers": {
+        "properties": {
+          "filter": "",
+          "lootTable": "the_vault:gem_embers"
+        },
+        "display": {
+          "name": "Gem Embers",
+          "color": "#a996ca",
+          "description": "2% chance for kills to drop a Gemstone",
+          "icon": "the_vault:gui/modifiers/gemstone_frenzy"
+        }
       }
     },
     "the_vault:modifier_type/mob_frenzy": {
@@ -4509,6 +4521,19 @@
           "icon": "the_vault:gui/modifiers/rich",
           "descriptionFormatted": "+%d%% Copiously"
         }
+      },
+      "the_vault:smoke_in_the_lungs": {
+        "properties": {
+          "stat": "ability_cast_failure_chance",
+          "addend": 0.1
+        },
+        "display": {
+          "name": "Smoke in the Lungs",
+          "color": "#7B7E7F",
+          "description": "+10% Ability Cast Failure Chance",
+          "descriptionFormatted": "+%d%% Ability Cast Failure Chance",
+          "icon": "the_vault:gui/modifiers/legendary_modifier"
+        }
       }
     },
     "the_vault:modifier_type/mob_attribute": {
@@ -5573,17 +5598,6 @@
           "description": "Spells have a 50% chance to not cast.",
           "icon": "the_vault:gui/modifiers/legendary_modifier"
         }
-      },
-      "the_vault:smoke_in_the_lungs": {
-        "properties": {
-          "spellFailureChance": 0.1
-        },
-        "display": {
-          "name": "Smoke in the Lungs",
-          "color": "#7B7E7F",
-          "description": "Spells have a 10% chance to not cast",
-          "icon": "the_vault:gui/modifiers/legendary_modifier"
-        }
       }
     },
     "the_vault:modifier_type/mob_spawn_ticks": {
@@ -5635,17 +5649,6 @@
           "name": "Gemstone Frenzy",
           "color": "#a996ca",
           "description": "A Small chance to genmerate gemstones when killing a mob",
-          "icon": "the_vault:gui/modifiers/gemstone_frenzy"
-        }
-      },
-      "the_vault:gem_embers": {
-        "properties": {
-          "gemstoneChance": 0.02
-        },
-        "display": {
-          "name": "Gem Embers",
-          "color": "#a996ca",
-          "description": "A small chance for kills to drop gemstones",
           "icon": "the_vault:gui/modifiers/gemstone_frenzy"
         }
       }
