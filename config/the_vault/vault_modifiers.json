@@ -110,6 +110,18 @@
           "descriptionFormatted": "Lowers the artifact chance of this vault by 10%",
           "icon": "the_vault:gui/modifiers/more_artifact1"
         }
+      },
+      "the_vault:artifact_glimmer": {
+        "properties": {
+          "chance": 0.03
+        },
+        "display": {
+          "name": "Artifact Glimmer",
+          "color": "#EBFF8D",
+          "description": "+3% Artifact Chance",
+          "icon": "the_vault:gui/modifiers/more_artifact1",
+          "descriptionFormatted": "+%d%% Artifact Chance"
+        }
       }
     },
     "the_vault:modifier_type/chance_catalyst": {
@@ -123,6 +135,18 @@
           "description": "+25% Catalyst Fragments",
           "descriptionFormatted": "+%d%% Catalyst Fragments",
           "icon": "the_vault:gui/modifiers/more_catalyst"
+        }
+      },
+      "the_vault:catalyst_cache": {
+        "properties": {
+          "chance": 0.15
+        },
+        "display": {
+          "name": "Catalyst Cache",
+          "color": "#FC00E3",
+          "description": "+15% Catalyst Fragments",
+          "icon": "the_vault:gui/modifiers/more_catalyst",
+          "descriptionFormatted": "+%d%% Catalyst Fragments"
         }
       }
     },
@@ -224,6 +248,18 @@
           "description": "Increases the reward crate tier four times per modifier",
           "descriptionFormatted": "Increases the reward crate tier once per modifier",
           "icon": "the_vault:gui/modifiers/crate_item_quantity"
+        }
+      },
+      "the_vault:pyre_tithe": {
+        "properties": {
+          "percentage": 0.15
+        },
+        "display": {
+          "name": "Pyre Tithe",
+          "color": "#ff9a3c",
+          "description": "+15% Pyre Crate Loot",
+          "icon": "the_vault:gui/modifiers/opulent",
+          "descriptionFormatted": "+%d%% Pyre Crate Loot"
         }
       }
     },
@@ -330,6 +366,19 @@
           "color": "#FFEA00",
           "description": "Mobs have a chance to spawn a Rejuvenation Totem Level 8 on death",
           "icon": "the_vault:gui/modifiers/kill_totem"
+        }
+      },
+      "the_vault:pyres_wrath": {
+        "properties": {
+          "filter": "",
+          "ability": "nova_explosion_8",
+          "probability": 0.15
+        },
+        "display": {
+          "name": "Pyre's Wrath",
+          "color": "#ff7a1a",
+          "description": "Kills have a 15% chance to burst into a fiery Nova",
+          "icon": "the_vault:gui/modifiers/kill_nuke"
         }
       }
     },
@@ -687,6 +736,20 @@
           "descriptionFormatted": "+%d%% Max Mana",
           "icon": "the_vault:gui/modifiers/god_token_wendarr"
         }
+      },
+      "the_vault:emberheart": {
+        "properties": {
+          "type": "attack_damage_additive_percentile",
+          "amount": 0.1,
+          "attributeStackingStrategy": "STACK"
+        },
+        "display": {
+          "name": "Emberheart",
+          "color": "#d73b46",
+          "description": "+10% Damage",
+          "icon": "the_vault:gui/modifiers/stronk",
+          "descriptionFormatted": "+%d%% Damage"
+        }
       }
     },
     "the_vault:modifier_type/player_durability_damage": {
@@ -736,6 +799,18 @@
           "description": "Players take no durability damage in this vault",
           "descriptionFormatted": "Players take no durability damage in this vault",
           "icon": "the_vault:gui/modifiers/reinforced"
+        }
+      },
+      "the_vault:scorching": {
+        "properties": {
+          "durabilityDamageTakenMultiplier": 1.25
+        },
+        "display": {
+          "name": "Scorching",
+          "color": "#bc6a25",
+          "description": "+25% Durability Damage",
+          "icon": "the_vault:gui/modifiers/frail",
+          "descriptionFormatted": "+%d%% Durability Damage"
         }
       }
     },
@@ -1377,6 +1452,18 @@
           "description": "Owed and unpaid. Earn no XP until your debt is settled",
           "descriptionFormatted": "Owed and unpaid. Earn no XP until your debt is settled",
           "icon": "the_vault:gui/modifiers/curse_voidpools"
+        }
+      },
+      "the_vault:deep_insight": {
+        "properties": {
+          "addend": 0.25
+        },
+        "display": {
+          "name": "Deep Insight",
+          "color": "#9eff20",
+          "description": "+25% Vault Experience",
+          "icon": "the_vault:gui/modifiers/experienced",
+          "descriptionFormatted": "+%d%% Vault Experience"
         }
       }
     },
@@ -2494,6 +2581,18 @@
           "descriptionFormatted": "+25%% Item Quantity",
           "icon": "the_vault:gui/modifiers/god_token_tenos"
         }
+      },
+      "the_vault:bountiful_chests": {
+        "properties": {
+          "percentage": 0.3
+        },
+        "display": {
+          "name": "Bountiful Chests",
+          "color": "#9eff20",
+          "description": "+30% Item Quantity",
+          "icon": "the_vault:gui/modifiers/item_quant_2",
+          "descriptionFormatted": "+%d%% Item Quantity"
+        }
       }
     },
     "the_vault:modifier_type/loot_item_rarity": {
@@ -2702,6 +2801,18 @@
           "description": "+1% Item Rarity",
           "descriptionFormatted": "+%d%% Item Rarity",
           "icon": "the_vault:gui/modifiers/god_token_tenos"
+        }
+      },
+      "the_vault:blessed_chests": {
+        "properties": {
+          "percentage": 0.3
+        },
+        "display": {
+          "name": "Blessed Chests",
+          "color": "#9eff20",
+          "description": "+30% Item Rarity",
+          "icon": "the_vault:gui/modifiers/lucky",
+          "descriptionFormatted": "+%d%% Item Rarity"
         }
       }
     },
@@ -3892,6 +4003,18 @@
           "descriptionFormatted": "No Soul Shards Dropped",
           "icon": "the_vault:gui/modifiers/god_token_idona"
         }
+      },
+      "the_vault:soul_harvest": {
+        "properties": {
+          "chance": 0.4
+        },
+        "display": {
+          "name": "Soul Harvest",
+          "color": "#9eff20",
+          "description": "+40% Soul Shard Quantity",
+          "icon": "the_vault:gui/modifiers/soul_shard_increase_yellow",
+          "descriptionFormatted": "+%d%% Soul Shard Quantity"
+        }
       }
     },
     "the_vault:modifier_type/chance_champion": {
@@ -4372,6 +4495,19 @@
           "color": "#FF0000",
           "description": "+25% Ability Cast Failure",
           "icon": "the_vault:gui/modifiers/ability_break"
+        }
+      },
+      "the_vault:rich_veins": {
+        "properties": {
+          "stat": "copiously",
+          "addend": 0.25
+        },
+        "display": {
+          "name": "Rich Veins",
+          "color": "#9eff20",
+          "description": "+25% Copiously",
+          "icon": "the_vault:gui/modifiers/rich",
+          "descriptionFormatted": "+%d%% Copiously"
         }
       }
     },
@@ -4963,6 +5099,21 @@
           "descriptionFormatted": "+%d%% increased chance mobs will void time on hit",
           "icon": "the_vault:gui/modifiers/hex_wither"
         }
+      },
+      "the_vault:ashen_touch": {
+        "properties": {
+          "effect": "minecraft:slowness",
+          "effectAmplifier": 1,
+          "effectDurationTicks": 40,
+          "onHitApplyChance": 0.2
+        },
+        "display": {
+          "name": "Ashen Touch",
+          "color": "#7B7E7F",
+          "description": "Mob hits have a 20% chance to slow you",
+          "icon": "the_vault:gui/modifiers/hex_chaining",
+          "descriptionFormatted": "Mob hits have a %d%% chance to slow you"
+        }
       }
     },
     "the_vault:modifier_type/entity_effect": {
@@ -5422,6 +5573,17 @@
           "description": "Spells have a 50% chance to not cast.",
           "icon": "the_vault:gui/modifiers/legendary_modifier"
         }
+      },
+      "the_vault:smoke_in_the_lungs": {
+        "properties": {
+          "spellFailureChance": 0.1
+        },
+        "display": {
+          "name": "Smoke in the Lungs",
+          "color": "#7B7E7F",
+          "description": "Spells have a 10% chance to not cast",
+          "icon": "the_vault:gui/modifiers/legendary_modifier"
+        }
       }
     },
     "the_vault:modifier_type/mob_spawn_ticks": {
@@ -5473,6 +5635,17 @@
           "name": "Gemstone Frenzy",
           "color": "#a996ca",
           "description": "A Small chance to genmerate gemstones when killing a mob",
+          "icon": "the_vault:gui/modifiers/gemstone_frenzy"
+        }
+      },
+      "the_vault:gem_embers": {
+        "properties": {
+          "gemstoneChance": 0.02
+        },
+        "display": {
+          "name": "Gem Embers",
+          "color": "#a996ca",
+          "description": "A small chance for kills to drop gemstones",
           "icon": "the_vault:gui/modifiers/gemstone_frenzy"
         }
       }
@@ -5722,6 +5895,63 @@
           "color": "#8A78FF",
           "description": "Chests can contain +1 Divine Essence",
           "icon": "the_vault:gui/modifiers/god_token_tenos"
+        }
+      }
+    },
+    "the_vault:modifier_type/pyre": {
+      "the_vault:stoked_flame": {
+        "properties": {
+          "heatFraction": -0.1,
+          "mothsPerWave": 0,
+          "matronEveryWaves": 0
+        },
+        "display": {
+          "name": "Stoked Flame",
+          "color": "#ffb347",
+          "description": "The Great Pyre needs 10% fewer kills",
+          "icon": "the_vault:gui/modifiers/kill_nuke",
+          "descriptionFormatted": "The Great Pyre needs %d%% fewer kills"
+        }
+      },
+      "the_vault:ember_ward": {
+        "properties": {
+          "heatFraction": 0.0,
+          "mothsPerWave": -1,
+          "matronEveryWaves": 0
+        },
+        "display": {
+          "name": "Ember Ward",
+          "color": "#ffb347",
+          "description": "1 fewer Ash Moth per Pyre wave",
+          "icon": "the_vault:gui/modifiers/kill_nuke",
+          "descriptionFormatted": "%2$d fewer Ash Moths per Pyre wave"
+        }
+      },
+      "the_vault:hungry_flame": {
+        "properties": {
+          "heatFraction": 0.15,
+          "mothsPerWave": 0,
+          "matronEveryWaves": 0
+        },
+        "display": {
+          "name": "Hungry Flame",
+          "color": "#bc2525",
+          "description": "The Great Pyre needs 15% more kills",
+          "icon": "the_vault:gui/modifiers/ruthless_mobs",
+          "descriptionFormatted": "The Great Pyre needs %d%% more kills"
+        }
+      },
+      "the_vault:swarm_mother": {
+        "properties": {
+          "heatFraction": 0.0,
+          "mothsPerWave": 0,
+          "matronEveryWaves": 2
+        },
+        "display": {
+          "name": "Swarm Mother",
+          "color": "#bc2525",
+          "description": "The Ash Matron comes every 2nd Pyre wave",
+          "icon": "the_vault:gui/modifiers/ruthless_mobs"
         }
       }
     }
