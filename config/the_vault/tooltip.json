@@ -1325,11 +1325,7 @@
     },
     {
       "item": "the_vault:suppressor",
-      "value": "Stops hammers, magnets and backpack pick-up in the 3x3 chunks around it; each can be turned off"
-    },
-    {
-      "item": "the_vault:ability_suppressor",
-      "value": "Prevents Vein Miner, all offensive, and some powerup abilities that cause damage."
+      "value": "Stops hammers, magnets, backpack pick-up and abilities in the 3x3 chunks around it; pick which in its screen"
     },
     {
       "item": "the_vault:vault_charm_controller",
