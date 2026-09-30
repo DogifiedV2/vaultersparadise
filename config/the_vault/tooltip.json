@@ -1205,11 +1205,11 @@
     },
     {
       "item": "the_vault:inscription_table",
-      "value": "A vault workstation where inscriptions can be crafted"
+      "value": "Retired: use it to turn it into a Crystal Station"
     },
     {
       "item": "the_vault:catalyst_infusion_table",
-      "value": "A vault workstation where infused_catalysts can be crafted"
+      "value": "Retired: use it to turn it into a Crystal Station"
     },
     {
       "item": "the_vault:vault_artisan_station",
@@ -1217,11 +1217,11 @@
     },
     {
       "item": "the_vault:vault_jewel_application_station",
-      "value": "A vault workstation where vault tools can be enhanced with jewels"
+      "value": "Applies jewels to vault tools and crafts jewels"
     },
     {
       "item": "the_vault:jewel_crafting_table",
-      "value": "A vault workstation where jewels can be crafted"
+      "value": "Retired: use it to turn it into a Jewel Station"
     },
     {
       "item": "the_vault:trinket_forge",
@@ -1229,7 +1229,7 @@
     },
     {
       "item": "the_vault:crystal_workbench",
-      "value": "A vault workstation where Vault Crystals can be precisely modified."
+      "value": "Modifies Vault Crystals and crafts the catalysts and inscriptions that go into them"
     },
     {
       "item": "the_vault:personal_vault",
@@ -1324,16 +1324,8 @@
       "value": "The growing block for Raw Vault Crystals"
     },
     {
-      "item": "the_vault:demagnetizer",
-      "value": "Prevents magnets within its radius from functioning"
-    },
-    {
-      "item": "the_vault:debagnetizer",
-      "value": "Prevents bags with auto-pickup within its radius from functioning"
-    },
-    {
-      "item": "the_vault:dehammerizer",
-      "value": "Prevents hammers within its radius from functioning"
+      "item": "the_vault:suppressor",
+      "value": "Stops hammers, magnets and backpack pick-up in the 3x3 chunks around it; each can be turned off"
     },
     {
       "item": "the_vault:ability_suppressor",
