@@ -59,6 +59,30 @@
           "color": "$text"
         }
       ]
+    },
+    "the_vault:bosses": {
+      "description": [
+        {
+          "text": "Bosses ",
+          "color": "$name"
+        },
+        {
+          "text": "guard the vault's greatest prizes. Each one fights in its own arena with its own attacks and phases.",
+          "color": "$text"
+        }
+      ]
+    },
+    "the_vault:great_pyre": {
+      "description": [
+        {
+          "text": "Ash Moths ",
+          "color": "$name"
+        },
+        {
+          "text": "burst out of the Great Pyre once it is activated. Every one you kill feeds the flame.",
+          "color": "$text"
+        }
+      ]
     }
   },
   "entities": [
@@ -2352,6 +2376,104 @@
       "minLevel": 0,
       "drops": [
       ]
+    },
+    {
+      "entityId": "the_vault:ash_moth",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A small moth of living ash that pours out of the Great Pyre. It bites, then darts back out of reach. Each kill adds heat to the Pyre.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:ash_matron",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A huge ash moth that joins the Pyre's waves once enough fuel is burned. Its wing buffet knocks players back and blinds them. Worth four heat.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:thornwarden",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Velara's champion, a bark knight guarding her grove. The bloom on his chest opens only for a moment, so strike it then. Jump his thorn rings and sidestep his thorn lines.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:stormclock",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Wendarr's champion, a clockwork knight with a pendulum poleaxe. A golden echo repeats his big swings a moment later. Carry storm cores into his lightning shield to break it.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:archivist",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Tenos' champion, a floating oracle who reads where you are going and casts there. Break the catalysts of his ward to make his tome fall.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:pumpking",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "The Halloween champion of the Hollow Court. He snuffs the court's lanterns and hits harder in the dark. Falling once is not the end of him.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:the_vessel",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Made by the four gods to carry all of their powers. The Greed vault's final guardian.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [],
+      "minLevel": 0,
+      "drops": []
     }
   ],
   "hiddenGroups": [
@@ -2380,6 +2502,7 @@
     "the_vault:mob_type/assassin",
     "the_vault:mob_type/dungeon",
     "the_vault:mushroom",
-    "the_vault:piglin"
+    "the_vault:piglin",
+    "the_vault:vessel"
   ]
 }

@@ -398,7 +398,16 @@
       "the_vault:black_widow_boss",
       "the_vault:golem_boss",
       "the_vault:boogieman_boss",
-      "the_vault:artifact_boss"
+      "the_vault:artifact_boss",
+      "the_vault:the_vessel",
+      "the_vault:thornwarden",
+      "the_vault:stormclock",
+      "the_vault:archivist",
+      "the_vault:pumpking"
+    ],
+    "the_vault:great_pyre": [
+      "the_vault:ash_moth",
+      "the_vault:ash_matron"
     ],
     "the_vault:greed_assassin": [
       "the_vault:acid_pursuer",
