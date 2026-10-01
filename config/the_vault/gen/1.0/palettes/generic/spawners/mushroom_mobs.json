@@ -113,7 +113,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:deathcap": 1
+                "the_vault:deathcap": 1,
+                "the_vault:stiltcap": 1
               },
               "weight": 1
             }

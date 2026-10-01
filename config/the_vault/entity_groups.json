@@ -192,7 +192,10 @@
 
       "the_vault:vault_yellow_gummy_soldier",
 
-      "rottencreatures:undead_miner"
+      "rottencreatures:undead_miner",
+      "the_vault:mummy_t0",
+      "the_vault:mummy_t1",
+      "the_vault:mummy_t2"
       
     ],
     "the_vault:assassin": [
@@ -221,10 +224,6 @@
       "the_vault:t1_creeper",
       "the_vault:t2_creeper",
       "the_vault:t3_creeper",
-
-      "the_vault:mummy_t0",
-      "the_vault:mummy_t1",
-      "the_vault:mummy_t2",
 
       "minecraft:enderman",
       "the_vault:t1_enderman",
@@ -289,7 +288,9 @@
       "auxiliaryblocks:gingerbread_man_small",
 
       "auxiliaryblocks:snowdood",
-      "rottencreatures:mummy"
+      "rottencreatures:mummy",
+      "the_vault:rime_mantis",
+      "the_vault:tithe"
     ],
     "the_vault:tank": [
       "the_vault:t3_zombie",
@@ -309,7 +310,9 @@
       "the_vault:yeti",
 
       "rottencreatures:dead_beard",
-      "rottencreatures:glacial_hunter"
+      "rottencreatures:glacial_hunter",
+      "the_vault:cannon_hermit",
+      "the_vault:stiltcap"
     ],
     "the_vault:winterwalker": [
       "the_vault:winterwalker_t0",

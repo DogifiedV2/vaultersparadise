@@ -87,6 +87,86 @@
   },
   "entities": [
     {
+      "entityId": "the_vault:stiltcap",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Rains poison spores on anyone beneath it. Burst it down fast to topple it and it takes extra damage while down.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Mushroom",
+        "Enchanted",
+        "Poison",
+        "Fall"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:tithe",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Leaps onto your back and drains your health. Sneak twice to shake it off, or have a teammate knock it loose.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Cinders",
+        "Flesh Pit",
+        "Wastelands",
+        "Ashen",
+        "Alpha"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:cannon_hermit",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Fires its cannon shell from range. Break the shell at half health and it loses the cannon, but runs much faster.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Grotto",
+        "Flooded",
+        "Shipwreck",
+        "Haunted",
+        "Sea Floor",
+        "Summer"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:rime_mantis",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Stands frozen like an ice sculpture until you get close. Its lunge cuts twice and chills you.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Ice",
+        "Ice Cave",
+        "Aurora",
+        "Winter",
+        "Tenos"
+      ],
+      "minLevel": 20,
+      "drops": []
+    },
+    {
       "entityId": "the_vault:miner_zombie_t0",
       "descriptionData": {
         "description": [
@@ -558,7 +638,7 @@
         "Mesa",
         "Deep Mesa"
       ],
-      "minLevel": 65,
+      "minLevel": 0,
       "drops": [
       ]
     },
@@ -578,7 +658,7 @@
         "Mesa",
         "Deep Mesa"
       ],
-      "minLevel": 80,
+      "minLevel": 20,
       "drops": [
       ]
     },
@@ -598,7 +678,7 @@
         "Mesa",
         "Deep Mesa"
       ],
-      "minLevel": 90,
+      "minLevel": 50,
       "drops": [
       ]
     },

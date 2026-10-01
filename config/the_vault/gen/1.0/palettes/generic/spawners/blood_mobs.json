@@ -131,7 +131,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:blood_skeleton_t0": 1
+                "the_vault:blood_skeleton_t0": 1,
+                "the_vault:tithe": 1
               },
               "weight": 1
             }
@@ -145,7 +146,8 @@
             {
               "elements": {
                 "the_vault:blood_skeleton_t0": 2,
-                "the_vault:blood_skeleton_t1": 1
+                "the_vault:blood_skeleton_t1": 1,
+                "the_vault:tithe": 2
               },
               "weight": 1
             }
@@ -159,7 +161,8 @@
             {
               "elements": {
                 "the_vault:blood_skeleton_t2": 2,
-                "the_vault:blood_skeleton_t3": 1
+                "the_vault:blood_skeleton_t3": 1,
+                "the_vault:tithe": 2
               },
               "weight": 1
             }
@@ -174,7 +177,8 @@
               "elements": {
                 "the_vault:blood_skeleton_t2": 3,
                 "the_vault:blood_skeleton_t3": 3,
-                "the_vault:blood_skeleton_t4": 1
+                "the_vault:blood_skeleton_t4": 1,
+                "the_vault:tithe": 4
               },
               "weight": 1
             }
@@ -189,7 +193,8 @@
               "elements": {
                 "the_vault:blood_skeleton_t3": 3,
                 "the_vault:blood_skeleton_t4": 3,
-                "the_vault:blood_skeleton_t5": 1
+                "the_vault:blood_skeleton_t5": 1,
+                "the_vault:tithe": 4
               },
               "weight": 1
             }
@@ -204,7 +209,8 @@
               "elements": {
                 "the_vault:blood_skeleton_t3": 2,
                 "the_vault:blood_skeleton_t4": 2,
-                "the_vault:blood_skeleton_t5": 1
+                "the_vault:blood_skeleton_t5": 1,
+                "the_vault:tithe": 3
               },
               "weight": 1
             }

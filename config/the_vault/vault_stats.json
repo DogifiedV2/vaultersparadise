@@ -201,9 +201,9 @@
     "minecraft:goat": 35.0,
     "minecraft:cow": 16.0,
 
-    "the_vault:mummy_t0": 110.0,
-    "the_vault:mummy_t1": 132.0,
-    "the_vault:mummy_t2": 198.0,
+    "the_vault:mummy_t0": 26.0,
+    "the_vault:mummy_t1": 31.0,
+    "the_vault:mummy_t2": 70.0,
 
     "the_vault:overgrown_woodman_t0": 110.0,
     "the_vault:overgrown_woodman_t1": 132.0,
@@ -220,6 +220,10 @@
 
     "the_vault:vault_spider": 48.0,
     "the_vault:crab": 48.0,
+    "the_vault:stiltcap": 69.0,
+    "the_vault:tithe": 48.0,
+    "the_vault:cannon_hermit": 88.0,
+    "the_vault:rime_mantis": 148.0,
 
     "the_vault:winterwalker_t0": 31.0,
     "the_vault:winterwalker_t1": 70.0,

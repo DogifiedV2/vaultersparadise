@@ -147,7 +147,8 @@
               "elements": {
                 "minecraft:stray": 10,
                 "the_vault:t1_stray": 4,
-                "the_vault:winter_wolf": 14
+                "the_vault:winter_wolf": 14,
+                "the_vault:rime_mantis": 2
               },
               "weight": 1
             }
@@ -164,7 +165,8 @@
                 "the_vault:t2_stray": 4,
                 "the_vault:winter_wolf": 13,
                 "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2
+                "minecraft:polar_bear": 2,
+                "the_vault:rime_mantis": 2
               },
               "weight": 1
             }
@@ -181,7 +183,8 @@
                 "the_vault:t2_stray": 10,
                 "the_vault:winter_wolf": 11,
                 "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2
+                "minecraft:polar_bear": 2,
+                "the_vault:rime_mantis": 2
               },
               "weight": 1
             }
@@ -198,7 +201,8 @@
                 "the_vault:t2_stray": 6,
                 "the_vault:winter_wolf": 9,
                 "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2
+                "minecraft:polar_bear": 2,
+                "the_vault:rime_mantis": 2
               },
               "weight": 1
             }
@@ -286,7 +290,6 @@
       "type": "reference",
       "id": "the_vault:generic/spawners/group_settings"
     },
-    
     {
       "type": "leveled",
       "levels": [
@@ -345,7 +348,6 @@
         }
       ]
     },
-
     {
       "type": "leveled",
       "levels": [
@@ -412,7 +414,6 @@
         }
       ]
     },
-
     {
       "type": "leveled",
       "levels": [
