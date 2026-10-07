@@ -195,8 +195,16 @@
       "rottencreatures:undead_miner",
       "the_vault:mummy_t0",
       "the_vault:mummy_t1",
-      "the_vault:mummy_t2"
-      
+      "the_vault:mummy_t2",
+      "the_vault:ashen_husk",
+      "the_vault:frostling",
+      "the_vault:gloomcap_sporeling",
+      "the_vault:thornling",
+      "the_vault:shardling",
+      "the_vault:hex_doll",
+      "the_vault:rust_drone",
+      "the_vault:wisp_lantern",
+      "the_vault:ink_crawler"
     ],
     "the_vault:assassin": [
       "minecraft:shulker",

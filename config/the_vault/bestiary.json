@@ -126,6 +126,165 @@
       "drops": []
     },
     {
+      "entityId": "the_vault:ashen_husk",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A slow, smouldering corpse that climbs out of the ash. Comes in numbers, also around the Great Pyre.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Ashen"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:frostling",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A small frost imp that lunges with its ice spear. Its hits slow you for a moment.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Blizzard",
+        "Caverns",
+        "Winter",
+        "Aurora",
+        "Tenos"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:gloomcap_sporeling",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A walking mushroom that swats you with a puff of spores.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Mushroom",
+        "Enchanted",
+        "Poison",
+        "Fall"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:thornling",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A thorny sprout that hops at you and rakes with its claws.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Caverns",
+        "Honey",
+        "Spring",
+        "Velara"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:shardling",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A little crystal crawler that jabs with its shard arms.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Geodes"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:hex_doll",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A cursed rag doll that shuffles after you and scratches with hexed hands.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Haunted",
+        "Gloom"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:rust_drone",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A hovering clockwork bug that dives in to drill you.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Factory",
+        "Meltdown"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:wisp_lantern",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A haunted lantern that floats toward you and scorches you with its ghost flame.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Haunted",
+        "Gloom"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:ink_crawler",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A one-eyed ink blot on four legs that bites in packs.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Deepdark",
+        "End",
+        "Starless Keep"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
       "entityId": "the_vault:cannon_hermit",
       "descriptionData": {
         "description": [

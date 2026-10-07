@@ -8,10 +8,10 @@
           "type": "weighted_target",
           "target": "ispawner:spawner",
           "output": {
-            "ispawner:spawner{ group:horde }": 59,
-            "ispawner:spawner{ group:assassin }": 28,
-            "ispawner:spawner{ group:tank }": 8,
-            "ispawner:spawner{ group:dwellers }": 5
+            "ispawner:spawner{ group:horde }": 58,
+            "ispawner:spawner{ group:assassin }": 26,
+            "ispawner:spawner{ group:tank }": 7,
+            "ispawner:spawner{ group:dwellers }": 9
           }
         }
       ]
@@ -113,7 +113,7 @@
           "output": [
             {
               "elements": {
-                "the_vault:shiver": 1
+                "the_vault:blood_tank": 10
               },
               "weight": 1
             }
@@ -131,8 +131,8 @@
           "output": [
             {
               "elements": {
-                "minecraft:stray": 6,
-                "the_vault:winter_wolf": 6
+                "the_vault:blood_skeleton_t0": 1,
+                "the_vault:tithe": 1
               },
               "weight": 1
             }
@@ -145,10 +145,9 @@
           "output": [
             {
               "elements": {
-                "minecraft:stray": 10,
-                "the_vault:t1_stray": 4,
-                "the_vault:winter_wolf": 14,
-                "the_vault:rime_mantis": 2
+                "the_vault:blood_skeleton_t0": 2,
+                "the_vault:blood_skeleton_t1": 1,
+                "the_vault:tithe": 2
               },
               "weight": 1
             }
@@ -161,12 +160,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:t1_stray": 9,
-                "the_vault:t2_stray": 4,
-                "the_vault:winter_wolf": 13,
-                "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2,
-                "the_vault:rime_mantis": 2
+                "the_vault:blood_skeleton_t2": 2,
+                "the_vault:blood_skeleton_t3": 1,
+                "the_vault:tithe": 2
               },
               "weight": 1
             }
@@ -179,12 +175,10 @@
           "output": [
             {
               "elements": {
-                "the_vault:t3_stray": 1,
-                "the_vault:t2_stray": 10,
-                "the_vault:winter_wolf": 11,
-                "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2,
-                "the_vault:rime_mantis": 2
+                "the_vault:blood_skeleton_t2": 3,
+                "the_vault:blood_skeleton_t3": 3,
+                "the_vault:blood_skeleton_t4": 1,
+                "the_vault:tithe": 4
               },
               "weight": 1
             }
@@ -197,12 +191,26 @@
           "output": [
             {
               "elements": {
-                "the_vault:t3_stray": 3,
-                "the_vault:t2_stray": 6,
-                "the_vault:winter_wolf": 9,
-                "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2,
-                "the_vault:rime_mantis": 2
+                "the_vault:blood_skeleton_t3": 3,
+                "the_vault:blood_skeleton_t4": 3,
+                "the_vault:blood_skeleton_t5": 1,
+                "the_vault:tithe": 4
+              },
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "level": 100,
+          "type": "spawner",
+          "target": "ispawner:spawner{group:assassin}",
+          "output": [
+            {
+              "elements": {
+                "the_vault:blood_skeleton_t3": 2,
+                "the_vault:blood_skeleton_t4": 2,
+                "the_vault:blood_skeleton_t5": 1,
+                "the_vault:tithe": 3
               },
               "weight": 1
             }
@@ -220,8 +228,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t0": 6,
-                "the_vault:frostling": 4
+                "the_vault:blood_horde_t1": 6,
+                "the_vault:ashen_husk": 11
               },
               "weight": 1
             }
@@ -234,9 +242,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t0": 4,
-                "the_vault:winterwalker_t1": 2,
-                "the_vault:frostling": 4
+                "the_vault:blood_horde_t1": 6,
+                "the_vault:blood_horde_t2": 4,
+                "the_vault:ashen_husk": 18
               },
               "weight": 1
             }
@@ -249,9 +257,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t2": 4,
-                "the_vault:winterwalker_t1": 2,
-                "the_vault:frostling": 4
+                "the_vault:blood_horde_t2": 6,
+                "the_vault:blood_horde_t3": 4,
+                "the_vault:ashen_husk": 18
               },
               "weight": 1
             }
@@ -264,10 +272,10 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t2": 4,
-                "the_vault:winterwalker_t3": 4,
-                "the_vault:winterwalker_t4": 2,
-                "the_vault:frostling": 8
+                "the_vault:blood_horde_t2": 3,
+                "the_vault:blood_horde_t3": 3,
+                "the_vault:blood_horde_t4": 1,
+                "the_vault:ashen_husk": 13
               },
               "weight": 1
             }
@@ -280,10 +288,10 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t5": 2,
-                "the_vault:winterwalker_t4": 4,
-                "the_vault:winterwalker_t3": 4,
-                "the_vault:frostling": 8
+                "the_vault:blood_horde_t3": 3,
+                "the_vault:blood_horde_t4": 3,
+                "the_vault:blood_horde_t5": 1,
+                "the_vault:ashen_husk": 13
               },
               "weight": 1
             }
@@ -361,9 +369,8 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:horde}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -371,10 +378,8 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:horde}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 6, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 8, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -382,8 +387,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:horde}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 8, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 10, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1,
             "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 6, SpawnDelay: 30 } } }": 1
           }
         },
@@ -392,8 +396,6 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:horde}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 12, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 6, SpawnDelay: 30 } } }": 1,
             "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 7, SpawnDelay: 30 } } }": 1,
             "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 8, SpawnDelay: 30 } } }": 1
           }
@@ -403,7 +405,7 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:horde}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 7, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 8, SpawnDelay: 30 } } }": 1,
             "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 9, SpawnDelay: 30 } } }": 1
           }
         },
@@ -412,7 +414,6 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:horde}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 8, SpawnDelay: 30 } } }": 1,
             "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 9, SpawnDelay: 30 } } }": 1,
             "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 10, SpawnDelay: 30 } } }": 1
           }

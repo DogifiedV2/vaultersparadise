@@ -199,7 +199,8 @@
             {
               "elements": {
                 "the_vault:deep_dark_zombie": 60,
-                "the_vault:deep_dark_skeleton": 25
+                "the_vault:deep_dark_skeleton": 25,
+                "the_vault:ink_crawler": 64
               },
               "weight": 1
             }

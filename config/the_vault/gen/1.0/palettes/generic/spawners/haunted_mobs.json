@@ -8,9 +8,9 @@
           "type": "weighted_target",
           "target": "ispawner:spawner",
           "output": {
-            "ispawner:spawner{ group:horde }": 59,
-            "ispawner:spawner{ group:assassin }": 28,
-            "ispawner:spawner{ group:tank }": 8,
+            "ispawner:spawner{ group:horde }": 47,
+            "ispawner:spawner{ group:assassin }": 36,
+            "ispawner:spawner{ group:tank }": 12,
             "ispawner:spawner{ group:dwellers }": 5
           }
         }
@@ -113,7 +113,23 @@
           "output": [
             {
               "elements": {
-                "the_vault:shiver": 1
+                "the_vault:t3_drowned": 1,
+                "the_vault:cannon_hermit": 1
+              },
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "level": 20,
+          "type": "spawner",
+          "target": "ispawner:spawner{group:tank}",
+          "output": [
+            {
+              "elements": {
+                "the_vault:t3_drowned": 9,
+                "rottencreatures:dead_beard": 1,
+                "the_vault:cannon_hermit": 8
               },
               "weight": 1
             }
@@ -131,8 +147,8 @@
           "output": [
             {
               "elements": {
-                "minecraft:stray": 6,
-                "the_vault:winter_wolf": 6
+                "the_vault:crab": 1,
+                "the_vault:skeleton_pirate_t0": 1
               },
               "weight": 1
             }
@@ -145,10 +161,9 @@
           "output": [
             {
               "elements": {
-                "minecraft:stray": 10,
-                "the_vault:t1_stray": 4,
-                "the_vault:winter_wolf": 14,
-                "the_vault:rime_mantis": 2
+                "the_vault:crab": 3,
+                "the_vault:skeleton_pirate_t0": 2,
+                "the_vault:skeleton_pirate_t1": 1
               },
               "weight": 1
             }
@@ -161,12 +176,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:t1_stray": 9,
-                "the_vault:t2_stray": 4,
-                "the_vault:winter_wolf": 13,
-                "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2,
-                "the_vault:rime_mantis": 2
+                "the_vault:crab": 3,
+                "the_vault:skeleton_pirate_t1": 2,
+                "the_vault:skeleton_pirate_t2": 1
               },
               "weight": 1
             }
@@ -179,12 +191,10 @@
           "output": [
             {
               "elements": {
-                "the_vault:t3_stray": 1,
-                "the_vault:t2_stray": 10,
-                "the_vault:winter_wolf": 11,
-                "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2,
-                "the_vault:rime_mantis": 2
+                "the_vault:crab": 6,
+                "the_vault:skeleton_pirate_t2": 3,
+                "the_vault:skeleton_pirate_t3": 2,
+                "the_vault:skeleton_pirate_t4": 1
               },
               "weight": 1
             }
@@ -197,12 +207,10 @@
           "output": [
             {
               "elements": {
-                "the_vault:t3_stray": 3,
-                "the_vault:t2_stray": 6,
-                "the_vault:winter_wolf": 9,
-                "the_vault:aggressive_goat": 2,
-                "minecraft:polar_bear": 2,
-                "the_vault:rime_mantis": 2
+                "the_vault:crab": 6,
+                "the_vault:skeleton_pirate_t3": 3,
+                "the_vault:skeleton_pirate_t4": 2,
+                "the_vault:skeleton_pirate_t5": 1
               },
               "weight": 1
             }
@@ -220,8 +228,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t0": 6,
-                "the_vault:frostling": 4
+                "minecraft:drowned": 6,
+                "the_vault:wisp_lantern": 2,
+                "the_vault:hex_doll": 2
               },
               "weight": 1
             }
@@ -234,9 +243,10 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t0": 4,
-                "the_vault:winterwalker_t1": 2,
-                "the_vault:frostling": 4
+                "minecraft:drowned": 4,
+                "the_vault:t1_drowned": 2,
+                "the_vault:wisp_lantern": 2,
+                "the_vault:hex_doll": 2
               },
               "weight": 1
             }
@@ -249,9 +259,11 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t2": 4,
-                "the_vault:winterwalker_t1": 2,
-                "the_vault:frostling": 4
+                "minecraft:drowned": 1,
+                "the_vault:t1_drowned": 3,
+                "the_vault:t2_drowned": 2,
+                "the_vault:wisp_lantern": 2,
+                "the_vault:hex_doll": 2
               },
               "weight": 1
             }
@@ -264,10 +276,10 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t2": 4,
-                "the_vault:winterwalker_t3": 4,
-                "the_vault:winterwalker_t4": 2,
-                "the_vault:frostling": 8
+                "the_vault:t1_drowned": 3,
+                "the_vault:t2_drowned": 3,
+                "the_vault:wisp_lantern": 2,
+                "the_vault:hex_doll": 2
               },
               "weight": 1
             }
@@ -280,10 +292,10 @@
           "output": [
             {
               "elements": {
-                "the_vault:winterwalker_t5": 2,
-                "the_vault:winterwalker_t4": 4,
-                "the_vault:winterwalker_t3": 4,
-                "the_vault:frostling": 8
+                "the_vault:t1_drowned": 2,
+                "the_vault:t2_drowned": 8,
+                "the_vault:wisp_lantern": 4,
+                "the_vault:hex_doll": 4
               },
               "weight": 1
             }
@@ -321,7 +333,9 @@
           "target": "ispawner:spawner{group:tank}",
           "output": {
             "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 1, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 1, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -329,8 +343,9 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:tank}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 1, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 1, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -338,8 +353,9 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:tank}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 1, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 1, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -347,8 +363,9 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:tank}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 1, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 1, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
           }
         }
       ]
@@ -427,8 +444,8 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:assassin}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -436,7 +453,9 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:assassin}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 2, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -444,8 +463,9 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:assassin}",
           "output": {
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -454,7 +474,9 @@
           "target": "ispawner:spawner{group:assassin}",
           "output": {
             "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 6, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -464,7 +486,8 @@
           "output": {
             "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1,
             "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 6, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 6, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1
           }
         },
         {
@@ -472,8 +495,11 @@
           "type": "weighted_target",
           "target": "ispawner:spawner{group:assassin}",
           "output": {
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1,
             "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 5, SpawnDelay: 30 } } }": 1,
-            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 6, SpawnDelay: 30 } } }": 1
+            "ispawner:spawner{ Manager: { UsesLeft:1, Settings: { Attempts: 6, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 3, SpawnDelay: 30 } } }": 1,
+            "ispawner:spawner{ Manager: { UsesLeft:2, Settings: { Attempts: 4, SpawnDelay: 30 } } }": 1
           }
         }
       ]

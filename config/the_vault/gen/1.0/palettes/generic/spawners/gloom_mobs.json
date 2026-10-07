@@ -151,7 +151,9 @@
             {
               "elements": {
                 "the_vault:jack": 15,
-                "the_vault:jack_poison": 1
+                "the_vault:jack_poison": 1,
+                "the_vault:wisp_lantern": 6,
+                "the_vault:hex_doll": 6
               },
               "weight": 1
             }

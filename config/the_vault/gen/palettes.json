@@ -1896,6 +1896,26 @@
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/blood_mobs.json"
     },
     {
+      "id": "the_vault:generic/spawners/ash_mobs",
+      "name": "Ashen Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/ash_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/geode_mobs",
+      "name": "Geode Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/geode_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/factory_mobs",
+      "name": "Factory Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/factory_mobs.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/haunted_mobs",
+      "name": "Haunted Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/haunted_mobs.json"
+    },
+    {
       "id": "the_vault:village/villager_spawner",
       "name": "Villager Spawner",
       "1.0": "config/the_vault/gen/1.0/palettes/village/villager_spawner.json"
