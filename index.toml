@@ -1674,7 +1674,7 @@ hash = "61c8f003484c4055d5c4ce3472c7a396f55301aa65fe62b2ac3b9d3ce2f813ab"
 
 [[files]]
 file = "config/the_vault/bestiary.json"
-hash = "fcf05f8a433798f6886b1536a5a86f4c6c6870c64831720d56b9718554d2eca6"
+hash = "f654014e2adca091f816c4b6c6efa2def81d193b6b867ef73949510d0adaf665"
 
 [[files]]
 file = "config/the_vault/bingo.json"
@@ -3062,7 +3062,7 @@ hash = "5f507e358e1aaae8e3dfed7907b5fa124ab79f2b21ef6e3b5d91fd353d5c3ce5"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_factory_void.json"
-hash = "c11db62795f0eb83ad6a627d0c339ff6412cd67e4de3fc02109b87c062e6151a"
+hash = "ac390ba28c74cac5610d9818a9ce93c04939270c479a810242a0675f0dbe8bca"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_fairy_ring.json"
@@ -3703,6 +3703,10 @@ hash = "c1b5a21b2a4d9c6564d03ea71263d678b5b84e8c1f5c6e8fe2db7a9059567a92"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/factory_mobs.json"
 hash = "5ae8171b1c268d2f506f37df2c7bbdf1e698be6232645b41095c3a382d856cdb"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/generic/spawners/factory_void_mobs.json"
+hash = "d424b36c4c95850caededb240f99b3e8f0191dddcde2720efb2cf641e3ee5b65"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/festive_mobs.json"
@@ -4950,7 +4954,7 @@ hash = "4608cf27f17006eab4f7a684f2acfc55a7f6147a4e5a5a1a1786d20d28e50e13"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_factory_void.json"
-hash = "e5e048ae5034cbe865b492a5bcd853e72e9794ceaf3e94b6b2ae3c6abbd635f4"
+hash = "a60c2b636532531eee0cd0ba3658fe4ed49f404363bfb6ae91167203a2600992"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_fairy_ring.json"
@@ -15262,7 +15266,7 @@ hash = "f7aaae01310aee110510490aa114493e8c6d7da379ba18c9c3a55167f3b93643"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "c991108dbbcb7cd86da720d5f02122fa48a50345c8ca92559d311a501d21c85c"
+hash = "6d51c9f3e31c22bd72c65d589f37697d122277d9534983de05a099d80b633f4f"
 
 [[files]]
 file = "config/the_vault/gen/room_level_lock.json"
@@ -19065,7 +19069,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "8ed1dd3cd7211268ea2d2baa7559b0cb1ccea10dfb40b4af740d871683db6735"
+hash = "785ac9981ba718a3d0c157081415d1b4737b60131abc4eea358b174072cb36ae"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
