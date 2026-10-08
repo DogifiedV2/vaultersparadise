@@ -6625,6 +6625,1676 @@
                 ]
             }
         ],
+        "the_vault:hollow_mother": [
+            {
+                "NAME": "minecraft:generic.max_health",
+                "MIN": 89.7,
+                "MAX": 105.3,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.08,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 374.23,
+                        "MAX": 439.31,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 107.64,
+                        "MAX": 126.36,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "minecraft:generic.attack_damage",
+                "MIN": 1.84,
+                "MAX": 2.16,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.1,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_chance",
+                "MIN": 0.075,
+                "MAX": 0.075,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 0.075,
+                        "MAX": 0.075,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 0.125,
+                        "MAX": 0.125,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 0.175,
+                        "MAX": 0.175,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_multiplier",
+                "MIN": 1.2,
+                "MAX": 1.2,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.2,
+                        "MAX": 1.2,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 1.3,
+                        "MAX": 1.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 1.4,
+                        "MAX": 1.4,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            }
+        ],
+        "the_vault:stitchmouth": [
+            {
+                "NAME": "minecraft:generic.max_health",
+                "MIN": 89.7,
+                "MAX": 105.3,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.08,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 374.23,
+                        "MAX": 439.31,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 107.64,
+                        "MAX": 126.36,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "minecraft:generic.attack_damage",
+                "MIN": 1.84,
+                "MAX": 2.16,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.1,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_chance",
+                "MIN": 0.075,
+                "MAX": 0.075,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 0.075,
+                        "MAX": 0.075,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 0.125,
+                        "MAX": 0.125,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 0.175,
+                        "MAX": 0.175,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_multiplier",
+                "MIN": 1.2,
+                "MAX": 1.2,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.2,
+                        "MAX": 1.2,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 1.3,
+                        "MAX": 1.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 1.4,
+                        "MAX": 1.4,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            }
+        ],
+        "the_vault:rot_choir": [
+            {
+                "NAME": "minecraft:generic.max_health",
+                "MIN": 89.7,
+                "MAX": 105.3,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.08,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 374.23,
+                        "MAX": 439.31,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 107.64,
+                        "MAX": 126.36,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "minecraft:generic.attack_damage",
+                "MIN": 1.84,
+                "MAX": 2.16,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.1,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_chance",
+                "MIN": 0.075,
+                "MAX": 0.075,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 0.075,
+                        "MAX": 0.075,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 0.125,
+                        "MAX": 0.125,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 0.175,
+                        "MAX": 0.175,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_multiplier",
+                "MIN": 1.2,
+                "MAX": 1.2,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.2,
+                        "MAX": 1.2,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 1.3,
+                        "MAX": 1.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 1.4,
+                        "MAX": 1.4,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            }
+        ],
+        "the_vault:splitjaw": [
+            {
+                "NAME": "minecraft:generic.max_health",
+                "MIN": 89.7,
+                "MAX": 105.3,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.08,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 374.23,
+                        "MAX": 439.31,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 107.64,
+                        "MAX": 126.36,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "minecraft:generic.attack_damage",
+                "MIN": 1.84,
+                "MAX": 2.16,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.1,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_chance",
+                "MIN": 0.075,
+                "MAX": 0.075,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 0.075,
+                        "MAX": 0.075,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 0.125,
+                        "MAX": 0.125,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 0.175,
+                        "MAX": 0.175,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_multiplier",
+                "MIN": 1.2,
+                "MAX": 1.2,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.2,
+                        "MAX": 1.2,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 1.3,
+                        "MAX": 1.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 1.4,
+                        "MAX": 1.4,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            }
+        ],
+        "the_vault:grinning_tall": [
+            {
+                "NAME": "minecraft:generic.max_health",
+                "MIN": 89.7,
+                "MAX": 105.3,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.08,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 89.7,
+                        "MAX": 105.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 374.23,
+                        "MAX": 439.31,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 107.64,
+                        "MAX": 126.36,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 137.54,
+                        "MAX": 161.46,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 185.38,
+                        "MAX": 217.62,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 244.7,
+                        "MAX": 287.26,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 266.95,
+                        "MAX": 313.37,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.08,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "minecraft:generic.attack_damage",
+                "MIN": 1.84,
+                "MAX": 2.16,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.1,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 10,
+                        "MIN": 1.84,
+                        "MAX": 2.16,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.1,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 20,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 30,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 40,
+                        "MIN": 1.955,
+                        "MAX": 2.295,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.07647,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 60,
+                        "MIN": 2.169,
+                        "MAX": 2.546,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04909,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 65,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 70,
+                        "MIN": 2.257,
+                        "MAX": 2.649,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04917,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 80,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 2.478,
+                        "MAX": 2.909,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.04908,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 90,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 100,
+                        "MIN": 3.019,
+                        "MAX": 3.544,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0496,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_chance",
+                "MIN": 0.075,
+                "MAX": 0.075,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 0.075,
+                        "MAX": 0.075,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 0.125,
+                        "MAX": 0.125,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 0.175,
+                        "MAX": 0.175,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            },
+            {
+                "NAME": "the_vault:generic.crit_multiplier",
+                "MIN": 1.2,
+                "MAX": 1.2,
+                "OPERATOR": "set",
+                "ROLL_CHANCE": 1.0,
+                "SCALE_PER_LEVEL": 0.0,
+                "SCALE_MAX_LEVEL": -1,
+                "LEVELS": [
+                    {
+                        "MIN_LEVEL": 0,
+                        "MIN": 1.2,
+                        "MAX": 1.2,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 50,
+                        "MIN": 1.3,
+                        "MAX": 1.3,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    },
+                    {
+                        "MIN_LEVEL": 85,
+                        "MIN": 1.4,
+                        "MAX": 1.4,
+                        "OPERATOR": "set",
+                        "ROLL_CHANCE": 1.0,
+                        "SCALE_PER_LEVEL": 0.0,
+                        "SCALE_MAX_LEVEL": -1
+                    }
+                ]
+            }
+        ],
         "the_vault:tithe": [
             {
                 "NAME": "the_vault:generic.crit_chance",
