@@ -113,7 +113,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:shiver": 1
+                "the_vault:shiver": 6,
+                "the_vault:rimeback_ram": 4
               },
               "weight": 1
             }

@@ -286,6 +286,207 @@
       "drops": []
     },
     {
+      "entityId": "the_vault:gilt_grunt",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A gold-greedy piglin brute that marches in packs and hacks with its cleaver.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Dark",
+        "Crimson",
+        "Souls",
+        "Warped",
+        "Idona"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:barnacle_grunt",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A barnacle-crusted sailor that comes in packs and clubs you with its oar.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Grotto",
+        "Flooded",
+        "Sea Floor",
+        "Summer",
+        "Shipwreck"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:soulfang",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A soul-fire hound. From 3 to 6 blocks away it leaps at you and bites on landing.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Dark",
+        "Crimson",
+        "Souls",
+        "Warped",
+        "Idona"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:dune_scuttler",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A sand scorpion that springs at you from 3 to 6 blocks away. Its pinch poisons.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Badlands",
+        "Dunes",
+        "Mesa",
+        "Cavern",
+        "Wendarr"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:drip_lurker",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "Chases you down and pounces from 3 to 6 blocks. Lose it for a few seconds and it goes still like a rock; walk within 4 blocks or hit it and it ambushes you.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Caverns",
+        "Deepslate",
+        "Wasteland",
+        "Intermediary",
+        "Geodes"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:snapjaw_bloom",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A biting plant that lunges at you from 3 to 6 blocks. Lose it and it roots in place, then snaps at anyone who comes within 4 blocks or strikes it.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Caverns",
+        "Honey",
+        "Spring",
+        "Velara",
+        "Temple",
+        "Arcane"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:basalt_bulwark",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A basalt brute with a shield. When struck up close it raises its guard for 2 seconds and takes 60% less damage.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Dark",
+        "Crimson",
+        "Souls",
+        "Warped",
+        "Idona"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:sandstone_sentinel",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A sandstone guardian. When struck up close it braces for 2 seconds and takes 60% less damage.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Badlands",
+        "Dunes",
+        "Mesa",
+        "Cavern",
+        "Wendarr"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:ore_hauler",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A hulking miner carrying a glowing ore vein. When struck up close it covers up for 2 seconds and takes 60% less damage.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Caverns",
+        "Deepslate",
+        "Wasteland",
+        "Intermediary",
+        "Geodes"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
+      "entityId": "the_vault:rimeback_ram",
+      "descriptionData": {
+        "description": [
+          {
+            "text": "A frosted ram. From 5 to 14 blocks with a clear run it charges head down; the hit deals 50% more damage and knocks you far. It stuns itself on walls.",
+            "color": "$text"
+          }
+        ]
+      },
+      "themes": [
+        "Blizzard",
+        "Caverns",
+        "Winter",
+        "Aurora",
+        "Tenos"
+      ],
+      "minLevel": 0,
+      "drops": []
+    },
+    {
       "entityId": "the_vault:cannon_hermit",
       "descriptionData": {
         "description": [

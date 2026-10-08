@@ -1674,7 +1674,7 @@ hash = "61c8f003484c4055d5c4ce3472c7a396f55301aa65fe62b2ac3b9d3ce2f813ab"
 
 [[files]]
 file = "config/the_vault/bestiary.json"
-hash = "f654014e2adca091f816c4b6c6efa2def81d193b6b867ef73949510d0adaf665"
+hash = "c17479e20e36d7e1f98673d2fdda234a252a7c59d368fb0670caf8b02f4e32b7"
 
 [[files]]
 file = "config/the_vault/bingo.json"
@@ -1942,7 +1942,7 @@ hash = "e3cc18f36f5e12cb3fa0733ec8d80e56f1711089e588e02fb2b551a1b8c53e57"
 
 [[files]]
 file = "config/the_vault/entity_groups.json"
-hash = "41ebd6c6a831a5f919a24f89d5a1cd92c49fce80e2378750c08e75707881e7cd"
+hash = "65147ed467e85425e522b9da2dfbf376c322da4ff043706f22c186325f3c38d1"
 
 [[files]]
 file = "config/the_vault/entity_hitbox_offsets.json"
@@ -3638,7 +3638,7 @@ hash = "b32496e2152e780a4157d60f3df8d7fff715d12270dda23a1b6a4ab3b5900057"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/arcane_mobs.json"
-hash = "7cfd9853d4fe343c3962f0a5a285cdd3e413dbcd02a636a282bcdc53e374c760"
+hash = "273e1a4a46c55b9e4c84ce34955e8954b9d800aabec5caac1652ac51869bfcb3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/ash_mobs.json"
@@ -3646,7 +3646,7 @@ hash = "fc9f26fa3d9182e2701971cbedcc292cc94f0f866cc276051c3b82a20d2d9150"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/beach_mobs.json"
-hash = "2a0b18379b4733b100b1c17113c218234fe10a6145e444a4bbfa150f73b67edd"
+hash = "769dd4e21076c335614e1bbf178677d7165182bc4938beff4f685a77aca9389a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/blood_mobs.json"
@@ -3654,7 +3654,7 @@ hash = "b4328e16e0c202e91eae6ba9e4c40097fc448e61f14c23e602524cbe7dd39073"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/cave_mobs.json"
-hash = "28141918d78b487370d2d7cc0a68910525ea538ad6d492e1bf50b432692a5383"
+hash = "805500a952f406df99919c37a60a0d365e0c8fde36fc2e3bb518462c10671f10"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/challenge_crystal_blue_mobs.json"
@@ -3686,7 +3686,7 @@ hash = "9c465df0209a3b7deeec07a44a1c05288217c91d9c09689d04f39121193593bb"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/desert_mobs.json"
-hash = "7d7d5c53ba774e6516868baf881cb024393aad179628005c3ebd1967cf5f448e"
+hash = "f1f9970013622295dc5611a9c8f9b2f29e9bc90c761d5bb8c075da9a2a0c4cd4"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/dungeon_settings.json"
@@ -3722,7 +3722,7 @@ hash = "16203b996603bbfc43abf54352987326458f2f9fa6fcb39d8756b2ebf69a5465"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/geode_mobs.json"
-hash = "99115bd80f00d945ee374aba6a06dd3ba5bb5f8b60efbebf6cc0c3620806f4f0"
+hash = "cbe9085c9b7a4453d07d8167df72e8f87f4a24bbddaf271a756bf05a5184e4a1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/gloom_mobs.json"
@@ -3738,11 +3738,11 @@ hash = "7b8fe6ec46a91d5d7436ae1cb3b9312673e072532f1ff1e43cb5969e9199b3bf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/ice_mobs.json"
-hash = "ac3c9fa1586ee15f262c1f3c04d47ccfb47b6bf9b189b19c5c2d8011b5fad17c"
+hash = "de194dff55916a3e6315ef5b0e07b5ed97639a835a254055274663f19abba177"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/lush_cave_mobs.json"
-hash = "2574e406eedc0425b4ad96d551f7cfd3c395b7e442586430c7db91c964f254c0"
+hash = "d833188b0bfb9e6254d797342bf7f5dbcbd4bf7a24f4edd97aa4dbb51cd18b34"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/mushroom_mobs.json"
@@ -3750,7 +3750,7 @@ hash = "3a2c652d448db5e70be5c88a8fadd8d42f4eecccd5a1dd45cc6e84a7e68aa1ba"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/nether_mobs.json"
-hash = "5ece33ec67b425884ac5b1f93228c595c606bf53edb8f6dd6ecc275cf0c0eb59"
+hash = "fcc68eb2835e73b36abf3dd81c3dae06083e00fb077f337d5a898ae732742b44"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/piglin_dungeon.json"
@@ -3794,7 +3794,7 @@ hash = "52727fb4b34c5535dca5e023285ce4af24ac775487b529352cc48066596b7e1b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/temple_mobs.json"
-hash = "0954dd24a2f9e3fa435fc667b635a00ce2a8de63ab37c7f296af97cb1800db09"
+hash = "d152ccb763f7027b5893d4d28227761170e7b415a949f11cb97167e07a8da678"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/villager.json"
@@ -16022,7 +16022,7 @@ hash = "31b550023c3b8425a02bc358452edba41d2e8e895722c6d26797653ecb405e8d"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "4f1084dfec14db3b9014cbe9ad33dee9fd1a8932855176137ae27b56891270c9"
+hash = "59e83cdb7e36315e30388d925da1eb02aad2daa303f93974b80028cdc0d285bc"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
@@ -16074,7 +16074,7 @@ hash = "bfe1904d209108a069722379bc5c6de7d8bfa69f6e3140d0f3bb5750587839b1"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
-hash = "a1f0cd57e68d4dd74b51860141b8f84d49e19edaca4c1cb74887d94e2c6b3e32"
+hash = "a6b954474086e1904991023b3f612ce3d740c95b417f6b4167237294b95c87e9"
 
 [[files]]
 file = "config/the_vault/vault_stew.json"
@@ -19069,7 +19069,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "6f5c8e64326ba43355ba3a3cd453dc91e19d00cdbbf773aefc1911dc692a7d9d"
+hash = "48991ed439aeb15a37b3e54f6f99f04a5d991fb2e6b45dc600ee1356d4557b6e"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

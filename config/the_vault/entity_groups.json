@@ -204,7 +204,9 @@
       "the_vault:hex_doll",
       "the_vault:rust_drone",
       "the_vault:wisp_lantern",
-      "the_vault:ink_crawler"
+      "the_vault:ink_crawler",
+      "the_vault:gilt_grunt",
+      "the_vault:barnacle_grunt"
     ],
     "the_vault:assassin": [
       "minecraft:shulker",
@@ -298,7 +300,11 @@
       "auxiliaryblocks:snowdood",
       "rottencreatures:mummy",
       "the_vault:rime_mantis",
-      "the_vault:tithe"
+      "the_vault:tithe",
+      "the_vault:soulfang",
+      "the_vault:dune_scuttler",
+      "the_vault:drip_lurker",
+      "the_vault:snapjaw_bloom"
     ],
     "the_vault:tank": [
       "the_vault:t3_zombie",
@@ -320,7 +326,11 @@
       "rottencreatures:dead_beard",
       "rottencreatures:glacial_hunter",
       "the_vault:cannon_hermit",
-      "the_vault:stiltcap"
+      "the_vault:stiltcap",
+      "the_vault:basalt_bulwark",
+      "the_vault:sandstone_sentinel",
+      "the_vault:ore_hauler",
+      "the_vault:rimeback_ram"
     ],
     "the_vault:winterwalker": [
       "the_vault:winterwalker_t0",

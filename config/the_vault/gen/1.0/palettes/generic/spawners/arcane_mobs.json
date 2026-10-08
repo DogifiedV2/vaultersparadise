@@ -134,7 +134,8 @@
               "elements": {
                 "the_vault:vault_spider": 4,
                 "minecraft:slime": 1,
-                "ars_nouveau:wilden_stalker": 2
+                "ars_nouveau:wilden_stalker": 2,
+                "the_vault:snapjaw_bloom": 5
               },
               "weight": 1
             }
@@ -149,7 +150,8 @@
               "elements": {
                 "the_vault:vault_spider": 4,
                 "minecraft:slime": 1,
-                "ars_nouveau:wilden_stalker": 2
+                "ars_nouveau:wilden_stalker": 2,
+                "the_vault:snapjaw_bloom": 5
               },
               "weight": 1
             }
@@ -165,7 +167,8 @@
                 "the_vault:vault_spider": 6,
                 "minecraft:slime": 4,
                 "the_vault:swamp_zombie": 2,
-                "ars_nouveau:wilden_stalker": 6
+                "ars_nouveau:wilden_stalker": 6,
+                "the_vault:snapjaw_bloom": 14
               },
               "weight": 1
             }
@@ -181,7 +184,8 @@
                 "the_vault:vault_spider": 6,
                 "minecraft:slime": 4,
                 "the_vault:swamp_zombie": 2,
-                "ars_nouveau:wilden_stalker": 6
+                "ars_nouveau:wilden_stalker": 6,
+                "the_vault:snapjaw_bloom": 14
               },
               "weight": 1
             }
@@ -197,7 +201,8 @@
                 "the_vault:vault_spider": 6,
                 "minecraft:slime": 4,
                 "the_vault:swamp_zombie": 2,
-                "ars_nouveau:wilden_stalker": 6
+                "ars_nouveau:wilden_stalker": 6,
+                "the_vault:snapjaw_bloom": 14
               },
               "weight": 1
             }

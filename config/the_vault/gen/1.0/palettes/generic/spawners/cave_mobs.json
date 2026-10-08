@@ -113,7 +113,8 @@
           "output": [
             {
               "elements": {
-                "the_vault:t3_zombie": 10
+                "the_vault:t3_zombie": 10,
+                "the_vault:ore_hauler": 8
               },
               "weight": 1
             }
@@ -131,8 +132,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:vault_wraith_white": 1,
-                "the_vault:t0_cave_skeleton": 2
+                "the_vault:vault_wraith_white": 2,
+                "the_vault:t0_cave_skeleton": 4,
+                "the_vault:drip_lurker": 4
               },
               "weight": 1
             }
@@ -148,7 +150,8 @@
                 "the_vault:t0_cave_skeleton": 9,
                 "the_vault:t1_cave_skeleton": 6,
                 "the_vault:vault_wraith_white": 5,
-                "the_vault:vault_wraith_yellow": 1
+                "the_vault:vault_wraith_yellow": 1,
+                "the_vault:drip_lurker": 16
               },
               "weight": 1
             }
@@ -164,7 +167,8 @@
                 "the_vault:t2_cave_skeleton": 9,
                 "the_vault:t3_cave_skeleton": 6,
                 "the_vault:vault_wraith_white": 5,
-                "the_vault:vault_wraith_yellow": 1
+                "the_vault:vault_wraith_yellow": 1,
+                "the_vault:drip_lurker": 16
               },
               "weight": 1
             }
@@ -181,7 +185,8 @@
                 "the_vault:t3_cave_skeleton": 9,
                 "the_vault:t4_cave_skeleton": 4,
                 "the_vault:vault_wraith_white": 9,
-                "the_vault:vault_wraith_yellow": 1
+                "the_vault:vault_wraith_yellow": 1,
+                "the_vault:drip_lurker": 24
               },
               "weight": 1
             }
@@ -198,7 +203,8 @@
                 "the_vault:t4_cave_skeleton": 5,
                 "the_vault:t5_cave_skeleton": 3,
                 "the_vault:vault_wraith_white": 10,
-                "the_vault:vault_wraith_yellow": 1
+                "the_vault:vault_wraith_yellow": 1,
+                "the_vault:drip_lurker": 24
               },
               "weight": 1
             }

@@ -228,7 +228,8 @@
           "output": [
             {
               "elements": {
-                "minecraft:drowned": 1
+                "minecraft:drowned": 6,
+                "the_vault:barnacle_grunt": 4
               },
               "weight": 1
             }
@@ -241,8 +242,9 @@
           "output": [
             {
               "elements": {
-                "minecraft:drowned": 2,
-                "the_vault:t1_drowned": 1
+                "minecraft:drowned": 4,
+                "the_vault:t1_drowned": 2,
+                "the_vault:barnacle_grunt": 4
               },
               "weight": 1
             }
@@ -257,7 +259,8 @@
               "elements": {
                 "minecraft:drowned": 1,
                 "the_vault:t1_drowned": 3,
-                "the_vault:t2_drowned": 2
+                "the_vault:t2_drowned": 2,
+                "the_vault:barnacle_grunt": 4
               },
               "weight": 1
             }
@@ -270,8 +273,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:t1_drowned": 1,
-                "the_vault:t2_drowned": 1
+                "the_vault:t1_drowned": 3,
+                "the_vault:t2_drowned": 3,
+                "the_vault:barnacle_grunt": 4
               },
               "weight": 1
             }
@@ -284,8 +288,9 @@
           "output": [
             {
               "elements": {
-                "the_vault:t1_drowned": 1,
-                "the_vault:t2_drowned": 4
+                "the_vault:t1_drowned": 2,
+                "the_vault:t2_drowned": 8,
+                "the_vault:barnacle_grunt": 8
               },
               "weight": 1
             }
