@@ -1911,6 +1911,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/factory_mobs.json"
     },
     {
+      "id": "the_vault:generic/spawners/factory_void_mobs",
+      "name": "Factory Void Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/factory_void_mobs.json"
+    },
+    {
       "id": "the_vault:generic/spawners/haunted_mobs",
       "name": "Haunted Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/haunted_mobs.json"
