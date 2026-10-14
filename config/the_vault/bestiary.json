@@ -2847,11 +2847,11 @@
       "drops": []
     },
     {
-      "entityId": "the_vault:thornwarden",
+      "entityId": "the_vault:bramble_beast",
       "descriptionData": {
         "description": [
           {
-            "text": "Velara's champion, a bark knight guarding her grove. The bloom on his chest opens only for a moment, so strike it then. Jump his thorn rings and sidestep his thorn lines.",
+            "text": "Velara's champion, a great moss ape that sleeps in the Sunken Hollow. His bark shrugs off most blows; strike the flower on his chest when it opens, after his heaviest moves. Jump his bramble rings, sidestep his thorn lines, and break the seed blooms when he takes root.",
             "color": "$text"
           }
         ]
