@@ -745,6 +745,10 @@ file = "config/equipmentcompare-common.toml"
 hash = "703a5415b8cd2a127db4fb01b70883b306b9d3861cd74ec9bd2cf6ae5d676cb7"
 
 [[files]]
+file = "config/essential-mod-partner/hide_buttons.txt"
+hash = "22936c0270b06e6dbbb5b1ee7c389035ecfc1b342ee446e6829c361dbf40d791"
+
+[[files]]
 file = "config/everycomp-registry-1.toml.bak"
 hash = "565290ccd9238fa1ccbe10c2d3bbca192ec3e5b63afb8d7be82d2d30af6978ca"
 
@@ -15913,18 +15917,6 @@ file = "defaultconfigs/vaultfilters-server.toml"
 hash = "0ab2c18a6ef28de56d589b85365836865325f3709b838bc062bcca473523600f"
 
 [[files]]
-file = "fancymenu_data/buddy/buddy_leveling.json"
-hash = "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50"
-
-[[files]]
-file = "fancymenu_data/buddy/buddy_save.json"
-hash = "b87ab978abbfd3b1c17034d177aa5fc0ca2844f015d4ce4b47051dfbaf8a68fb"
-
-[[files]]
-file = "fancymenu_data/last_world.fmdata"
-hash = "8e00021e6a3cea3d885779bbe4e8d3f8a41c39de9ada68e7feaae5f98f98cb11"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
@@ -18828,7 +18820,7 @@ hash = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
-hash = "d67cd4304dee955f033d644484abf622ac02578345a8fc2bcaa843cdaf9472e1"
+hash = "9bebeff99ab416fdffb37a4fbeab26cd2f2be053c4da4d586ac0746694d7f303"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/loading_splash.png"
@@ -18856,7 +18848,7 @@ hash = "e68fbd18497fe493a76c154c4125365db60e55f70070ce31bae17123b3a4f8bf"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/vh_logo.png"
-hash = "895acdd1fc43e4b7e9c416853c7b1835b048c185adeb343040d7b1aaf38aaec0"
+hash = "72e0970d42956197be14bea49b8adc1f9efeda80d8faa14b9d502e44233845b1"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"
