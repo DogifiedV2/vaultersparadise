@@ -10889,6 +10889,14 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/herald.nbt"
 hash = "d8f009ccb57ee019b0b222d42657b9db70cb5b37d458fa23708af801acb5fa83"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/idona_ravine.nbt"
+hash = "ec2eff4ed3e0295f142b6bde26c759fad7677ce0f85cdbb76656c97f0a3c5580"
+
+[[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/idona_ravine_exit.nbt"
+hash = "8cc103f798e52c26466013a252723ce9ec99acd6db55ab00ad433e9d6d6a2b65"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/personal_vault_start1.nbt"
 hash = "1a4758ca5b0005143e87e1b77a9ced03f4a51b9ecf52487c112ea84454089b59"
 
@@ -14989,6 +14997,10 @@ file = "config/the_vault/gen/1.0/themes/classic_vault_idona_normal.json"
 hash = "acab697db55c031e5e2a27b9227e068211934c280f68d7c43bf806ac9744b92a"
 
 [[files]]
+file = "config/the_vault/gen/1.0/themes/classic_vault_idona_ravine.json"
+hash = "1da3d718b71fa4c56ad01a4ef0237ae52734f943e48ffef2aee39fa18754bd8d"
+
+[[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_intermediary.json"
 hash = "f0d326ffb1373f8eb8dea01f397da8185a7e4122820b6e2c52aad1900fff05f4"
 
@@ -15282,11 +15294,11 @@ hash = "2aa28fd3588562f8769dbc813831835b12eaeca95248e302b5638600a74f2b4d"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "6a70f8bfcc71ae8330913d73c258232caea37995b8d5473ebea9e9249a6363fc"
+hash = "a0cdadb646c7a34a8bbec0583648825b2fa34d4ce0d68742e774a8852880e1a0"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "ebb4ebc50e25238d121070cc65db1841a2707b2aad1840b81d4421a624d4e5b0"
+hash = "15bcf1197128bbdab0a0c5bde4251d483c5003a1b6b6e489d3011fa07a15761d"
 
 [[files]]
 file = "config/the_vault/god_shop.json"

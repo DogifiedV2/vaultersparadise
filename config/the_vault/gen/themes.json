@@ -491,6 +491,12 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_pumpking_hollow_court.json"
     },
     {
+      "id": "the_vault:classic_vault_idona_ravine",
+      "name": "Idona's Blood Ravine",
+      "color": 12854330,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_idona_ravine.json"
+    },
+    {
       "id": "the_vault:classic_vault_chaos_cake",
       "name": "Cake",
       "color": 16761049,
