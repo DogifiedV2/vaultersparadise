@@ -184,40 +184,6 @@
     },
     {
       "modIds": [
-        "colossalchests"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Colossal Chests",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
-        "storagenetwork"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": true
-        }
-      },
-      "name": "Simple Storage Network",
-      "cost": 1,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "waystones"
       ],
       "restrictions": {
@@ -355,29 +321,6 @@
       "name": "Drawers",
       "cost": 1,
       "usesKnowledge": true
-    },
-    {
-      "modIds": [
-        "refinedstorage"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": false,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Refined Storage",
-      "cost": 2,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/arcade/helmet",
-        "the_vault:gear/armor/arcade/chestplate",
-        "the_vault:gear/armor/arcade/leggings",
-        "the_vault:gear/armor/arcade/boots"
-      ]
     },
     {
       "modIds": [
@@ -885,13 +828,6 @@
             "CRAFTABILITY": true
           }
         },
-        "refinedstorage:pattern_grid": {
-          "restricts": {
-            "USABILITY": true,
-            "HITTABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
         "ae2:pattern_encoding_terminal": {
           "restricts": {
             "USABILITY": true,
@@ -917,13 +853,6 @@
           "restricts": {
             "USABILITY": true,
             "HITTABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "refinedstorage:crafter": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
             "CRAFTABILITY": true
           }
         },
@@ -970,13 +899,6 @@
           }
         },
         "ae2:blank_pattern": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-          }
-        },
-        "refinedstorage:pattern": {
           "restricts": {
             "HITTABILITY": true,
             "USABILITY": true,

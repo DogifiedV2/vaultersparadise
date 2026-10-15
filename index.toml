@@ -661,14 +661,6 @@ file = "config/cofh_core-common.toml"
 hash = "a9c6ee5c60e634126d5b5b462f088a943beb73f6a0afc62570c59499b98a9a0f"
 
 [[files]]
-file = "config/colossalchests-client.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
-file = "config/colossalchests-common.toml"
-hash = "573cc009a63053df5f2e91be347a4c55980738dbce77c140daf9a4115c828585"
-
-[[files]]
 file = "config/compressiumblocks.json"
 hash = "f0910f44e3a98eaa2effdef12a983e4e8108ef293c4a0425bb042b0038324ede"
 
@@ -1097,20 +1089,12 @@ file = "config/quark-common.toml"
 hash = "9aa131c192e821f7c2057e394987b1c84d003148424d6eb38cafb7fe7b37125b"
 
 [[files]]
-file = "config/refinedstorage-client.toml"
-hash = "fd1f877e3c69df8662b8ffa2bd922c80da850ad1ae033591c36480c72b2a9f33"
-
-[[files]]
 file = "config/rftoolsbase-common.toml"
 hash = "240001630dd91cdce080f0e4591a2b763d622b390b6b56d456f550aeb33e3952"
 
 [[files]]
 file = "config/rottencreatures-common.toml"
 hash = "47a7f8de299fd932bfa3107a807e8ea58cf8242d1a07c643604878db4c33c3f7"
-
-[[files]]
-file = "config/rsrequestify-common.toml"
-hash = "a460e7aa50ab78ff36f6742b870ebc4e184911fc646b415c4fa49ded57ba8ea8"
 
 [[files]]
 file = "config/serverconfigupdater-common.toml"
@@ -1163,10 +1147,6 @@ hash = "408d6e9ab08e514d6d1e72aaf818afe26a62cf379057c203db0176c96af4d9ad"
 [[files]]
 file = "config/storagedrawers-common.toml"
 hash = "aa1df9f5e3ab71d866606bb49b1e1c50de77449c9e73056b413f91b454bed296"
-
-[[files]]
-file = "config/storagenetwork.toml"
-hash = "b6225d474f29ea801ce73c71902733f0a8022c4fbb966c71782f6b48a8314afc"
 
 [[files]]
 file = "config/supplementaries-client-1.toml.bak"
@@ -15230,7 +15210,7 @@ hash = "37d6c746bce0052d73f444e4ad09b32aa29411f29c514b266cbe19db0b6a1053"
 
 [[files]]
 file = "config/the_vault/mod_box.json"
-hash = "7ca056520bc76ba35116ec211364434acbab45bcb0a7f4b4367838b8036a862c"
+hash = "91e1801952f48aed01939624be26584ddf3ea18f29073afb9913e7af893c9dcd"
 
 [[files]]
 file = "config/the_vault/modifier_groups.json"
@@ -15382,7 +15362,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "705fa2640bacd7b0b94fc6b18bb171e2b10f1bbe607e38840e823c7c25a89275"
+hash = "a916643d9ce0adae0768480a53fb31b0da140f324b449db743ccfc04a99b0a85"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -15614,7 +15594,7 @@ hash = "5057da8c4efc3d43f67d92e18216ad6564f043738fb9ceeaff318bb01675375b"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "612621d45590a075eb4f4f4eb6c54eaac7126b368b9b3701a6df5ec9d3dec7a5"
+hash = "330b5922996ab1f892d6e453b992aac897694f60f3db924749101a4f6a014d29"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
@@ -17797,10 +17777,6 @@ file = "mods/Clumps-forge-1.18.2-8.0.0+17.jar"
 hash = "8e5586c4f85f7dafab0942933de124e232f5368d2745bf2d17bc06b5054654fa"
 
 [[files]]
-file = "mods/ColossalChests-1.18.2-1.9.0.jar"
-hash = "b8d80fde78ec8837ef4ef7f0207547b497c79c70a81d6f1d2ae4e98a67885e90"
-
-[[files]]
 file = "mods/CommonCapabilities-1.18.2-2.9.1.jar"
 hash = "5bc633f9b79834b03aa254b62e4d5a5a4b968bb586abdb853f11ee170e827252"
 
@@ -18543,14 +18519,6 @@ file = "mods/rechiseledcreate-1.0.2-forge-mc1.18.jar"
 hash = "c3ded56f8353767148d08a54d9008c87707be02f1813407a3c4783e73cb9d057"
 
 [[files]]
-file = "mods/refinedstorage-1.10.6.jar"
-hash = "92157fdaa3e0f4541ff020f1721408167e453cbb4ff50c966ceeece970867512"
-
-[[files]]
-file = "mods/refinedstorageaddons-0.8.2.jar"
-hash = "87bb2fef3ddfaada6af5086cb7c4cf9429af5b9ca6f2417eaf928df3bba93828"
-
-[[files]]
 file = "mods/rftoolsbase-1.18-3.0.12.jar"
 hash = "bf3bc751aa624a0ac8a7d0e850fb95e2a59fa53a7f9fab327da2ddd2e61f2faf"
 
@@ -18561,10 +18529,6 @@ hash = "72c08867dabd2bb863753b4ac4afb0fbb08931ac51f5241b044fa51d0236f4f2"
 [[files]]
 file = "mods/rottencreatures-forge-1.18.2-1.0.0.jar"
 hash = "ed5527b56b53a461b247a9600651aefc5a1b7237dfeaf6b4b8ed19febaa90486"
-
-[[files]]
-file = "mods/rsrequestify-2.2.0.jar"
-hash = "3d0defb3171d39101bf7c2bfbf117579daa53e2ba8df030c37b3634a8c2a9578"
 
 [[files]]
 file = "mods/saturn-mc1.18.2-0.1.5.jar"
@@ -18730,8 +18694,8 @@ file = "mods/vaultfruitbag-1.0.1.jar"
 hash = "2f9b6cecd93c3d2f2490071067771f5c7d352cad31132b4025399a90cb6e4224"
 
 [[files]]
-file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
-hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
+file = "mods/vaultintegrations-1.18.2-1.0.19-paradise.jar"
+hash = "1d7f872ace9dfe882d846f2fd31a4a7705214178f7ae03a83676203b369492c6"
 
 [[files]]
 file = "mods/vh-hitman-0.3.3.jar"
@@ -19120,7 +19084,7 @@ hash = "9e89a3abb726d8cbcd06ef44fae66bc93bf38822134d82f60784b596d55bb2dd"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "88c810352a4bb9855f6ff995a82427335c79458d47b55157bf1d78b172dbe0b1"
+hash = "d16642a28ddae2ade0805b85360d2f6b36cb6a31543f67113e1bdf23db9928c6"
 
 [[files]]
 file = "scripts/Backpacks.zs"
@@ -19141,10 +19105,6 @@ hash = "fb9fe31bcad41e1634fdee388ba07c42b5e23d6b699e3603d00e3274e228848f"
 [[files]]
 file = "scripts/Cagerium.zs"
 hash = "8625ffaf2f6082b0a154049a2f4e3a665b74cce7ab1e447acee0ae3d3c59f451"
-
-[[files]]
-file = "scripts/CollosalChests.zs"
-hash = "4267a5f716a6976fc6329c837dfb09491650c5c7ceaa358782a408ca6d770181"
 
 [[files]]
 file = "scripts/Compressium.zs"
@@ -19219,10 +19179,6 @@ file = "scripts/RFTools.zs"
 hash = "a941f2756f80f8a2c92d3a645c21a306c303c37731c2e1561571593bf8b226ca"
 
 [[files]]
-file = "scripts/RefinedStorage.zs"
-hash = "b32bbac396c983c7844806dbad2c782e06e031b659fb3a6e44f739eb9685d543"
-
-[[files]]
 file = "scripts/Routers.zs"
 hash = "97cf6ceb4b27f371def0dbe6cc2a69cf5f3f83b95c2d65abe713d50ae8bc33b9"
 
@@ -19264,7 +19220,7 @@ hash = "e9ebbae73c509d2beb23a3868704ffd8a4179a993bdc5ac4e855e4ce192256ac"
 
 [[files]]
 file = "scripts/ae2.zs"
-hash = "618e061281d957dce67b1973a016a139d826ac1cc4f55eeca1216a31ddc70680"
+hash = "67e431e4b46b2919b388bf1bc90ff3a28cb262935e24885bf396a5ca7e2270c8"
 
 [[files]]
 file = "scripts/alexsmobs.zs"
