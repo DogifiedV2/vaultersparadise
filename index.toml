@@ -1285,10 +1285,6 @@ file = "config/the_vault/augment_station.json"
 hash = "61c8f003484c4055d5c4ce3472c7a396f55301aa65fe62b2ac3b9d3ce2f813ab"
 
 [[files]]
-file = "config/the_vault/bestiary.json"
-hash = "c789195dca6b9f0a0cfd83fb395893ad32e709d1f25f4c05318c16ca1ebc58cf"
-
-[[files]]
 file = "config/the_vault/bingo.json"
 hash = "b0905508059b8e01cbc44fdcdc39ef8806a9af93da5af9ab47884c7f1fa317d5"
 
@@ -18669,7 +18665,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "65db0b8a3cfa67def92ce43bcafa756b024603e4ba5423878544d59919d992bf"
+hash = "2e51be9e87cb6ff152b333ba3c6157a3f784f81abdff6e398272a81a4a4a53a0"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
