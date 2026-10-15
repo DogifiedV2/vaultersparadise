@@ -19087,6 +19087,10 @@ file = "scripts/00_remove_recipes.zs"
 hash = "d16642a28ddae2ade0805b85360d2f6b36cb6a31543f67113e1bdf23db9928c6"
 
 [[files]]
+file = "scripts/AdvancedPeripherals.zs"
+hash = "b82b95264e358c70f6fb696b5098c1a61c5ca2a38b52eb8135e6a6111eaf635e"
+
+[[files]]
 file = "scripts/Backpacks.zs"
 hash = "70c2bbe6be4c499ea89b3654051e03a68dd2b0beb61f9dbc10973ee398d68816"
 
@@ -19109,6 +19113,10 @@ hash = "8625ffaf2f6082b0a154049a2f4e3a665b74cce7ab1e447acee0ae3d3c59f451"
 [[files]]
 file = "scripts/Compressium.zs"
 hash = "e56018e3beddcfb218040ee64308f57cf5f1e1de6e1ebacfed355d311161b14e"
+
+[[files]]
+file = "scripts/ComputerCraft.zs"
+hash = "faa58c9c990b208076fb11772ab7db873c856aef93ef33202d7cc391835c40a7"
 
 [[files]]
 file = "scripts/Cooking.zs"
