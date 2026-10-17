@@ -2,14 +2,8 @@
   "upgrades": [
     {
       "upgrade": "CAKE_GALORE",
-      "maxLevel": 10,
+      "maxLevel": 4,
       "insightCosts": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -18,14 +12,8 @@
     },
     {
       "upgrade": "CHOCOLATE_FLAVOR",
-      "maxLevel": 10,
+      "maxLevel": 4,
       "insightCosts": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -34,14 +22,8 @@
     },
     {
       "upgrade": "STRAWBERRY_FLAVOR",
-      "maxLevel": 10,
+      "maxLevel": 4,
       "insightCosts": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         1,
         1,
@@ -50,9 +32,8 @@
     },
     {
       "upgrade": "GOLDEN_CAKES",
-      "maxLevel": 5,
+      "maxLevel": 4,
       "insightCosts": [
-        1,
         1,
         1,
         1,
@@ -67,23 +48,92 @@
       ]
     },
     {
+      "upgrade": "CHALLENGE_SENSE",
+      "maxLevel": 3,
+      "insightCosts": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "OMEGA_SENSE",
+      "maxLevel": 3,
+      "insightCosts": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "TRAP_SENSE",
+      "maxLevel": 3,
+      "insightCosts": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "VENDOR_FORTUNE",
+      "maxLevel": 2,
+      "insightCosts": [
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "DUNGEON_FORTUNE",
+      "maxLevel": 2,
+      "insightCosts": [
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "TREASURE_FORTUNE",
+      "maxLevel": 2,
+      "insightCosts": [
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "MODIFIER_KNOWLEDGE",
+      "maxLevel": 1,
+      "insightCosts": [
+        1
+      ]
+    },
+    {
+      "upgrade": "PRISMATIC",
+      "maxLevel": 1,
+      "insightCosts": [
+        1
+      ]
+    },
+    {
+      "upgrade": "LONG_BREATH",
+      "maxLevel": 3,
+      "insightCosts": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "REPUTATION_BOOST",
+      "maxLevel": 5,
+      "insightCosts": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
       "upgrade": "MORE_EMBERS",
-      "maxLevel": 10,
-      "insightCosts": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ]
-    },
-    {
-      "upgrade": "CHALLENGE_FORTUNE",
       "maxLevel": 4,
       "insightCosts": [
         1,
@@ -93,7 +143,46 @@
       ]
     },
     {
-      "upgrade": "OMEGA_FORTUNE",
+      "upgrade": "OBJECTIVE_CHOICE",
+      "maxLevel": 1,
+      "insightCosts": [
+        1
+      ]
+    },
+    {
+      "upgrade": "BINGO_SQUARE",
+      "maxLevel": 1,
+      "insightCosts": [
+        1
+      ]
+    },
+    {
+      "upgrade": "HAGGLER",
+      "maxLevel": 3,
+      "insightCosts": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "BLACK_MARKET_HAGGLER",
+      "maxLevel": 3,
+      "insightCosts": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "upgrade": "EXTRA_STOCK",
+      "maxLevel": 1,
+      "insightCosts": [
+        1
+      ]
+    },
+    {
+      "upgrade": "COIN_FORTUNE",
       "maxLevel": 4,
       "insightCosts": [
         1,
@@ -103,7 +192,7 @@
       ]
     },
     {
-      "upgrade": "BINGO",
+      "upgrade": "SHARD_FORTUNE",
       "maxLevel": 4,
       "insightCosts": [
         1,
@@ -113,22 +202,18 @@
       ]
     },
     {
-      "upgrade": "ELIXIR",
-      "maxLevel": 4,
+      "upgrade": "ALTAR_DISCOUNT",
+      "maxLevel": 3,
       "insightCosts": [
-        1,
         1,
         1,
         1
       ]
     },
     {
-      "upgrade": "SCAVENGER",
-      "maxLevel": 4,
+      "upgrade": "ALTAR_REROLL",
+      "maxLevel": 1,
       "insightCosts": [
-        1,
-        1,
-        1,
         1
       ]
     },
@@ -152,9 +237,8 @@
     },
     {
       "upgrade": "TRUE_SCAVENGER",
-      "maxLevel": 5,
+      "maxLevel": 4,
       "insightCosts": [
-        1,
         1,
         1,
         1,
@@ -273,19 +357,30 @@
       ]
     }
   ],
-  "cakeGalorePercentPerLevel": 10.0,
-  "chocolateChancePercentPerLevel": 1.0,
-  "strawberryChancePercentPerLevel": 1.0,
+  "cakeGalorePercentPerLevel": 25.0,
+  "chocolateChancePercentPerLevel": 2.5,
+  "strawberryChancePercentPerLevel": 2.5,
   "goldenCakeChancePercentPerLevel": 0.5,
   "fruityChancePercent": 10.0,
-  "fruityTimeSeconds": 30,
-  "emberBonusPercentPerLevel": 5.0,
+  "challengeSenseRoomsPerLevel": 1,
+  "omegaSenseRoomsPerLevel": 1,
+  "doorFortunePercentPerLevel": 25.0,
+  "modifierKnowledgeChancePercent": 25.0,
+  "prismaticChanceMultiplier": 2.0,
+  "longBreathSecondsPerLevel": 30,
+  "reputationBoostChancePercentPerLevel": 20.0,
+  "emberBonusPercentPerLevel": 25.0,
   "challengeFortunePercentPerLevel": 50.0,
   "omegaFortunePercentPerLevel": 50.0,
   "ascensionObjectiveChancePercentPerLevel": 20.0,
+  "vendorDiscountPercentPerLevel": 10.0,
+  "blackMarketDiscountPercentPerLevel": 10.0,
+  "coinFortunePercentPerLevel": 25.0,
+  "shardFortunePercentPerLevel": 25.0,
+  "altarDiscountPercentPerLevel": 10.0,
   "rareRewardBonusPerLevel": 0.25,
   "greedCoinBonusPercentPerLevel": 10.0,
-  "greedObjectiveItemBonusPercentPerLevel": 20.0,
+  "greedObjectiveItemBonusPercentPerLevel": 25.0,
   "greedCooldownReductionSecondsPerLevel": 3600,
   "personalVaultCooldownReductionSecondsPerLevel": 21600,
   "companionBundleSlotsPerLevel": 1,
