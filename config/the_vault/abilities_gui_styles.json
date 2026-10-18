@@ -81,7 +81,6 @@
         }
       }
     },
-
     "Nova": {
       "x": 455,
       "y": -50,
@@ -97,15 +96,6 @@
         }
       }
     },
-    "Legacy_Mana_Shield": {
-      "x": 525,
-      "y": 100,
-      "specializationStyles": {
-        "Legacy_Mana_Shield_Base": {
-          "icon": "the_vault:gui/abilities/mana_shield"
-        }
-      }
-    },
     "Mana_Shield": {
       "x": 490,
       "y": 100,
@@ -116,7 +106,6 @@
         "Mana_Barrier": {
           "icon": "the_vault:gui/abilities/mana_barrier"
         }
-
       }
     },
     "Implode": {
@@ -129,7 +118,6 @@
         "Implode_Life_Tap": {
           "icon": "the_vault:gui/abilities/life_tap"
         }
-
       }
     },
     "Retribution": {
@@ -142,7 +130,6 @@
         "Mana_Shield_Retribution": {
           "icon": "the_vault:gui/abilities/shield_bash_retribution"
         }
-
       }
     },
     "Heal": {
@@ -238,7 +225,6 @@
         }
       }
     },
-
     "Javelin": {
       "x": 35,
       "y": -50,
@@ -252,7 +238,6 @@
         "Javelin_Scatter": {
           "icon": "the_vault:gui/abilities/javelin_scatter"
         }
-
       }
     },
     "Smite": {
@@ -346,7 +331,6 @@
         "Arcane_Rail": {
           "icon": "the_vault:gui/abilities/arcane_rail"
         }
-
       }
     },
     "Chain_Lightning": {
@@ -371,7 +355,6 @@
         "Earthquake_Landmine": {
           "icon": "the_vault:gui/abilities/landmine"
         }
-
       }
     },
     "Grenade": {
@@ -384,10 +367,8 @@
         "Toxic_Grenade": {
           "icon": "the_vault:gui/abilities/toxic_grenade"
         }
-
       }
     },
-
     "Blade_Frenzy": {
       "x": 70,
       "y": -50,

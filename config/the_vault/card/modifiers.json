@@ -1317,7 +1317,6 @@
       ],
       "maxTier": 5
     },
-
     "amp_attack_damage": {
       "type": "gear",
       "name": {
@@ -2623,9 +2622,6 @@
       ],
       "maxTier": 5
     },
-
-
-
     "rampage": {
       "type": "gear",
       "name": {
@@ -2846,7 +2842,6 @@
       ],
       "maxTier": 1
     },
-
     "shell": {
       "type": "gear",
       "name": {
@@ -3187,7 +3182,6 @@
       ],
       "maxTier": 1
     },
-
     "nova": {
       "type": "gear",
       "name": {
@@ -3508,7 +3502,6 @@
       ],
       "maxTier": 1
     },
-
     "vein_miner": {
       "type": "gear",
       "name": {
@@ -4049,29 +4042,6 @@
       ],
       "maxTier": 1
     },
-    "legacy_mana_shield": {
-      "type": "gear",
-      "name": {
-        "text": "Mana Shield [Legacy] Card"
-      },
-      "model": "the_vault:card/icon/mana_shield#inventory",
-      "groups": [
-        "Arcane",
-        "Utility"
-      ],
-      "attribute": "the_vault:added_ability_level",
-      "pool": [
-        {
-          "tier": 1,
-          "abilityKey": "Legacy_Mana_Shield_Base",
-          "levelChange": 1
-        }
-      ],
-      "maxTier": 1
-    },
-
-
-
     "temporal_charm": {
       "type": "gear",
       "name": {
@@ -4276,7 +4246,6 @@
       ],
       "maxTier": 1
     },
-
     "resource_blackopal": {
       "type": "task_loot",
       "name": {
@@ -4354,7 +4323,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Key Piece ",
+          "text": " Key Piece ",
           "color": "yellow"
         },
         {
@@ -4403,7 +4372,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Larimar ",
+          "text": " Larimar ",
           "color": "yellow"
         },
         {
@@ -4451,7 +4420,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Benitoite ",
+          "text": " Benitoite ",
           "color": "yellow"
         },
         {
@@ -4499,7 +4468,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Alexandrite ",
+          "text": " Alexandrite ",
           "color": "yellow"
         },
         {
@@ -4547,7 +4516,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Black Opal ",
+          "text": " Black Opal ",
           "color": "yellow"
         },
         {
@@ -4595,7 +4564,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Echo Gem ",
+          "text": " Echo Gem ",
           "color": "yellow"
         },
         {
@@ -4643,7 +4612,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Painite ",
+          "text": " Painite ",
           "color": "yellow"
         },
         {
@@ -4691,7 +4660,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Iskallium ",
+          "text": " Iskallium ",
           "color": "yellow"
         },
         {
@@ -4739,7 +4708,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Gorginite ",
+          "text": " Gorginite ",
           "color": "yellow"
         },
         {
@@ -4787,7 +4756,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Sparkletine ",
+          "text": " Sparkletine ",
           "color": "yellow"
         },
         {
@@ -4835,7 +4804,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Ashium ",
+          "text": " Ashium ",
           "color": "yellow"
         },
         {
@@ -4883,7 +4852,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Bomignite ",
+          "text": " Bomignite ",
           "color": "yellow"
         },
         {
@@ -4931,7 +4900,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Tubium ",
+          "text": " Tubium ",
           "color": "yellow"
         },
         {
@@ -4979,7 +4948,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Upaline ",
+          "text": " Upaline ",
           "color": "yellow"
         },
         {
@@ -5027,7 +4996,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Petezanite ",
+          "text": " Petezanite ",
           "color": "yellow"
         },
         {
@@ -5075,7 +5044,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Xeenium ",
+          "text": " Xeenium ",
           "color": "yellow"
         },
         {
@@ -5085,7 +5054,6 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
-
     "resource_bronze": {
       "type": "task_loot",
       "name": {
@@ -5124,7 +5092,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Vault Bronze ",
+          "text": " Vault Bronze ",
           "color": "yellow"
         },
         {
@@ -5173,7 +5141,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Vault Silver ",
+          "text": " Vault Silver ",
           "color": "yellow"
         },
         {
@@ -5222,7 +5190,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Vault Gold ",
+          "text": " Vault Gold ",
           "color": "yellow"
         },
         {
@@ -5270,7 +5238,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Vault Platinum ",
+          "text": " Vault Platinum ",
           "color": "yellow"
         },
         {
@@ -5319,7 +5287,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Waning Focus ",
+          "text": " Waning Focus ",
           "color": "yellow"
         },
         {
@@ -5367,7 +5335,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Waxing Focus ",
+          "text": " Waxing Focus ",
           "color": "yellow"
         },
         {
@@ -5415,7 +5383,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Fundamental Focus ",
+          "text": " Fundamental Focus ",
           "color": "yellow"
         },
         {
@@ -5463,7 +5431,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Chaotic Focus ",
+          "text": " Chaotic Focus ",
           "color": "yellow"
         },
         {
@@ -5511,7 +5479,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Vault Diamond ",
+          "text": " Vault Diamond ",
           "color": "yellow"
         },
         {
@@ -5559,7 +5527,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Mod Box ",
+          "text": " Mod Box ",
           "color": "yellow"
         },
         {
@@ -5607,7 +5575,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Raw Chromatic Iron ",
+          "text": " Raw Chromatic Iron ",
           "color": "yellow"
         },
         {
@@ -5655,7 +5623,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Carbon ",
+          "text": " Carbon ",
           "color": "yellow"
         },
         {
@@ -5703,7 +5671,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Mystery Egg ",
+          "text": " Mystery Egg ",
           "color": "yellow"
         },
         {
@@ -5751,7 +5719,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Hostile Mystery Egg ",
+          "text": " Hostile Mystery Egg ",
           "color": "yellow"
         },
         {
@@ -5799,7 +5767,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Vault Plating ",
+          "text": " Vault Plating ",
           "color": "yellow"
         },
         {
@@ -5847,7 +5815,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Catalyst Fragment ",
+          "text": " Catalyst Fragment ",
           "color": "yellow"
         },
         {
@@ -5896,7 +5864,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Juicy Grapes ",
+          "text": " Juicy Grapes ",
           "color": "yellow"
         },
         {
@@ -5944,7 +5912,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Bitter Lemon ",
+          "text": " Bitter Lemon ",
           "color": "yellow"
         },
         {
@@ -5992,7 +5960,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Ripe Mango ",
+          "text": " Ripe Mango ",
           "color": "yellow"
         },
         {
@@ -6040,7 +6008,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Sour Orange ",
+          "text": " Sour Orange ",
           "color": "yellow"
         },
         {
@@ -6088,7 +6056,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Star Fruit ",
+          "text": " Star Fruit ",
           "color": "yellow"
         },
         {
@@ -6136,7 +6104,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Inscription Piece ",
+          "text": " Inscription Piece ",
           "color": "yellow"
         },
         {
@@ -6184,7 +6152,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Chromatic Iron Ingot ",
+          "text": " Chromatic Iron Ingot ",
           "color": "yellow"
         },
         {
@@ -6232,7 +6200,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Chromatic Steel Ingot ",
+          "text": " Chromatic Steel Ingot ",
           "color": "yellow"
         },
         {
@@ -6280,7 +6248,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Chromatic Gold Ingot ",
+          "text": " Chromatic Gold Ingot ",
           "color": "yellow"
         },
         {
@@ -6328,7 +6296,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Faceted Focus ",
+          "text": " Faceted Focus ",
           "color": "yellow"
         },
         {
@@ -6376,7 +6344,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Cryonic Focus ",
+          "text": " Cryonic Focus ",
           "color": "yellow"
         },
         {
@@ -6424,7 +6392,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Empowered Chaotic Focus ",
+          "text": " Empowered Chaotic Focus ",
           "color": "yellow"
         },
         {
@@ -6472,7 +6440,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Pyretic Focus ",
+          "text": " Pyretic Focus ",
           "color": "yellow"
         },
         {
@@ -6520,7 +6488,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Vorpal Focus ",
+          "text": " Vorpal Focus ",
           "color": "yellow"
         },
         {
@@ -6568,7 +6536,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Burger Chili ",
+          "text": " Burger Chili ",
           "color": "yellow"
         },
         {
@@ -6616,7 +6584,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Arena Statue ",
+          "text": " Arena Statue ",
           "color": "yellow"
         },
         {
@@ -6664,7 +6632,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Mega Gift Statue ",
+          "text": " Mega Gift Statue ",
           "color": "yellow"
         },
         {
@@ -6712,7 +6680,7 @@
           "color": "#FFFFFF"
         },
         {
-          "text":  " Driftwood ",
+          "text": " Driftwood ",
           "color": "yellow"
         },
         {
@@ -6722,7 +6690,6 @@
       "highlightColor": "0x00FF00",
       "maxTier": 1
     },
-
     "wild_base": {
       "type": "dummy",
       "name": {
@@ -7010,7 +6977,6 @@
       ],
       "maxTier": 1
     },
-
     "intelligence": {
       "type": "gear",
       "name": {
@@ -9140,10 +9106,6 @@
       },
       {
         "value": "mana_barrier",
-        "weight": 1.0
-      },
-      {
-        "value": "legacy_mana_shield",
         "weight": 1.0
       },
       {

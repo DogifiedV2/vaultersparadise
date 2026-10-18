@@ -1174,11 +1174,11 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "b03036f2fe5e62bf302a9a82521c0e9c7306a99870cf663157802a54c2407701"
+hash = "622859a85895e8df3c222d3a805ad9981b79cbdef2fd6d7884a1ff5ddb0827de"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "031be8261d9bb50a6f80ebb1547e8f02e3bd8da9b01e9f7d72d064a01b15283a"
+hash = "e349e67e3a2ca0cb6b9107697a7743d2aec651198c45f947e77a21770f9492fe"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -1190,7 +1190,7 @@ hash = "fadc74a84a946b7bd1b977e02e65d666756eb9a2b2695ceaac9e5ed487e26759"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "9d373471d2335f28271af2d6de0239941c92aa5cb5c07c7cf03727c5eb5afb68"
+hash = "28a181f036f3287c0da0b6ac0477c59dbf6d47c3a20038c2fc40ea1e98e42d4c"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -1406,7 +1406,7 @@ hash = "b081a3508ec46d71cc3ae599881410dcacf2eb2d3fc7ead5917fd6061e9f1a65"
 
 [[files]]
 file = "config/the_vault/card/modifiers.json"
-hash = "9b523e8191939243d9bcd99500ab8c2d0bc5d0886171a026b0501630b0554bce"
+hash = "c9e82ed06a646f0f223070291247e91e5c14b4e90e19c24bcec62d55afdc0db1"
 
 [[files]]
 file = "config/the_vault/card/scalers.json"
@@ -1610,7 +1610,7 @@ hash = "d321178cf6383a7f080077fe40f530e1ee9bbe10bd15c57c30571e972fd1f3c2"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
-hash = "acec15548dbd7678927cad5e45a7963d6bfa26dc971774716acf2bccd4d7a427"
+hash = "f139c73efc24ca11acf589722efd167c824d4dbaad3c3a100800b623d89b3f06"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
@@ -1662,7 +1662,7 @@ hash = "866ea5dbbaec8a9fe37ec5d7f49b20203d7c5fe35b895cde317a3604b307f803"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/loot_sack.json"
-hash = "c98e3d9c29d3a97d1e5a5d95b400ed66b1fc2302b3df6ae97944ddbae082dfdc"
+hash = "ef2e7cbe7bee19b39febc0523ee4ab07ca2ebd659c72370423a387243f9a24de"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/magnet.json"
@@ -1670,11 +1670,11 @@ hash = "88b37554d7f480c9435e289f7ea8b7afdf44317f2f251b16024840db82cc5051"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/plushie.json"
-hash = "892ba5295e8d75d28e4cc40dd9d55c6b78ea62721e105aa456c6fa918eec0dce"
+hash = "cb89146cd1516914c425fd717cad76df5a75e3bc52a3e0fbb237ac82a925a6fe"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/rang.json"
-hash = "8f81d425142ae44e1cb9d0168e46ac7be9b7aba59ebbb11ddaa1026c1226e820"
+hash = "a8f3c421b381c664bb8ef62f8e45d030e3cc5af41a151a36fcd1b883bf6e5166"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
@@ -1686,7 +1686,7 @@ hash = "89729415f7c0bd54dbc36c66b0959ad759e467b03e78dc6e32588b1ea4a38127"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
-hash = "332855a91b55693f8bf827cfa0fdaa2bcf9cbd471288d5f8f15b19c9cdf93715"
+hash = "e1d432cc045c684d6b4c4808d08bd1a5ddda7cb565f20e59d0472df24df70645"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -1698,7 +1698,7 @@ hash = "e0646921a78b740d21147c1c9569a419c52107545c5d838a1b3ff1d425a99c56"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/vault_necklace.json"
-hash = "c1489bcaacc92445f7cdc708b292c4fedbfbc825bf7c4f29de9a513be37fb817"
+hash = "d8eba6efb87941b315352145c00642e3448c8749027fc5a56563496874bc0ea0"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/void_stone.json"
