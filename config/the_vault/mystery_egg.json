@@ -162,14 +162,6 @@
     },
     {
       "value": {
-        "id": "minecraft:bat_spawn_egg",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 4
-    },
-    {
-      "value": {
         "id": "minecraft:parrot_spawn_egg",
         "amountMin": 1,
         "amountMax": 1

@@ -570,6 +570,9 @@
           "ENTITY_INTERACTABILITY": false
         }
       },
+      "exemptIds": [
+        "create:attribute_filter"
+      ],
       "name": "Create",
       "cost": 6,
       "usesKnowledge": true,
