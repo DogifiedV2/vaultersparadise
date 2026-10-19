@@ -89,6 +89,16 @@
       "boxWidth": 170,
       "boxHeight": 110,
       "icon": "the_vault:gui/objective_upgrades/category_tower"
+    },
+    "COMPASS": {
+      "group": "Compass",
+      "headerColor": -9741778,
+      "headerTextColor": -1,
+      "x": 0,
+      "y": 390,
+      "boxWidth": 170,
+      "boxHeight": 152,
+      "icon": "the_vault:gui/objective_upgrades/category_compass"
     }
   },
   "styles": {
@@ -331,6 +341,54 @@
       "y": 342,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/tower_fortune"
+    },
+    "COMPASS_COMPANION_EGG": {
+      "x": 35,
+      "y": 430,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/compass_companion_egg"
+    },
+    "COMPASS_TREASURE_DOOR": {
+      "x": 85,
+      "y": 430,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/compass_treasure_door"
+    },
+    "COMPASS_DUNGEON_DOOR": {
+      "x": 135,
+      "y": 430,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/compass_dungeon_door"
+    },
+    "COMPASS_VENDOOR": {
+      "x": 35,
+      "y": 472,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/compass_vendoor"
+    },
+    "COMPASS_GOD_ALTAR": {
+      "x": 85,
+      "y": 472,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/compass_god_altar"
+    },
+    "COMPASS_OBJECTIVE_PILLAR": {
+      "x": 135,
+      "y": 472,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/compass_objective_pillar"
+    },
+    "COMPASS_ORE_ROOM": {
+      "x": 60,
+      "y": 514,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/compass_ore_room"
+    },
+    "COMPASS_CHALLENGE_ROOM": {
+      "x": 110,
+      "y": 514,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/compass_challenge_room"
     }
   },
   "effectColors": {
@@ -373,6 +431,14 @@
     "RELENTLESS_STRIKES": -7395031,
     "EMPOWERED_ABILITIES": -11128436,
     "REINFORCED_ARMOR": -13741451,
-    "TOWER_FORTUNE": -10271488
+    "TOWER_FORTUNE": -10271488,
+    "COMPASS_COMPANION_EGG": -10141409,
+    "COMPASS_TREASURE_DOOR": -9744896,
+    "COMPASS_DUNGEON_DOOR": -10864102,
+    "COMPASS_VENDOOR": -14723019,
+    "COMPASS_GOD_ALTAR": -10406513,
+    "COMPASS_OBJECTIVE_PILLAR": -14397553,
+    "COMPASS_ORE_ROOM": -14133638,
+    "COMPASS_CHALLENGE_ROOM": -9158646
   }
 }

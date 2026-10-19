@@ -814,6 +814,136 @@
       ]
     },
     {
+      "upgrade": "COMPASS_COMPANION_EGG",
+      "maxLevel": 1,
+      "insightCosts": [
+        15
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "theme",
+            "count": 25
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COMPASS_TREASURE_DOOR",
+      "maxLevel": 1,
+      "insightCosts": [
+        30
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "treasure",
+            "count": 50
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COMPASS_DUNGEON_DOOR",
+      "maxLevel": 1,
+      "insightCosts": [
+        30
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "dungeon",
+            "count": 30
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COMPASS_VENDOOR",
+      "maxLevel": 1,
+      "insightCosts": [
+        30
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "vendor",
+            "count": 50
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COMPASS_GOD_ALTAR",
+      "maxLevel": 1,
+      "insightCosts": [
+        25
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "god_altar",
+            "count": 15
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COMPASS_OBJECTIVE_PILLAR",
+      "maxLevel": 1,
+      "insightCosts": [
+        40
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "theme",
+            "count": 100
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COMPASS_ORE_ROOM",
+      "maxLevel": 1,
+      "insightCosts": [
+        50
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "room",
+            "group": "Ore",
+            "count": 500
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COMPASS_CHALLENGE_ROOM",
+      "maxLevel": 1,
+      "insightCosts": [
+        60
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "room",
+            "group": "Challenge",
+            "count": 250
+          }
+        ]
+      ]
+    },
+    {
       "upgrade": "RARER_PAYOUTS",
       "maxLevel": 3,
       "insightCosts": [
