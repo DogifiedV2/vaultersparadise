@@ -1357,6 +1357,10 @@ file = "config/the_vault/bounty/greed_task/room_discovery.json"
 hash = "d0072f162a2ce4afaca452484efcbcdb676a16722db63f8c61a79f08313a4e36"
 
 [[files]]
+file = "config/the_vault/bounty/hunter_tree.json"
+hash = "444c571c525c815107d0ebde031b2e867c9e6c7ade451b011ff7ad20405d060a"
+
+[[files]]
 file = "config/the_vault/bounty/ores.json"
 hash = "d377c8828de867e5cf0ba4579b9d704dd7f8d861b19c11e6590693539ef57aad"
 
@@ -18661,7 +18665,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "9eaebc1201569a8f4d053de225d399c31ab062ed941e5fef512f3af7330bb617"
+hash = "5e4c6feb6a063097480d3073d03c0a5d28b6bad54c9ee100c327dda3de9a154a"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
