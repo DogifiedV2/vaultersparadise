@@ -4,10 +4,24 @@
       "pool": [
         {
           "value": {
-            "value": "minecraft:diamond",
+            "value": "the_vault:trophy/gear_common_0",
             "amount": {
-              "min": 12,
-              "max": 36
+              "min": 4,
+              "max": 5
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "value": "the_vault:trophy/gear_rare_0",
+            "amount": {
+              "min": 2,
+              "max": 3
             },
             "floorToNearestTen": false,
             "validDimensions": [],
@@ -18,357 +32,31 @@
         },
         {
           "value": {
-              "rewardPool": "common",
-            "value": "minecraft:ancient_debris",
+            "value": "the_vault:vault_diamond",
             "amount": {
-              "min": 2,
-              "max": 6
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:netherite_ingot",
-            "amount": {
-              "min": 2,
-              "max": 6
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:chromatic_iron_ingot",
-            "amount": {
-              "min": 48,
-              "max": 128
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:polished_vault_stone",
-            "amount": {
-              "min": 64,
-              "max": 416
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        }
-      ]
-    },
-    "10": {
-      "pool": [
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:diamond",
-            "amount": {
-              "min": 16,
-              "max": 96
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 5
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:netherite_ingot",
-            "amount": {
-              "min": 2,
+              "min": 6,
               "max": 12
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_essence",
-            "amount": {
-              "min": 4,
-              "max": 24
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:chromatic_iron_ingot",
-            "amount": {
-              "min": 64,
-              "max": 152
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:polished_vault_stone",
-            "amount": {
-              "min": 96,
-              "max": 448
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 3
         },
         {
           "value": {
-            "rewardPool": "common",
-            "value": "minecraft:gold_ingot",
-            "amount": {
-              "min": 48,
-              "max": 192
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_scrap",
-            "amount": {
-              "min": 5,
-              "max": 12
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:iron_ingot",
-            "amount": {
-              "min": 48,
-              "max": 196
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:ancient_debris",
-            "amount": {
-              "min": 4,
-              "max": 16
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:amethyst_block",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:trident",
+            "value": "the_vault:mystery_egg",
             "amount": {
               "min": 1,
               "max": 1
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:nautilus_shell",
-            "amount": {
-              "min": 1,
-              "max": 5
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:golden_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:iron_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:diamond_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:heart_of_the_sea",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:bell",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:crying_obsidian",
-            "amount": {
-              "min": 8,
-              "max": 20
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:gilded_blackstone",
-            "amount": {
-              "min": 2,
-              "max": 12
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:warped_stem",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:crimson_stem",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
         }
       ]
     },
@@ -376,567 +64,59 @@
       "pool": [
         {
           "value": {
-            "rewardPool": "common",
-            "value": "minecraft:diamond",
+            "value": "the_vault:trophy/gear_rare_15",
             "amount": {
-              "min": 32,
-              "max": 128
+              "min": 3,
+              "max": 4
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 5
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:netherite_ingot",
-            "amount": {
-              "min": 8,
-              "max": 32
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_essence",
-            "amount": {
-              "min": 8,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:chromatic_iron_ingot",
-            "amount": {
-              "min": 128,
-              "max": 256
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:polished_vault_stone",
-            "amount": {
-              "min": 128,
-              "max": 512
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:gold_ingot",
-            "amount": {
-              "min": 96,
-              "max": 256
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_scrap",
-            "amount": {
-              "min": 12,
-              "max": 20
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:iron_ingot",
-            "amount": {
-              "min": 96,
-              "max": 256
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:ancient_debris",
-            "amount": {
-              "min": 8,
-              "max": 24
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:amethyst_block",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:trident",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:nautilus_shell",
-            "amount": {
-              "min": 1,
-              "max": 5
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:golden_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:iron_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:diamond_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:heart_of_the_sea",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:bell",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
           "value": {
-            "rewardPool": "common",
-            "value": "minecraft:crying_obsidian",
+            "value": "the_vault:trophy/gear_epic_15",
             "amount": {
-              "min": 8,
-              "max": 20
+              "min": 1,
+              "max": 1
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
           "value": {
-            "rewardPool": "common",
-            "value": "minecraft:gilded_blackstone",
+            "value": "the_vault:mystery_egg",
             "amount": {
-              "min": 2,
-              "max": 12
+              "min": 1,
+              "max": 2
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 2
         },
         {
           "value": {
-            "rewardPool": "common",
-            "value": "minecraft:warped_stem",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:crimson_stem",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        }
-      ]
-    },
-    "30": {
-      "pool": [
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:diamond",
-            "amount": {
-              "min": 32,
-              "max": 156
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 5
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:netherite_ingot",
-            "amount": {
-              "min": 8,
-              "max": 18
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_essence",
-            "amount": {
-              "min": 16,
-              "max": 48
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:chromatic_iron_ingot",
-            "amount": {
-              "min": 128,
-              "max": 256
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 6
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:polished_vault_stone",
-            "amount": {
-              "min": 128,
-              "max": 512
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:ancient_debris",
+            "value": "the_vault:vault_diamond",
             "amount": {
               "min": 12,
               "max": 24
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "rare",
-            "value": "the_vault:soul_shard",
-            "amount": {
-              "min": 600,
-              "max": 2000
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:amethyst_block",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:trident",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:nautilus_shell",
-            "amount": {
-              "min": 1,
-              "max": 5
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:golden_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:iron_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:diamond_horse_armor",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:heart_of_the_sea",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 1
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:bell",
-            "amount": {
-              "min": 1,
-              "max": 1
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:crying_obsidian",
-            "amount": {
-              "min": 8,
-              "max": 20
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:gilded_blackstone",
-            "amount": {
-              "min": 2,
-              "max": 12
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:warped_stem",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:crimson_stem",
-            "amount": {
-              "min": 16,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 4
         }
       ]
     },
@@ -944,201 +124,177 @@
       "pool": [
         {
           "value": {
-            "rewardPool": "common",
-            "value": "minecraft:diamond",
+            "value": "the_vault:trophy/gear_epic_45",
             "amount": {
-              "min": 48,
-              "max": 156
+              "min": 2,
+              "max": 3
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:netherite_ingot",
-            "amount": {
-              "min": 16,
-              "max": 24
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_essence",
-            "amount": {
-              "min": 32,
-              "max": 64
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:chromatic_iron_ingot",
-            "amount": {
-              "min": 160,
-              "max": 256
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:ancient_debris",
-            "amount": {
-              "min": 16,
-              "max": 32
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
           "value": {
-            "rewardPool": "rare",
-            "value": "the_vault:soul_shard",
+            "value": "the_vault:trophy/gear_omega_45",
             "amount": {
-              "min": 1500,
-              "max": 2600
+              "min": 1,
+              "max": 1
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "rare"
           },
-          "weight": 1
+          "weight": 2
         },
         {
           "value": {
-            "rewardPool": "common",
-            "value": "the_vault:sweet_kiwi",
+            "value": "the_vault:mystery_egg",
             "amount": {
-              "min": 6,
-              "max": 16
+              "min": 2,
+              "max": 3
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "value": "woldsvaults:gem_box",
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 2
         }
       ]
     },
-    "65": {
+    "75": {
       "pool": [
         {
           "value": {
-            "rewardPool": "common",
-            "value": "minecraft:diamond",
+            "value": "the_vault:trophy/gear_epic_70",
             "amount": {
-              "min": 96,
-              "max": 192
+              "min": 2,
+              "max": 3
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:netherite_ingot",
-            "amount": {
-              "min": 24,
-              "max": 48
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:vault_essence",
-            "amount": {
-              "min": 64,
-              "max": 128
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 3
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "the_vault:chromatic_iron_ingot",
-            "amount": {
-              "min": 256,
-              "max": 512
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "rewardPool": "common",
-            "value": "minecraft:ancient_debris",
-            "amount": {
-              "min": 24,
-              "max": 48
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
           "value": {
-            "rewardPool": "rare",
-            "value": "the_vault:soul_shard",
+            "value": "the_vault:trophy/gear_omega_70",
             "amount": {
-              "min": 2400,
-              "max": 4000
+              "min": 1,
+              "max": 1
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "rare"
           },
-          "weight": 1
+          "weight": 2
         },
         {
           "value": {
-            "rewardPool": "common",
-            "value": "the_vault:sweet_kiwi",
+            "value": "the_vault:mystery_egg",
             "amount": {
-              "min": 10,
-              "max": 16
+              "min": 2,
+              "max": 3
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": false
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "value": "woldsvaults:gem_box",
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 2
+        }
+      ]
+    },
+    "90": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:trophy/gear_epic_85",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "value": "the_vault:trophy/gear_omega_85",
+            "amount": {
+              "min": 1,
+              "max": 1
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "value": "the_vault:mystery_egg",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 2
+        },
+        {
+          "value": {
+            "value": "woldsvaults:gem_box",
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
           },
           "weight": 2
         }

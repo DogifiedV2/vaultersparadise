@@ -6,10 +6,10 @@
   "weightedTaskList": [
     {
       "value": "the_vault:kill_entity",
-      "weight": 3
+      "weight": 4
     },
     {
-      "value": "the_vault:item_submission",
+      "value": "the_vault:mining",
       "weight": 3
     },
     {
@@ -21,15 +21,62 @@
       "weight": 3
     },
     {
-      "value": "the_vault:damage_entity",
-      "weight": 0
+      "value": "the_vault:item_submission",
+      "weight": 2
     },
     {
-      "value": "the_vault:mining",
-      "weight": 3
+      "value": "the_vault:loot_chest",
+      "weight": 2
+    },
+    {
+      "value": "the_vault:open_block",
+      "weight": 2
+    },
+    {
+      "value": "the_vault:room_discovery",
+      "weight": 2
+    },
+    {
+      "value": "the_vault:flawless_chest",
+      "weight": 1
+    },
+    {
+      "value": "the_vault:flawless_kill_entity",
+      "weight": 1
+    },
+    {
+      "value": "the_vault:rapid_kill_entity",
+      "weight": 1
+    },
+    {
+      "value": "the_vault:rapid_mining",
+      "weight": 1
+    },
+    {
+      "value": "the_vault:legendary_gear",
+      "weight": 1
+    },
+    {
+      "value": "the_vault:damage_entity",
+      "weight": 0
     }
   ],
   "rerollBronzeCost": {
     "0": 1
-  }
+  },
+  "offerSlots": 4,
+  "activeSlots": 2,
+  "refillMinutes": 90,
+  "savedOffersMax": 6,
+  "startingSavedOffers": 2,
+  "gradeMultipliers": {
+    "piece_of_cake": 1.0,
+    "easy": 1.0,
+    "normal": 1.0,
+    "hard": 1.5,
+    "impossible": 2.0,
+    "fragged": 3.0
+  },
+  "tierUpMinGrade": 2.0,
+  "tierUpChancePerGrade": 0.15
 }

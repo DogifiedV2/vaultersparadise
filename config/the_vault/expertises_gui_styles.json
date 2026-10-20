@@ -24,7 +24,6 @@
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/divine"
     },
-
     "Artisan": {
       "x": 70,
       "y": 120,
@@ -43,7 +42,6 @@
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/jeweller"
     },
-
     "Fortunate": {
       "x": 70,
       "y": 180,
@@ -68,18 +66,11 @@
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/experienced"
     },
-
     "Trinketer": {
       "x": 70,
       "y": 240,
       "frameType": "STAR",
       "icon": "the_vault:gui/skills/trinketer"
-    },
-    "Bounty_Hunter": {
-      "x": 140,
-      "y": 240,
-      "frameType": "STAR",
-      "icon": "the_vault:gui/skills/bounty_hunter"
     },
     "Angel": {
       "x": 210,

@@ -1,0 +1,99 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 8,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 120
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "20": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 10,
+              "max": 15
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 120
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "50": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 12,
+              "max": 18
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 120
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "75": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 14,
+              "max": 21
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 120
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "90": {
+      "pool": [
+        {
+          "value": {
+            "value": "the_vault:ores",
+            "amount": {
+              "min": 16,
+              "max": 24
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 120
+          },
+          "weight": 10
+        }
+      ]
+    }
+  }
+}

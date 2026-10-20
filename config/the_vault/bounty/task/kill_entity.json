@@ -270,7 +270,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -284,7 +286,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -298,7 +302,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -428,7 +434,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -442,7 +450,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -456,7 +466,9 @@
               "max": 2
             },
             "floorToNearestTen": false,
-            "validDimensions": ["minecraft:overworld"],
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
             "vaultOnly": false,
             "rewardPool": "rare"
           },
@@ -468,6 +480,334 @@
             "amount": {
               "min": 24,
               "max": 32
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 4
+        }
+      ]
+    },
+    "75": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:assassin",
+            "amount": {
+              "min": 34,
+              "max": 48
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 58,
+              "max": 72
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "@the_vault:tank",
+            "amount": {
+              "min": 20,
+              "max": 29
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 39,
+              "max": 51
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "@the_vault:assassin",
+            "amount": {
+              "min": 58,
+              "max": 72
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 82,
+              "max": 96
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 48,
+              "max": 72
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "minecraft:wither",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "value": "minecraft:ghast",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "value": "minecraft:elder_guardian",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "value": "@the_vault:dungeon",
+            "amount": {
+              "min": 29,
+              "max": 39
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 4
+        }
+      ]
+    },
+    "90": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:assassin",
+            "amount": {
+              "min": 40,
+              "max": 56
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 68,
+              "max": 84
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "@the_vault:tank",
+            "amount": {
+              "min": 23,
+              "max": 34
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 6
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 45,
+              "max": 59
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "@the_vault:assassin",
+            "amount": {
+              "min": 68,
+              "max": 84
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 96,
+              "max": 112
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 56,
+              "max": 84
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 3
+        },
+        {
+          "value": {
+            "value": "minecraft:wither",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "value": "minecraft:ghast",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "value": "minecraft:elder_guardian",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [
+              "minecraft:overworld"
+            ],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 1
+        },
+        {
+          "value": {
+            "value": "@the_vault:dungeon",
+            "amount": {
+              "min": 34,
+              "max": 45
             },
             "floorToNearestTen": false,
             "validDimensions": [],

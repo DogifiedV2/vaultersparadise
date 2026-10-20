@@ -1,0 +1,156 @@
+{
+  "LEVELS": {
+    "20": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Omega Rooms",
+              "filter": [
+                "the_vault:vault/rooms/omega/mush_room1",
+                "the_vault:vault/rooms/omega/mush_room2",
+                "the_vault:vault/rooms/omega/blacksmith1",
+                "the_vault:vault/rooms/omega/blacksmith2",
+                "the_vault:vault/rooms/omega/cove1",
+                "the_vault:vault/rooms/omega/cove2",
+                "the_vault:vault/rooms/omega/omega_digsite2",
+                "the_vault:vault/rooms/omega/library1",
+                "the_vault:vault/rooms/omega/library2",
+                "the_vault:vault/rooms/omega/mine1",
+                "the_vault:vault/rooms/omega/mine2",
+                "the_vault:vault/rooms/omega/painting1",
+                "the_vault:vault/rooms/omega/vendor1",
+                "the_vault:vault/rooms/omega/vendor3",
+                "the_vault:vault/rooms/omega/pixel1",
+                "the_vault:vault/rooms/omega/warehouse"
+              ]
+            },
+            "amount": {
+              "min": 1,
+              "max": 2
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "50": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Omega Rooms",
+              "filter": [
+                "the_vault:vault/rooms/omega/mush_room1",
+                "the_vault:vault/rooms/omega/mush_room2",
+                "the_vault:vault/rooms/omega/blacksmith1",
+                "the_vault:vault/rooms/omega/blacksmith2",
+                "the_vault:vault/rooms/omega/cove1",
+                "the_vault:vault/rooms/omega/cove2",
+                "the_vault:vault/rooms/omega/omega_digsite2",
+                "the_vault:vault/rooms/omega/library1",
+                "the_vault:vault/rooms/omega/library2",
+                "the_vault:vault/rooms/omega/mine1",
+                "the_vault:vault/rooms/omega/mine2",
+                "the_vault:vault/rooms/omega/painting1",
+                "the_vault:vault/rooms/omega/vendor1",
+                "the_vault:vault/rooms/omega/vendor3",
+                "the_vault:vault/rooms/omega/pixel1",
+                "the_vault:vault/rooms/omega/warehouse"
+              ]
+            },
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "75": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Omega Rooms",
+              "filter": [
+                "the_vault:vault/rooms/omega/mush_room1",
+                "the_vault:vault/rooms/omega/mush_room2",
+                "the_vault:vault/rooms/omega/blacksmith1",
+                "the_vault:vault/rooms/omega/blacksmith2",
+                "the_vault:vault/rooms/omega/cove1",
+                "the_vault:vault/rooms/omega/cove2",
+                "the_vault:vault/rooms/omega/omega_digsite2",
+                "the_vault:vault/rooms/omega/library1",
+                "the_vault:vault/rooms/omega/library2",
+                "the_vault:vault/rooms/omega/mine1",
+                "the_vault:vault/rooms/omega/mine2",
+                "the_vault:vault/rooms/omega/painting1",
+                "the_vault:vault/rooms/omega/vendor1",
+                "the_vault:vault/rooms/omega/vendor3",
+                "the_vault:vault/rooms/omega/pixel1",
+                "the_vault:vault/rooms/omega/warehouse"
+              ]
+            },
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        }
+      ]
+    },
+    "90": {
+      "pool": [
+        {
+          "value": {
+            "value": {
+              "displayName": "Omega Rooms",
+              "filter": [
+                "the_vault:vault/rooms/omega/mush_room1",
+                "the_vault:vault/rooms/omega/mush_room2",
+                "the_vault:vault/rooms/omega/blacksmith1",
+                "the_vault:vault/rooms/omega/blacksmith2",
+                "the_vault:vault/rooms/omega/cove1",
+                "the_vault:vault/rooms/omega/cove2",
+                "the_vault:vault/rooms/omega/omega_digsite2",
+                "the_vault:vault/rooms/omega/library1",
+                "the_vault:vault/rooms/omega/library2",
+                "the_vault:vault/rooms/omega/mine1",
+                "the_vault:vault/rooms/omega/mine2",
+                "the_vault:vault/rooms/omega/painting1",
+                "the_vault:vault/rooms/omega/vendor1",
+                "the_vault:vault/rooms/omega/vendor3",
+                "the_vault:vault/rooms/omega/pixel1",
+                "the_vault:vault/rooms/omega/warehouse"
+              ]
+            },
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare"
+          },
+          "weight": 10
+        }
+      ]
+    }
+  }
+}

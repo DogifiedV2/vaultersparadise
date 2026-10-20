@@ -1,0 +1,174 @@
+{
+  "LEVELS": {
+    "0": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 12,
+              "max": 18
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 6,
+              "max": 10
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 8
+        }
+      ]
+    },
+    "20": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 15,
+              "max": 22
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 8,
+              "max": 12
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 8
+        }
+      ]
+    },
+    "50": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 18,
+              "max": 27
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 9,
+              "max": 15
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 8
+        }
+      ]
+    },
+    "75": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 21,
+              "max": 32
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 10,
+              "max": 18
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 8
+        }
+      ]
+    },
+    "90": {
+      "pool": [
+        {
+          "value": {
+            "value": "@the_vault:horde",
+            "amount": {
+              "min": 24,
+              "max": 36
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 10
+        },
+        {
+          "value": {
+            "value": "@the_vault:fighter",
+            "amount": {
+              "min": 12,
+              "max": 20
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": true,
+            "rewardPool": "rare",
+            "maxSeconds": 30
+          },
+          "weight": 8
+        }
+      ]
+    }
+  }
+}

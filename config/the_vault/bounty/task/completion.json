@@ -211,6 +211,210 @@
           "weight": 2
         }
       ]
+    },
+    "75": {
+      "pool": [
+        {
+          "value": {
+            "value": "cake",
+            "amount": {
+              "min": 2,
+              "max": 2
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "value": "scavenger",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "scavenger",
+            "amount": {
+              "min": 3,
+              "max": 4
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "value": "monolith",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 0
+        },
+        {
+          "value": {
+            "value": "elixir",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "rune_boss",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "rune_boss",
+            "amount": {
+              "min": 3,
+              "max": 4
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 2
+        }
+      ]
+    },
+    "90": {
+      "pool": [
+        {
+          "value": {
+            "value": "cake",
+            "amount": {
+              "min": 2,
+              "max": 2
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "value": "scavenger",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "scavenger",
+            "amount": {
+              "min": 3,
+              "max": 5
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 4
+        },
+        {
+          "value": {
+            "value": "monolith",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 0
+        },
+        {
+          "value": {
+            "value": "elixir",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "rune_boss",
+            "amount": {
+              "min": 2,
+              "max": 3
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "common"
+          },
+          "weight": 20
+        },
+        {
+          "value": {
+            "value": "rune_boss",
+            "amount": {
+              "min": 3,
+              "max": 5
+            },
+            "floorToNearestTen": false,
+            "validDimensions": [],
+            "vaultOnly": false,
+            "rewardPool": "rare"
+          },
+          "weight": 2
+        }
+      ]
     }
   }
 }
