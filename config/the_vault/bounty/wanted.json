@@ -23,23 +23,23 @@
   "healthByLevel": [
     {
       "level": 0,
-      "value": 240
+      "value": 960
     },
     {
       "level": 25,
-      "value": 700
+      "value": 2800
     },
     {
       "level": 50,
-      "value": 1500
+      "value": 6000
     },
     {
       "level": 75,
-      "value": 2600
+      "value": 10400
     },
     {
       "level": 100,
-      "value": 4000
+      "value": 16000
     }
   ],
   "damageByLevel": [
