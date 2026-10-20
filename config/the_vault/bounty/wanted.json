@@ -1,0 +1,181 @@
+{
+  "offerChance": 0.2,
+  "minRoomDistance": 4,
+  "maxRoomDistance": 7,
+  "huntAfterSeconds": 600,
+  "cueIntervalTicks": 120,
+  "cueVolume": 12.0,
+  "bossBarRange": 48,
+  "rewardPool": "rare",
+  "dangerousRewardPool": "legendary",
+  "affixes": 1,
+  "dangerousMinAffixes": 2,
+  "dangerousMaxAffixes": 3,
+  "hitCapPercent": 0.08,
+  "gritPercent": 0.2,
+  "gritWindowTicks": 60,
+  "gritReduction": 0.75,
+  "crowdControlMaxTicks": 20,
+  "crowdControlImmunityTicks": 160,
+  "knockbackTaken": 0.2,
+  "partyHealthPerPlayer": 0.8,
+  "secondWindPercent": 0.5,
+  "healthByLevel": [
+    {
+      "level": 0,
+      "value": 240
+    },
+    {
+      "level": 25,
+      "value": 700
+    },
+    {
+      "level": 50,
+      "value": 1500
+    },
+    {
+      "level": 75,
+      "value": 2600
+    },
+    {
+      "level": 100,
+      "value": 4000
+    }
+  ],
+  "damageByLevel": [
+    {
+      "level": 0,
+      "value": 5
+    },
+    {
+      "level": 25,
+      "value": 10
+    },
+    {
+      "level": 50,
+      "value": 16
+    },
+    {
+      "level": 75,
+      "value": 24
+    },
+    {
+      "level": 100,
+      "value": 32
+    }
+  ],
+  "archetypes": [
+    {
+      "id": "ironjaw",
+      "name": "Ironjaw",
+      "title": "the Brute",
+      "color": 14254635,
+      "cueSound": "minecraft:block.chain.place",
+      "knockbackImmune": true,
+      "hintRoomTypes": [
+        "ORE",
+        "COMMON"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "silver_fang",
+      "name": "Silver Fang",
+      "title": "the Duelist",
+      "color": 13162736,
+      "cueSound": "minecraft:item.axe.scrape",
+      "knockbackImmune": false,
+      "hintRoomTypes": [
+        "COMMON",
+        "CHALLENGE"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "hexmonger",
+      "name": "Hexmonger",
+      "title": "the Card Sharp",
+      "color": 10181072,
+      "cueSound": "minecraft:item.book.page_turn",
+      "knockbackImmune": false,
+      "hintRoomTypes": [
+        "OMEGA",
+        "COMMON"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "houndwarden",
+      "name": "Houndwarden",
+      "title": "the Beastmaster",
+      "color": 8034874,
+      "cueSound": "minecraft:entity.wolf.howl",
+      "knockbackImmune": false,
+      "hintRoomTypes": [
+        "RAW",
+        "COMMON"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "long_tom",
+      "name": "Long Tom",
+      "title": "the Marksman",
+      "color": 12098410,
+      "cueSound": "minecraft:item.crossbow.loading_end",
+      "knockbackImmune": false,
+      "hintRoomTypes": [
+        "CHALLENGE",
+        "ORE"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "gilded_rat",
+      "name": "Gilded Rat",
+      "title": "the Thief",
+      "color": 15910724,
+      "cueSound": "minecraft:entity.item.pickup",
+      "knockbackImmune": false,
+      "hintRoomTypes": [
+        "ORE",
+        "RAW"
+      ],
+      "enabled": true
+    }
+  ],
+  "firstNames": [
+    "Brannoc",
+    "Mara",
+    "Silas",
+    "Ezra",
+    "Hollis",
+    "Wren",
+    "Jebediah",
+    "Cassius",
+    "Della",
+    "Augustin",
+    "Ruth",
+    "Tobias",
+    "Ida",
+    "Cormac",
+    "Lottie",
+    "Barnaby"
+  ],
+  "lastNames": [
+    "Vex",
+    "Holloway",
+    "Crane",
+    "Blackwood",
+    "Marsh",
+    "Kettle",
+    "Grieve",
+    "Ashdown",
+    "Pike",
+    "Mortlake",
+    "Quill",
+    "Harrow",
+    "Slate",
+    "Dunmore"
+  ]
+}
