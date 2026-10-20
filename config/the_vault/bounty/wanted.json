@@ -14,7 +14,7 @@
   "hitCapPercent": 0.08,
   "gritPercent": 0.2,
   "gritWindowTicks": 60,
-  "gritReduction": 0.75,
+  "gritReduction": 0.9,
   "crowdControlMaxTicks": 20,
   "crowdControlImmunityTicks": 160,
   "knockbackTaken": 0.2,
@@ -45,23 +45,23 @@
   "damageByLevel": [
     {
       "level": 0,
-      "value": 5
+      "value": 3
     },
     {
       "level": 25,
-      "value": 10
+      "value": 5
     },
     {
       "level": 50,
-      "value": 16
+      "value": 9
     },
     {
       "level": 75,
-      "value": 24
+      "value": 20
     },
     {
       "level": 100,
-      "value": 32
+      "value": 28
     }
   ],
   "archetypes": [
