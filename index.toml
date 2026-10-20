@@ -1278,7 +1278,7 @@ hash = "e75452010547d87656da53e62874a406c182fefdf58b51ec0158a2f3b2ba6d83"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
-hash = "db01cb3baceef203c87aeb87bcb0dca9f43a8463706c845bd31fd5582bc93e74"
+hash = "755137577f2fc1cfcaa77d8e5800ce70a21b57cd91f9e4620933a1d222d9ef08"
 
 [[files]]
 file = "config/the_vault/bounty/entities.json"
@@ -1366,27 +1366,59 @@ hash = "294a926748b19fa86ab22999de963bbd146f388089d0cdd7ca2fe315434377de"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
-hash = "2a99378898a5c7bd3a26e8526ce9684622c900b7efda223e1895228858f1883f"
+hash = "6e62e3b5167a4609256a8440ca277b4fd5644f3ef84d8ff9266b06b912536826"
 
 [[files]]
 file = "config/the_vault/bounty/task/damage_entity.json"
 hash = "7c73ca9fd8fd0af8eea6809d7064c8005ffe16c041cfc9e21e1a15c98ff2fdb8"
 
 [[files]]
+file = "config/the_vault/bounty/task/flawless_chest.json"
+hash = "87b60584db040c20bbb35eb74aa15992f8f3dc7f8400efd3b61d6c8147bb3da8"
+
+[[files]]
+file = "config/the_vault/bounty/task/flawless_kill_entity.json"
+hash = "55fcce235e24c9a2548b41075c2420839e989086deb9299dc6672835e7a2da4f"
+
+[[files]]
 file = "config/the_vault/bounty/task/item_discovery.json"
-hash = "39de6c590b18a8b2a4659b08abe37e2ed6e6ac3546527c401b6a085827edd13a"
+hash = "90f68ecf8c88c070ac4151adf443ae2d6f966c90362eb61dfdb0cec917284ec5"
 
 [[files]]
 file = "config/the_vault/bounty/task/item_submission.json"
-hash = "c3990f939fbad94f244659dafc4cb0d3b912fb461c0f76064af14bf90d8f0911"
+hash = "5435bfdba5cdb1d0b377238ecd74d339cb021042f128aa5f0857db9d14f7b0bf"
 
 [[files]]
 file = "config/the_vault/bounty/task/kill_entity.json"
-hash = "46387efd4667478f7964e734043fde5b1223b7cdcbce22719253d844f28a31f9"
+hash = "1f00fc2fdcebba002c5c3edf5c4753ce33675df7a862864ee6b3960fb4071594"
+
+[[files]]
+file = "config/the_vault/bounty/task/legendary_gear.json"
+hash = "948fc692f6869adae7cb8745d57e2d14e0532023263d3a5fb9fbf616b7989bd5"
+
+[[files]]
+file = "config/the_vault/bounty/task/loot_chest.json"
+hash = "134522b2d5e3d5cc516e85115e0a973f0e3c839f453f7b693766b14b76fb3cca"
 
 [[files]]
 file = "config/the_vault/bounty/task/mining.json"
-hash = "8afdef0d4d66e2cb5e7f60b1310afcd30b75969a5f3b123579e84afb2ed1e27d"
+hash = "134a353fb76aabdb973c9c28db05bf77ddf0d32b88052fcdb46b69d8fd7cbcb8"
+
+[[files]]
+file = "config/the_vault/bounty/task/open_block.json"
+hash = "ab47b336c34a02add16f0f91a8d8a39b3dea1ec66540e6b90437f33bf2a0ecb8"
+
+[[files]]
+file = "config/the_vault/bounty/task/rapid_kill_entity.json"
+hash = "b3df2a67039b84c95455f6bbe6aeed4190e84733e6186d825858ba0ab8915c1f"
+
+[[files]]
+file = "config/the_vault/bounty/task/rapid_mining.json"
+hash = "ab8cea9f78d063317f2ffc86143fb5507788b67db3348d46ddf289de5a01f38d"
+
+[[files]]
+file = "config/the_vault/bounty/task/room_discovery.json"
+hash = "deac9bd04ae015f3093079145b11e4ae87300c7a9dc19c0109595a8a0e3a596d"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
@@ -1550,11 +1582,11 @@ hash = "737c74f66be6d81da841827533a27eeb8f37cf6687f88d25b747027a79589d42"
 
 [[files]]
 file = "config/the_vault/expertises.json"
-hash = "89f107e314fea155ac236307ce869c3864fe7c00a0838d4a8b85a9301ad7b5bf"
+hash = "d4b12a0a4bf2dadecaee299866ce6f804e8635353a948f50e4880c9ff2b9eace"
 
 [[files]]
 file = "config/the_vault/expertises_gui_styles.json"
-hash = "00510683c13ba276abda1c6b9ca965f23db3785017d0c657ebf88f660ed78a10"
+hash = "db87b5a8514f4731ca597572ae807125aabae13bc1e6776d07cae7a43bcff4db"
 
 [[files]]
 file = "config/the_vault/eyesore.json"
@@ -15426,7 +15458,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "936bde83e754e2dcfcb190e5cdcd1060c89ed25dd11e0ba7bbf2730c659eb795"
+hash = "786d334ce8b1c6d6f10c92a430b5638316ade34be3b5b20a5e105ca14f42211e"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -18629,7 +18661,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "f9b82fef04aae9c94473698435c82583bd7c2315a767d6633dc4f7c889774902"
+hash = "ccf8786063befaa26b26fc3cef6993dbac86ba4bf7befac948ae6cdd1768e539"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
