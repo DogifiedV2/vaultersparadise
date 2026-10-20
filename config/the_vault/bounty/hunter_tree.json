@@ -1,0 +1,209 @@
+{
+  "maxRank": 20,
+  "rankXpBase": 20,
+  "rankXpPerRank": 10,
+  "claimXpByPool": {
+    "common": 10,
+    "rare": 15,
+    "legendary": 50,
+    "submission": 10
+  },
+  "wantedClaimXp": 30,
+  "nodes": [
+    {
+      "id": "fifth_poster",
+      "branch": "board",
+      "name": "Fifth Poster",
+      "description": "5 offers shown",
+      "icon": "the_vault:gui/skills/bounty_hunter",
+      "cost": 1,
+      "requires": null,
+      "column": 0,
+      "row": 0
+    },
+    {
+      "id": "third_slot",
+      "branch": "board",
+      "name": "Third Slot",
+      "description": "3 active bounties",
+      "icon": "the_vault:gui/skills/commander",
+      "cost": 2,
+      "requires": "fifth_poster",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "id": "deep_pockets",
+      "branch": "board",
+      "name": "Deep Pockets",
+      "description": "Save up to 8 offers",
+      "icon": "the_vault:gui/skills/marketer",
+      "cost": 1,
+      "requires": null,
+      "column": 1,
+      "row": 0
+    },
+    {
+      "id": "quick_refill",
+      "branch": "board",
+      "name": "Quick Refill",
+      "description": "1 offer every 60 min",
+      "icon": "the_vault:gui/skills/speed",
+      "cost": 2,
+      "requires": "deep_pockets",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "id": "not_that_one",
+      "branch": "board",
+      "name": "Not That One",
+      "description": "Block one bounty type",
+      "icon": "the_vault:gui/skills/methodical",
+      "cost": 1,
+      "requires": null,
+      "column": 2,
+      "row": 0
+    },
+    {
+      "id": "my_kind_of_job",
+      "branch": "board",
+      "name": "My Kind of Job",
+      "description": "One bounty type comes up twice as often",
+      "icon": "the_vault:gui/skills/reach",
+      "cost": 1,
+      "requires": "not_that_one",
+      "column": 2,
+      "row": 1
+    },
+    {
+      "id": "heavier_crates",
+      "branch": "payout",
+      "name": "Heavier Crates",
+      "description": "+1 crate stack",
+      "icon": "the_vault:gui/skills/treasure_hunter",
+      "cost": 1,
+      "requires": null,
+      "column": 0,
+      "row": 0
+    },
+    {
+      "id": "lucky_seal",
+      "branch": "payout",
+      "name": "Lucky Seal",
+      "description": "+10% chance to lift the crate a tier",
+      "icon": "the_vault:gui/skills/lucky_altar",
+      "cost": 1,
+      "requires": "heavier_crates",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "id": "hunters_pay",
+      "branch": "payout",
+      "name": "Hunter's Pay",
+      "description": "+25% vault XP",
+      "icon": "the_vault:gui/skills/experienced",
+      "cost": 1,
+      "requires": null,
+      "column": 1,
+      "row": 0
+    },
+    {
+      "id": "haul",
+      "branch": "payout",
+      "name": "Haul",
+      "description": "Every 4th claim adds a bonus crate",
+      "icon": "the_vault:gui/skills/fortunate",
+      "cost": 1,
+      "requires": "hunters_pay",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "id": "lost_and_found",
+      "branch": "payout",
+      "name": "Lost and Found",
+      "description": "Every 10th claim gives a Lost Bounty",
+      "icon": "the_vault:item/lost_bounty",
+      "cost": 1,
+      "requires": null,
+      "column": 2,
+      "row": 0
+    },
+    {
+      "id": "wanted",
+      "branch": "hunt",
+      "name": "Wanted",
+      "description": "Wanted bounties appear on the board",
+      "icon": "the_vault:gui/skills/hunters_instinct",
+      "cost": 1,
+      "requires": null,
+      "column": 0,
+      "row": 0
+    },
+    {
+      "id": "dangerous_targets",
+      "branch": "hunt",
+      "name": "Dangerous Targets",
+      "description": "Targets roll 2-3 affixes, better loot",
+      "icon": "the_vault:gui/skills/champion_mastery",
+      "cost": 1,
+      "requires": "wanted",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "id": "most_wanted",
+      "branch": "hunt",
+      "name": "Most Wanted",
+      "description": "One weekly target with a unique trophy",
+      "icon": "the_vault:gui/skills/soul_hunter",
+      "cost": 2,
+      "requires": "dangerous_targets",
+      "column": 0,
+      "row": 2
+    },
+    {
+      "id": "legendary_chains",
+      "branch": "hunt",
+      "name": "Legendary Chains",
+      "description": "Lost Bounties start 2-3 step chains",
+      "icon": "the_vault:gui/skills/treasure_seeker",
+      "cost": 1,
+      "requires": null,
+      "column": 1,
+      "row": 0
+    },
+    {
+      "id": "two_leads",
+      "branch": "hunt",
+      "name": "Two Leads",
+      "description": "Pick 1 of 2 chains",
+      "icon": "the_vault:gui/skills/luck_momentum",
+      "cost": 1,
+      "requires": "legendary_chains",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "id": "god_contracts",
+      "branch": "hunt",
+      "name": "God Contracts",
+      "description": "An extra slot posted by a god each day",
+      "icon": "the_vault:gui/skills/divine",
+      "cost": 1,
+      "requires": null,
+      "column": 2,
+      "row": 0
+    }
+  ],
+  "lockedNodes": [
+    "wanted",
+    "dangerous_targets",
+    "most_wanted",
+    "legendary_chains",
+    "two_leads",
+    "god_contracts"
+  ]
+}
