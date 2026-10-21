@@ -18087,10 +18087,6 @@ file = "mods/TweakergeCompat-0.1.1+mc1.18.2.jar"
 hash = "c7797101075fc846cbf97efead7dfa51910d55b3f7d580c704d3948a36ec882f"
 
 [[files]]
-file = "mods/VH-Accelerator-1.0.11.jar"
-hash = "14f1bff47cb083f3abde289c1bf1b7931eda7283638a28ff212710d43abe2875"
-
-[[files]]
 file = "mods/VaultLootBeams-1.18.2-1.0.0.jar"
 hash = "678ac6b833a85c129302a2982e572291f6e75f4eb2955d0a207c954d80e47861"
 
@@ -18720,7 +18716,7 @@ metafile = true
 
 [[files]]
 file = "mods/vault-render-optimization.pw.toml"
-hash = "89863f75efdb8f4410a6edc722a90c45ae7e9e951895ae68b4b2ac6c2e85b3c9"
+hash = "131c0404fd80029c2f5d99545c677bb2e97ee15dec37f297ca6463ffd12343a0"
 metafile = true
 
 [[files]]
@@ -18746,6 +18742,11 @@ hash = "2f9b6cecd93c3d2f2490071067771f5c7d352cad31132b4025399a90cb6e4224"
 [[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.19-paradise.jar"
 hash = "1d7f872ace9dfe882d846f2fd31a4a7705214178f7ae03a83676203b369492c6"
+
+[[files]]
+file = "mods/vh-accelerator.pw.toml"
+hash = "773e9061249d0a4668879f9e5a81b267656fc9ab4ceffe6339c63077157d7ca4"
+metafile = true
 
 [[files]]
 file = "mods/vh-hitman-0.3.3.jar"
