@@ -721,12 +721,24 @@ file = "config/dummmmmmy-common.toml"
 hash = "9fb4bac0f0cda650dba6ff3a9520e6558cbe4d73eac3c2e4803ec245212216d6"
 
 [[files]]
+file = "config/dynamic_lights_reforged.toml"
+hash = "7d7ad5d1eec085e72abbc9bcde08fc318c84c865ca96bf9254005edbaf3c7830"
+
+[[files]]
 file = "config/easy_villagers-client.toml"
 hash = "f1a52c4737070355729df0350f70f92cc8ba58bf9c868ee7e0dac081e7bf6bbd"
 
 [[files]]
 file = "config/ecologics.toml"
 hash = "dfafb256ca7cac8236f6ecfd945fdea29bcca361b00cc139f4020f78de123f36"
+
+[[files]]
+file = "config/embeddium++.toml"
+hash = "9a284a85442bd7d0ea3f9c2b826ef80df14129935f11c6980e4833d4f0117f22"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "98f3dc41148b7ce1e19a569f464aa8ca1187e099542809ec65acb8d4cf61fcb4"
 
 [[files]]
 file = "config/enercell/enercell.json"
@@ -18780,6 +18792,10 @@ hash = "3388fcb0dee40cfcca913130ef56a5a4a296056c47c6db19d7636ed8c7cae8f2"
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
 hash = "348a65bb5bf2dacfbb610d5ca480297d7a9f12349b4b00efb8c52638f371895a"
+
+[[files]]
+file = "options.txt"
+hash = "af4ae81d0935b3c6a1ce302519dc2febf9f424f2b8ec98ed4b35fa031f9776ba"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
