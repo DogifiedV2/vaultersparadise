@@ -15897,6 +15897,16 @@ file = "config/worldedit/worldedit.properties"
 hash = "d2e85f5768690c5c686f3df79d7b42048eecbfefedbfbe6f577462568b59910f"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "d22ce993ab3571c2fe08ec4c6d59f5c12020ec0e24b7f7222e1c2c7c04911d2e"
+preserve = true
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "d22ce993ab3571c2fe08ec4c6d59f5c12020ec0e24b7f7222e1c2c7c04911d2e"
+preserve = true
+
+[[files]]
 file = "config/xnet-client.toml"
 hash = "83697e940c40810ce9408dbc6fa60400d84516d7871daf22bd94edf9faa4ae96"
 
