@@ -734,7 +734,7 @@ hash = "dfafb256ca7cac8236f6ecfd945fdea29bcca361b00cc139f4020f78de123f36"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "9a284a85442bd7d0ea3f9c2b826ef80df14129935f11c6980e4833d4f0117f22"
+hash = "41bb521724faee9b77566c537e7f4aaa37159fa5127108399de90b38c8d74acd"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -743,6 +743,10 @@ hash = "98f3dc41148b7ce1e19a569f464aa8ca1187e099542809ec65acb8d4cf61fcb4"
 [[files]]
 file = "config/enercell/enercell.json"
 hash = "9380ccf69524ef39efd4200c5c99515ca0a8fdb6b5e1cdbdf629ec2a8571e566"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "4bbe82b004261888a7171e687cf53a90b00f4e15b40701aab2b7a28bfd8d4561"
 
 [[files]]
 file = "config/equipmentcompare-common.toml"
@@ -15286,7 +15290,7 @@ hash = "b6da838587bc379750faeeb2c2772addfd0af6335869326920f7d98a1cb0d05f"
 
 [[files]]
 file = "config/the_vault/objective_upgrades.json"
-hash = "d2fbe28a46d09aadfff66c43496284cc1d9c3f0c713ebc9950625e497ac056af"
+hash = "709a2b55c5411676fa997ab14626f418cff2f24616ac6d825d6ccb1c43c8615f"
 
 [[files]]
 file = "config/the_vault/objective_upgrades_gui_styles.json"
@@ -18336,8 +18340,8 @@ file = "mods/extremesoundmuffler-3.30_forge-1.18.2.jar"
 hash = "70d49bb3147828e3256bc88f79dd16c6f89c1419a3f197deb1ac5b5569979013"
 
 [[files]]
-file = "mods/fairylights-5.0.0-1.18.2.jar"
-hash = "7b2603657628b8fea9edf508eb7dbcd187bc0439c92c0036e724b5b7eaead443"
+file = "mods/fairylights-5.0.0-paradise.1-1.18.2.jar"
+hash = "1f061d3fea16572f337218e4a31bcbf324bae8db832353478c75c5a1e7febf62"
 
 [[files]]
 file = "mods/farsight-1.18.2-1.9.jar"
@@ -18687,7 +18691,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "f362f76c5356c3afdbb21b9d3cbba15932eb0b587972213a9084a64d1eb225db"
+hash = "06faca32c05275ace21fabcd44432880be45f6c4d64a185c763fc87ee1aa45ee"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18770,8 +18774,8 @@ hash = "6af1812f033528c272ecd1b664be6693c89e18e2b8de2740f171edd54f381479"
 metafile = true
 
 [[files]]
-file = "mods/vhcctweaks-2.2.23.jar"
-hash = "af66cbdd8e6fed8dd9469b8e55bad8664dd98dbd9e7138aceed143e5677b99c1"
+file = "mods/vhcctweaks-2.2.23-paradise.jar"
+hash = "ba5665c70bb0d58ac9fae89fbc80d9fdf39b218d8571f2bd5efae3b04d582f7e"
 
 [[files]]
 file = "mods/voicechat-forge-1.18.2-2.6.16.jar"

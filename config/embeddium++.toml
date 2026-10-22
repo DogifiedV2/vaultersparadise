@@ -118,7 +118,7 @@
 				#Uses ResourceLocation to identify it
 				#Example 1: "minecraft:chest" - Ignores chests only
 				#Example 2: "ae2:*" - ignores all Block entities from Applied Energetics 2
-				whitelist = ["waterframes:*"]
+				whitelist = ["waterframes:*", "fairylights:*"]
 
 			[embeddiumplus.performance.distanceCulling.entities]
 				#Toggles distance culling for entities, doesn't affect monsters culling
@@ -136,7 +136,7 @@
 				#Uses ResourceLocation to identify it
 				#Example 1: "minecraft:bat" - Ignores bats only
 				#Example 2: "alexsmobs:*" - ignores all entities for alexmobs mod
-				whitelist = ["minecraft:ghast", "minecraft:ender_dragon", "iceandfire:*", "create:*"]
+				whitelist = ["minecraft:ghast", "minecraft:ender_dragon", "iceandfire:*", "create:*", "fairylights:*"]
 
 				[embeddiumplus.performance.distanceCulling.entities.monsters]
 					#Toggles distance culling for monsters (or hostile entities, whatever you want to call it), doesn't affect neutral/pacific entities
