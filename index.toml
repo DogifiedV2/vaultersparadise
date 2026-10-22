@@ -734,7 +734,7 @@ hash = "dfafb256ca7cac8236f6ecfd945fdea29bcca361b00cc139f4020f78de123f36"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "9a284a85442bd7d0ea3f9c2b826ef80df14129935f11c6980e4833d4f0117f22"
+hash = "41bb521724faee9b77566c537e7f4aaa37159fa5127108399de90b38c8d74acd"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -743,6 +743,10 @@ hash = "98f3dc41148b7ce1e19a569f464aa8ca1187e099542809ec65acb8d4cf61fcb4"
 [[files]]
 file = "config/enercell/enercell.json"
 hash = "9380ccf69524ef39efd4200c5c99515ca0a8fdb6b5e1cdbdf629ec2a8571e566"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "4bbe82b004261888a7171e687cf53a90b00f4e15b40701aab2b7a28bfd8d4561"
 
 [[files]]
 file = "config/equipmentcompare-common.toml"
