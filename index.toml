@@ -16719,6 +16719,10 @@ file = "kubejs/assets/the_vault/textures/gui/quests/wolds.png"
 hash = "c12135f609171d74fb32acfeef26c1788a4a605ec4618af167cd082de9f5999c"
 
 [[files]]
+file = "kubejs/assets/the_vault/textures/gui/research_groups/addons.png"
+hash = "20a8ccebf7bd91b203dd893756e8505196dda0d183ad2d0c97e5b33bdbf94773"
+
+[[files]]
 file = "kubejs/assets/the_vault/textures/gui/researches/appmek.png"
 hash = "c81ad25f8a0a07320cbddc1d7383536f88f780b61872e9227875f7b3181c3868"
 
@@ -18679,7 +18683,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "bae7eca113e0e8d7c629874fd4c54d3c3de9a86bf162c4653a1a7827339d5ef3"
+hash = "945a47e1b4a8b7b3543c9c061311f66fe34d51800c4498b843e6b921c605c537"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18779,7 +18783,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.23.7-all.jar"
-hash = "3388fcb0dee40cfcca913130ef56a5a4a296056c47c6db19d7636ed8c7cae8f2"
+hash = "f49e264fa8df515e1acc5cf2b1e5352c821157b2981ff0f3de7d3d482307419c"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
