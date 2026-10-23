@@ -18535,6 +18535,11 @@ file = "mods/overvaults-1.6.22-1.18.2.jar"
 hash = "f17b3c1e4c7dfc98ba59322a33db76108a169fcdf39290bf48498b85a837cb5c"
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "c1629f045dd324a286871a1d2503bb0cf22cdb8a354da2d07dc7cef3e9afcada"
+metafile = true
+
+[[files]]
 file = "mods/paradisecore-1.18.2-2.0.jar"
 hash = "be29cf0b9f003218a0bc3322e09ebec77ccc7d4c6811bc52ab73d3dee3f34e30"
 
