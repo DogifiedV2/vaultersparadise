@@ -15313,14 +15313,6 @@ file = "config/the_vault/overlevel_enchant.json"
 hash = "8e29ddb4e2705f946280853807a4ea884d1c20f76e2e11df35988ce3843f909e"
 
 [[files]]
-file = "config/the_vault/overvaults_general.json"
-hash = "d16d98cbc0e24d353bfc8861b6964b0f26c0942695df7b0d368c4268cace1212"
-
-[[files]]
-file = "config/the_vault/overvaults_portals.json"
-hash = "26a454464e42a29f702f0272f6ee3640e91c90f7a7d487f8a136ffd1a9a245aa"
-
-[[files]]
 file = "config/the_vault/pandoras_box.json"
 hash = "216a945afb0a5aaadc86fb8f194613ce22c39ed850f45da7e37312c0bf0ca587"
 
@@ -18531,10 +18523,6 @@ hash = "c275633a7319da2b5dc6536b873af407e1d5de6e5d9d00f0fcfa130e0346dbd5"
 metafile = true
 
 [[files]]
-file = "mods/overvaults-1.6.22-1.18.2.jar"
-hash = "f17b3c1e4c7dfc98ba59322a33db76108a169fcdf39290bf48498b85a837cb5c"
-
-[[files]]
 file = "mods/paradisecore-1.18.2-2.0.jar"
 hash = "be29cf0b9f003218a0bc3322e09ebec77ccc7d4c6811bc52ab73d3dee3f34e30"
 
@@ -18691,7 +18679,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "34c1e8998cef7b88ed65e7864faa5678c5772143605f8e3a0185d72cd0a20a9a"
+hash = "bae7eca113e0e8d7c629874fd4c54d3c3de9a86bf162c4653a1a7827339d5ef3"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
