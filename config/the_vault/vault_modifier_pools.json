@@ -2310,20 +2310,8 @@
             "max": 2,
             "pool": [
               {
-                "value": "the_vault:gemstones_on_kill",
-                "weight": 2
-              },
-              {
-                "value": "the_vault:companion_experience_death",
-                "weight": 5
-              },
-              {
                 "value": "the_vault:hoard",
                 "weight": 3
-              },
-              {
-                "value": "the_vault:legendary_duration",
-                "weight": 10
               },
               {
                 "value": "the_vault:ability_cast_failure",

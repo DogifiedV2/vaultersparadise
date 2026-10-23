@@ -5586,32 +5586,6 @@
         }
       }
     },
-    "the_vault:modifier_type/legendary_modifier_duration": {
-      "the_vault:legendary_duration": {
-        "properties": {
-          "reduction": 0.8
-        },
-        "display": {
-          "name": "Cursed Legendaries",
-          "color": "#a996ca",
-          "description": "Legendary Modifiers only lasts for 1 minute",
-          "icon": "the_vault:gui/modifiers/legendary_curse"
-        }
-      }
-    },
-    "the_vault:modifier_type/spell_fail_chance": {
-      "the_vault:spell_failure": {
-        "properties": {
-          "spellFailureChance": 0.5
-        },
-        "display": {
-          "name": "Spell Failure",
-          "color": "#a996ca",
-          "description": "Spells have a 50% chance to not cast.",
-          "icon": "the_vault:gui/modifiers/legendary_modifier"
-        }
-      }
-    },
     "the_vault:modifier_type/mob_spawn_ticks": {
       "the_vault:time_bomb_spawn": {
         "properties": {
@@ -5636,32 +5610,6 @@
           "color": "#a996ca",
           "description": "Mobs will spawn in this vault at a random interval, up to a maximum of 20 mobs per chunk.",
           "icon": "the_vault:gui/modifiers/time_bomb"
-        }
-      }
-    },
-    "the_vault:modifier_type/companion_experience_death": {
-      "the_vault:companion_experience_death": {
-        "properties": {
-          "xpPerKill": 1
-        },
-        "display": {
-          "name": "Wise Mobs",
-          "color": "#a996ca",
-          "description": "Mobs are wise and adds experience to any joined companion when killed",
-          "icon": "the_vault:gui/modifiers/wisemobs"
-        }
-      }
-    },
-    "the_vault:modifier_type/gemstones_on_kill": {
-      "the_vault:gemstones_on_kill": {
-        "properties": {
-          "gemstoneChance": 0.01
-        },
-        "display": {
-          "name": "Gemstone Frenzy",
-          "color": "#a996ca",
-          "description": "A Small chance to genmerate gemstones when killing a mob",
-          "icon": "the_vault:gui/modifiers/gemstone_frenzy"
         }
       }
     },
