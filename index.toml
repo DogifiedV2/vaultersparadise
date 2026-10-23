@@ -1190,11 +1190,11 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "622859a85895e8df3c222d3a805ad9981b79cbdef2fd6d7884a1ff5ddb0827de"
+hash = "09615317655b52b81239bc7e5d8acd320db2c9ef380fe737a7d7fd873d6ccf3a"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "62d184f87fdda438d022124514dd153db3d78f224da761f3dc36d55b0136f6f0"
+hash = "85ee7500c0aff571b17dcba044a87bef4a6e00e32b890979af86253596c04926"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -1202,11 +1202,11 @@ hash = "cd5aef4230778ff80bfee9f451c24c7c6e71880482d358ed75ce2ea867b51b1e"
 
 [[files]]
 file = "config/the_vault/abilities_group.json"
-hash = "fadc74a84a946b7bd1b977e02e65d666756eb9a2b2695ceaac9e5ed487e26759"
+hash = "66efb09b5e643946409844ec10894d19734fa8cbc44ab076b3c9f2f1d93e5ede"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "98a79221e4b699f22fdb369adb088072c80972202f8e56ac1d6085f8d3481fd0"
+hash = "96c7a8c67a461860f9064b2181105c572f50f17ac63a9bcc97e8de4f641c9ace"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -15650,7 +15650,7 @@ hash = "5057da8c4efc3d43f67d92e18216ad6564f043738fb9ceeaff318bb01675375b"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "330b5922996ab1f892d6e453b992aac897694f60f3db924749101a4f6a014d29"
+hash = "5cc7a1bfe9e9c49af2c3cce3416c67cab989bd11b186cb81910969c44685639c"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
@@ -18691,7 +18691,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "2a706888a4130ad7fd6c4c597ed3756ebce3314c0fb44a53465f62332ce558ba"
+hash = "2b80b278074f6ccbca984922d70749a86b6710226e82a809958aa8c448b6b213"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

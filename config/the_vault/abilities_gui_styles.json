@@ -396,6 +396,33 @@
           "icon": "the_vault:gui/abilities/shield_wall"
         }
       }
+    },
+    "Bind": {
+      "x": 595,
+      "y": 100,
+      "specializationStyles": {
+        "Bind_Base": {
+          "icon": "the_vault:gui/abilities/bind"
+        }
+      }
+    },
+    "Soul_Call": {
+      "x": 630,
+      "y": 100,
+      "specializationStyles": {
+        "Soul_Call_Base": {
+          "icon": "the_vault:gui/abilities/soul_call"
+        }
+      }
+    },
+    "Soul_Army": {
+      "x": 560,
+      "y": -50,
+      "specializationStyles": {
+        "Soul_Army_Base": {
+          "icon": "the_vault:gui/abilities/soul_army"
+        }
+      }
     }
   },
   "labels": [

@@ -28780,6 +28780,172 @@
             ]
           }
         ]
+      },
+      {
+        "type": "specialized",
+        "id": "Bind",
+        "name": "Bind",
+        "maxLearnableTier": 1,
+        "specializations": [
+          {
+            "type": "tiered",
+            "id": "Bind_Base",
+            "name": "Bind",
+            "maxLearnableTier": 1,
+            "tiers": [
+              {
+                "type": "bind",
+                "reach": 3.5,
+                "baseChannelTicks": 140,
+                "efficiencyChannelTicks": 160,
+                "championChannelTicks": 60,
+                "minChannelTicks": 100,
+                "manaCost": 40.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 60,
+                "unlockLevel": 0,
+                "id": "bind_1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "specialized",
+        "id": "Soul_Call",
+        "name": "Soul Call",
+        "maxLearnableTier": 5,
+        "specializations": [
+          {
+            "type": "tiered",
+            "id": "Soul_Call_Base",
+            "name": "Soul Call",
+            "maxLearnableTier": 5,
+            "tiers": [
+              {
+                "type": "soul_call",
+                "damagePercent": 0.25,
+                "healthPercent": 0.4,
+                "durationTicks": 400,
+                "maxAlive": 1,
+                "manaCost": 35.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 600,
+                "unlockLevel": 0,
+                "id": "soul_call_1"
+              },
+              {
+                "type": "soul_call",
+                "damagePercent": 0.3,
+                "healthPercent": 0.5,
+                "durationTicks": 440,
+                "maxAlive": 1,
+                "manaCost": 35.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 600,
+                "unlockLevel": 10,
+                "id": "soul_call_2"
+              },
+              {
+                "type": "soul_call",
+                "damagePercent": 0.35,
+                "healthPercent": 0.6,
+                "durationTicks": 480,
+                "maxAlive": 2,
+                "manaCost": 35.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 560,
+                "unlockLevel": 20,
+                "id": "soul_call_3"
+              },
+              {
+                "type": "soul_call",
+                "damagePercent": 0.4,
+                "healthPercent": 0.7,
+                "durationTicks": 540,
+                "maxAlive": 2,
+                "manaCost": 35.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 540,
+                "unlockLevel": 35,
+                "id": "soul_call_4"
+              },
+              {
+                "type": "soul_call",
+                "damagePercent": 0.5,
+                "healthPercent": 0.8,
+                "durationTicks": 600,
+                "maxAlive": 2,
+                "manaCost": 35.0,
+                "learnPointCost": 1,
+                "regretPointCost": 1,
+                "cooldownTicks": 500,
+                "unlockLevel": 50,
+                "id": "soul_call_5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "specialized",
+        "id": "Soul_Army",
+        "name": "Soul Army",
+        "maxLearnableTier": 3,
+        "specializations": [
+          {
+            "type": "tiered",
+            "id": "Soul_Army_Base",
+            "name": "Soul Army",
+            "maxLearnableTier": 3,
+            "tiers": [
+              {
+                "type": "soul_army",
+                "damagePercent": 0.7,
+                "healthPercent": 1.0,
+                "durationTicks": 500,
+                "necroSlots": 3,
+                "manaCost": 80.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "cooldownTicks": 1200,
+                "unlockLevel": 30,
+                "id": "soul_army_1"
+              },
+              {
+                "type": "soul_army",
+                "damagePercent": 0.85,
+                "healthPercent": 1.2,
+                "durationTicks": 600,
+                "necroSlots": 4,
+                "manaCost": 80.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "cooldownTicks": 1200,
+                "unlockLevel": 50,
+                "id": "soul_army_2"
+              },
+              {
+                "type": "soul_army",
+                "damagePercent": 1.0,
+                "healthPercent": 1.4,
+                "durationTicks": 700,
+                "necroSlots": 5,
+                "manaCost": 80.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "cooldownTicks": 1200,
+                "unlockLevel": 75,
+                "id": "soul_army_3"
+              }
+            ]
+          }
+        ]
       }
     ]
   }

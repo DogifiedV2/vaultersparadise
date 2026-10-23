@@ -26,7 +26,8 @@
             "Mana_Shield_Implode",
             "Implode_Life_Tap",
             "Shield_Bash",
-            "Mana_Shield_Retribution"
+            "Mana_Shield_Retribution",
+            "Soul_Call_Base"
         ],
         "POWERUP": [
             "Empower_Base",
@@ -69,11 +70,13 @@
             "Mega_Jump_Break_Up",
             "Mega_Jump_Break_Down",
             "Mana_Shield_Base",
-            "Mana_Barrier"
+            "Mana_Barrier",
+            "Bind_Base"
         ],
         "ULTIMATE": [
             "Storm_Arrow_Base",
-            "Storm_Arrow_Blizzard"
+            "Storm_Arrow_Blizzard",
+            "Soul_Army_Base"
         ]
     }
 }
