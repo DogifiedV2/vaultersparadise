@@ -13,7 +13,7 @@
       }
     },
     "Stonefall": {
-      "x": 490,
+      "x": 525,
       "y": 100,
       "specializationStyles": {
         "Stonefall_Base": {
@@ -28,7 +28,7 @@
       }
     },
     "Hunter": {
-      "x": 525,
+      "x": 560,
       "y": 100,
       "specializationStyles": {
         "Hunter_Base": {
@@ -67,7 +67,7 @@
       }
     },
     "Mega_Jump": {
-      "x": 455,
+      "x": 490,
       "y": 100,
       "specializationStyles": {
         "Mega_Jump_Base": {
@@ -148,7 +148,7 @@
       }
     },
     "Vein_Miner": {
-      "x": 560,
+      "x": 595,
       "y": 100,
       "specializationStyles": {
         "Vein_Miner_Base": {
@@ -178,7 +178,7 @@
       }
     },
     "Dash": {
-      "x": 420,
+      "x": 455,
       "y": 100,
       "specializationStyles": {
         "Dash_Base": {
@@ -398,7 +398,7 @@
       }
     },
     "Bind": {
-      "x": 595,
+      "x": 630,
       "y": 100,
       "specializationStyles": {
         "Bind_Base": {
@@ -407,7 +407,7 @@
       }
     },
     "Soul_Call": {
-      "x": 630,
+      "x": 385,
       "y": 100,
       "specializationStyles": {
         "Soul_Call_Base": {
@@ -477,7 +477,7 @@
           "text": "Utility"
         }
       },
-      "x": 405,
+      "x": 440,
       "y": 65
     },
     {
@@ -569,14 +569,14 @@
       "color": 13355979
     },
     {
-      "x": 400,
+      "x": 435,
       "y": 75,
       "width": 100,
       "height": 1,
       "color": 13355979
     },
     {
-      "x": 400,
+      "x": 435,
       "y": 75,
       "width": 1,
       "height": 50,
