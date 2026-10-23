@@ -15313,14 +15313,6 @@ file = "config/the_vault/overlevel_enchant.json"
 hash = "8e29ddb4e2705f946280853807a4ea884d1c20f76e2e11df35988ce3843f909e"
 
 [[files]]
-file = "config/the_vault/overvaults_general.json"
-hash = "d16d98cbc0e24d353bfc8861b6964b0f26c0942695df7b0d368c4268cace1212"
-
-[[files]]
-file = "config/the_vault/overvaults_portals.json"
-hash = "26a454464e42a29f702f0272f6ee3640e91c90f7a7d487f8a136ffd1a9a245aa"
-
-[[files]]
 file = "config/the_vault/pandoras_box.json"
 hash = "216a945afb0a5aaadc86fb8f194613ce22c39ed850f45da7e37312c0bf0ca587"
 
@@ -18529,10 +18521,6 @@ hash = "7731a22424f21f2637a6ad565c12d9b063bbefc4d516a292cb80d9e0ac9798ba"
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "c275633a7319da2b5dc6536b873af407e1d5de6e5d9d00f0fcfa130e0346dbd5"
 metafile = true
-
-[[files]]
-file = "mods/overvaults-1.6.22-1.18.2.jar"
-hash = "f17b3c1e4c7dfc98ba59322a33db76108a169fcdf39290bf48498b85a837cb5c"
 
 [[files]]
 file = "mods/paradisecore-1.18.2-2.0.jar"
