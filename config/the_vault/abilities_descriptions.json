@@ -4131,6 +4131,204 @@
         "manaCostPerSecond",
         "levitateSpeed"
       ]
+    },
+    "Bind_Base": {
+      "description": [
+        {
+          "text": "Channel a ",
+          "color": "$text"
+        },
+        {
+          "text": "soul tether",
+          "color": "$titleLine"
+        },
+        {
+          "text": " into a ",
+          "color": "$text"
+        },
+        {
+          "text": "Bindable",
+          "color": "$titleLine"
+        },
+        {
+          "text": " mob within reach. When the tether closes, the ",
+          "color": "$text"
+        },
+        {
+          "text": "lower its health",
+          "color": "$damage"
+        },
+        {
+          "text": ", the better your ",
+          "color": "$text"
+        },
+        {
+          "text": "chance",
+          "color": "$chance"
+        },
+        {
+          "text": " to capture it as a Bound Soul.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "Higher efficiency souls take ",
+          "color": "$text"
+        },
+        {
+          "text": "longer",
+          "color": "$duration"
+        },
+        {
+          "text": " and need the mob lower. Leaving reach breaks the tether. A failed bind ",
+          "color": "$text"
+        },
+        {
+          "text": "enrages",
+          "color": "$damage"
+        },
+        {
+          "text": " the mob.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "✴ Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "distance",
+        "duration"
+      ],
+      "next": [
+        "cooldown",
+        "manaCost",
+        "distance",
+        "duration"
+      ]
+    },
+    "Soul_Call_Base": {
+      "description": [
+        {
+          "text": "Raise a random soul from your ",
+          "color": "$text"
+        },
+        {
+          "text": "necro slots",
+          "color": "$titleLine"
+        },
+        {
+          "text": " as a spectral ally. Its ",
+          "color": "$text"
+        },
+        {
+          "text": "damage",
+          "color": "$damage"
+        },
+        {
+          "text": " and ",
+          "color": "$text"
+        },
+        {
+          "text": "health",
+          "color": "$heal"
+        },
+        {
+          "text": " are a share of your own.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "A summon that dies rests until the ",
+          "color": "$text"
+        },
+        {
+          "text": "cooldown",
+          "color": "$cooldown"
+        },
+        {
+          "text": " is up.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "✴ Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "cooldown",
+        "manaCost",
+        "damage",
+        "healthPercent",
+        "duration",
+        "summonsOut"
+      ],
+      "next": [
+        "cooldown",
+        "manaCost",
+        "damage",
+        "healthPercent",
+        "duration",
+        "summonsOut"
+      ]
+    },
+    "Soul_Army_Base": {
+      "description": [
+        {
+          "text": "Raise ",
+          "color": "$text"
+        },
+        {
+          "text": "every soul",
+          "color": "$titleLine"
+        },
+        {
+          "text": " in your necro slots at once, resting ones too, at full strength. Their ",
+          "color": "$text"
+        },
+        {
+          "text": "damage",
+          "color": "$damage"
+        },
+        {
+          "text": " and ",
+          "color": "$text"
+        },
+        {
+          "text": "health",
+          "color": "$heal"
+        },
+        {
+          "text": " come from your own.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "Once per vault",
+          "color": "$duration"
+        },
+        {
+          "text": ". When the army fades, the souls are back in their slots.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "✴ Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "manaCost",
+        "damage",
+        "healthPercent",
+        "duration",
+        "necroSlots"
+      ],
+      "next": [
+        "manaCost",
+        "damage",
+        "healthPercent",
+        "duration",
+        "necroSlots"
+      ]
     }
   }
 }
