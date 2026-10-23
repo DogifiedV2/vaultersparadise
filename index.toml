@@ -18240,6 +18240,10 @@ file = "mods/companion_locker-3.21.5.jar"
 hash = "c0a3c7edbd1efc9756e5476df459d82b79a93e684477e6dbfa6839bc1cf2f909"
 
 [[files]]
+file = "mods/connectivity-1.18.2-3.2.jar"
+hash = "001e708798ed1a5270896b5759c3f0991a52357de6e62cf67f26a267197590ac"
+
+[[files]]
 file = "mods/cookingforblockheads-forge-1.18.2-12.2.0.jar"
 hash = "4201ea207da01c2d4593f6df0f0ff7a4c538fc5e92fd0767ff37bfde6ee2e231"
 
@@ -18531,11 +18535,6 @@ file = "mods/overvaults-1.6.22-1.18.2.jar"
 hash = "f17b3c1e4c7dfc98ba59322a33db76108a169fcdf39290bf48498b85a837cb5c"
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "c1629f045dd324a286871a1d2503bb0cf22cdb8a354da2d07dc7cef3e9afcada"
-metafile = true
-
-[[files]]
 file = "mods/paradisecore-1.18.2-2.0.jar"
 hash = "be29cf0b9f003218a0bc3322e09ebec77ccc7d4c6811bc52ab73d3dee3f34e30"
 
@@ -18692,7 +18691,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "1b0321cd8bc371868e60d3451d094796a1d0dd977ed6c24ccd577b29c477d03e"
+hash = "5b6025168abf315008a77912ba0d218270d0ebf0fd16d78c008c1b9b50ffe04b"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
