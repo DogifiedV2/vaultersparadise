@@ -461,6 +461,10 @@ file = "config/blockcarpentry-common.toml"
 hash = "96690dd4028bb97beb48bbb4781ebc9a4ddc0da9a80bc7f30b1703362fe77c63"
 
 [[files]]
+file = "config/bocchud.json"
+hash = "a07b4822b6c8f5090b7ac226658c3651e90b91a172e99c1fe531740cc4548218"
+
+[[files]]
 file = "config/bonsaitrees3-client.toml"
 hash = "3499b3dc1722ec85b96d3e77aa79b53ad846dc134861130a4ebd69e25d934540"
 
