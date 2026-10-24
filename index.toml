@@ -19142,10 +19142,6 @@ file = "patchouli_data.json"
 hash = "67f9392a5dd16c0ef628721bfd20daef52ecdd733a35ec020ea6398df5662ae7"
 
 [[files]]
-file = "resourcepacks/Qiyanas_valley_V5.zip"
-hash = "9b679dacc79be952f022bb95741a04b4da629d5bff5897d902c925f9e76c3192"
-
-[[files]]
 file = "scripts/00_millennium_scripts.zs"
 hash = "9e89a3abb726d8cbcd06ef44fae66bc93bf38822134d82f60784b596d55bb2dd"
 
