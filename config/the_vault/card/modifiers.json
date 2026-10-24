@@ -2762,86 +2762,6 @@
       ],
       "maxTier": 1
     },
-    "earthquake": {
-      "type": "gear",
-      "name": {
-        "text": "Earthquake Card"
-      },
-      "model": "the_vault:card/icon/earthquake#inventory",
-      "groups": [
-        "Arcane",
-        "Offensive"
-      ],
-      "attribute": "the_vault:added_ability_level",
-      "pool": [
-        {
-          "tier": 1,
-          "abilityKey": "Earthquake_Base",
-          "levelChange": 1
-        }
-      ],
-      "maxTier": 1
-    },
-    "landmine": {
-      "type": "gear",
-      "name": {
-        "text": "Landmine Card"
-      },
-      "model": "the_vault:card/icon/landmine#inventory",
-      "groups": [
-        "Arcane",
-        "Offensive"
-      ],
-      "attribute": "the_vault:added_ability_level",
-      "pool": [
-        {
-          "tier": 1,
-          "abilityKey": "Earthquake_Landmine",
-          "levelChange": 1
-        }
-      ],
-      "maxTier": 1
-    },
-    "mana_shield_implode": {
-      "type": "gear",
-      "name": {
-        "text": "Implode Card"
-      },
-      "model": "the_vault:card/icon/mana_shield_implode#inventory",
-      "groups": [
-        "Arcane",
-        "Offensive"
-      ],
-      "attribute": "the_vault:added_ability_level",
-      "pool": [
-        {
-          "tier": 1,
-          "abilityKey": "Mana_Shield_Implode",
-          "levelChange": 1
-        }
-      ],
-      "maxTier": 1
-    },
-    "life_tap": {
-      "type": "gear",
-      "name": {
-        "text": "Life Tap Card"
-      },
-      "model": "the_vault:card/icon/life_tap#inventory",
-      "groups": [
-        "Arcane",
-        "Offensive"
-      ],
-      "attribute": "the_vault:added_ability_level",
-      "pool": [
-        {
-          "tier": 1,
-          "abilityKey": "Implode_Life_Tap",
-          "levelChange": 1
-        }
-      ],
-      "maxTier": 1
-    },
     "shell": {
       "type": "gear",
       "name": {
@@ -3417,46 +3337,6 @@
         {
           "tier": 1,
           "abilityKey": "Smite_Archon",
-          "levelChange": 1
-        }
-      ],
-      "maxTier": 1
-    },
-    "blizzard": {
-      "type": "gear",
-      "name": {
-        "text": "Blizzard Card"
-      },
-      "model": "the_vault:card/icon/blizzard#inventory",
-      "groups": [
-        "Arcane",
-        "Offensive"
-      ],
-      "attribute": "the_vault:added_ability_level",
-      "pool": [
-        {
-          "tier": 1,
-          "abilityKey": "Storm_Arrow_Blizzard",
-          "levelChange": 1
-        }
-      ],
-      "maxTier": 1
-    },
-    "thunderstorm": {
-      "type": "gear",
-      "name": {
-        "text": "Storm Arrow Card"
-      },
-      "model": "the_vault:card/icon/thunderstorm#inventory",
-      "groups": [
-        "Arcane",
-        "Offensive"
-      ],
-      "attribute": "the_vault:added_ability_level",
-      "pool": [
-        {
-          "tier": 1,
-          "abilityKey": "Storm_Arrow_Base",
           "levelChange": 1
         }
       ],
@@ -8945,10 +8825,6 @@
         "weight": 1.0
       },
       {
-        "value": "mana_shield_implode",
-        "weight": 1.0
-      },
-      {
         "value": "shield_bash_retribution",
         "weight": 1.0
       },
@@ -9025,14 +8901,6 @@
         "weight": 1.0
       },
       {
-        "value": "blizzard",
-        "weight": 1.0
-      },
-      {
-        "value": "thunderstorm",
-        "weight": 1.0
-      },
-      {
         "value": "battle_cry",
         "weight": 1.0
       },
@@ -9065,23 +8933,11 @@
         "weight": 1.0
       },
       {
-        "value": "life_tap",
-        "weight": 1.0
-      },
-      {
         "value": "arcane",
         "weight": 1.0
       },
       {
         "value": "arcane_rail",
-        "weight": 1.0
-      },
-      {
-        "value": "earthquake",
-        "weight": 1.0
-      },
-      {
-        "value": "landmine",
         "weight": 1.0
       },
       {

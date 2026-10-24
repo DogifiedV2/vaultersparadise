@@ -361,9 +361,6 @@
       "specializationStyles": {
         "Earthquake_Base": {
           "icon": "the_vault:gui/abilities/earthquake"
-        },
-        "Earthquake_Landmine": {
-          "icon": "the_vault:gui/abilities/landmine"
         }
       }
     },
