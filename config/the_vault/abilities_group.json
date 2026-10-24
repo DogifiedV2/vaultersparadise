@@ -16,15 +16,11 @@
             "Arcane_Rail",
             "Chain_Lightning_Base",
             "Chain_Lightning_Orbs",
-            "Earthquake_Base",
-            "Earthquake_Landmine",
             "Grenade_Base",
             "Toxic_Grenade",
             "Nova_Base",
             "Nova_Slow",
             "Nova_Dot",
-            "Mana_Shield_Implode",
-            "Implode_Life_Tap",
             "Shield_Bash",
             "Mana_Shield_Retribution",
             "Soul_Call_Base"
@@ -76,7 +72,10 @@
         "ULTIMATE": [
             "Storm_Arrow_Base",
             "Storm_Arrow_Blizzard",
-            "Soul_Army_Base"
+            "Soul_Army_Base",
+            "Earthquake_Base",
+            "Mana_Shield_Implode",
+            "Implode_Life_Tap"
         ]
     }
 }

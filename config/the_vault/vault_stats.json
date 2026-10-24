@@ -1,6 +1,8 @@
 {
   "percentOfExperienceDealtAsDurabilityDamage": 0.0,
   "freeExperienceNotDealtAsDurabilityDamage": 6000,
+  "contentExpSoftCap": 1000000.0,
+  "contentExpPerDoublingAboveSoftCap": 0.7,
   "chests": {
     "WOODEN": {
       "COMMON": 20.0,

@@ -581,9 +581,9 @@
           "the_vault:base_ap"
         ],
         "PREFIX": [
-          "the_vault:unique_storm_arrow_level",
-          "the_vault:storm_aoe_reduce",
-          "the_vault:storm_cooldown"
+          "the_vault:unique_tempest_chains",
+          "the_vault:unique_tempest_duration",
+          "the_vault:unique_tempest_final_bolt"
         ],
         "SUFFIX": [
           "the_vault:mod_mana_regen"
