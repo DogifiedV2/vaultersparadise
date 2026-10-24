@@ -1211,7 +1211,7 @@
           "color": "$text"
         },
         {
-          "text": "Once per vault, shared by all ultimates",
+          "text": "Once per vault in a vault, shared by all ultimates; outside vaults only the cooldown applies",
           "color": "$duration"
         },
         {
@@ -3061,7 +3061,7 @@
           "color": "$text"
         },
         {
-          "text": "Once per vault, shared by all ultimates",
+          "text": "Once per vault in a vault, shared by all ultimates; outside vaults only the cooldown applies",
           "color": "$duration"
         },
         {
@@ -3129,7 +3129,7 @@
           "color": "$text"
         },
         {
-          "text": "Once per vault, shared by all ultimates",
+          "text": "Once per vault in a vault, shared by all ultimates; outside vaults only the cooldown applies",
           "color": "$duration"
         },
         {
@@ -3627,7 +3627,7 @@
           "color": "$text"
         },
         {
-          "text": "Once per vault, shared by all ultimates",
+          "text": "Once per vault in a vault, shared by all ultimates; outside vaults only the cooldown applies",
           "color": "$duration"
         },
         {
@@ -3693,7 +3693,7 @@
           "color": "$text"
         },
         {
-          "text": "Once per vault, shared by all ultimates",
+          "text": "Once per vault in a vault, shared by all ultimates; outside vaults only the cooldown applies",
           "color": "$duration"
         },
         {
@@ -4253,7 +4253,7 @@
           "color": "$text"
         },
         {
-          "text": "Once per vault, shared by all ultimates",
+          "text": "Once per vault in a vault, shared by all ultimates; outside vaults only the cooldown applies",
           "color": "$duration"
         },
         {
