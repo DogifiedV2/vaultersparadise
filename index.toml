@@ -1198,7 +1198,7 @@ hash = "fa0b51db71f326fe821616e7475b3de596b9018e97a925253de975d49e58b189"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "3fb181a44810240c5308f1143e28d21458a1d304103b2bd46f655187f0733e50"
+hash = "297a4a94686be3bad9ba7bd60b7c7f83d971913f0931519f0fcd2f665473843b"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -15534,7 +15534,7 @@ hash = "f7207cdf0ee519eaa368d8b9d9571bd04713984af029607d5bc4822c3c84f51b"
 
 [[files]]
 file = "config/the_vault/tooltip.json"
-hash = "bae1c64702436e66efb6edcc604a891ec26f4c98042b2ec6df189c6cc7b3a14e"
+hash = "97944e3fdcdff26bb6c0190fb1238f48adeec8e031d102e9d92538123a17a2de"
 
 [[files]]
 file = "config/the_vault/tower.json"
@@ -18532,7 +18532,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradisecore-1.18.2-2.0.jar"
-hash = "e25aaa36c689d48559f0db2a9714039f6bcb539b09ed9d54149ad5e653e32e88"
+hash = "9a11244be517fd913bcf5a6d9bcfe0fcfc6d6d7be2151f1f81ee9cda115dbe48"
 
 [[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
@@ -18686,8 +18686,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "f9c19eb87e7ffaf75038180522d438a5248d918eb55ace2172103d2d7daa03de"
+file = "mods/the_vault-1.18.2-3.21.65.jar"
+hash = "ae1c1d9acdb3f4eff0064f73be9f43f2be93cd2929abce0702c295a3b1bf57c4"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
