@@ -119,11 +119,11 @@
     "mainRenderingToggle": {
       "enabled": false,
       "hotkey": {
-        "keys": "H"
+        "keys": "F6"
       }
     },
     "openConfigGui": {
-      "keys": "H,C"
+      "keys": "F6,C"
     },
     "requiredKey": {
       "keys": ""

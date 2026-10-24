@@ -288,25 +288,6 @@
     },
     {
       "modIds": [
-        "integrateddynamics",
-        "integratedterminals",
-        "integratedtunnels"
-      ],
-      "restrictions": {
-        "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
-          "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
-        }
-      },
-      "name": "Integrated Dynamics",
-      "cost": 2,
-      "usesKnowledge": true
-    },
-    {
-      "modIds": [
         "storagedrawers"
       ],
       "restrictions": {
@@ -1231,15 +1212,6 @@
       "entityRestrictions": {},
       "name": "Phytogenic Insulator",
       "cost": 2,
-      "usesKnowledge": true
-    },
-    {
-      "itemRestrictions": {
-      },
-      "blockRestrictions": {},
-      "entityRestrictions": {},
-      "name": "Pouches",
-      "cost": 1,
       "usesKnowledge": true
     },
     {

@@ -462,7 +462,7 @@ hash = "96690dd4028bb97beb48bbb4781ebc9a4ddc0da9a80bc7f30b1703362fe77c63"
 
 [[files]]
 file = "config/bocchud.json"
-hash = "a07b4822b6c8f5090b7ac226658c3651e90b91a172e99c1fe531740cc4548218"
+hash = "95df1f4b0017e97ff4419c0a1ce2f2777b1d867aede529a0410f5a02f6d28969"
 
 [[files]]
 file = "config/bonsaitrees3-client.toml"
@@ -1270,7 +1270,7 @@ hash = "1eac7a0f5d57133d0fcd33c7ba29e6d01059e464175e92d1ea5f806d71d987a8"
 
 [[files]]
 file = "config/the_vault/ascension_forge.json"
-hash = "834094aae5155a39491deeacbe0e0874981df4ea797c24583be1ddded01c3507"
+hash = "68c5014476a74a8066023e6affaa249e6c102b2352a9fa021b3b869d5c57651e"
 
 [[files]]
 file = "config/the_vault/augment.json"
@@ -15306,7 +15306,7 @@ hash = "cf991056fa34449297cc84021dc9b970b4b0153b051d383e7b1b6297f378ec6f"
 
 [[files]]
 file = "config/the_vault/omega_box.json"
-hash = "385c09a6547c11b84f5cd36963a21b0b24c22560965b2276d654b56247670520"
+hash = "460fc5b3c5b728c461e8e42e59600bca399f1e552cab174df9e0142ec6314d69"
 
 [[files]]
 file = "config/the_vault/omega_soul_shard.json"
@@ -15414,7 +15414,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "c11c0d0526cbe2ff439ca11a43c6572b43a19f93b3a588bb8dc8d04560b01221"
+hash = "a8b095a05ed1da68bf8aa925b3d19aa08f0c2d4c15d5250c3fc08b7167aceb1d"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -15478,7 +15478,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "786d334ce8b1c6d6f10c92a430b5638316ade34be3b5b20a5e105ca14f42211e"
+hash = "84f11d6e1a128e851e0e8b3108001062dc22d18c74f8aed70cce204fb5de626a"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -18532,7 +18532,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradisecore-1.18.2-2.0.jar"
-hash = "07cb8f7f22761ad21d0371231f77c127f969b4bcf5e660a7b5bae1da1439f583"
+hash = "17c35d6a697564d54efa2213dd8f205465176836c4ff9c0189578795690a55d3"
 
 [[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
@@ -18540,7 +18540,7 @@ hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
 [[files]]
 file = "mods/playershops-1.1.jar"
-hash = "e36ae741a1c7c177162f5bb2d19e81ee0f15c28daa34f5ad937f813c23e9d905"
+hash = "d4e9fbe13696a3e26351ac2dd8d52ae7d5806e46b5453590a4dc3ff453997aa2"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.50.jar"
@@ -18687,7 +18687,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.62.jar"
-hash = "b30a2870b09b05013537a97235c7b1b496cfc231445f4bde85c271405dafbb94"
+hash = "5622d1bb78b1197ef7d0854ef7b79bb821faaa073ba749111975685f5ee6298e"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
