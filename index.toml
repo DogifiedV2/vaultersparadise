@@ -1037,6 +1037,10 @@ file = "config/openloader/data/catchable.zip"
 hash = "880ca980af0d34b6a893bb11d2774a1fc76f3212e34679695e7e47d85dea7550"
 
 [[files]]
+file = "config/openloader/data/fishing.zip"
+hash = "4b7d34aaf1d61091e2a0f8187f9968426ec174ce8cd1d2070bd9ad1f33730a85"
+
+[[files]]
 file = "config/openloader/data/mobdrops.zip"
 hash = "9966c90feba1aa80ae6f23abef69cc2373cf856452545904cd3a63a5b9331d0a"
 
@@ -1386,7 +1390,7 @@ hash = "1d41d9a545c34a8d115ec45b57df6a6eb6a8b10a1fa3c0f9bc908597eb455488"
 
 [[files]]
 file = "config/the_vault/bounty/rewards.json"
-hash = "294a926748b19fa86ab22999de963bbd146f388089d0cdd7ca2fe315434377de"
+hash = "4a3bffcac8b35ec72e3dcc204e892032e9aa4362ee03ad53e5c9d0decbba8b93"
 
 [[files]]
 file = "config/the_vault/bounty/task/completion.json"
@@ -1446,7 +1450,7 @@ hash = "cc4ecf92a51a956af4fcbccc4d276897163be4f64ec2c58f85c3b7bb4bbe70b8"
 
 [[files]]
 file = "config/the_vault/bounty/wanted.json"
-hash = "3d387fbd74108c2cbcca8d1bb7310ac2e053605cf62ea0734cf32bfabfbd0b5b"
+hash = "ef47e7391b333ca2dc554f1aa681539142593165d563fc7142097649cbc535c9"
 
 [[files]]
 file = "config/the_vault/card/booster_packs.json"
@@ -2451,6 +2455,30 @@ hash = "1cf86edfa91ae508a945e04958088581e2be19e8d046e63afb249650ee0708a9"
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/ornate_strongbox_65.json"
 hash = "1cf86edfa91ae508a945e04958088581e2be19e8d046e63afb249650ee0708a9"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/outlaw_elite_loot_lvl0.json"
+hash = "7e7334a0184c4860a755c3e7b0ab680e3820e88a6a5a8c619cb567b092ccf04a"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/outlaw_elite_loot_lvl20.json"
+hash = "6984d145b25a9715be8726232df6668ebdd24aa71db922823a77a5f672b6e6c2"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/outlaw_elite_loot_lvl50.json"
+hash = "6eddf393c25f11bb9798a641400514678c4968b8a82dc11cca8ef4e7a6e88681"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/outlaw_loot_lvl0.json"
+hash = "aaea55782193431cdcabd6d2700e315f5ad0ad7b66179a6b67768e85a208006a"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/outlaw_loot_lvl20.json"
+hash = "6fc49f181e640367980e91640217d9728b43327185f184f83788c20c1bc4d1aa"
+
+[[files]]
+file = "config/the_vault/gen/1.0/loot_tables/outlaw_loot_lvl50.json"
+hash = "58fe699b7df06b673409bdc437eec5517965ac45615bbdc84784725593bab9a2"
 
 [[files]]
 file = "config/the_vault/gen/1.0/loot_tables/pandoras_1.json"
@@ -14922,7 +14950,7 @@ hash = "b0a5aa8a79f3bb56b94bad34ccebf0adc102f7fcc658f1f3c23badac1e4b4ba5"
 
 [[files]]
 file = "config/the_vault/gen/loot_tables.json"
-hash = "f7aaae01310aee110510490aa114493e8c6d7da379ba18c9c3a55167f3b93643"
+hash = "d02b22559ada61e4b30e65216a532c7fd653e38992bb2269996ac3c36b8af88b"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
@@ -15246,7 +15274,7 @@ hash = "7010e68a8d2f778837b62e5f4885f80002ec1a3ff69256d3ce62cf6b5dd6d610"
 
 [[files]]
 file = "config/the_vault/loot_info.json"
-hash = "1ffb800b9948ea098d57d6ca1f0df8abd79b16433593bdbffce7ed9f571d30b5"
+hash = "3d928d1d4d861ee5af7b824300c7e1637c834d9021eb7ac410c610f82f747685"
 
 [[files]]
 file = "config/the_vault/loot_table.json"
@@ -18687,7 +18715,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.65.jar"
-hash = "2c85985f028840c681e27386d7585ac0b530bb7791f7c1581fdacc0a37a5fc4e"
+hash = "88a05d78b5e5f5067c8d78d0251d64e93d14ca6965cd9c9c037e4787a8a23c69"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
