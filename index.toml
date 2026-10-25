@@ -15510,7 +15510,7 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "84f11d6e1a128e851e0e8b3108001062dc22d18c74f8aed70cce204fb5de626a"
+hash = "5a607457b8549ba2fd50ced0bce2d761562bef43794cc40d4423ccadd9008bd7"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
@@ -15570,7 +15570,7 @@ hash = "97944e3fdcdff26bb6c0190fb1238f48adeec8e031d102e9d92538123a17a2de"
 
 [[files]]
 file = "config/the_vault/tower.json"
-hash = "92c0fd575117dec4b473fc3bb08fe4dd2a4eda953d7b23fe49188585fb00a7ee"
+hash = "740e4cb2b176c91963072dd18ec21d6712950f75c51473e2c9ef7b7b3c00b174"
 
 [[files]]
 file = "config/the_vault/trader_exclusions.json"
@@ -19179,7 +19179,7 @@ hash = "9e89a3abb726d8cbcd06ef44fae66bc93bf38822134d82f60784b596d55bb2dd"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "d16642a28ddae2ade0805b85360d2f6b36cb6a31543f67113e1bdf23db9928c6"
+hash = "a4436da673f2c585e1bb2f2bde2ea467c7305e1582f12d9f093f524dfc171675"
 
 [[files]]
 file = "scripts/AdvancedPeripherals.zs"
