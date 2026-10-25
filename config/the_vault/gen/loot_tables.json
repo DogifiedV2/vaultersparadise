@@ -874,6 +874,36 @@
       "id": "the_vault:arcane_chest",
       "name": "Arcane Chest",
       "1.0": "config/the_vault/gen/1.0/loot_tables/arcane_chest.json"
+    },
+    {
+      "id": "the_vault:outlaw_loot_lvl0",
+      "name": "Outlaw Loot Level 0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/outlaw_loot_lvl0.json"
+    },
+    {
+      "id": "the_vault:outlaw_elite_loot_lvl0",
+      "name": "Elite Outlaw Loot Level 0",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/outlaw_elite_loot_lvl0.json"
+    },
+    {
+      "id": "the_vault:outlaw_loot_lvl20",
+      "name": "Outlaw Loot Level 20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/outlaw_loot_lvl20.json"
+    },
+    {
+      "id": "the_vault:outlaw_elite_loot_lvl20",
+      "name": "Elite Outlaw Loot Level 20",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/outlaw_elite_loot_lvl20.json"
+    },
+    {
+      "id": "the_vault:outlaw_loot_lvl50",
+      "name": "Outlaw Loot Level 50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/outlaw_loot_lvl50.json"
+    },
+    {
+      "id": "the_vault:outlaw_elite_loot_lvl50",
+      "name": "Elite Outlaw Loot Level 50",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/outlaw_elite_loot_lvl50.json"
     }
   ]
 }

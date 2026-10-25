@@ -6,7 +6,7 @@
   "cueIntervalTicks": 120,
   "cueVolume": 12.0,
   "bossBarRange": 48,
-  "rewardPool": "rare",
+  "rewardPool": "epic",
   "dangerousRewardPool": "legendary",
   "affixes": 1,
   "dangerousMinAffixes": 2,
@@ -62,6 +62,23 @@
     {
       "level": 100,
       "value": 28
+    }
+  ],
+  "lootTables": [
+    {
+      "level": 0,
+      "normal": "the_vault:outlaw_loot_lvl0",
+      "elite": "the_vault:outlaw_elite_loot_lvl0"
+    },
+    {
+      "level": 20,
+      "normal": "the_vault:outlaw_loot_lvl20",
+      "elite": "the_vault:outlaw_elite_loot_lvl20"
+    },
+    {
+      "level": 50,
+      "normal": "the_vault:outlaw_loot_lvl50",
+      "elite": "the_vault:outlaw_elite_loot_lvl50"
     }
   ],
   "archetypes": [
