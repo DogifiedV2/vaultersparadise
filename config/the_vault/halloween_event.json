@@ -18,85 +18,81 @@
   "PEDDLER_MODIFIERS": [
     {
       "modifier": "the_vault:item_quantity",
-      "price": 6
+      "price": 4
     },
     {
       "modifier": "the_vault:fuller_chests",
-      "price": 9
-    },
-    {
-      "modifier": "the_vault:bountiful_chests",
-      "price": 16
-    },
-    {
-      "modifier": "the_vault:item_rarity",
-      "price": 6
-    },
-    {
-      "modifier": "the_vault:pristine",
-      "price": 12
-    },
-    {
-      "modifier": "the_vault:blessed_chests",
-      "price": 16
-    },
-    {
-      "modifier": "the_vault:more_souls",
-      "price": 8
-    },
-    {
-      "modifier": "the_vault:serendipitous",
-      "price": 12
-    },
-    {
-      "modifier": "the_vault:catalyst_cache",
-      "price": 8
-    },
-    {
-      "modifier": "the_vault:more_experience",
-      "price": 8
-    },
-    {
-      "modifier": "the_vault:swift",
       "price": 5
     },
     {
+      "modifier": "the_vault:bountiful_chests",
+      "price": 10
+    },
+    {
+      "modifier": "the_vault:item_rarity",
+      "price": 4
+    },
+    {
+      "modifier": "the_vault:pristine",
+      "price": 7
+    },
+    {
+      "modifier": "the_vault:blessed_chests",
+      "price": 10
+    },
+    {
+      "modifier": "the_vault:more_souls",
+      "price": 5
+    },
+    {
+      "modifier": "the_vault:serendipitous",
+      "price": 7
+    },
+    {
+      "modifier": "the_vault:catalyst_cache",
+      "price": 5
+    },
+    {
+      "modifier": "the_vault:more_experience",
+      "price": 5
+    },
+    {
+      "modifier": "the_vault:swift",
+      "price": 3
+    },
+    {
       "modifier": "the_vault:cooldown_down",
-      "price": 8
+      "price": 5
     },
     {
       "modifier": "the_vault:energizing",
-      "price": 6
+      "price": 4
     },
     {
       "modifier": "the_vault:lucky",
-      "price": 6
+      "price": 4
     }
   ],
   "PEDDLER_CATALYSTS": [
     {
       "modifier": "the_vault:more_mobs_cata",
-      "price": 10
-    },
-    {
-      "modifier": "the_vault:divine_essence_chest",
-      "price": 14
+      "price": 6
     },
     {
       "modifier": "the_vault:phoenix",
-      "price": 20
+      "price": 12
     },
     {
       "modifier": "the_vault:xp_gain",
-      "price": 8
+      "price": 5
     },
     {
       "modifier": "the_vault:soul_boost",
-      "price": 8
+      "price": 5
     },
     {
       "modifier": "the_vault:extended",
-      "price": 6
+      "price": 4
     }
   ],
   "PEDDLER_BACKPACKS": [
