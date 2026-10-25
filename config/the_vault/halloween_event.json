@@ -1,0 +1,117 @@
+{
+  "TIME_ZONE": "Europe/Brussels",
+  "START": "2026-10-26T16:00",
+  "END": "2026-11-02T00:00",
+  "CHEST_CANDY_CHANCE": 0.3,
+  "CHEST_CANDY_MIN": 1,
+  "CHEST_CANDY_MAX": 2,
+  "MOB_CANDY_CHANCE": 0.03,
+  "PEDDLER_OBJECTIVES": [
+    "monolith",
+    "elixir",
+    "scavenger",
+    "bingo",
+    "scavenger_bingo"
+  ],
+  "PEDDLER_OFFER_COUNT": 3,
+  "PEDDLER_MODIFIERS": [
+    {
+      "modifier": "the_vault:item_quantity",
+      "price": 6
+    },
+    {
+      "modifier": "the_vault:fuller_chests",
+      "price": 9
+    },
+    {
+      "modifier": "the_vault:bountiful_chests",
+      "price": 16
+    },
+    {
+      "modifier": "the_vault:item_rarity",
+      "price": 6
+    },
+    {
+      "modifier": "the_vault:pristine",
+      "price": 12
+    },
+    {
+      "modifier": "the_vault:blessed_chests",
+      "price": 16
+    },
+    {
+      "modifier": "the_vault:soul_boost",
+      "price": 8
+    },
+    {
+      "modifier": "the_vault:more_souls",
+      "price": 8
+    },
+    {
+      "modifier": "the_vault:serendipitous",
+      "price": 12
+    },
+    {
+      "modifier": "the_vault:catalyst_cache",
+      "price": 8
+    },
+    {
+      "modifier": "the_vault:more_experience",
+      "price": 8
+    },
+    {
+      "modifier": "the_vault:plentiful",
+      "price": 6
+    },
+    {
+      "modifier": "the_vault:gilded",
+      "price": 10
+    },
+    {
+      "modifier": "the_vault:ornate",
+      "price": 10
+    },
+    {
+      "modifier": "the_vault:coin_pile",
+      "price": 8
+    },
+    {
+      "modifier": "the_vault:extended",
+      "price": 6
+    },
+    {
+      "modifier": "the_vault:swift",
+      "price": 5
+    },
+    {
+      "modifier": "the_vault:cooldown_down",
+      "price": 8
+    }
+  ],
+  "PEDDLER_BACKPACKS": [
+    {
+      "model": "the_vault:backpacks/jack_o_lantern",
+      "price": 150
+    },
+    {
+      "model": "the_vault:backpacks/coffin_pack",
+      "price": 150
+    },
+    {
+      "model": "the_vault:backpacks/bottled_ghost",
+      "price": 150
+    },
+    {
+      "model": "the_vault:backpacks/witch_cauldron",
+      "price": 100
+    },
+    {
+      "model": "the_vault:backpacks/spider_brood",
+      "price": 100
+    },
+    {
+      "model": "the_vault:backpacks/trick_or_treat_sack",
+      "price": 100
+    }
+  ]
+}
