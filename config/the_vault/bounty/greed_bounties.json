@@ -1,6 +1,6 @@
 {
-  "totalBountyCount": 4,
-  "maxActive": 2,
+  "totalBountyCount": 3,
+  "maxActive": 1,
   "abandonedPenaltySeconds": 28800,
   "waitingPeriodSeconds": 7200,
   "weightedTaskList": [
