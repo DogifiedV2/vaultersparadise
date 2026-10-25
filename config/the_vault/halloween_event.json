@@ -13,7 +13,8 @@
     "bingo",
     "scavenger_bingo"
   ],
-  "PEDDLER_OFFER_COUNT": 3,
+  "PEDDLER_MODIFIER_OFFERS": 4,
+  "PEDDLER_CATALYST_OFFERS": 2,
   "PEDDLER_MODIFIERS": [
     {
       "modifier": "the_vault:item_quantity",
@@ -40,10 +41,6 @@
       "price": 16
     },
     {
-      "modifier": "the_vault:soul_boost",
-      "price": 8
-    },
-    {
       "modifier": "the_vault:more_souls",
       "price": 8
     },
@@ -60,32 +57,46 @@
       "price": 8
     },
     {
-      "modifier": "the_vault:plentiful",
-      "price": 6
-    },
-    {
-      "modifier": "the_vault:gilded",
-      "price": 10
-    },
-    {
-      "modifier": "the_vault:ornate",
-      "price": 10
-    },
-    {
-      "modifier": "the_vault:coin_pile",
-      "price": 8
-    },
-    {
-      "modifier": "the_vault:extended",
-      "price": 6
-    },
-    {
       "modifier": "the_vault:swift",
       "price": 5
     },
     {
       "modifier": "the_vault:cooldown_down",
       "price": 8
+    },
+    {
+      "modifier": "the_vault:energizing",
+      "price": 6
+    },
+    {
+      "modifier": "the_vault:lucky",
+      "price": 6
+    }
+  ],
+  "PEDDLER_CATALYSTS": [
+    {
+      "modifier": "the_vault:more_mobs_cata",
+      "price": 10
+    },
+    {
+      "modifier": "the_vault:divine_essence_chest",
+      "price": 14
+    },
+    {
+      "modifier": "the_vault:phoenix",
+      "price": 20
+    },
+    {
+      "modifier": "the_vault:xp_gain",
+      "price": 8
+    },
+    {
+      "modifier": "the_vault:soul_boost",
+      "price": 8
+    },
+    {
+      "modifier": "the_vault:extended",
+      "price": 6
     }
   ],
   "PEDDLER_BACKPACKS": [
