@@ -2,10 +2,10 @@
   "TIME_ZONE": "Europe/Brussels",
   "START": "2026-10-26T16:00",
   "END": "2026-11-02T00:00",
-  "CHEST_CANDY_CHANCE": 0.3,
+  "CHEST_CANDY_CHANCE": 0.15,
   "CHEST_CANDY_MIN": 1,
   "CHEST_CANDY_MAX": 2,
-  "MOB_CANDY_CHANCE": 0.03,
+  "MOB_CANDY_CHANCE": 0.02,
   "PEDDLER_OBJECTIVES": [
     "monolith",
     "elixir",
