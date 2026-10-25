@@ -12,5 +12,7 @@
   "reviveHealthPercent": 0.3,
   "postReviveInvulnerabilitySeconds": 3.0,
   "reviveRange": 3.0,
-  "beaconParticleRange": 32
+  "crawlSpeedMultiplier": 0.5,
+  "reviveDamagePauseSeconds": 0.5,
+  "reviverDamageReductionPercent": 25
 }

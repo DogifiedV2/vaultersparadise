@@ -44,15 +44,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -200,15 +193,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -356,15 +342,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -512,15 +491,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -668,15 +640,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -824,15 +789,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -980,15 +938,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -1136,15 +1087,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -1292,15 +1236,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -1448,15 +1385,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -1604,15 +1534,8 @@
           },
           {
             "type": "pool",
-            "weight": 8,
+            "weight": 14,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -1762,15 +1685,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -1918,15 +1834,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -2074,15 +1983,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -2230,15 +2132,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -2386,15 +2281,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -2542,15 +2430,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -2698,15 +2579,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -2854,15 +2728,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -3010,15 +2877,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -3166,15 +3026,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -3322,15 +3175,8 @@
           },
           {
             "type": "pool",
-            "weight": 7,
+            "weight": 13,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 6,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -3480,15 +3326,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -3636,15 +3475,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -3792,15 +3624,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -3948,15 +3773,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -4104,15 +3922,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -4260,15 +4071,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -4416,15 +4220,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -4572,15 +4369,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -4728,15 +4518,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -4884,15 +4667,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -5040,15 +4816,8 @@
           },
           {
             "type": "pool",
-            "weight": 6,
+            "weight": 11,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 5,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -5198,15 +4967,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -5354,15 +5116,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -5510,15 +5265,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -5666,15 +5414,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -5822,15 +5563,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -5978,15 +5712,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -6134,15 +5861,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -6290,15 +6010,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -6446,15 +6159,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -6602,15 +6308,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },
@@ -6758,15 +6457,8 @@
           },
           {
             "type": "pool",
-            "weight": 5,
+            "weight": 9,
             "poolId": "super_inscriptions_common",
-            "minGreedTier": 1,
-            "maxGreedTier": -1
-          },
-          {
-            "type": "pool",
-            "weight": 4,
-            "poolId": "super_inscriptions_ore",
             "minGreedTier": 1,
             "maxGreedTier": -1
           },

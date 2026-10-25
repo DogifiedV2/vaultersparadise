@@ -260,6 +260,34 @@
           "level": 50
         }
       }
+    },
+    "the_vault:outlaw": {
+      "display": "Outlaws",
+      "lootTableKeys": {
+        "the_vault:outlaw_loot_lvl0": {
+          "level": 0
+        },
+        "the_vault:outlaw_loot_lvl20": {
+          "level": 20
+        },
+        "the_vault:outlaw_loot_lvl50": {
+          "level": 50
+        }
+      }
+    },
+    "the_vault:outlaw_elite": {
+      "display": "Elite Outlaws",
+      "lootTableKeys": {
+        "the_vault:outlaw_elite_loot_lvl0": {
+          "level": 0
+        },
+        "the_vault:outlaw_elite_loot_lvl20": {
+          "level": 20
+        },
+        "the_vault:outlaw_elite_loot_lvl50": {
+          "level": 50
+        }
+      }
     }
   }
 }
