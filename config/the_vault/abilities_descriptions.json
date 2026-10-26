@@ -4185,11 +4185,19 @@
           "color": "$heal"
         },
         {
-          "text": " are a share of your own.\n\n",
+          "text": " are a share of your own, and it has your ",
           "color": "$text"
         },
         {
-          "text": "A summon that dies rests until the ",
+          "text": "armor",
+          "color": "$titleLine"
+        },
+        {
+          "text": ".\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "It stays until it dies, then bursts into soul fire, hitting nearby mobs. It then rests until the ",
           "color": "$text"
         },
         {
@@ -4210,7 +4218,6 @@
         "manaCost",
         "damage",
         "healthPercent",
-        "duration",
         "summonsOut"
       ],
       "next": [
@@ -4218,7 +4225,6 @@
         "manaCost",
         "damage",
         "healthPercent",
-        "duration",
         "summonsOut"
       ]
     },
