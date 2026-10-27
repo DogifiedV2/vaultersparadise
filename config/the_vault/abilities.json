@@ -26410,7 +26410,7 @@
             "tiers": [
               {
                 "type": "soul_call",
-                "damagePercent": 0.25,
+                "damagePercent": 0.5,
                 "healthPercent": 0.4,
                 "durationTicks": 400,
                 "maxAlive": 1,
@@ -26423,7 +26423,7 @@
               },
               {
                 "type": "soul_call",
-                "damagePercent": 0.3,
+                "damagePercent": 0.6,
                 "healthPercent": 0.5,
                 "durationTicks": 440,
                 "maxAlive": 1,
@@ -26436,7 +26436,7 @@
               },
               {
                 "type": "soul_call",
-                "damagePercent": 0.35,
+                "damagePercent": 0.7,
                 "healthPercent": 0.6,
                 "durationTicks": 480,
                 "maxAlive": 2,
@@ -26449,7 +26449,7 @@
               },
               {
                 "type": "soul_call",
-                "damagePercent": 0.4,
+                "damagePercent": 0.8,
                 "healthPercent": 0.7,
                 "durationTicks": 540,
                 "maxAlive": 2,
@@ -26462,7 +26462,7 @@
               },
               {
                 "type": "soul_call",
-                "damagePercent": 0.5,
+                "damagePercent": 1.0,
                 "healthPercent": 0.8,
                 "durationTicks": 600,
                 "maxAlive": 2,

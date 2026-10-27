@@ -1198,11 +1198,11 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "fa0b51db71f326fe821616e7475b3de596b9018e97a925253de975d49e58b189"
+hash = "078bf32eda8e5fdb6159e1bc684f548a33f2f85b87bb96ff6db58d5378391ea3"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "297a4a94686be3bad9ba7bd60b7c7f83d971913f0931519f0fcd2f665473843b"
+hash = "773a84a86007275b804ace1d55a44d11147e8629def4da01d82bff24b497422a"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -1666,7 +1666,7 @@ hash = "1063d6884ac4e54cbcfdf6701af882e6b9be04fbbc436447f6a9a8912267456d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "83ad7c6c4e024a618a4cb888e016a14cc9dbf45528e31a147f8c85bc0c1fcfab"
+hash = "421280433d4ab38afb64851f160de74536fe5c3841d10454a3df08cab460511f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
@@ -15026,7 +15026,7 @@ hash = "fa631fe1bf6fa9fa69654e55ee48ec5cf2b7b33bb7b1dff9317ee124d2010752"
 
 [[files]]
 file = "config/the_vault/halloween_event.json"
-hash = "1ab07d9441ae9e6b2b1c1d4899b6c47b4ba71064eb481572d68a255f1c2e08de"
+hash = "0ea00040c36e469b53dcc247ff8b87d43d8ac8fd77c5a4907757bd06a90729d4"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -18564,7 +18564,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradisecore-1.18.2-2.0.jar"
-hash = "9a11244be517fd913bcf5a6d9bcfe0fcfc6d6d7be2151f1f81ee9cda115dbe48"
+hash = "4a6a5c2ca979fbe29a70ccf78c0d054195eb4102c9c7e45a894b4e527e4c96f5"
 
 [[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
@@ -18572,7 +18572,7 @@ hash = "1e0779feeadd9bf79266e3b8734f0ff16ac8ed64b2179ba7c4a5ef67b3712610"
 
 [[files]]
 file = "mods/playershops-1.1.jar"
-hash = "d4e9fbe13696a3e26351ac2dd8d52ae7d5806e46b5453590a4dc3ff453997aa2"
+hash = "729639058b7fed105ed009deb85b580252b50c935740587f7c2abac915470709"
 
 [[files]]
 file = "mods/polymorph-forge-1.18.2-0.50.jar"
@@ -18718,8 +18718,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.66.jar"
-hash = "814e9e99064291b003062b7ee23c2203b5d06c2b2d171be87267e300214fc5c9"
+file = "mods/the_vault-1.18.2-3.21.67.jar"
+hash = "ac69cee9bb3d586eea359b103276febdfed10809d18c77b49f2ee66a0b8a5bc2"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18819,7 +18819,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.23.7-all.jar"
-hash = "f49e264fa8df515e1acc5cf2b1e5352c821157b2981ff0f3de7d3d482307419c"
+hash = "7dfc0b78df292a759f990c082f2dff65b4719498c8aa02407a9d7d782b1b1a04"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"

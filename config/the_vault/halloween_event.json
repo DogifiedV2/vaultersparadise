@@ -6,6 +6,9 @@
   "CHEST_CANDY_MIN": 1,
   "CHEST_CANDY_MAX": 2,
   "MOB_CANDY_CHANCE": 0.02,
+  "CANDY_SOFT_CAP": 30,
+  "CANDY_AFTER_SOFT_CAP_RATE": 0.33,
+  "CANDY_HARD_CAP": 65,
   "PEDDLER_OBJECTIVES": [
     "monolith",
     "elixir",
