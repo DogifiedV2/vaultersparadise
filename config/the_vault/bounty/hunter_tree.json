@@ -169,7 +169,7 @@
       "id": "legendary_chains",
       "branch": "hunt",
       "name": "Legendary Chains",
-      "description": "Lost Bounties start 2-3 step chains",
+      "description": "Lost Bounties start 2-3 step chains; every lead followed pays a rare crate",
       "icon": "the_vault:gui/skills/treasure_seeker",
       "cost": 1,
       "requires": null,
