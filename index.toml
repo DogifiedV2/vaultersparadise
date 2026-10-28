@@ -1382,7 +1382,7 @@ hash = "debec3df0e3b1001851ef625a1bebda459313c2555b2a758e2c6739a975050d5"
 
 [[files]]
 file = "config/the_vault/bounty/hunter_tree.json"
-hash = "fd59d115d27de5338891734086a4aaff3e4f41deef05fe58373363d5e45e489b"
+hash = "1d90d17e81991e42b41762ea1e1c89dec24e8f7323b8fe4c687511f455b7e947"
 
 [[files]]
 file = "config/the_vault/bounty/ores.json"
@@ -15446,7 +15446,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "a8b095a05ed1da68bf8aa925b3d19aa08f0c2d4c15d5250c3fc08b7167aceb1d"
+hash = "2ce97b345358b7b6cdc7354a1bff35da8dcd90eb3da0903f1d10fa3eb0683e12"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -18718,8 +18718,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.67.jar"
-hash = "ac69cee9bb3d586eea359b103276febdfed10809d18c77b49f2ee66a0b8a5bc2"
+file = "mods/the_vault-1.18.2-3.21.68.jar"
+hash = "5aa34e5d1b07b389f6fbf2fa4ee7e2df0dc58bf67ff108cc7e617aca8a0dcba8"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -18819,7 +18819,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.23.7-all.jar"
-hash = "7dfc0b78df292a759f990c082f2dff65b4719498c8aa02407a9d7d782b1b1a04"
+hash = "a4ce60c795dd040cb1d054dff6e9bf94b3b70b0426642e8a161f86f2f09dc186"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
