@@ -1,6 +1,10 @@
 {
   "tile_processors": [
     {
+      "type": "halloween_effigy_spot",
+      "target": "minecraft:diamond_block"
+    },
+    {
       "type": "leveled",
       "levels": [
         {
