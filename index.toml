@@ -3186,7 +3186,7 @@ hash = "41a2a79bbe41f68bb75954edc51d22986c648527ca052fd67a74dd0a8efd1427"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/common_elite_spawners.json"
-hash = "8d10cd9a0fc8b8add279d417008add928d8de332a5b33a5de9fe9461b7dcc781"
+hash = "bf538a4e571435140366568fc9888dfadbba3160a2abb10e9a48947281e2ea66"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/dungeon_discoverable_placeholder.json"
@@ -3202,7 +3202,7 @@ hash = "6e7818063faa95229bacb4e808676ad50037719f522cc33ecf130d63106944a3"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/festive_common_elite_spawners.json"
-hash = "272afe93b2187f4c0b999886b2d2e574b93a8e67cc99fd2a739f0c7776518743"
+hash = "1ed26af39ac37e62c5cdae7f61b52cdb4376080b29dff02227c19301743db0fd"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/gate_placeholder.json"
@@ -3222,7 +3222,7 @@ hash = "c387c8caaae9cff5d75ff10c5eb6a215a83c794049b6b19127b9e3a62aa7f4d1"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/ice_elite_spawners.json"
-hash = "978c499e078d6bbdf317d74f53c80493fb37d9f6ad4429eaaa6519bdf76635b1"
+hash = "19934abe132bd0b84681ddcbb835e21e270efc220e9ee2b753d5313df7bcab6e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/living_chest_placeholder.json"
@@ -3230,7 +3230,7 @@ hash = "7caf720b82e6c62aa137d2aaec6a63037c203b2277b5332a55437bdc7a96a4bf"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/nether_elite_spawners.json"
-hash = "811a1b2258fc0a5a8f57f53946d6da7181858fedce8e7969e88361d7d68c6471"
+hash = "56055a10c7fc3fa92461d7987b06b937540fd92435c4ecb732f8186c150a353a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/oasis_coin_stack_placeholder.json"
@@ -15026,7 +15026,7 @@ hash = "fa631fe1bf6fa9fa69654e55ee48ec5cf2b7b33bb7b1dff9317ee124d2010752"
 
 [[files]]
 file = "config/the_vault/halloween_event.json"
-hash = "0ea00040c36e469b53dcc247ff8b87d43d8ac8fd77c5a4907757bd06a90729d4"
+hash = "666415734ae25f5d693f9e59234c94c4c76535ca299671c762de6aa453f717a4"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -18539,7 +18539,7 @@ hash = "0156d7e29478e48e4311ac46150564b469bc96ba6d598153b004697608f75925"
 
 [[files]]
 file = "mods/mounts-1.0.jar"
-hash = "e7ab358cddb127055d9d0b98923f30e9eea4c53ef4e86b1750b365c93f1ea88c"
+hash = "7a3e51dea189ff6b3c9709496559abfb047a66f0585e54d08ec766159b67cba5"
 
 [[files]]
 file = "mods/neoncraft2-2.2.jar"
@@ -18718,8 +18718,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.70.jar"
-hash = "16fe4c607088768df0227fa7b2bf217d2b0bb6a665264abad9e23af5a0a70a94"
+file = "mods/the_vault-1.18.2-3.21.71.jar"
+hash = "b69b48e800bbc645215ed726b6f064a7381da46cc0f4041c65c5ec7c906249ce"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
