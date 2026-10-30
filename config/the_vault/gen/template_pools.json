@@ -2779,6 +2779,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/royale_starts.json"
     },
     {
+      "id": "the_vault:vault/starts/witch_brew",
+      "name": "Witch's Brew Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/witch_brew.json"
+    },
+    {
       "id": "the_vault:vault/starts/blank_starts",
       "name": "Blank Starts",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/blank_starts.json"

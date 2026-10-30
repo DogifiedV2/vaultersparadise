@@ -8,6 +8,15 @@
           "type": "objective"
         }
       ]
+    },
+    {
+      "poolId": "the_vault:vault/starts/witch_brew",
+      "conditions": [
+        {
+          "objectiveId": "the_vault:witch_brew",
+          "type": "objective"
+        }
+      ]
     }
   ]
 }

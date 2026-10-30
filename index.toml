@@ -1053,6 +1053,2094 @@ file = "config/openloader/resources/VHBook.zip"
 hash = "4aeb2268aade887459466b9e3811573faa217bbfb358992c3aae0bbab01fd2da"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/blblblblb.ogg"
+hash = "6c05b90258f20558d243bb9ddd0915d0919ee73f3944cd7e613689dad3ef285c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/cleanse.ogg"
+hash = "e691f05ba6d18bbb6472e7db84b3c8c15b36977bf56dd7e50abb1fccd42d1496"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/dash.ogg"
+hash = "f95eba8ae53aeb5ab73432040c02fe3abb37ba3000a9db040139a21224d9b0e3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/empower.ogg"
+hash = "894dd1723913c41cd81e992db549ec350296e1e90eceaa2a4b7f5696824ea5eb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/empower_ice_armour.ogg"
+hash = "64578636d1969f095517fec8956bf1cd24ba1a77f4b2fd93a0e728b657921f52"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/execution.ogg"
+hash = "13ba08c2efd835b3d368bfc25876ec49872cc0d52147164bfeb6fe5113b08c90"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/ghost_walk.ogg"
+hash = "4a78f9e0abb1150e829028b07242e2f17e8c0989938f4d4352ce3b38bbe03bc2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/heal.ogg"
+hash = "fce676b145d5773bb8fe4be3a19d36da99992de1cec7e3649a69cafc11986333"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/hunter.ogg"
+hash = "51b8c631a01f975e1e2d1ee57e66dcb7f1acfb69604a5edd5f71a1b0f0ab2955"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/invisibility.ogg"
+hash = "a1f0adbf0819643dae0c2bd77a628ccc647d74c0bdb9d2ff010ef18863d08cd0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/life_tap.ogg"
+hash = "1943b27dff65493244e7a1dc0c5534a182a5e18ee07707c41a2c24720d687bcc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/mana_shield.ogg"
+hash = "64a5c3a384b4c568bc632ea0b54726eeccbb50cf68abb505eedbc06144e56f8d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/mana_shield_hit.ogg"
+hash = "2fb40610194c191bdfaa81893c3057938fe69ef42be5da0ef7232fb8f2ddac7f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/mega_jump.ogg"
+hash = "2454e2197b5de82f991e8e84283c8f7175ff7703561ae0ba3f9c0fc489570fde"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/night_vision.ogg"
+hash = "4a38f2d77d21f0d57c19212bdc0457629f24edc20dd1c187dcbdc38e77d1fcb3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/nova_speed.ogg"
+hash = "085aa36cac7dfea041f141798f6ac0ff470b26aadf97efeed5269ccb06e10e6c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/rampage.ogg"
+hash = "48c02c776b56d297d1d3f76b95b0c9e3503c8f71ea6bb812b57097e948679be8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/shell.ogg"
+hash = "b488f2e4f2b019f3dc34570e4a9ffdd4e771a5b870132cde6fb069f551f820dc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/shell_porcupine.ogg"
+hash = "fdcac3c73a7e0ad52790894a834186bc03bbef28ffcc804df88af29eaabf4327"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/shell_quill.ogg"
+hash = "9806c7e0c21c14e3ccb31487dfe61049d2befcc498dbffae6443fb318f38af6d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/shieldbash.ogg"
+hash = "ee2a539341edd147935e36fb45116e8419dccba9558aba9d16d129aeeb6efc91"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/smite.ogg"
+hash = "c1f5954b7fe60cf505a24c5cf45b02fc9ccab4d6db0b739c83f402defcd2dbd4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/smite_bolt.ogg"
+hash = "7cf5a56801d8d002681c1d177891db79f480c25b2724051ba1381018e79094e0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/taunt.ogg"
+hash = "e24f9c9007c4f45afabc0d2484faa6a6900686c68b51a342734920a5e98bb707"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/taunt_charm.ogg"
+hash = "a011575e2a189fa1015261a037b3ca18f0b4d1035d05317d30da18068d5d3243"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/taunt_charm_1.ogg"
+hash = "cdfe96e133b2e77b99329c8eba99bf219ff3c8e6016eb64b5fe11d8e36d2661c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/taunt_repel.ogg"
+hash = "a06d5c1dfa99e090413b581133f317cc833c9f7a071289a455229e158d964f6c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability/totem.ogg"
+hash = "65d794923815bcb2ee5afc32d8b42c2296c6b3f7921f04274ac7bc4818c08e02"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability_on_cooldown.ogg"
+hash = "273ceac4abad84f2c2cc62ba352dba1eb4fdfbe61f9e50117e9461297f39f0d4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ability_out_of_mana.ogg"
+hash = "264f682aa33dafc97f0a350465743be78c3c50ba95c1d832bb6646e6794c6326"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ambient/gloom/bat_01.ogg"
+hash = "b88823e1e47f63b5e57125257ec9bf187f92ff0fc6dfc08c60662dd72ea38a3b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ambient/gloom/bat_02.ogg"
+hash = "a92bc316d083d903afe8f1de54d591ce0e373f32219942e9e0f0e23537ef17a1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ambient/gloom/bat_03.ogg"
+hash = "3f405f8154ee4880318eac8137e03fe94ae0f741f30565697d60177e984b44ac"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ambient/gloom/bat_04.ogg"
+hash = "1b8bc603b01093bc9f6d65a07bc334b2fec84be2b6aea6d21af2eafd8d77a609"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ambient/gloom/bat_05.ogg"
+hash = "73b09dcf20f51cb369c96892fa4e9ba8f7dd38e12b7e08e95185612c0f0f378a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ambient/gloom/bat_06.ogg"
+hash = "491918af7b783f2ecbb1fd6aa1697f8f26222efb64b93cf9d4972d7f743eb67a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ambient/gloom/bat_07.ogg"
+hash = "da3d89c10d4b672c2684dcd61bcc89d347148f4e501ed87baf426b63f924b749"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/arena/horns.ogg"
+hash = "c14ae5eaae54f4926fe9896947c34608a4930b976cf3874a088dfb8cf76dc567"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_ambient.ogg"
+hash = "73653c9d064e72238d7a060ac5d48aa65668b75aee290cdaf6023a986fbe17e3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_attack.ogg"
+hash = "af425b1a35cae07844dfae758756d9f74f2f852ccf2d2a4c0b73832ac98a6baa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_attack2.ogg"
+hash = "b82400ed7ad6ab18897293bdbead9c97a1e8fa1350a364413ceb83eec7b84a43"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_catalyst_hit.ogg"
+hash = "e771f85ef69ddd44a0e72fc907505d848978b0e125baedb95eb4851b8bf65186"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_catalyst_hit_wrong.ogg"
+hash = "9b96cd4941e88f383d5490ea05008a4a44de2abb180faa3afe5f185dba1b38ea"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_death.ogg"
+hash = "58a3e9538d6b1eb566856e9004dc9bcc03843066c191bb07fd15132aff5a4252"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_hurt.ogg"
+hash = "cbbdecf9470e5c8b5a09a68601b7585c1a2c30b8a3758855f5eba1262154eae8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_magic_attack.ogg"
+hash = "cd68bc6eef55e632ab30e914b29e40ca6a551b121e76c0a472862b722b458be2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_boss_magic_attack_hit.ogg"
+hash = "a6f53f0eda8923501684595ea1b78b23d41ef21ce32b08ece5afccaedf0e0c9e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/artifact_complete.ogg"
+hash = "b66c49b5207a8f16f0e25d7ecba473730f841bf9ee82251305e28d5d37afc67c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/break1.ogg"
+hash = "dc0dbbb5dacc8bd396bcf466d4fced189e037a49f5968c1857c4ee9401c9a9f2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/break2.ogg"
+hash = "49ee9c4b8ccf1d81811b651c96aef38d7afd585b98d608ccd3f9b6aa01c57131"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/break3.ogg"
+hash = "cecfd97739c332780e451364fca33fba727296e97c2d5e16abf4ce37062cd414"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/break4.ogg"
+hash = "3c2a5f112c99bbdcc6c082567862343cdcafce228b8d7bcbd74cfe2e6a0e2e66"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/break5.ogg"
+hash = "4deb454585129ea81a10199a45c79f684cb36b9c95613ecf05051c82460aad21"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/break6.ogg"
+hash = "c1cb9d2a1888ab80c6e33239f53b3a7b6884fb83c66d7cf6ddb46ea2c828972d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/insert1.ogg"
+hash = "848aeef5890d6ebe52251e68aa7698d272209cb68d7a4703f6f31c059f5f288f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/insert2.ogg"
+hash = "f443ac60fcbff7d4c20ef7edd7d7107d0b57f99a202146309fa347b9a956949b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/insert3.ogg"
+hash = "baf16d07bbe9d73c98af4380335f3cc628040769624d3bbb375a095e0f8c0c71"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/insert4.ogg"
+hash = "66f6b41276aeba97b8013f4da8b60842a591a56e90776737771f3ea22389a8f3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/insert_enchanted1.ogg"
+hash = "68e2665eb68214325a485486744555cf6d4f33aa6f9b5c5db6364f2547d87e88"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/insert_enchanted2.ogg"
+hash = "2fc674f1e3e8ae15a7f8bfd5c0017e9737d0b471a9aa56f80fb36b1cf0bcb8e5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/insert_enchanted3.ogg"
+hash = "6ba11026f2f6fd92b97488dd3e132b9a6e1e9e4246c8076e6b51aa80425d10a4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/insert_enchanted4.ogg"
+hash = "ce9f87d20db91cbaa11e838f3116d615cd85f4a571bfaafa702e18d4862bfe9a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/pickup1.ogg"
+hash = "30c63d306072996d35d56a7a14128f1bcad40f47692a4d9b15fbcc26a733b44f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/pickup2.ogg"
+hash = "e4902963fb762815444d32db90ba98a8e64fc0167f540ffacc0d03d5f4a16c0e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/pickup3.ogg"
+hash = "3fdf54342800668b9b81c62a2fc212e21a64bdabee78b225861f9733f2789f5c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/pickup_enchanted1.ogg"
+hash = "56c0672fea6c1b46e043a3aa13dd0b149bc56fbc2647e55cc60e6683da87aac7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/pickup_enchanted2.ogg"
+hash = "8bd651ab07cf302414b345a4627886730297c04e701398d5f22f2cb02afb7fe4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/pickup_enchanted3.ogg"
+hash = "e74f9d4114c3cff6ef91c1f3cfdd20acf05c7462a451bb68c2ca853bd48e14aa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/step1.ogg"
+hash = "9bbc7ad53899f7d920c7e065fa372177f5846f6e35a29c98a956459acc14b6fa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/step2.ogg"
+hash = "12692345ea16be2658d2c9aa80dd8222759cc3787543c030e202ba5209d52107"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/step3.ogg"
+hash = "7b0a9cb94626f484f68ced2bb962cb27f42f8748e37af1842db93c253374953c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/step4.ogg"
+hash = "3eb00821b0f38631d75ed695246033058594bbb35fe94f6c0f7a23f2d58d3707"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/chiseled_bookshelf/step5.ogg"
+hash = "354d91433b2b7570b0c8f8543e255d3a4db73f9896782d7b5e1c363f5c256aff"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/break1.ogg"
+hash = "f272503e9b9d0c03e58ac293857b1f1b30a9422b9c6f2a1c0f7c5eae61c590eb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/break2.ogg"
+hash = "d10ab2022a2d583213d89c5c2f2625c04379135d98c94ffdb76252368e131b98"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/break3.ogg"
+hash = "5eccd60fcb2d50fc99b9b2ea46479883e1284ea5458fa975236f114c60a27286"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/break4.ogg"
+hash = "2074ccb3398227a16df28107d6d2b4e4d904afad106334154f2ea2d45c497778"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/place1.ogg"
+hash = "8759589446c1c727c901879ba67e212cc20cb47ad0b60c0404a510f035a09fdc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/place2.ogg"
+hash = "4cbac720e4e32de2b7cbc152d71d0581739205c2eada8ed49a4454d5d213d630"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/place3.ogg"
+hash = "46b7a497aae5433fb64c24055187ddf07e0a840a0b7daa532c43273a14079f9c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/place4.ogg"
+hash = "d9085c2b2258655ebaadf2e012fe4727efe02fe2fbd45c58fbfe55fab65597ae"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/step1.ogg"
+hash = "f9010923656d88b32e6dd221a1b3d80bd9a04959697c183574246b6a6c950040"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/step2.ogg"
+hash = "5ff0923e4b3bf7988527c15daa440c8d7e8fa9a965956b3607fdc9b9e29ccb59"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/step3.ogg"
+hash = "5550a99ed93c04ce2f0fa8ba720be61c71fa2e855997007041ef97b4e7abd371"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/step4.ogg"
+hash = "ef8c0310f843e1efac0ae03e4642cf042b7e6a330870f31dd6e52dd58b6b915e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/step5.ogg"
+hash = "989bdbbca7336fb6447754f6bb385416e473bcd3ce851a07369635a6e5aa9693"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/step6.ogg"
+hash = "7fb12bf202c7c4f6d28f510f1b44fb5bb9752261e3c8c66a723589ed5a193b5c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_bulb/toggle.ogg"
+hash = "c270adc7c04d4634d636b30712046cfc941099c03f01f4bebc09cef20df4ac52"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_door/toggle1.ogg"
+hash = "65a5555d8b2cc8e28c31df3ba0632ceeec12d09299d36e7c05ad905446a33767"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_door/toggle2.ogg"
+hash = "8dfd5b3a45d915ab33f91c9f49983907a38c9fc0cf9abdcfb8ab6ff9732f7e21"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_door/toggle3.ogg"
+hash = "006da551a5f86f1650724b01bf1b7bf4a73285e32e80e04ed20c617c82cec4dd"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/break1.ogg"
+hash = "c3ec13b8a596859826708f71d1ae8e37e10698a633e418a381c5ea73cd536241"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/break2.ogg"
+hash = "63faa726c7db3664f24d1d757d75cb998217f9f1e992e1b7afe1b3289dfc39da"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/break3.ogg"
+hash = "45029d22f5a3bd4d9f2ee2b07e547261652ebe675378f5fc51b6de9bb0cf00c8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/break4.ogg"
+hash = "6ca1f19eca7cc904488624140b36bc7dbaf63a91ff8bb3f402cf5010b764e52d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/step1.ogg"
+hash = "33d421996e36b7457c6fc517e44411bfae465130339420ab74fee0e0a83ed66b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/step2.ogg"
+hash = "5254ff501db613b0170422c9fd1b0763fcfa234c6a75954515262af24753dcc7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/step3.ogg"
+hash = "00e0761f4388a942094c8e10673ba8cbb22ae38a537b144b9c79116e0130598c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/step4.ogg"
+hash = "529b0c6f583ad672e2cbc245dca9d2a8ed917a51066dd83acf87ac8b2a2b0ce3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/step5.ogg"
+hash = "af758413062319721026970dc6dad2c9e3c68e5fc31355914a123251cd32f2b9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_grate/step6.ogg"
+hash = "30e233090a4a219e78d462decf4f2838d2274855760efacff4423fde5630db5f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_trapdoor/toggle1.ogg"
+hash = "b0a13647ef48aae0bc09bfd55c2e2ea57b787c77f47f5d48e3e84fa10f170b85"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_trapdoor/toggle2.ogg"
+hash = "ac93f18c4e74496210886da62ee2622b9671fa13d3ea8f037703b6074576d1eb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_trapdoor/toggle3.ogg"
+hash = "23c718dbadad5f8a4995f7444de02f3090e19d9eb3b9b636f23b60555c3580ff"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/copper_trapdoor/toggle4.ogg"
+hash = "f094e2c5c2059d903bdbdafada52a3e39f054d756a5e4ee7bda7f03d0d856af3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush1.ogg"
+hash = "a806d7c6db801dca0c7dcba2eb8ce82998a4342fc91dc5c86ec85d379f944e26"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush10.ogg"
+hash = "e5a81bdc558281d88b1b6caff8a190b01362b2549bc0cf8a568c0bf8a9379361"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush11.ogg"
+hash = "d00b585df988ad34dce9b3eb7b769b9b1769308779c9658253b3e6ab10d46dbb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush2.ogg"
+hash = "edf0c441f609102d3196da63850e57e9dbc451657d1a20b61bd3da359c8baf15"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush3.ogg"
+hash = "e8a0b00bb0753c64e67fb4c43f0c8b45d1247570fa50741faf844fa8343b1df6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush4.ogg"
+hash = "18df05abfd11727fb0bcc7075e48535dd1fb79bd078e22425cd0273ac1e36b1d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush5.ogg"
+hash = "45a66787fbfd5661ef2bb8a6dbe749eb89d2335174ff5cf7c8e749ba80fd243c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush6.ogg"
+hash = "f2eb86a0e2586bb11c27a393325393a590a2e3d7f068d057f30faebc60bbad2c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush7.ogg"
+hash = "ada193be3a4be1d70cc3ce59bb3bdcbeae47a9296d68a3b343ab173938c464af"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush8.ogg"
+hash = "277dc5651c9d50a2bd8d190e26b48a2469e132d6b01055f59d3a9fa6266fcabe"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/firefly_bush/firefly_bush9.ogg"
+hash = "cf2b9dfda71bdc3541679cce08ad1a4feee82258f3660aad726471d707a8f7d2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/break1.ogg"
+hash = "bba381bdc99964bb87eadc6e1d86323e615ddca78ad61919f5a2ca45eee1ec35"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/break2.ogg"
+hash = "d351923f31f89fd3b16ed4403224d871d46388ee93a126b252c0937a29f1d7cb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/break3.ogg"
+hash = "cfbf5f1d573c635dde4c2610da089173bb5e6d048fd777aff77d44dc6494a9a3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/break4.ogg"
+hash = "8b44f2c5f02b1f1188b757aba5236426c9bacc4ea5d659d592323c51081bac4f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/break5.ogg"
+hash = "c1156050b4579a9650b89b44856122cd154695faf7d4a91ba7d88942aa96bfb0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/place1.ogg"
+hash = "2b0fde7c5616a349074b479855e83a8f793a166f274a02a181e7c02d8f462f82"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/place2.ogg"
+hash = "4e0410f938580374485ea181e851860879fafa71abaea49c05e8702afb7c0497"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/place3.ogg"
+hash = "d359ffad4082e5261ff157e0ff557358017cd56ae6a7ceaf7284b15aa75a56db"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/place4.ogg"
+hash = "df8c940ad2322ddd4bef13be495a871752b44de998ac44eaffba837bb160104a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/place5.ogg"
+hash = "1a88e4227c094d85dc73805ad46b4a1b5d639dae9777b232b7ce627cb9af4e6c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/step1.ogg"
+hash = "a0709dd09d405fd7184879d85e7ef3dc575b799b7ab37643bf6d19f98ecc1eba"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/step2.ogg"
+hash = "6f9831cee7c5615692c78eba417a800582332cb7c28b86e7616bdc9572dbbc7d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/step3.ogg"
+hash = "625e7975ffff152c032e14ffdad9511bb9813459aa27553a181b6604f49b26a2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/step4.ogg"
+hash = "1b86d61051b4b0f64eadbea9d7f54f2011c6ef8098d8626441b65389d88a8ed4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/step5.ogg"
+hash = "7e6ee5d5e7c389d6add6af6ad832c6eb0bbfa6fc4ccaa4035ad21543b57f63a6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/leaf_litter/step6.ogg"
+hash = "73372e6d619b6fd69de34b5f167e60c024b79c43c6f2df9b5521018340772c99"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/activate1.ogg"
+hash = "c95531786f3616960cf88f1b6cb9f6095b1eafc8ee3f08a1aa418aa23d090f38"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/activate2.ogg"
+hash = "bd685a17e7cb5c13766488671cb85b247935ceb7695f838592cd3b8c2952e763"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/activate3.ogg"
+hash = "800cb5bcf95d4d6107d21b728303b6d724d739085ed558978f4829b11903455e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/deactivate1.ogg"
+hash = "62aad294933fc9f61ae823f4614830763f022d5e20cba63721053dec4ef4408b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/deactivate2.ogg"
+hash = "0118f298eaa7c198182256d945ad6a2865a101d75651bf3432ec33deefad6b53"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/deactivate3.ogg"
+hash = "4981834afc54d01681f6f9f86e38cf64391785a233fbba959e9be37461e2855d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/multi_swap1.ogg"
+hash = "448a9bd0b399953c410356a8e28eeda7b1cf68754e1440ba01280458ce3af97b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/multi_swap2.ogg"
+hash = "32491c8733b1ffe9321c26acec739057d7a2e02b9bf78d974142f6e8feb50619"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/multi_swap3.ogg"
+hash = "b76e479b41764024fae5409315a8bec95c6d23cd8d8f439e5ecd9790d0981400"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/place_item1.ogg"
+hash = "721387201f93e6bf935def2d2a88423c814156159a736333e750133dd1d7573e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/place_item2.ogg"
+hash = "988850b6ae75008e33866ca81d297d357f1ee6f408ac07a514fde6d8f89a5a27"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/place_item3.ogg"
+hash = "d4cee71a5a8051927fa917a9ab3ab21c4aa5a65dd0d628207f94770670a33d30"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/place_item4.ogg"
+hash = "8f346ca306c0acae45b4fd9416ebbffc14b725f1d340a70268451026c48d815f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/single_swap1.ogg"
+hash = "690333b7c5ccd8f238eb0d51e4c8d921c5f865e19e5853280c58e26ebc2d4d6b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/single_swap2.ogg"
+hash = "9b8cfc45e813e56d5043b1d9ec3068df27c403b1cb218e87b249a85c2443b1d1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/single_swap3.ogg"
+hash = "ddb05c8d985c28ddf0bd18b5a62149d7435deb82c92363290b55de124d53c955"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/backport/block/shelf/single_swap4.ogg"
+hash = "b524a8389189f3224a0028b12ba6d7ecb1752aa8d57af9561e8194ec320deca3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/break1.ogg"
+hash = "9ee5ec887aa702963ba82d7531c92552522428169f04449fd4f0a13504af768f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/break2.ogg"
+hash = "36ba171de4c990c09396ff611477e51567e84e1752033f411dbae68e2275cd19"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/break3.ogg"
+hash = "75dd4fc71c276cd954a48bafc955446cb58ce4bc5a72b0e62f76f6fc6c025154"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/break4.ogg"
+hash = "ead3e6f30c8fdfd113c8c32fe0a81d064a47df1f6a406f0e48af81017c8913eb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/break5.ogg"
+hash = "78222d9b0dc9d066b2297173a9f6a53bb8849e1268413b69b806ef3a363d236e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/break6.ogg"
+hash = "273bf5d17bc57213969e846cc15362384cc405d9e223eeade728af644ed9fc6b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/step1.ogg"
+hash = "9518ed527fd1e9591964c01011f551ef562ca3aa21b3189bcd99814bcd5b55ea"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/step2.ogg"
+hash = "b4a2e0614e14b497cc2e7ccf7dd68c326d768c3f9e6d0e6128e41230dde8f792"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/step3.ogg"
+hash = "aed15368eb3023f9eb850e9aec54f3ba352de2ffe1e59b1a04295bc4b486ebf8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/step4.ogg"
+hash = "ed8a4c8c0e69c9a7755beb1329af9b94241d44a17caba1f0b0c6bb42032a3245"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/step5.ogg"
+hash = "520318731dbc41c98782fefe25b4ad41d8ddbe127979603c01102ffd743e9e39"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/mud/step6.ogg"
+hash = "64b1394f78f08f213802af86ffe054a1c55df55bb81a8874d0b5e2af61736e66"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/break1.ogg"
+hash = "26a09d5714142c611efb0c2cd00b4d6dc1e1534a176e484ac303b32694bcddc1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/break2.ogg"
+hash = "281d79abd21d54e8044f99e70feb82b96b250f33ac2c5ab17dd1ee14c5cff000"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/break3.ogg"
+hash = "9863536aacd0d6731efb7d53ec8beb14526b384797cdfe141d64406f8b3ed454"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/break4.ogg"
+hash = "f4f14d0362f7bddc9f83d8f96b8cb2af09750c9ff078bb224d7daa7d2304efd2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/break5.ogg"
+hash = "ef3988d46a5e09d710fce3fd57d9735508e6b4012a6241e8fcf531286f0685f3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/break6.ogg"
+hash = "6332aa8dd9524dc8b598a91d979fc553c495cebf37f8c560d4e5a43fb1d62fc3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/step1.ogg"
+hash = "f97638916dab71c7da32f9bc85896661ac506ed279b784df1059274a1759029c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/step2.ogg"
+hash = "0e6a0f58eacf974ee0f2b1aa6ed8d6d5c5641267e86d1d746de51a617b803791"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/step3.ogg"
+hash = "c40b65ce46ca14646b9489bedce049e1b509bce231233c7b5bd41716f33babd6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/step4.ogg"
+hash = "d83632435e3929f31a916d7a3d0964bc90c968b23729d5a058d41acef5c63d8f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/step5.ogg"
+hash = "8c65715663345da9661ccdc6377c3422c6695293c2e28949dffd0b83caad3450"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/block/packed_mud/step6.ogg"
+hash = "fcc9020528f3e226efb62dad8f0f7c9ca579106f7ca9e32ebe1d661415b4e353"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/death.ogg"
+hash = "67d351c824f9d7205250160595db6e301e481ba89fa5c69f1f94d5d60531e872"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/hurt.ogg"
+hash = "2868d045f666eec53531cc29438a776029d38481b0778f9afa5aec081337183b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/idle1.ogg"
+hash = "6de11f116b397a2a42d531e34bfd4c05b0e563a6c064070587d28a2424384c82"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/idle2.ogg"
+hash = "21fca174646fc20c2562a869d94c40b81b107f68c5e7bb0265b5729c5ea260fb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/step1.ogg"
+hash = "ba076a7d6b42f38282570d9c0136fb0d2ef492effe5e037a5251fa93638042ff"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/step2.ogg"
+hash = "bbe7b1578e9ff4826e26e921bea47f446db06e234243f83f3d0a1cb4f6a70d51"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/tank_idle1.ogg"
+hash = "a136e5ab27553600f7e78c242075552c9b21d3de7feb304120018af990aed8bb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/tank_idle2.ogg"
+hash = "e08545437a69cfb1153626e4e0c5508b9270843c9ba6361be1d2640edafb034b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bloodhorde/tank_roar.ogg"
+hash = "30f24b6a362fb38aac439bfd30bd97ad3373f378b67ffc2a31e8c755bb6c06a3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bonk.ogg"
+hash = "ced3d2fbd15733a01bc4ca1e61f6defb884b9856f641289ded8b0ac91f3f1757"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bonk_charge.ogg"
+hash = "c6c5ad16c360cd2db1d68dd937886e6ec358055fb8d77762aa6e8ee3efff36da"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boogie/ambient_1.ogg"
+hash = "426cd99af1e0df5a5023fbfbe027b3b75a4174d925cd20d2d9b88f9372cb9de7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boogie/ambient_2.ogg"
+hash = "1a60bc56c2e53720a9bec412d5b2d1d4b745dfe3b657c454febe73f56db07c41"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boogie/death.ogg"
+hash = "20f40f972b95a658be6eed896276e60aca17a419bbb9043fe8d157a135dc7e89"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boogie/hurt_1.ogg"
+hash = "93941e7833d6453b19ccb2e9541cb1a1c4e47bfa2f563f160ed6e7dc76ea43b7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boogie/hurt_2.ogg"
+hash = "68c6a09f88e2ac69f1836f8524a93387f57a4edb68439e9992203342a42d9a42"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boogie/hurt_3.ogg"
+hash = "5fc27b6e1799238966389cebfe923c6c488c12a73f4d30f8127b5bd63b21e0ff"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/booster_pack.ogg"
+hash = "9bb522db113739b87a0776a1c26e28f7c4dec8a5d1390d35ba898bbd2fc57b1a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/booster_pack_fail.ogg"
+hash = "68130694f4d614233d2d2007c257faffe7e168377296608ad1d783fa001ee87c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/booster_pack_open.ogg"
+hash = "4147eb3410a003e694d5cc1d50afa43c9a15ab311803c433e795842e335c8237"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boss_fight_1.ogg"
+hash = "b369b7db04c6fa93a676bbf56cebec0209ea6529ff36a806f2e73702c77e93af"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boss_fight_2.ogg"
+hash = "f7d0031b894d0965146e486c0df74dded30e076b58e3db5a4aa69a8863b1928d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boss_fight_3.ogg"
+hash = "bd318231d71b3d694094c0346cf7cb22abc2ccfeb9b4f65cc4df1f5bff6e4c91"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boss_fight_4.ogg"
+hash = "659778e5abd3757e65ded4bf84df378a652d992c47a74b4edeca3041df8b630b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/boss_tp.ogg"
+hash = "0b3e619454f95e38ccfbaf988f93e250bedfbe04b3f393b2ec5840d65d16e6b8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/burp/burp1.ogg"
+hash = "67e99a4fe75537065eced134cef0d63e25f9da1018098d462be5fd4040fcd763"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/burp/burp2.ogg"
+hash = "018cc9022f00f12482a497999bb3afd72b0871349aaf4ea0d3b395b317f85813"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/burp/burp3.ogg"
+hash = "3d39339bddc7cdc303a93a45eb8be066dde0d5a5d84922ad1cde527cfc6be67b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/bye_bye.ogg"
+hash = "2c2092ff8cc70bc676a3bb954d5d02b4f264810ed464be6f94f555ba7cd18198"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cannon_explosion.ogg"
+hash = "74325b3071d2932e281c81409ed64af1216d73b342e6eb402cb9583392ac6361"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cardboard_box_01.ogg"
+hash = "1dcb0ea86e908b026c106fc730108428847fdc4fe26f4c09bea56ef5bf68b940"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cardboard_box_02.ogg"
+hash = "8554cb2341eefc2fe1196af1092291058652004f71b53671ad76e8d8b1d94fb5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cauldron_bubbles.ogg"
+hash = "69d821ded4efb675ef1f16dace24ae3d719b782b59d99e776ef3f915d046b165"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/chest/vault_chest_epic_open.ogg"
+hash = "f070b583e4ef0105ae919fabef23762fcd4c16cc5709e3c867d7cecacd73eae9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/chest/vault_chest_omega_open.ogg"
+hash = "4ce96e26bc71236e2ed827bc5ad92dc04d2671ac394d00f67404f40aa9515efa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/chest/vault_chest_rare_open.ogg"
+hash = "f54ccc7534c5807b51254e710518da94b8f51dbf9919cdbd5f554091bc6da910"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pile/coin1.ogg"
+hash = "74e74958745af7587b941932220af59556eee33cdd991799ff54e910d1fdfd62"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pile/coin2.ogg"
+hash = "905cd61709a209b430c52a5206e31aab61c95f6b5c7d1063ba41e435b18da493"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pile/coin4.ogg"
+hash = "123a9445669f4bfebdcf455db8dad6ed52e6d00c1b36463cffde0da4219dfc6f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pile/coin5.ogg"
+hash = "213167b1377fda115370b28d4a036296117f4ebb9f132d366c34aaa86c37a820"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pile/coin6.ogg"
+hash = "b8534def9a72c4143e9c468cfcb4394b1e359b4d8fd4adf0ba45ec615ab9999c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pile/coin_single1.ogg"
+hash = "920538fedf9e9462892955a10008000002b3cfa807c4ad56648654574bac4ce4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pile/coin_single2.ogg"
+hash = "14a2938a3e68118033d1a76f0def577da5ad2e2ae870fc26cd314962bb0b3593"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pile/coin_single3.ogg"
+hash = "b77068eb3543f5fd9b2a36de9a4313ea397beed81cd42937e3eb2bf8f8c3c741"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pouch_shake_1.ogg"
+hash = "21740d71ed8378aa5c0ef2423e13d004441c67e10ab3137075da868cd03cf676"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/coin_pouch_shake_2.ogg"
+hash = "0567bf458e9c36ffad69ec542380aca7b18b69ffa97abb3f2cf87f6037304152"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/companion_egg_spawn.ogg"
+hash = "d8a2accded78659dc496d45031f50b724c1c3ea957c86294f74dd6a5f312c03c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/confetti.ogg"
+hash = "3ee0e32117a40c51de7b2bcd686ee708415d7d086623fcbc292ef7dc82a5f750"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cooldown_reset.ogg"
+hash = "95757cd922f2e3a3c4a2d360592aab29109d8b5f4e0959f6017b133a9ff6106c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/crab_shell_smash.ogg"
+hash = "a6f1505a4c88a0ae1e94668a0cb90da3e5bf4e5398d9d5158724eb53f6112693"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/crate_open.ogg"
+hash = "34b3d8ed5daa10d4d6d24440271132f8b832166aa5e86e0500909852380b4106"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cubee/arctic_witch.ogg"
+hash = "95d0fbae280cd915a58f65d896a3cbbca32681e6811b6ca15fc0f2e093bb6b0f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cubee/forest_keeper.ogg"
+hash = "e809db18dd1d937c803ec9f6cfa1fa7390d8a94c8aec16ba7e75705e7e91903d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cubee/meowgician.ogg"
+hash = "0daac59273e8a4fbc9b19f52c1ab2d0070bc006cb02e36ad92382d2768e89773"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/cubee/wishing_teddy.ogg"
+hash = "d355ecedaa96a1172da22197350e7d1f81dd63f396dbf682e40bc4bf16698310"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/destroy_monolith.ogg"
+hash = "b638b78dae4eaf61ba9f7e211e7963a26088ed7df2b9d2b36e8b4fdb102fac6f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/disarm_trap.ogg"
+hash = "4ea83701d4d076b50396bd0e71cc187c92c2d93e7303c498c2a148caab55aa3c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dragon_goblin_escape.ogg"
+hash = "51361f4e6e47f9edc6ab34957e94f85632f077bc7b8fb14d98bff0be8ad5108c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dragon_hurt_01.ogg"
+hash = "f9a6735d9b6f2194221e4e6c813375b2089c6efda449751207b3f526e23fafeb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dragon_hurt_02.ogg"
+hash = "763153e26dfa1f06f95df4b6143a5cc430b22227cddc61879091ce6fe26c8565"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dragon_hurt_03.ogg"
+hash = "3140c84e72591b1cd61771ff825e369683a006863949e377e0135b12a00159f5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dungeon/dungeon_break1.ogg"
+hash = "00cf724090aece7913b43748ef9d32a99b8e1d0b5e40eeb97494931383565117"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dungeon/dungeon_break2.ogg"
+hash = "9732c181e3d2d8bf0f664661578d005340dc5330f14b7c2f4e12c700c19c7128"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dungeon/dungeon_break3.ogg"
+hash = "eb7c8671b8f1dcede742e8746152533832a8c1a191e2d01ae1497fa2f16433e9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dungeon/dungeon_door.ogg"
+hash = "46506f91a08124c38db8ffb2afc1764a1a3c97d67f5cbbd75aa18fefdf86a2d4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/damage_01.ogg"
+hash = "6550d6709f04ab51692a82ac8aac391f2a5f89dec0bf503871ebc75ce3305c2f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/damage_02.ogg"
+hash = "131890df05c928e97337cb877a17c1c34b1cca76d91ff93a861dee9242952473"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/damage_03.ogg"
+hash = "263dda7fd2bb9ff025f72c6c3310c5432e71b2956791575e054553060c152742"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/damage_04.ogg"
+hash = "689435895cb68eae16bba5ceae8b9419297c17136e7f3d623a2853a694f005ca"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/damage_05.ogg"
+hash = "ddcc7b4bf6d701b7f1a3047fc3e6726ab91bcdb2851b8fdc88efd485fbcdc397"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/death.ogg"
+hash = "08b34f03d7335f7b131474da0c7d63846f9a74857778aa84e336042bb20f6752"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_01.ogg"
+hash = "68eb411942772937e04862bb4af523603b3b9e77ac6f9c23254198d3a480b341"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_02.ogg"
+hash = "969787ef8f4ed6b44a7b58dbff09ef9df6e88a68bdab1c3e4d70047f5bd4532f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_03.ogg"
+hash = "c205ce29b17f0d2ba91ff2e4c8e7f62d735d3455ec441366b5f8f867d695fc69"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_04.ogg"
+hash = "9af41f6a6eb6c573c7d23ea361fb9013db34383cae54868d410263e18f75802f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_05.ogg"
+hash = "70c4646840f9808337ee3704f41042fc4a69b5f372d7af9e63064b4b87ec4ae0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_06.ogg"
+hash = "35ce2a6d3c77814cde57162b3939346a993af5fd2d4d176b13c44768b1c23a22"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_07.ogg"
+hash = "7a008aefdfa4f2bbba9901a770e5d8ee3e0f9ea93f3be2594d6290d33fd1b8ca"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_08.ogg"
+hash = "77c17cf11f25253ecfedab5a273247fd5987a854ea6f5869a5a9944ae7383831"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_09.ogg"
+hash = "f746649a288983ba823681d6db2e9976e9c533185f65773e388f82cd8cdcfe63"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/dweller/step_10.ogg"
+hash = "ae41a718ad7fcf5ea77c68e266f05fbb4d13632ca364f9933788b4516d7bc472"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/favour_up.ogg"
+hash = "977fbd662ad9a52bb5415699d751bf6a8320ae62cd7ad1e8e329fcf0aba6443d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/fungi_death_1.ogg"
+hash = "5c2ce1fab95ea83fcff3a0b884a46c20e51c869a865a44e1668747e8eaa4033d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/fungi_death_2.ogg"
+hash = "877d46439fa726f1f0ab1b63167e5c8ad28d6a4a8540168de427f2d165a46831"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/fungi_hurt.ogg"
+hash = "c1e3c89335da6cfec63ea8fa08f7443ad70a7bcdaa0388ff0457100012374bcf"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gate_close.ogg"
+hash = "2442f4979953663940a149624022f9ca6de002fff84eaeb521377c5a657ebefe"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gate_open.ogg"
+hash = "d0ab53863e4d1c149ead7819291c72cbd1b6c263c94839200d8784997e9ee6d1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gear_seal.ogg"
+hash = "6416a82122e8b3c17a5b53cc6c2e053433ae12a3f2a3253b27930b2b9bfe7d8b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gift_bomb.ogg"
+hash = "1ee63dbd8ef27ae06bec4469608dbfe30fb654bf68e268d7653bbf351ee56627"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/globe_spin.ogg"
+hash = "eb47a2cbe54b2e6f66ac8e04f9c19416f4b1c5c8f905ea661a290f286474314e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/ambient_01.ogg"
+hash = "20cda4cb465bf677241116e54c329a379b11051ee62c3a0474f2fc6593191548"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/ambient_02.ogg"
+hash = "f140fcabe8a75e1a56afd3feb43f4777d52f528bf1148edc21503e2fab9a43f2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_01.ogg"
+hash = "bae10c78562cc1677999ef4a06015b7083ca73df4635a04112b3d53525f13320"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_02.ogg"
+hash = "7f9ee7af9ca4bd5f510ad53ee36cf763973db002c6bd84ad4becb136d4d37a92"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_03.ogg"
+hash = "43a23ea6c65da0b493b13ee852bc7845bc59a16880f6d475595ab4821efdea2c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_04.ogg"
+hash = "aebac32c2be174ad5f70511ebcf5ca820b5ada65667dd224f571c06c57166c65"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_05.ogg"
+hash = "60f1d0c49b1156200fe6d4466b1a6a4a75036fae1b9ea1a0a9304a2a5347bbef"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_06.ogg"
+hash = "babc8c1db3dda06b42dcd5f94de25c38efaeddff2a38e584d4364bbb3c24f761"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_07.ogg"
+hash = "24142a3e127b8c9b9c26271c90217cc741f289d34cc260accfe030940b1e57d7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_08.ogg"
+hash = "7426cfb00819d5999476ed6fa4a29a4145d4b1961d05d1e2c76b3b53a722b476"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_09.ogg"
+hash = "074caef37fe1c1c00e09f400103a4ce0135a3deae1c915d1aa188e71029a4073"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/death_10.ogg"
+hash = "f1b16d97fb3c5141027b894c797c58147c7d364d8ff30aef61ae4b875c308ba0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/hurt.ogg"
+hash = "b1523f95aa4435a5e9452e6eba819c5571658dd711141b3a6206316d6aa94f53"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/step_01.ogg"
+hash = "e8f7a13177ca81f9e40a2444152b3a48965f82b8ce34417214d1de93e9a100d7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/step_02.ogg"
+hash = "aaf6eb9399cc3faed9e56e9ff4756d06d674da8f4887fc2aff8803f1ce4a8057"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/craftenstein/step_03.ogg"
+hash = "df85a67a9a680c45220a07becbeb52d5119f3701ef2fefe518ebfe0736b35189"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/ghost_death_01.ogg"
+hash = "9523d1b28eb8214e5ba2813a9eaf6b6ee0a5d11d7cb1ceb83a5bfc2048b1b593"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/ghost_death_02.ogg"
+hash = "b19a07e161064f62571bce4f82cd2497ada96120423f9d256476f2e48c913d0a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/ghost_death_03.ogg"
+hash = "6d33de4fdfd71a49202802b5277132cadda033ea5f0f1ad3799b5e4df489bea4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/ghost_death_04.ogg"
+hash = "d75d0795ff19ba22f00118e2b0f14076ffd24560a63048e4bc6b3f8bf4a87ad9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/ghost_hurt.ogg"
+hash = "2d020c57ad95fa7f16601fb55a16e7b1cc79a091d77378499db1eefd47adace9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/ghost_scream.ogg"
+hash = "bd8357993e934759b535961234211ca528669befa7f60487eb92d2d49d9d69b6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/damage_01.ogg"
+hash = "7a9d684fc3980a8e8490daa461595429b6221670c05329188c6411403eb0cf9a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/damage_02.ogg"
+hash = "33263c8de6cfc30630b933e0b136118be0bc58c7aa719d6cc6e990bbde820d41"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/damage_03.ogg"
+hash = "a27c9f98a2e8e123d9495b3972a42f780439ec3497c1fdaefd1b5307cf6fb8f5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/damage_04.ogg"
+hash = "edaf3a7fbc2452fc476b13ffb04c6bc60d2d6443089c0347ab5c40407db9ad0c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/death.ogg"
+hash = "86a8c096b0a6c20fb7f67c31884f97cc456c31d562fc2bb8e0aadb8882e77878"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_01.ogg"
+hash = "cdd986d486da4d5680ae34430ec3183f7016a522ae2a836feee26d330146f9fc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_02.ogg"
+hash = "e99365b6d96832fe6f328a34cc1187e03bb41a570f3fada431d0bd2d5b01cffd"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_03.ogg"
+hash = "362538da29d44d42967f1daaa38c76d1f482a6d5a5ac920dcfff2b21eb6d02b2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_04.ogg"
+hash = "033057ac4eeb8ec3434eb46ba41f3b71f0cb1f643fa6259f5785870a0c47f28d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_05.ogg"
+hash = "9c5c25b4710a00b210a0908ddb3846a99e2b8a34075065a4afba8bcb11914e69"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_06.ogg"
+hash = "5d8d5dd3acdbec3539a4d3a38175802424e75efde649d871b6b35701580063a7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_07.ogg"
+hash = "5a7fd71b02ac50c104c3cf974e55760815df9defb020e53bcd092fde919db84e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_08.ogg"
+hash = "6d5f85506bb7faa81e2147f1087c27f1083a3822b80400bd02375cd1196bb82b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_09.ogg"
+hash = "993ae389aa95f6930531c01c434f1449f3588830a92951c827201017ed117dc1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_10.ogg"
+hash = "73f6f66ffe10e2ef3ee705b181ee0f14b31e8cd4aa7bdc0f2e136a1b8282e8af"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_11.ogg"
+hash = "e85beffd700c1cc6c275a523bb6b764aad9211b8859180e44e75982dc2c61b6c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/gloom/jack/step_12.ogg"
+hash = "d4fcfb9134c6775e800d8d9bb5bac915708519674b55e9c41fd1aafab2831993"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/goblin_hurt_01.ogg"
+hash = "517c9c364e8640c69ca330270a66d1935ea12eb8d198a81d7fe565fda7dd38b8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/goblin_hurt_02.ogg"
+hash = "288376cb803ed3a1ec34b753fd1c6a999f34666f54a3d5fd1ecd6b5a95690e6d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/grasshopper_brrr.ogg"
+hash = "4843f104c2eaa8dc291ca0baf95c748630e74f75ffc0e3e6f539235cfe5dd851"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/greed_trader/idle_1.ogg"
+hash = "d75d7bc50f7969d31c2fa4e6aa8f975c64dc16af6deffcfdfa06b974a7573f9d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/greed_trader/idle_2.ogg"
+hash = "12de5dd2cba2c7c81dee15eaf8b709694aad30ffcc4c7fd2322f10ddae95f674"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/greed_trader/idle_3.ogg"
+hash = "cb9b5557f4b3c957b5407a261c949fb78eaf762607fa92d4a62b3c347e954dd4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/greed_trader_purchase.ogg"
+hash = "fb59b6aa7c18e4ee5da4e31c41857cedeb502923f9141762cff19df312831e23"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/heartbeat.ogg"
+hash = "bebf933c263a64333d1f593f3b4e8d7e557fb19b6fead979d4fea84c0cd9404b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/herald_landing.ogg"
+hash = "aa8180daacca502808e17abc35d7f26a19d62445e6d17e0bc674a4dac709570a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/herald_roar.ogg"
+hash = "85787d931f60879041951279f76e6f6b5df578e2f8fb9cc622dc6ddb2904f25e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/body_collapse.ogg"
+hash = "ddda95bb18f8d94a1483405a36043df41390c2e4e127b7d1941947435fec693b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/burrow.ogg"
+hash = "d58731c5ab6093ed750c79f4e95ce8b4c26cfa87a32869bf122cf08a2c55a985"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/crow_flock.ogg"
+hash = "2e46581fe98accb0719f357a00b1bfc3f05f94ef362f4b388f64e962e87d692b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/death_cry.ogg"
+hash = "89d2b3dce659024dafe91f9563e7fc4db7bc69f783e24b602f89797e38745b3a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/effigy_break.ogg"
+hash = "0820f0ae7a145485b7c1a63c697cc8f67624ceb282c2d30bfd08fae1bd212b71"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/effigy_wake.ogg"
+hash = "2db086a37e97faeb9048ef557052531933c2776169a5c15aa6ae819a759632b7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/grin_beam.ogg"
+hash = "5819c6ee4a62df0606dfaf810435013314e1235ab065fe0773859f5b961c8d44"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/head_ignite.ogg"
+hash = "b51644182c80758d1f44a952b1b9c632491848a5d55732ed3749f7682fa97f64"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/landing.ogg"
+hash = "da1355bc1c540249e4aa102d694a739e2e8950ec9d6d7fd279530dc82654bcba"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/lantern_smash.ogg"
+hash = "153f30db7db6fce770bba8aa43555ef4ad668d40f483389228eea1b731eed935"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/laugh.ogg"
+hash = "d5d7fede3cbe1a036899eaa8bf4d99bab54d2cb4f88bdb3447c9fba31cb0f784"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/music/CREDITS.txt"
+hash = "d095d71d409738dce2ad598076c7470428c5d7803f5404668c1f93255fe0bbf0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/music/entry.ogg"
+hash = "b91faf999a7733667064c7c2c29f424d376b6cfe0fd8033bcb8ab6027c0a6321"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/music/phase1.ogg"
+hash = "672cceed1b07a64417fa77137cb200a4c0648fe68868299ac4d02c17d7e3eb73"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/music/phase2.ogg"
+hash = "2d881ddb3041cf708b58882c43dd4100515db0beb4bc61d6e72e3cf7e4d7e1fe"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/roar_phase2.ogg"
+hash = "289d3301fb6170b8e8cf4a6d9ac2738e538c051e37d60c5a4739263a4e1c8e1e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/roots_erupt.ogg"
+hash = "9d3cfb7523f73646bb1ef84197c666774174543dc5b34055f9e53a1b54bd25cd"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/rope_creak.ogg"
+hash = "9007b3baaff6b9bbc014794d568d5b386fdf8c9492ed89af3f2bc87dcb706d2e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/scythe_catch.ogg"
+hash = "d4f9cf9462d0ad009b328eecbbc64dc9b71a93b11385efd95123c416da4e81b9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/scythe_hit.ogg"
+hash = "ba9814a7a0451c58428fefd97abdc9f9a9419058ebe9e082e42874b7ddf0fb98"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/scythe_swing.ogg"
+hash = "f96ecc93c93175d786edc792e85523044dd4710531df34611697230b8a0e8a9a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/scythe_throw.ogg"
+hash = "edb7ba9f09fce251e97ecf47ec917491032f555ca4e00ce3adebc3e1ec4af825"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/shriek.ogg"
+hash = "4b94619bcfecc45d3f8c9f4c9d932a4b6ca18421e0cf6f2a051d3cf1dba021c6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_king/straw_burst.ogg"
+hash = "ecada3792b27d46b8d58f0cb00d602724d5dc6be5df64d409a56ff22911eb35b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_night/hollow_creak_1.ogg"
+hash = "3b9798643a211ffef8db5a96bf4b0d88ef11a451f71fd13e571692ac15022cdd"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_night/hollow_creak_2.ogg"
+hash = "21f2f192b87f05a97ce1e073a672ca1e94f0f80d1886137bb3cf1cfd76125a18"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_night/hollow_wind.ogg"
+hash = "7f96d63fa10122996069ddfc5a5ab3924a3f18509342e342008dc90eeb140662"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_night/hollow_wind_gust.ogg"
+hash = "f5be8f12c6cf97d6da235246d1230a3d329d3257b6018efbded8a255a4b2bfd4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/hollow_night/hollow_wind_howl.ogg"
+hash = "e87ebd69a83f1bfc028fa1a9db354fb448d5a61490a1f6b2f49c493517dbc91b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ice_bolt_arrow.ogg"
+hash = "715609311ddbb50bce51843c22b43678f29b10f0b9c1b4fef60a058ef298f493"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/ice_bolt_chunk.ogg"
+hash = "f37d085a21e1a14f35f493e3412d1b5a640588bc7f678fb193059e2dc26dfc87"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/identification.ogg"
+hash = "ee2b3d2dd70880ad12f383f3872e407d8acb081b43d130f1f786cff7f4b40e41"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/imbuement_negative.ogg"
+hash = "9ddf6b05ecfc1ad28a6d17841aaaeec59b493034c379557046e4b330ec49828f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/imbuement_positive.ogg"
+hash = "c8c0ced51f768c01f171bcfbc76ce6c17fbf08e796923bc3a9cad504201e4e1e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jar_tap.ogg"
+hash = "70b70bcdaa21cc61328403b8c32d832a9819162c07c15f14249076b877f33665"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jewel_cut.ogg"
+hash = "a2a08677722993dc31899615091b087e008df27905a87dfa25add1875e760e6a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jewel_cut_success.ogg"
+hash = "54624895feb4bf99ce1a77795da73c3d330b154a0186cdd062d05377dd021f96"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/drone.ogg"
+hash = "3f8a7c3bf32d99147c151d23b23badb60d37586a77ff4eb25312db21af003824"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/heartbeat.ogg"
+hash = "35a8b8163ad2711c6dd795b40f17faf46df3c41317616109d06cd0b28d1f5b17"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/scream_0.ogg"
+hash = "9ff2a1fde7563bd394613f5632e93dcb5cc80a02f760032f971c5878004b0b7f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/scream_1.ogg"
+hash = "618a2b3b800ef92b7ace208dd4fd27586a63e7898b8d2a91698d1b2fd21043fa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/scream_2.ogg"
+hash = "4fe5e0551b438eaece7f65a6463c2b839e3d11a72630b8bc82fefeb27c2159b4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/static.ogg"
+hash = "962c275f486238cb430e4214b9eb0104c0a2fb680fee477aea01020b5247df1c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/whisper_0.ogg"
+hash = "9d2dbe420596cd790abfedb34fd65dc03a9c0323e1904c5700d37cd8da3bf36f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/whisper_1.ogg"
+hash = "24a6e912aa51d3a184a02d8845ca9d50180a8aa474c1d93f703a9fe010f375eb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/jumpscare/whisper_2.ogg"
+hash = "06b919addccc16ad6554a9279f334ea05379591fa7d44cb40c6f2b8d3a8bc337"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/laser.ogg"
+hash = "f91527954f41b1f039943985f8cbd55b2984f07555447c41ab7f81f381bcbc17"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/levishroom_death.ogg"
+hash = "0c1fab6295f87ce4a7fecc024b4665fa74b40b72022e92646351cd114fa88f29"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/levishroom_hurt.ogg"
+hash = "47aa8e32873b9a209f53fb3d7f1d8ef4e43cf8b770bdff4d368bab73ba34c74b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/levishroom_step.ogg"
+hash = "0bcaaad024d97aba753492f8f2b76b944604b90fbf4637d619f6ce02b7aff4f9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/lightning_bolt.ogg"
+hash = "a4b846decbc0a48528d6ace1e50e8e53eb4018c90b86e3c697254fe4848a1f8b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/looking_for_you.ogg"
+hash = "b6651c86ac1615672567496808d42592f54fd2e70dfbbe89228abf5f486e0c45"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/magnet_table.ogg"
+hash = "d6aa7bd415d6f17e65cf232d56fac900e80a1383e2a871fb7664711d0c89e4cd"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/mob_crit.ogg"
+hash = "33f7a234701aaa40065c6aaa9f594754c36080ad767d19f4309d5a62d38627f0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/mob_crit2.ogg"
+hash = "974dd4a62fa9942332f46c915e2cc43d4e3bebcec6233a6bcc36f5a788816598"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/mob_crit3.ogg"
+hash = "d00cc9abf395064f383ed1df5cfb0c1f950f7e37ba333cf95bf2526c7c92d4ca"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/mob_trap.ogg"
+hash = "815b318e79bbabb42bfacead456fc3e5361f1a29ad547fbfc5b0b1f292bad45b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/never_forget.ogg"
+hash = "6e056edfd1d4054e77221218762c6517c595b1a919a48d90c1ecc2ab0a44e3bc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/never_left.ogg"
+hash = "1fd73b55bd6f9548ea25039bb47e8b51303a7f3cd4dfb44dab86e813dcf4cbd2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/omega_present.ogg"
+hash = "4c4bc4269646cc32ccfcd6c9f56192f8a4a2f1097df83075d5bc5b1862a40e7b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/omega_present_empty.ogg"
+hash = "1c2374a7f8e8d514ee376a44911dae57c0394c8c554cd5d4559c29492e6a1726"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/overgrown_zombie/death.ogg"
+hash = "1bb0fba2b0c57008fc50bc8d35e26dadc51732278ebdfded4f65bfcbf47709fa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/overgrown_zombie/hurt1.ogg"
+hash = "0f3f86e5d42d0fc666d0d044808e176dfaf98939f94a188001e0c9d5d57962f8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/overgrown_zombie/idle1.ogg"
+hash = "30333d17bc007e52a699ea0822f335378d2a0f2852ab930d9cb77e7ad1079051"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/overgrown_zombie/idle2.ogg"
+hash = "f409f17e7e9d1d3de0a0e3c479d5fcc2499ff1130a87c835615325912bc4a0e8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/overgrown_zombie/step1.ogg"
+hash = "726106e4c8312710ea8390e40c31813516d6a55f321e2f6b49b8c76009c5744e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/overgrown_zombie/step2.ogg"
+hash = "f4ec1d8c56a92b4339f8d37badbd6ff32add460173846d61b795071bb8dff6c8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/plastic_bolt_hit.ogg"
+hash = "9d735a15daf460fa62001e6c7a0db17e126b033a59f12f4aa787fc555b35b3bf"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/plastic_bolt_shoot.ogg"
+hash = "389b946ec6be4a0d416ecc45f1a5c8c6dd13eb3e16289e39d76c41be425bb9b8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/plastic_horde_death.ogg"
+hash = "f5fc03f99ee88fa61e14b4928e2686f7a6469a195081dfde33016adbfd4eaa86"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/plastic_horde_hurt.ogg"
+hash = "6ff2487af57e3a1d6af2d92ac577fecaf6a594d82289eb11bae49816ff7b861b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/plastic_tank_death.ogg"
+hash = "aaa2b29cf1bec949ce78718a6c63c89f1f1813e3d5cb7d6ab5fef5eb7b643067"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/plastic_tank_hurt.ogg"
+hash = "34ef99e9a16188c885be9dbed91076a45b2f19429758dbdb274b92b8f6370978"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/plastic_tank_idle.ogg"
+hash = "2e32a5ecb22aa92a4306bf9c1afbeda8b0746d0bd230ce862b06799cf2446c48"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/puzzle/completion_fail.ogg"
+hash = "cf44a196f65052c24cb8ec4309f400dbe8f3f1a7977774cad13a00110f407786"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/puzzle/completion_major.ogg"
+hash = "42604d82c17e55388feed441b9545bb5e00abc54b5908f9ec72bcf18fba0f2b1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/puzzle/completion_minor.ogg"
+hash = "fad97aa5573520111840168fa41dda25d328ed2eb0772d42bdc5cd4e1d0261cb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/raffle.ogg"
+hash = "ab3dd416489d63babe6d84ba2631b4b2ce314a105d6d91f904099e254d352f79"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/raid_chain_lock.ogg"
+hash = "e08684c239dd7baeb68f6aa22f1f804eb06372ffc7d2b79582d044fe5c45fb62"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/raid_gate_open.ogg"
+hash = "46d8fc02204d02652ebe84c94cbe513f04de1c9b55565714b2ec448c13cf6ca2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/raid_hatch_lock.ogg"
+hash = "6c81804d87122707658ff88f3f140549c2fa926c532649e9e30e2585cc66b317"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/raid_hatch_open.ogg"
+hash = "a36856b32176fb998df344e3d932672419ffcde3aa387c78eecb03ef2812593a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/raid_impact.ogg"
+hash = "8876d8269b076129f025815648062a07065c263681a62f2b5dd4638f315a8170"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/robot/death.ogg"
+hash = "dc820bbcf65bc5d306652f695fc4064deb9d624b206c6f8c70e4c1c5a17ad482"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/robot/hurt_1.ogg"
+hash = "8397eeefa64c26400ef0e4212092b2dbcf527d60c7df9778a8ee7594e88a10c2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/robot/hurt_2.ogg"
+hash = "595af35d881525e55b3965c3dd10e55e1211330c38b59c9158c918f48c4e29c5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/robot/hurt_3.ogg"
+hash = "76232b51d7ce24ecaed63317d88a6711aa7b8c6f67062fa914e64941fd40a94b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/robot/hurt_4.ogg"
+hash = "1ac2be478f28b491facf2c73b53d19a5a07787031653ca3a39a7a3ca8c3497fe"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/shiver/death.ogg"
+hash = "41a835d0cb82d97e0863dc0351308094b74376ee7bd8ae4de850909acbf58d2d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/shiver/hurt1.ogg"
+hash = "5c81a3533a9a74d62b3270125fee9bd58fbb93d982c3a46257a34c17c70aa0d2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/shiver/hurt2.ogg"
+hash = "4103767aeaf170236230c0a683cc7b8324a6f7e6dc6e0c5c58a66a1d147a26da"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/shiver/idle1.ogg"
+hash = "2d4701937cda65daccfe9d7c692c758fb41a0c8886496596e17f37b654b179d8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/shiver/idle2.ogg"
+hash = "f1c97a3a36295f2a29a671e53da77c53403a69f5a911499a3f98471dd3f2c6a8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/shiver/idle3.ogg"
+hash = "b601b9650679ca8029029c472f1fc2de6ca0c75f4743bd56f8e69af9a004d7de"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/skeleton_pirate/idle1.ogg"
+hash = "9ab02f2a408951dc673fa68107f144a2a59c5bcced38fcbbcf2024de9ad8ad3a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/skeleton_pirate/idle2.ogg"
+hash = "dab6ef0411a9b6ab27a19e601f8ba724ee57ae7733dad339d6ef33a4b2ca71c2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/skeleton_pirate/idle3.ogg"
+hash = "1d2613c61f0a11db363e431013b6b24e9b88498b8accd608112002e10b0eb113"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/skill_tree_learn.ogg"
+hash = "7c74519256523608a532b30fcdac9c117e6e37c2fa376d2d1032168d0d73fff6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/skill_tree_upgrade.ogg"
+hash = "0a8e9fa50d81a4e59d04ac9a734169fa2ad8b6d34a9a04f1a89e53f2cbc00d9a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/smithing/smithing1.ogg"
+hash = "d964a0a783a3a58567a995cbcb167d77bc8fcc5893ec76cabbd98a76cf96ec75"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/smithing/smithing2.ogg"
+hash = "fa5e7f65e834448a536eadcd1a5b2fd51e9e8fba5e210ad72dced249931496cf"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/smithing/smithing3.ogg"
+hash = "681ddbe0d22f8e187db55358ac979090fe2d9a88beae4b20f684526d5d0b153a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/smithing/smithing4.ogg"
+hash = "4067fca2bc74b61739ee86928ffef58a3ac5739c5b883411c910a6512f235311"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/spark_expunge.ogg"
+hash = "8f20f464c93ac13380f40bbd546319f92f4d01d90e81c609b670e5b741346410"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/stonewarden_death.ogg"
+hash = "a24ea12305fc0143844d7bf8c0071fa3c65495ae63b50a944fe038acaf53d394"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/stonewarden_hurt.ogg"
+hash = "5ebd10aa68b875a2484a95956706d419caacbdeeb1bec4da2e1319d703f7c5d9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sub_bomb_gain.ogg"
+hash = "96a5d3a64e17901dc7aa09398e4cb117ff28a0c84a552c736b9d3959a83b6917"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sub_bomb_gain_mega.ogg"
+hash = "ed726369bc75921af59b7e065fadca4b3b4c8497114f0937ca75cb462e0e009b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/the_void.ogg"
+hash = "3cf9f4e36fae1a75bc4928f4ae5cd4623ac8da95eef6b62c6b7c057cfbf90174"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/timer_kill.ogg"
+hash = "39d79451c580809fdfa24b602fb818b1f8c65f77ae6ab43bfc0942123416eee2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/timer_panic_tick.ogg"
+hash = "35e436274712f167b9990f899c8042c1b9e95c9ad7bc3dfaf59a8d7fa3566cf1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/bail_1.ogg"
+hash = "bb4677aa86c899099dbf7e87c352096fc7e7c99b85e45993834c7d3519d0d804"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/bail_2.ogg"
+hash = "77a991395de47912918ab64e71e896352421d969d31f141568e6cda091d6be86"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/death.ogg"
+hash = "051ff39e6854fb5a42feaeb5e5be7320aaa3e09c2ec0c5f5307ef4affbe891b4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/hurt_1.ogg"
+hash = "44ff768a866d5f2b003c9b6c13f4aa36be6f8a867977f509c6c0be789499e843"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/hurt_2.ogg"
+hash = "01eb01a258b1000fa654cd942cd4482bb825a0766ff94814076373db1a66b671"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/hurt_3.ogg"
+hash = "4d3d0ac4587618602c77da8dae895fd3667f7060eaffa68ddbfb7ecb6b858b19"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/idle_1.ogg"
+hash = "774174ef086b8d94e397ffbb644535058983e852a5d7bc44d5b74104b8cd0a7b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/idle_2.ogg"
+hash = "4e28efcba7034bbe3bc61b16f0d69285c21914013d6139bb6cc733706d7a2543"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/treasure_goblin/idle_3.ogg"
+hash = "98c86e1cf3adaaaf6110d891833ef9f736ed96e9b890037638e17c5f592c2e0a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vampire_hissing.ogg"
+hash = "df66babf881897a2984699d78b403511291ccd9389cda7fd6628d058170f56c9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_1.ogg"
+hash = "4df32f0952c6d80d7a137f55577e08d22b845a914381d7f0da2ae9262a98101b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_10.ogg"
+hash = "c36179dcfed439e40ba29757995ac26167f282cae4e6cbfbfa953e4299decdf7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_2.ogg"
+hash = "38bcefb080faf7ba468d664acd13fdd07d48ab8645f7d68224aa96380d84d666"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_3.ogg"
+hash = "da3719948365c2e112ab9c17d0d379a215a6862a51d3225288d1a909d53a312d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_4.ogg"
+hash = "325509703994202616a5f0521eec60bfed8523d55121069c121c49e437a7de92"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_5.ogg"
+hash = "a771461cc115ac90ec75e170fb49289255c2cec360d0ead8dcdebabf6169b4a9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_6.ogg"
+hash = "3c23b52774fcfcf8bb13e7f027ce1d599900abdae5298cd686b16069d0b26b8d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_7.ogg"
+hash = "9b3728011c2bef282e92b73d981345cb1d181eb740580e9ba7a2d59e59de17e4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_8.ogg"
+hash = "3412f74840e856bef095957b814f659f74e8d265a59cdb2127b26070d337c66f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_9.ogg"
+hash = "79850adcc3c0b378112be59225120ad5bce92b6d12f79e2b85eddbe1742d007c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/ambient_loop.ogg"
+hash = "bcc985461348835bf83efe5381118186f1088c5798f7540d01bc8cbbeaee138d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault/boss_loop.ogg"
+hash = "be8708f7a6465f2c83f70c5efcba4bab94d7af770cd5176f2c3b98d09e0c8eeb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_dood/idle1.ogg"
+hash = "77565dc4c9a9b0e85f0eaac10a80522d6514118f2088379445d5855a589c4a2f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_dood/idle2.ogg"
+hash = "495c9b549f9fbe1d6f0cdd04e7003220452aa7fba50575ebf1409b1bad2930b9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_exp.ogg"
+hash = "bf82bee624cfddede10c56ac1e878370ec97de363f0c17eec84115cea003723b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_gem/break.ogg"
+hash = "54180c8fe6775cd9641ee20c57a05519b40269d55d68186dbfd1f81624f3e935"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_gem/hit_1.ogg"
+hash = "09b8a203634d1fbc621b199f56fcb90e5226b1cb54e294e4e5bce04aec167072"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_gem/hit_2.ogg"
+hash = "ff155605e5f44d705a4f9a58605402475255ddea671b6c8e4f8ebdd20dcb64c6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_gem/hit_3.ogg"
+hash = "383ee11d5cf5cc3f3a4cc375fd6a23c802cdd7274eccbb284cffec9ea33a4ea1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_gem/hit_4.ogg"
+hash = "22d58825d1aabdfb5e281dfd59a2e0b3d2e991d7cb3fba591acb99ac6fda864b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_gem/hit_5.ogg"
+hash = "3790e10589055cd2f62fb57425d4a03026a0b8050c46ed7e396d7a80c5f0df41"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_level_up.ogg"
+hash = "7cf039b514ef6a69262de0e9e4c90504a895b573b3d761b756bd4e11bf458503"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_portal_leave.ogg"
+hash = "40a1427357a8dae4795ad48fad2a4adb5f63f747756981670ad356babfa70efa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vault_portal_open.ogg"
+hash = "e9e4fc80f52fb37d2d50157f65c896fae1f11d8c0ca0e016d97cca23adcd1255"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/vending_machine.ogg"
+hash = "4e5f425612e5dbf1ef799d02e52df0f1f783a32e7f6925c06b9f344b5ffb078b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/voices.ogg"
+hash = "2e83ef63300a4e3c7f32b03b460b813e2fbdf8cc63ab5d3645559ae971c942fc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/what_we_did.ogg"
+hash = "cec1f68c80be5b884256968f9343bb24ef353ce80abaa2b453a25e834f58448a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/wild_west_shoot.ogg"
+hash = "1c3855da89e6bcb2343028875919ca820c2d88c81dc20ef2fd0291d3fc68cb4c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/wild_west_start.ogg"
+hash = "bb52e6b979a128e8a519956f1de30e1475289b8f3a13e27fde1f384700bc03b7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/winterwalker/death.ogg"
+hash = "d5e5a47e2a5bfa563a8904fb85625c6f8169e3a7e2719c67ec2ba13f58fb7ce7"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/winterwalker/hurt.ogg"
+hash = "bd480f9a1a0494a89f3b3c7534e71acbedbbc9a44ee64ed50875000d009c525a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/winterwalker/idle1.ogg"
+hash = "14584848f9617c42c43cf5562dd4441ca38fec60425b62c1b17f474b6905c3a1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/winterwalker/idle2.ogg"
+hash = "ddcf906bbd2a2216733aa9a557469117eab7afcb4f60cfe83d54639b02580eed"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/winterwalker/walk1.ogg"
+hash = "bdb4e7cbf09711f6a97592d1cd0a32936f27822b4200dc4514d15095defd691c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/winterwalker/walk2.ogg"
+hash = "7a05c080da73da2ae003724b2948b33d4d5edb01aa5114e5ed4feba04966cc6d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/winterwalker/walk3.ogg"
+hash = "ef4bca22a91d29d519c0f4fc3918b290fbb5218d597914e726db3b5f9a574359"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/witchskall/idle.ogg"
+hash = "4185f3d2db1579db9a2fed254a78c135021ed562416a03e781fd93ef7bc45f40"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/grinch/death.ogg"
+hash = "1741a7d8d7f74eb8ac0092991ec560378b214a133e421eedbbbc0ad1b76b8df9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/grinch/death_scream.ogg"
+hash = "df3256cfcd1a240435b7f7fd4af7ca3aa3443c3cfc38a34a942cc2d368e2640f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/grinch/hehe_laugh.ogg"
+hash = "30d9ca3f214171e52458f966c21c81e0cf9b2a53cd568ab65257644e84afd8ae"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/grinch/laugh.ogg"
+hash = "477888a79e3031ec35b04bd14e4db9f1e6781665dbf3746954932d2471cae4c2"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/grinch/moan.ogg"
+hash = "0ec7dd401c9a589c30c8615a53119e3446762c725b57323e9cc4dff3740aec25"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/01.ogg"
+hash = "4ad9cb3560ecba862b94e0ea44cb650b1345838237fa3609e66e5b04e1081ffc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/02.ogg"
+hash = "67d1b93f287679ada1631566657a092ea87e0c7dfbdad27860510c112d996090"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/03.ogg"
+hash = "bc475e547b1fbe428cd196088b57aac6f7cf24b78728c52c147598d58b79a594"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/04.ogg"
+hash = "59d358c8958ea8c5c7ba73cbf9a20992f5bcb722dede876796899cc70696de03"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/05.ogg"
+hash = "0dcd0af4445cfd5627ad1dafcccc781b279face1d1b54390605901790ba0ca13"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/06.ogg"
+hash = "b91dd42fea6a2b426db0d2ffac0dd520149e323765bb99ff60e563f690552cbf"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/07.ogg"
+hash = "89560115d9fa13ab5666352124668d17042877b0534145d9ee52032902ab060e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/08.ogg"
+hash = "7ffa41f1bbcea1dc84e17037e8d665f320b8391727ba72567de49e83996db5ea"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/09.ogg"
+hash = "a8d3fd8fa10b2db41ec9a6f859270d07ada5015aae10a67756db0f86a142d426"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/death/10.ogg"
+hash = "7d5b3327ea91c9a7e216e9c66b54873bae52d34c477f66ec7b186bd7a5697c39"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/01.ogg"
+hash = "268d9c425474bbb47b8f8e09fd2a9b449527e0ad7adb190781266e1dcab80438"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/02.ogg"
+hash = "6611556cef17e72136610e1dcd2f2a097eff0e2f78ea67360d328dbbbdc16a3a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/03.ogg"
+hash = "b204eef032c481568978989a004ca6c63fb4f509bf95b7bd7d61beff8f49f5e3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/04.ogg"
+hash = "999de00ca1dabf1f56f6dc87aad9f772766d07d41dca02c8e8a7cf8e0f660321"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/05.ogg"
+hash = "a8860c671649529abb66f78396547de2b8a7f540d1269fcd021852da7d99e79c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/06.ogg"
+hash = "a76c0bf65a61115e703ff33546c220be84a6580c603cc7bf847665f505d19c11"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/07.ogg"
+hash = "6732f1d8740f1114b43e09965b02120dbe211b48e1db7856c834c6418e601ec0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/08.ogg"
+hash = "036352ac44f3ad8600d08cc625356b403aefb4c0d9f15e4fd9ee38843c10650a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/09.ogg"
+hash = "e02e6c36888473b3800297367786d7bceba4b8127b8bccd9a5b87a7cb1911e13"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/10.ogg"
+hash = "4d89de3b5b0773eb407ce89c494286be0dacb1b024100f40a66e88927ddb8d79"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/11.ogg"
+hash = "ce425a1f02d9eb162c812c80bd8612e8c3833a40fc155aaa5dcb131400568e44"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/12.ogg"
+hash = "6a2aece4e2a16a21236f727819557656d9fa9e73946d0b937b9077bd90207f85"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/13.ogg"
+hash = "2e29d817e2e1e54065b40ed0750ad784ddc73b2a544c01a7534e5c3bbd399d00"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/hurt/14.ogg"
+hash = "2bed5a9157b82b6e65bc757bd6a1a6196e65f53e4e1720862116207df2b49c7f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/step_01.ogg"
+hash = "9208d52524944b810148f0c0e775015bcea5ed89a97dc8d801fc4825a49175b3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/step_02.ogg"
+hash = "711b3a5bce9512a62a9a5afbafed41e20309a455e2177ab49044e446929fc420"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/yeti/step_03.ogg"
+hash = "077533e0ce897fd1dd7554e826dd4334f7e799568a64a04240c4f7f2d4879b6c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/archivist/archivist_vfx.png"
+hash = "63e355efde071fe88fefba1b729212d17de81f42bef769e089292a405fd59cde"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/bramble/bramble_vfx.png"
+hash = "de9a2bd43031aea5ba032f9d965502ee5523e76550c8667961de19decee259e1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/herald/herald_vfx.png"
+hash = "b74ea9ce7f3dad79ee3eccdc6194ead709acbc9e6dfd3b866e8ad4e80f8178ae"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pumpking/pumpking_vfx.png"
+hash = "d51f324102de9e084fd2ab243a5025263e58b40f506d28495e06e02f3ae4e0aa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pumpking/pumpking_vfx_b.png"
+hash = "c4dad6433616741278967cbc265786839969a26fd834c52bf948ca7e02a22574"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/stormclock/stormclock_vfx.png"
+hash = "b5eb3093074d429c7a24c025ed8e4b1c1fa2cf2fbdd15fa438f965d2e6a3db31"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/ultimate/earthquake/earthquake_vfx.png"
+hash = "ded5b44552720a08b68520392ab5e301f39169b18fb193959497f36db9dc98b9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/ultimate/implode/implode_vfx.png"
+hash = "3a9fdbe25e388ab00567d57541a456be8abc22364505763a38e0341d50dcbc6f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/ultimate/storm/storm_vfx.png"
+hash = "0fc3080eb0c89b5cb81353ea7124d41512ca1aad3a78535818213004e5979583"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/wanted/gilded_rat_vfx.png"
+hash = "5934b9f56994ee8d46cca07bbf59f3c97eb1e5c792d272193762c5d561264aa5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/wanted/hexmonger_vfx.png"
+hash = "9a08a778c07f08a81d6c2db739ea2be140c17e64860e8bcb0d1f2abe4dfe819b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/wanted/houndwarden_vfx.png"
+hash = "890b72302b0d424a3e2c800b792fc77f75ddd0037c967d3a3801da9f1d8a28fe"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/wanted/ironjaw_vfx.png"
+hash = "d0d40f5163e9ece6412a88a8cee4cf640cab584099c90407149ee2617f520a79"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/wanted/long_tom_vfx.png"
+hash = "c637c2da19ec35ee7a770e96e3f31a6a0d49f479f8260460231c46d173d696f4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/wanted/silver_fang_vfx.png"
+hash = "8e229b51f227a9aa4308054b045b183c696dc1defeadc858c5bc163a88d6dff8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/white.png"
+hash = "b1053f89bb82a79f8d33fe961fb79364943688d6fa733b1de98be88f04359cbb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/witchbrew/brew_surface.png"
+hash = "259fa85024a8dd53e7d94ae48b8faf9f09f2feb00594a3657b078e151c6ca454"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/witchbrew/brew_swirl.png"
+hash = "130ca91f0fded23cfca15e0461338139b9dfff8fb885a6c82dae1878b1769e78"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/witchbrew/witchbrew_vfx.png"
+hash = "3db15ddb3b338fcfc6d3bff5d09a8c50de2a9eb4024a39c167a87f67b4c60f29"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/pack.mcmeta"
+hash = "fd61e729a42d1efe2f35ba14556d385374a4c9ee44ba9095e45e34eb3e42e6ef"
+
+[[files]]
 file = "config/openloader/snad.zip"
 hash = "4c4dd50adbf4fe38e9dcab981704f3f45326337401b91dbc20544171206a2a07"
 
@@ -1666,7 +3754,7 @@ hash = "1063d6884ac4e54cbcfdf6701af882e6b9be04fbbc436447f6a9a8912267456d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "421280433d4ab38afb64851f160de74536fe5c3841d10454a3df08cab460511f"
+hash = "d716dda4cf2f32dd81da894e8c33aa1d4e7936aca9b6e8552fa6c01c3f666971"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
@@ -10625,6 +12713,10 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_clockspire_exit
 hash = "ea0a526dedc532fae27551efec86b2bc8bf2c746689bb37aadb1ab2d247192b6"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/witch_brew_hollow.nbt"
+hash = "9d070a2fe7332b1b2f1b483903cb2d4d549cce3853032188a89be59e43807040"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
 hash = "19c96f096187c0df39d7771228d953c2fd6910c3fe38041af016822a42c7bbef"
 
@@ -14253,6 +16345,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/starts/white_starts.json"
 hash = "523ad19d23ff0d67a8acf49cf5ac5f575bef33d12603bb29a48c7613e7dcc82e"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/starts/witch_brew.json"
+hash = "a89e3b3a3abf5ad8e9e9b4e5d514b28446508b91ca1875582c39ae1b75a1fc91"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/treasure_rooms.json"
 hash = "d21c298b70c5acef64e75e25c662aaeeded64960df972c8e97368739b84d11fb"
 
@@ -14962,15 +17058,15 @@ hash = "c73112b421bf8f9ed2754bfcaaf52f38eed156510bec85d454cecd5b450f856a"
 
 [[files]]
 file = "config/the_vault/gen/start_pool_overrides.json"
-hash = "9d28c21bb7f7bf47fe11e177c8c32510647574cfb1b8f1b1d07383f365a0f5e4"
+hash = "d47994d553e6a60ee03e99278a3ef7e76eee06ca73fb3bcb5f1758e75aca251c"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "2aa28fd3588562f8769dbc813831835b12eaeca95248e302b5638600a74f2b4d"
+hash = "492ba2d33475742d0f8d9561d7fe60aca9fcd01994b3a826ce9852bf2ca776cc"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "a0cdadb646c7a34a8bbec0583648825b2fa34d4ce0d68742e774a8852880e1a0"
+hash = "14ba13987b04be169ef963669146e3a2d2a63b1fcaf9ed99d7dfa81adeddc215"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -15026,7 +17122,7 @@ hash = "fa631fe1bf6fa9fa69654e55ee48ec5cf2b7b33bb7b1dff9317ee124d2010752"
 
 [[files]]
 file = "config/the_vault/halloween_event.json"
-hash = "666415734ae25f5d693f9e59234c94c4c76535ca299671c762de6aa453f717a4"
+hash = "05a11eff7c1eb22e3c969e81bdd027d6f3d227054f72fce1bdda8d04525275c5"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -15658,7 +17754,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "43f90ebf60497021323024b38c49d871d0b7e5d33fb2f0fba249603866722991"
+hash = "6f6e317e225cf6fb55ae13422c995b65494954be7ab2b92d8b1a05e6e9001d28"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -15871,6 +17967,10 @@ hash = "f35b86908bbee232ea4a3574bf5cf0bba071a503dc647cf16cdaf151197ede3f"
 [[files]]
 file = "config/the_vault/wild_spawner.json"
 hash = "00858369bdab807e4e18609bcd062e036d80b3a44977649aa70558a53c4a1473"
+
+[[files]]
+file = "config/the_vault/witch_brew.json"
+hash = "31a2ed619f5fd441219832d9a88248aa4fe3a48e86c81f2b5850a264832f2681"
 
 [[files]]
 file = "config/the_vault/zarith_charm.json"
@@ -18539,7 +20639,7 @@ hash = "0156d7e29478e48e4311ac46150564b469bc96ba6d598153b004697608f75925"
 
 [[files]]
 file = "mods/mounts-1.0.jar"
-hash = "7a3e51dea189ff6b3c9709496559abfb047a66f0585e54d08ec766159b67cba5"
+hash = "b6cfbcc0a2600a944132e1529285b73dc64d2da63aaef735e590b7512ab66c22"
 
 [[files]]
 file = "mods/neoncraft2-2.2.jar"
@@ -18718,8 +20818,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.71.jar"
-hash = "9f561ecc10ee2d9d49f1fbf98f3db843e11483f12627bdf3170d288227cfffec"
+file = "mods/the_vault-1.18.2-3.21.72.jar"
+hash = "bd77fa63fe09eb6d9f7f6ca228281d41613bcdce112084d939964611f6e488e9"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

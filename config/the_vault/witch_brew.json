@@ -1,0 +1,189 @@
+{
+  "ingredientsPerBrew": 4,
+  "amountPerExtraPlayer": 0.5,
+  "ingredients": [
+    {
+      "task": {
+        "type": "chest",
+        "target": "the_vault:wooden_chest",
+        "probability": 0.5,
+        "icon": "the_vault:textures/gui/scavenger/wooden_chest.png",
+        "entries": {
+          "the_vault:brew_moon_cap": {
+            "weight": 1,
+            "multiplier": 1.5,
+            "color": 10475720
+          }
+        }
+      },
+      "source": "wooden chests"
+    },
+    {
+      "task": {
+        "type": "chest",
+        "target": "@the_vault:gilded",
+        "probability": 0.5,
+        "icon": "the_vault:textures/gui/scavenger/gilded_chest.png",
+        "entries": {
+          "the_vault:brew_crow_eye": {
+            "weight": 1,
+            "multiplier": 0.6,
+            "color": 15254855
+          }
+        }
+      },
+      "source": "gilded chests"
+    },
+    {
+      "task": {
+        "type": "chest",
+        "target": "@the_vault:ornate",
+        "probability": 0.5,
+        "icon": "the_vault:textures/gui/scavenger/ornate_chest.png",
+        "entries": {
+          "the_vault:brew_black_wax": {
+            "weight": 1,
+            "multiplier": 0.6,
+            "color": 9337781
+          }
+        }
+      },
+      "source": "ornate chests"
+    },
+    {
+      "task": {
+        "type": "chest",
+        "target": "@the_vault:living",
+        "probability": 0.5,
+        "icon": "the_vault:textures/gui/scavenger/living_chest.png",
+        "entries": {
+          "the_vault:brew_swamp_glass": {
+            "weight": 1,
+            "multiplier": 0.4,
+            "color": 7323470
+          }
+        }
+      },
+      "source": "living chests"
+    },
+    {
+      "task": {
+        "type": "coin_stacks",
+        "probability": 0.25,
+        "icon": "the_vault:textures/gui/scavenger/coin_stacks.png",
+        "entries": {
+          "the_vault:brew_witch_hair": {
+            "weight": 1,
+            "multiplier": 0.8,
+            "color": 12033240
+          }
+        }
+      },
+      "source": "coin piles"
+    },
+    {
+      "task": {
+        "type": "ore",
+        "probability": 0.3,
+        "icon": "the_vault:textures/gui/scavenger/vault_ore.png",
+        "entries": {
+          "the_vault:brew_grave_dust": {
+            "weight": 1,
+            "multiplier": 0.8,
+            "color": 11051930
+          }
+        }
+      },
+      "source": "vault ores"
+    },
+    {
+      "task": {
+        "type": "mob",
+        "probability": 0.3,
+        "icon": "the_vault:textures/gui/scavenger/mob.png",
+        "color": 8015784,
+        "entries": {
+          "the_vault:brew_shadow_ink": {
+            "multiplier": 1.0,
+            "mobs": [
+              "@the_vault:assassin"
+            ],
+            "icon": "the_vault:textures/gui/scavenger/assassin.png"
+          }
+        }
+      },
+      "source": "assassins"
+    },
+    {
+      "task": {
+        "type": "mob",
+        "probability": 0.3,
+        "icon": "the_vault:textures/gui/scavenger/mob.png",
+        "color": 11913530,
+        "entries": {
+          "the_vault:brew_ogre_bile": {
+            "multiplier": 0.5,
+            "mobs": [
+              "@the_vault:tank",
+              "@the_vault:fighter"
+            ],
+            "icon": "the_vault:textures/gui/scavenger/tank.png"
+          }
+        }
+      },
+      "source": "tanks and fighters"
+    },
+    {
+      "task": {
+        "type": "mob",
+        "probability": 0.3,
+        "icon": "the_vault:textures/gui/scavenger/mob.png",
+        "color": 13213856,
+        "entries": {
+          "the_vault:brew_rat_tail": {
+            "multiplier": 2.0,
+            "mobs": [
+              "@the_vault:horde"
+            ],
+            "icon": "the_vault:textures/gui/scavenger/horde.png"
+          }
+        }
+      },
+      "source": "hordes"
+    }
+  ],
+  "amounts": [
+    {
+      "level": 0,
+      "count": {
+        "type": "uniform",
+        "min": 3,
+        "max": 5
+      }
+    },
+    {
+      "level": 20,
+      "count": {
+        "type": "uniform",
+        "min": 4,
+        "max": 7
+      }
+    },
+    {
+      "level": 50,
+      "count": {
+        "type": "uniform",
+        "min": 5,
+        "max": 9
+      }
+    },
+    {
+      "level": 80,
+      "count": {
+        "type": "uniform",
+        "min": 6,
+        "max": 10
+      }
+    }
+  ]
+}

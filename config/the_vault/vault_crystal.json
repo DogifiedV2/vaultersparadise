@@ -2419,6 +2419,17 @@
           "random_modifiers": false
         }
       }
+    ],
+    "the_vault:crystal_seal_witch_brew": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "witch_brew"
+        }
+      }
     ]
   },
   "PROPERTIES": {
