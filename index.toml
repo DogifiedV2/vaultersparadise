@@ -1666,7 +1666,7 @@ hash = "1063d6884ac4e54cbcfdf6701af882e6b9be04fbbc436447f6a9a8912267456d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "421280433d4ab38afb64851f160de74536fe5c3841d10454a3df08cab460511f"
+hash = "d716dda4cf2f32dd81da894e8c33aa1d4e7936aca9b6e8552fa6c01c3f666971"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
@@ -10625,6 +10625,10 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_clockspire_exit
 hash = "ea0a526dedc532fae27551efec86b2bc8bf2c746689bb37aadb1ab2d247192b6"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/witch_brew_hollow.nbt"
+hash = "d5612c7c514a8aa5fbadae87efc772bd76f3707b1113fddf27fbcfe0ef0fed06"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
 hash = "19c96f096187c0df39d7771228d953c2fd6910c3fe38041af016822a42c7bbef"
 
@@ -14253,6 +14257,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/starts/white_starts.json"
 hash = "523ad19d23ff0d67a8acf49cf5ac5f575bef33d12603bb29a48c7613e7dcc82e"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/starts/witch_brew.json"
+hash = "a89e3b3a3abf5ad8e9e9b4e5d514b28446508b91ca1875582c39ae1b75a1fc91"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/treasure_rooms.json"
 hash = "d21c298b70c5acef64e75e25c662aaeeded64960df972c8e97368739b84d11fb"
 
@@ -14962,15 +14970,15 @@ hash = "c73112b421bf8f9ed2754bfcaaf52f38eed156510bec85d454cecd5b450f856a"
 
 [[files]]
 file = "config/the_vault/gen/start_pool_overrides.json"
-hash = "9d28c21bb7f7bf47fe11e177c8c32510647574cfb1b8f1b1d07383f365a0f5e4"
+hash = "d47994d553e6a60ee03e99278a3ef7e76eee06ca73fb3bcb5f1758e75aca251c"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "2aa28fd3588562f8769dbc813831835b12eaeca95248e302b5638600a74f2b4d"
+hash = "492ba2d33475742d0f8d9561d7fe60aca9fcd01994b3a826ce9852bf2ca776cc"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "a0cdadb646c7a34a8bbec0583648825b2fa34d4ce0d68742e774a8852880e1a0"
+hash = "14ba13987b04be169ef963669146e3a2d2a63b1fcaf9ed99d7dfa81adeddc215"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -15026,7 +15034,7 @@ hash = "fa631fe1bf6fa9fa69654e55ee48ec5cf2b7b33bb7b1dff9317ee124d2010752"
 
 [[files]]
 file = "config/the_vault/halloween_event.json"
-hash = "666415734ae25f5d693f9e59234c94c4c76535ca299671c762de6aa453f717a4"
+hash = "05a11eff7c1eb22e3c969e81bdd027d6f3d227054f72fce1bdda8d04525275c5"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -15658,7 +15666,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "43f90ebf60497021323024b38c49d871d0b7e5d33fb2f0fba249603866722991"
+hash = "6f6e317e225cf6fb55ae13422c995b65494954be7ab2b92d8b1a05e6e9001d28"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -15871,6 +15879,10 @@ hash = "f35b86908bbee232ea4a3574bf5cf0bba071a503dc647cf16cdaf151197ede3f"
 [[files]]
 file = "config/the_vault/wild_spawner.json"
 hash = "00858369bdab807e4e18609bcd062e036d80b3a44977649aa70558a53c4a1473"
+
+[[files]]
+file = "config/the_vault/witch_brew.json"
+hash = "31a2ed619f5fd441219832d9a88248aa4fe3a48e86c81f2b5850a264832f2681"
 
 [[files]]
 file = "config/the_vault/zarith_charm.json"

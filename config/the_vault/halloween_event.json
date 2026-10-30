@@ -15,7 +15,8 @@
     "scavenger",
     "bingo",
     "scavenger_bingo",
-    "rune_boss"
+    "rune_boss",
+    "witch_brew"
   ],
   "PEDDLER_MODIFIER_OFFERS": 4,
   "PEDDLER_CATALYST_OFFERS": 2,
@@ -124,5 +125,6 @@
       "model": "the_vault:backpacks/trick_or_treat_sack",
       "price": 100
     }
-  ]
+  ],
+  "PEDDLER_BREW_SEAL_PRICE": 40
 }
