@@ -857,10 +857,6 @@ file = "config/ironfurnaces-client.toml"
 hash = "d088826d0a024436f70edbabb417fbf1b9d7d5b08de5f3614269312eede9a0c0"
 
 [[files]]
-file = "config/ironfurnaces.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/ispawner/spawn_egg.json"
 hash = "e9f3d1d2230091d89e216d6df21795062bf59b9940eae44240c7add47e8ef23f"
 
@@ -907,10 +903,6 @@ hash = "3650f729c3ff59fb16e4d96c5a005614cbdb5131af3919427c73e7ce16169cd2"
 [[files]]
 file = "config/jei/world/local/Palette_Testing_World_2/bookmarks.ini"
 hash = "427f6668f2d8b95ff9259e223b6815d41168101e36094f3481fd186d0a1d8bfb"
-
-[[files]]
-file = "config/jei/world/local/Update_19_Dev_World/bookmarks.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/world/local/WuWorld2/bookmarks.ini"
@@ -3163,10 +3155,6 @@ hash = "5a6967f6bdf8cb9d241bcd1d3d17b290de5d03ce7cd0e12bf234e3699335712d"
 [[files]]
 file = "config/pickupnotifier/overworld.json"
 hash = "fe8a4987d45421588a3e4a61ad209ebf1d2c912d522e0703759f4610e95e7d7f"
-
-[[files]]
-file = "config/pickupnotifier/pickupnotifier-client-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
