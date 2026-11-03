@@ -31,7 +31,7 @@
         ,"the_vault:damage_assassin": "Increases physical and ability power damage to Assassin type mobs"
         ,"the_vault:damage_dweller": "Increases physical and ability power damage to Dweller type mobs"
         ,"the_vault:damage_dungeon": "Increases physical and ability power damage to Dungeon type mobs"
-        ,"the_vault:on_hit_chain": "Adds a chain from the first target hit a number of times based on your Chaining value, each chain lowers the damage by 25% of your initial hit."
+        ,"the_vault:on_hit_chain": "Adds a chain from the first target hit a number of times based on your Chaining value, each chain deals half the damage of the hit before it."
         ,"the_vault:lucky_hit_chance": "Your chance at landing a Lucky Hit, increasing physical damage on that strike, and triggering any talent tied to Lucky Hit."
     }   
 }

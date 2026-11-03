@@ -3975,7 +3975,7 @@
           "color": "$radius"
         },
         {
-          "text": " around yourself.\n",
+          "text": " around yourself. Targets further away take less damage.\n",
           "color": "$text"
         },
         {

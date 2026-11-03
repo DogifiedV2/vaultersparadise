@@ -1365,7 +1365,7 @@
           "color": "#7738C9",
           "description": "See behind you!",
           "descriptionFormatted": "See behind you!",
-          "icon": "the_vault:gui/modifiers/backwards"
+          "icon": "the_vault:gui/modifiers/crab_walk"
         }
       }
     },
@@ -2142,7 +2142,7 @@
           "name": "S++ Rank Portal",
           "color": "#ff4d4d",
           "description": "Overwhelming danger, only the best groups should enter.",
-          "icon": "the_vault:gui/modifiers/tree"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       },
       "the_vault:overvault_portal_sp": {
@@ -2183,7 +2183,7 @@
           "name": "S+ Rank Portal",
           "color": "#ff7a00",
           "description": "Crushing odds, huge rewards for strong groups.",
-          "icon": "the_vault:gui/modifiers/tree"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       },
       "the_vault:overvault_portal_s": {
@@ -2226,7 +2226,7 @@
           "name": "S Rank Portal",
           "color": "#ffb000",
           "description": "Extreme danger, built for coordinated groups.",
-          "icon": "the_vault:gui/modifiers/tree"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       },
       "the_vault:overvault_portal_a": {
@@ -2269,7 +2269,7 @@
           "name": "A Rank Portal",
           "color": "#c7e900",
           "description": "Brutal alone, best faced in a group.",
-          "icon": "the_vault:gui/modifiers/tree"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       },
       "the_vault:overvault_portal_b": {
@@ -2308,7 +2308,7 @@
           "name": "B Rank Portal",
           "color": "#53c653",
           "description": "Serious danger, rich rewards.",
-          "icon": "the_vault:gui/modifiers/tree"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       },
       "the_vault:overvault_portal_c": {
@@ -2342,7 +2342,7 @@
           "name": "C Rank Portal",
           "color": "#33cccc",
           "description": "Rising danger, worthwhile rewards.",
-          "icon": "the_vault:gui/modifiers/tree"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       },
       "the_vault:overvault_portal_d": {
@@ -2370,7 +2370,7 @@
           "name": "D Rank Portal",
           "color": "#4d79ff",
           "description": "Manageable danger, solid rewards.",
-          "icon": "the_vault:gui/modifiers/tree"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       },
       "the_vault:overvault_portal_e": {
@@ -2396,7 +2396,7 @@
           "name": "E Rank Portal",
           "color": "#999999",
           "description": "Light danger, modest rewards.",
-          "icon": "the_vault:gui/modifiers/tree"
+          "icon": "the_vault:gui/modifiers/treasure"
         }
       }
     },
@@ -3306,7 +3306,7 @@
           "color": "#c90d73",
           "description": "+30% Spawners",
           "descriptionFormatted": "+%d%% Spawners",
-          "icon": "the_vault:gui/modifiers/wealhty"
+          "icon": "the_vault:gui/modifiers/wealthy"
         }
       }
     },
@@ -4544,7 +4544,7 @@
           "color": "#7B7E7F",
           "description": "+10% Ability Cast Failure Chance",
           "descriptionFormatted": "+%d%% Ability Cast Failure Chance",
-          "icon": "the_vault:gui/modifiers/legendary_modifier"
+          "icon": "the_vault:gui/modifiers/ability_break"
         }
       }
     },
@@ -4984,7 +4984,7 @@
           "color": "#5A5851",
           "description": "+1% Stun On Hit Chance",
           "descriptionFormatted": "+%d%% Stun On Hit Chance",
-          "icon": "the_vault:gui/modifiers/hex_stunning"
+          "icon": "the_vault:gui/modifiers/hex_slow"
         }
       },
       "the_vault:on_hit_darkness_chance_1": {
@@ -4999,7 +4999,7 @@
           "color": "#5A5851",
           "description": "+1% Darkness On Hit Chance",
           "descriptionFormatted": "+%d%% Darkness On Hit Chance",
-          "icon": "the_vault:gui/modifiers/hex_blinding"
+          "icon": "the_vault:gui/modifiers/hex_wither"
         }
       },
       "the_vault:on_hit_slow_chance_1": {
@@ -5528,7 +5528,7 @@
           "name": "No Loot",
           "color": "#a996ca",
           "description": "Chests and Champions have no loot in this vault.",
-          "icon": "the_vault:gui/modifiers/no_loot"
+          "icon": "the_vault:gui/modifiers/poor"
         }
       }
     },
@@ -5539,7 +5539,7 @@
           "name": "No Crate",
           "color": "#a996ca",
           "description": "You will not receive a crate on completion.",
-          "icon": "the_vault:gui/modifiers/no_crate"
+          "icon": "the_vault:gui/modifiers/crate_item_quantity"
         }
       }
     },
@@ -5625,7 +5625,7 @@
           "name": "Omega Bloom",
           "color": "#6AFF00",
           "description": "10x Omega Room Chance",
-          "icon": "the_vault:gui/modifiers/omega_fortune"
+          "icon": "the_vault:gui/modifiers/omega"
         }
       },
       "the_vault:challenge_fortune": {
@@ -5639,7 +5639,7 @@
           "name": "Challenge Vein",
           "color": "#FF4500",
           "description": "10x Challenge Room Chance",
-          "icon": "the_vault:gui/modifiers/challenge_fortune"
+          "icon": "the_vault:gui/modifiers/challenging"
         }
       },
       "the_vault:omega_fortune_20": {
