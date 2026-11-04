@@ -582,5 +582,10 @@
       "the_vault:gear/magnets/tenos",
       "the_vault:gear/magnets/velara"
     ]
+  },
+  "TOOL_MODEL_ROLLS": {
+    "SPECIAL": [
+      "the_vault:gear/tool/clockwork_pick"
+    ]
   }
 }
