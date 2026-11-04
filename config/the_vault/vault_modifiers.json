@@ -1461,8 +1461,8 @@
         "display": {
           "name": "The Locker's Claim",
           "color": "#76b289",
-          "description": "Owed and unpaid. Earn no XP until your debt is settled",
-          "descriptionFormatted": "Owed and unpaid. Earn no XP until your debt is settled",
+          "description": "Owed and unpaid. Whoever owes earns no XP until the debt is settled",
+          "descriptionFormatted": "Owed and unpaid. Whoever owes earns no XP until the debt is settled",
           "icon": "the_vault:gui/modifiers/curse_voidpools"
         }
       },
