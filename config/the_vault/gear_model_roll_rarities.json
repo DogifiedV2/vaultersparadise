@@ -79,7 +79,6 @@
       "the_vault:gear/armor/bunny_guardian",
       "the_vault:gear/armor/pirate",
       "the_vault:gear/armor/mushroom",
-      "the_vault:gear/armor/fairy",
       "the_vault:gear/armor/sweetheart",
       "the_vault:gear/armor/farmer_girl",
       "the_vault:gear/armor/farmer_boy",
@@ -124,6 +123,7 @@
     "SPECIAL": [
       "the_vault:gear/armor/voidbound_protector",
       "the_vault:gear/armor/nimbus_knight",
+      "the_vault:gear/armor/fairy",
       "the_vault:gear/armor/hollow_crown",
       "the_vault:gear/armor/moon_bearer",
       "the_vault:gear/armor/penguin",
