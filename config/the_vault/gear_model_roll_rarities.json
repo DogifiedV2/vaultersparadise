@@ -584,6 +584,22 @@
   "TOOL_MODEL_ROLLS": {
     "SPECIAL": [
       "the_vault:gear/tool/clockwork_pick"
+    ],
+    "COMMON": [
+      "the_vault:gear/tool/pipe_wrench"
+    ],
+    "RARE": [
+      "the_vault:gear/tool/lantern_pick",
+      "the_vault:gear/tool/geode_hammer",
+      "the_vault:gear/tool/anchor_pick",
+      "the_vault:gear/tool/bone_jaw_pick"
+    ],
+    "EPIC": [
+      "the_vault:gear/tool/squeaky_mallet",
+      "the_vault:gear/tool/magma_pick"
+    ],
+    "OMEGA": [
+      "the_vault:gear/tool/mimic_pick"
     ]
   }
 }
