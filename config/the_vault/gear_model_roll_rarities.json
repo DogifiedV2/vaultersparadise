@@ -80,6 +80,11 @@
       "the_vault:gear/armor/pirate",
       "the_vault:gear/armor/mushroom",
       "the_vault:gear/armor/sweetheart",
+      "the_vault:gear/armor/fairy_girl",
+      "the_vault:gear/armor/mushroom_girl",
+      "the_vault:gear/armor/farmer_girl",
+      "the_vault:gear/armor/farmer_boy",
+      "the_vault:gear/armor/harbor_seal",
       "the_vault:gear/armor/princess",
       "the_vault:gear/armor/kraken_lord",
       "the_vault:gear/armor/pink_crystal"
@@ -118,13 +123,8 @@
       "the_vault:gear/armor/vitalis"
     ],
     "SPECIAL": [
-      "the_vault:gear/armor/bug_check",
       "the_vault:gear/armor/voidbound_protector",
       "the_vault:gear/armor/nimbus_knight",
-      "the_vault:gear/armor/harbor_seal",
-      "the_vault:gear/armor/mushroom_girl",
-      "the_vault:gear/armor/farmer_girl",
-      "the_vault:gear/armor/fairy_girl",
       "the_vault:gear/armor/hollow_crown",
       "the_vault:gear/armor/moon_bearer",
       "the_vault:gear/armor/penguin",
