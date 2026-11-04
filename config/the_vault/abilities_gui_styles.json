@@ -418,6 +418,9 @@
       "specializationStyles": {
         "Soul_Army_Base": {
           "icon": "the_vault:gui/abilities/soul_army"
+        },
+        "Soul_Army_Avatar": {
+          "icon": "the_vault:gui/abilities/soul_avatar"
         }
       }
     }

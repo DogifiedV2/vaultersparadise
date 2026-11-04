@@ -26529,6 +26529,53 @@
                 "id": "soul_army_3"
               }
             ]
+          },
+          {
+            "type": "tiered",
+            "id": "Soul_Army_Avatar",
+            "name": "Soul Avatar",
+            "maxLearnableTier": 3,
+            "tiers": [
+              {
+                "type": "soul_avatar",
+                "damagePercent": 2.1,
+                "healthPercent": 3.0,
+                "durationTicks": 3600,
+                "necroSlots": 3,
+                "manaCost": 80.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "cooldownTicks": 1200,
+                "unlockLevel": 30,
+                "id": "soul_avatar_1"
+              },
+              {
+                "type": "soul_avatar",
+                "damagePercent": 2.55,
+                "healthPercent": 3.6,
+                "durationTicks": 3600,
+                "necroSlots": 4,
+                "manaCost": 80.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "cooldownTicks": 1200,
+                "unlockLevel": 50,
+                "id": "soul_avatar_2"
+              },
+              {
+                "type": "soul_avatar",
+                "damagePercent": 3.0,
+                "healthPercent": 4.2,
+                "durationTicks": 3600,
+                "necroSlots": 5,
+                "manaCost": 80.0,
+                "learnPointCost": 2,
+                "regretPointCost": 1,
+                "cooldownTicks": 1200,
+                "unlockLevel": 75,
+                "id": "soul_avatar_3"
+              }
+            ]
           }
         ]
       }
