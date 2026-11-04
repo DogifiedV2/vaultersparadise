@@ -615,13 +615,7 @@
       },
       "name": "Botany Pots",
       "cost": 4,
-      "usesKnowledge": true,
-      "discoversModels": [
-        "the_vault:gear/armor/fairy/helmet",
-        "the_vault:gear/armor/fairy/chestplate",
-        "the_vault:gear/armor/fairy/leggings",
-        "the_vault:gear/armor/fairy/boots"
-      ]
+      "usesKnowledge": true
     },
     {
       "modIds": [
