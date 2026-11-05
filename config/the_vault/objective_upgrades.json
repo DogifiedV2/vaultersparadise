@@ -774,6 +774,51 @@
       ]
     },
     {
+      "upgrade": "MARKET_CONNECTIONS",
+      "maxLevel": 1,
+      "insightCosts": [
+        10
+      ],
+      "requirements": [
+        [
+          {
+            "type": "vault_level",
+            "level": 40
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "HOLD_THAT_THOUGHT",
+      "maxLevel": 1,
+      "insightCosts": [
+        15
+      ],
+      "requirements": [
+        [
+          {
+            "type": "vault_level",
+            "level": 30
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COUNTEROFFER",
+      "maxLevel": 1,
+      "insightCosts": [
+        10
+      ],
+      "requirements": [
+        [
+          {
+            "type": "vault_level",
+            "level": 50
+          }
+        ]
+      ]
+    },
+    {
       "upgrade": "EXTRA_STOCK",
       "maxLevel": 1,
       "insightCosts": [
