@@ -536,6 +536,67 @@
       ]
     },
     {
+      "upgrade": "PERFECTLY_RIPE",
+      "maxLevel": 3,
+      "insightCosts": [
+        5,
+        10,
+        20
+      ],
+      "requirements": [
+        [
+          {
+            "type": "vault_level",
+            "level": 20
+          }
+        ],
+        [
+          {
+            "type": "vault_level",
+            "level": 40
+          }
+        ],
+        [
+          {
+            "type": "vault_level",
+            "level": 60
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "DIVINE_RESONANCE",
+      "maxLevel": 3,
+      "insightCosts": [
+        10,
+        20,
+        30
+      ],
+      "requirements": [
+        [
+          {
+            "type": "atlas_count",
+            "kind": "god_altar",
+            "count": 25
+          }
+        ],
+        [
+          {
+            "type": "atlas_count",
+            "kind": "god_altar",
+            "count": 25
+          }
+        ],
+        [
+          {
+            "type": "atlas_count",
+            "kind": "god_altar",
+            "count": 25
+          }
+        ]
+      ]
+    },
+    {
       "upgrade": "MORE_EMBERS",
       "maxLevel": 4,
       "insightCosts": [
@@ -618,6 +679,38 @@
       ]
     },
     {
+      "upgrade": "ELIXIR_SENSE",
+      "maxLevel": 1,
+      "insightCosts": [
+        5
+      ],
+      "requirements": [
+        [
+          {
+            "type": "objective",
+            "objective": "elixir",
+            "count": 10
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "RENEGOTIATE",
+      "maxLevel": 1,
+      "insightCosts": [
+        10
+      ],
+      "requirements": [
+        [
+          {
+            "type": "objective",
+            "objective": "scavenger",
+            "count": 10
+          }
+        ]
+      ]
+    },
+    {
       "upgrade": "HAGGLER",
       "maxLevel": 3,
       "insightCosts": [
@@ -676,6 +769,51 @@
             "type": "upgrade",
             "upgrade": "HAGGLER",
             "level": 3
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "MARKET_CONNECTIONS",
+      "maxLevel": 1,
+      "insightCosts": [
+        10
+      ],
+      "requirements": [
+        [
+          {
+            "type": "vault_level",
+            "level": 40
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "HOLD_THAT_THOUGHT",
+      "maxLevel": 1,
+      "insightCosts": [
+        15
+      ],
+      "requirements": [
+        [
+          {
+            "type": "vault_level",
+            "level": 30
+          }
+        ]
+      ]
+    },
+    {
+      "upgrade": "COUNTEROFFER",
+      "maxLevel": 1,
+      "insightCosts": [
+        10
+      ],
+      "requirements": [
+        [
+          {
+            "type": "vault_level",
+            "level": 50
           }
         ]
       ]
@@ -1561,6 +1699,17 @@
   "prismaticChanceMultiplier": 2.0,
   "longBreathSecondsPerLevel": 30,
   "reputationBoostChancePercentPerLevel": 20.0,
+  "perfectlyRipeChancePercents": [
+    20.0,
+    30.0,
+    40.0
+  ],
+  "perfectlyRipeBonusPercent": 25.0,
+  "divineResonanceBonusPercents": [
+    10.0,
+    25.0,
+    50.0
+  ],
   "emberBonusPercentPerLevel": 25.0,
   "challengeFortunePercentPerLevel": 50.0,
   "omegaFortunePercentPerLevel": 50.0,

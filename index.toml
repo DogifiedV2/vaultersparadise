@@ -3274,11 +3274,11 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "497291313e11144e22d70c3803e00d68c392d0b0f144174f47333502be126430"
+hash = "b2f40452117d15d5aec7a27fb4953faa6fbfd239aa24c0a8d1bdb33e4d511ea7"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "773a84a86007275b804ace1d55a44d11147e8629def4da01d82bff24b497422a"
+hash = "b2755590bb6eedf8fa4454e292a2e742f82db0e8a9e301118e8ceadec99ffe3c"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -3286,11 +3286,11 @@ hash = "cd5aef4230778ff80bfee9f451c24c7c6e71880482d358ed75ce2ea867b51b1e"
 
 [[files]]
 file = "config/the_vault/abilities_group.json"
-hash = "75d019ccd0d00a1960ae923718f964b3b223e2c172ebd6c9b39ce270b2681e2f"
+hash = "94c92f0440baceb70ab60dae4b9824dfc08271e95083a0205661d0f58eb83e37"
 
 [[files]]
 file = "config/the_vault/abilities_gui_styles.json"
-hash = "b3cdb773412c518ff47064ffac800acaa4f4e0eb19eaf503d3d518adf93a0309"
+hash = "8f4e23f9326672eb483e778e2dd9fab349e0c34619e7f00951e588df09701742"
 
 [[files]]
 file = "config/the_vault/abilities_vein_miner_deny.json"
@@ -3734,7 +3734,7 @@ hash = "7a14cf138cabe7451daecddeec55fe0d9c3014a23320592ca1699476daadf8ec"
 
 [[files]]
 file = "config/the_vault/gear/modifier_tooltips.json"
-hash = "8556f8781d244f1968c0767ce3a68886c21152586a9361fc1dde39cf9a2d45cb"
+hash = "6774f5556b571f2c1c3b5c50235cdd395590bfeccd99294e084e74e953bbc2e9"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
@@ -3742,7 +3742,7 @@ hash = "1063d6884ac4e54cbcfdf6701af882e6b9be04fbbc436447f6a9a8912267456d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "d716dda4cf2f32dd81da894e8c33aa1d4e7936aca9b6e8552fa6c01c3f666971"
+hash = "049fe6e62daa529d05f3989845b0128638ff323bc6b40b8d3fcf62771c7f0992"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
@@ -17110,7 +17110,7 @@ hash = "fa631fe1bf6fa9fa69654e55ee48ec5cf2b7b33bb7b1dff9317ee124d2010752"
 
 [[files]]
 file = "config/the_vault/halloween_event.json"
-hash = "05a11eff7c1eb22e3c969e81bdd027d6f3d227054f72fce1bdda8d04525275c5"
+hash = "0b9801880ba8caf1e9fe5fec433b32c28fbf968ac9a3b836c1f72570c07dea6f"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -17410,11 +17410,11 @@ hash = "b6da838587bc379750faeeb2c2772addfd0af6335869326920f7d98a1cb0d05f"
 
 [[files]]
 file = "config/the_vault/objective_upgrades.json"
-hash = "709a2b55c5411676fa997ab14626f418cff2f24616ac6d825d6ccb1c43c8615f"
+hash = "df8687b907ba68e1d242e54dd6c2f98b2b240b7be6bcc7774e29f96b6445fe2e"
 
 [[files]]
 file = "config/the_vault/objective_upgrades_gui_styles.json"
-hash = "330411a9f075067b3fb6cd09c6a5a088a28ff485bab565b713fac834078b8437"
+hash = "47b642a65d50ab565db467c4f3c15006e8bc25c2d46f0d4e35fd061965eb0123"
 
 [[files]]
 file = "config/the_vault/old_notes.json"
@@ -17494,7 +17494,7 @@ hash = "41cf6e7900adf921184c2d5def72443d35c0d07f8ac160783a6727c516bc9a86"
 
 [[files]]
 file = "config/the_vault/recipes/deck_recipes.json"
-hash = "eb8ef8a7336a4657a78d09ca20b5875a88664b4306bfb043c396d59539640566"
+hash = "9a3f022470226333d7a70300a0e2c99bd822c811f7e680b4e03e871bee32bfc4"
 
 [[files]]
 file = "config/the_vault/recipes/gear_recipes.json"
@@ -17610,7 +17610,7 @@ hash = "6ca900ae835aecd1be9fb16434782822ac004e0078fd87e125a1637bf6974a8f"
 
 [[files]]
 file = "config/the_vault/spirit.json"
-hash = "8d2d1e99671fe55a0a0d02a81091f67cc531a66dba356ca466ae0ca96ea8b115"
+hash = "a4a90722d741bf5def1ea2d8dbbff488341c9f95735e0ed55f735f88b821ae22"
 
 [[files]]
 file = "config/the_vault/statue_loot.json"
@@ -17810,7 +17810,7 @@ hash = "9bb24545af4cdc12dae2a0559bae20b8fa5852626a3db06dd38882a85944f3b5"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "8c1f9bbf39fd1be673849453d40c261bbdbf0ee6e72cf4de74418b9c53217642"
+hash = "6465ce2ed83cb7904ad46c7a438a32e5c84c0ca476115810de9ca382ff9bc9ef"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -20652,7 +20652,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradisecore-1.18.2-2.0.jar"
-hash = "4a6a5c2ca979fbe29a70ccf78c0d054195eb4102c9c7e45a894b4e527e4c96f5"
+hash = "3cd6a939fa6dbb4b877d1802790609469d1e1c0659d40734f0d6d66edaaca757"
 
 [[files]]
 file = "mods/pipez-1.18.2-1.1.5.jar"
@@ -20806,8 +20806,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.72.jar"
-hash = "6ae53ef3e1036721e7d7fd7ecd5ee542e1f568a6a52223186f87154f41c64a3d"
+file = "mods/the_vault-1.18.2-3.21.73.jar"
+hash = "6ce8d5caac3f04f1c96c3ada0a311f5c2f8349f8481294a16a6ff0e8a41ab179"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -20907,7 +20907,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.23.7-all.jar"
-hash = "0e42487add2ebac618abdbead3fdfa8bebc21c426ca196847042caf3c0750319"
+hash = "0fbdfe6d335f42e57f98addfdba1044c036af30c5a65c5e6d4bac9c909f569b6"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"

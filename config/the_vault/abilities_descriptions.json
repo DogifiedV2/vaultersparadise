@@ -3975,7 +3975,7 @@
           "color": "$radius"
         },
         {
-          "text": " around yourself.\n",
+          "text": " around yourself. Targets further away take less damage.\n",
           "color": "$text"
         },
         {
@@ -4264,6 +4264,64 @@
         },
         {
           "text": ". When the army fades, the souls are back in their slots.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "✴ Cast Ability ",
+          "color": "$castType"
+        }
+      ],
+      "current": [
+        "manaCost",
+        "damage",
+        "healthPercent",
+        "duration",
+        "necroSlots"
+      ],
+      "next": [
+        "manaCost",
+        "damage",
+        "healthPercent",
+        "duration",
+        "necroSlots"
+      ]
+    },
+    "Soul_Army_Avatar": {
+      "description": [
+        {
+          "text": "Raise only your ",
+          "color": "$text"
+        },
+        {
+          "text": "strongest soul",
+          "color": "$titleLine"
+        },
+        {
+          "text": " from your necro slots, far stronger and for far longer. Its ",
+          "color": "$text"
+        },
+        {
+          "text": "damage",
+          "color": "$damage"
+        },
+        {
+          "text": " and ",
+          "color": "$text"
+        },
+        {
+          "text": "health",
+          "color": "$heal"
+        },
+        {
+          "text": " come from your own. Horde souls rise as one.\n\n",
+          "color": "$text"
+        },
+        {
+          "text": "In a vault it needs a full ultimate charge, built by kills and shared by all ultimates; charging past full makes it up to 30% stronger. Outside vaults only the cooldown applies",
+          "color": "$duration"
+        },
+        {
+          "text": ".\n\n",
           "color": "$text"
         },
         {

@@ -99,6 +99,16 @@
       "boxWidth": 170,
       "boxHeight": 152,
       "icon": "the_vault:gui/objective_upgrades/category_compass"
+    },
+    "BLACK_MARKET": {
+      "group": "Black Market",
+      "headerColor": -10799732,
+      "headerTextColor": -1,
+      "x": 190,
+      "y": 390,
+      "boxWidth": 170,
+      "boxHeight": 110,
+      "icon": "the_vault:gui/objective_upgrades/category_black_market"
     }
   },
   "styles": {
@@ -191,6 +201,30 @@
       "y": 82,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/reputation_boost"
+    },
+    "PERFECTLY_RIPE": {
+      "x": 415,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/perfectly_ripe"
+    },
+    "DIVINE_RESONANCE": {
+      "x": 515,
+      "y": 82,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/divine_resonance"
+    },
+    "ELIXIR_SENSE": {
+      "x": 60,
+      "y": 212,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/elixir_sense"
+    },
+    "RENEGOTIATE": {
+      "x": 110,
+      "y": 212,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/renegotiate"
     },
     "MORE_EMBERS": {
       "x": 35,
@@ -389,6 +423,24 @@
       "y": 514,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/compass_challenge_room"
+    },
+    "MARKET_CONNECTIONS": {
+      "x": 225,
+      "y": 430,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/market_connections"
+    },
+    "HOLD_THAT_THOUGHT": {
+      "x": 275,
+      "y": 430,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/hold_that_thought"
+    },
+    "COUNTEROFFER": {
+      "x": 325,
+      "y": 430,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/objective_upgrades/counteroffer"
     }
   },
   "effectColors": {
@@ -407,6 +459,10 @@
     "PRISMATIC": -9425787,
     "LONG_BREATH": -14133638,
     "REPUTATION_BOOST": -10336000,
+    "PERFECTLY_RIPE": -14133638,
+    "DIVINE_RESONANCE": -11651446,
+    "ELIXIR_SENSE": -10799732,
+    "RENEGOTIATE": -14723019,
     "MORE_EMBERS": -7722731,
     "OBJECTIVE_CHOICE": -14397553,
     "BINGO_SQUARE": -14723019,
@@ -439,6 +495,9 @@
     "COMPASS_GOD_ALTAR": -10406513,
     "COMPASS_OBJECTIVE_PILLAR": -14397553,
     "COMPASS_ORE_ROOM": -14133638,
-    "COMPASS_CHALLENGE_ROOM": -9158646
+    "COMPASS_CHALLENGE_ROOM": -9158646,
+    "MARKET_CONNECTIONS": -12617158,
+    "HOLD_THAT_THOUGHT": -8758758,
+    "COUNTEROFFER": -12965302
   }
 }

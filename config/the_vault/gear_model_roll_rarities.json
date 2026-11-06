@@ -80,6 +80,16 @@
       "the_vault:gear/armor/pirate",
       "the_vault:gear/armor/mushroom",
       "the_vault:gear/armor/sweetheart",
+      "the_vault:gear/armor/farmer_girl",
+      "the_vault:gear/armor/farmer_boy",
+      "the_vault:gear/armor/harbor_seal",
+      "the_vault:gear/armor/duck",
+      "the_vault:gear/armor/baker",
+      "the_vault:gear/armor/baker_boy",
+      "the_vault:gear/armor/gilded_noir",
+      "the_vault:gear/armor/snow_fox",
+      "the_vault:gear/armor/raven_witch",
+      "the_vault:gear/armor/painter",
       "the_vault:gear/armor/princess",
       "the_vault:gear/armor/kraken_lord",
       "the_vault:gear/armor/pink_crystal"
@@ -118,6 +128,9 @@
       "the_vault:gear/armor/vitalis"
     ],
     "SPECIAL": [
+      "the_vault:gear/armor/voidbound_protector",
+      "the_vault:gear/armor/nimbus_knight",
+      "the_vault:gear/armor/fairy",
       "the_vault:gear/armor/hollow_crown",
       "the_vault:gear/armor/penguin",
       "the_vault:gear/armor/goldflame",
@@ -139,7 +152,6 @@
       "the_vault:gear/armor/cake",
       "the_vault:gear/armor/create",
       "the_vault:gear/armor/dank",
-      "the_vault:gear/armor/fairy",
       "the_vault:gear/armor/flux",
       "the_vault:gear/armor/robotic",
       "the_vault:gear/armor/arcade",
@@ -573,6 +585,27 @@
       "the_vault:gear/magnets/wendarr",
       "the_vault:gear/magnets/tenos",
       "the_vault:gear/magnets/velara"
+    ]
+  },
+  "TOOL_MODEL_ROLLS": {
+    "SPECIAL": [
+      "the_vault:gear/tool/clockwork_pick"
+    ],
+    "COMMON": [
+      "the_vault:gear/tool/pipe_wrench"
+    ],
+    "RARE": [
+      "the_vault:gear/tool/lantern_pick",
+      "the_vault:gear/tool/geode_hammer",
+      "the_vault:gear/tool/anchor_pick",
+      "the_vault:gear/tool/bone_jaw_pick"
+    ],
+    "EPIC": [
+      "the_vault:gear/tool/squeaky_mallet",
+      "the_vault:gear/tool/magma_pick"
+    ],
+    "OMEGA": [
+      "the_vault:gear/tool/mimic_pick"
     ]
   }
 }
