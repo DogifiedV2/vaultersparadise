@@ -2434,6 +2434,8 @@
     "the_vault:crystal_seal_borrowed_time": [
       {
         "level": 0,
+        "exhausted": true,
+        "wipe": true,
         "input": [
           "the_vault:vault_crystal"
         ],
