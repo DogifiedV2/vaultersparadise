@@ -3073,7 +3073,7 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pu
 hash = "c4dad6433616741278967cbc265786839969a26fd834c52bf948ca7e02a22574"
 
 [[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/stormclock/stormclock_vfx.png"
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_vfx.png"
 hash = "b5eb3093074d429c7a24c025ed8e4b1c1fa2cf2fbdd15fa438f965d2e6a3db31"
 
 [[files]]
@@ -3670,7 +3670,7 @@ hash = "e3cc18f36f5e12cb3fa0733ec8d80e56f1711089e588e02fb2b551a1b8c53e57"
 
 [[files]]
 file = "config/the_vault/entity_groups.json"
-hash = "1b60cc3807a89f8bef288a66d38768a25777a7095ac44797c572f816467bd305"
+hash = "82c997cbd1544e8b5416c96ddc913ab7dbaddad120ff71c7aaa4fbaae305012e"
 
 [[files]]
 file = "config/the_vault/entity_hitbox_offsets.json"
@@ -20807,7 +20807,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "d52b8b3ce6280de9f5477b8de5bddf2493ec6317463f64a13818343ec78d29ef"
+hash = "cdbe10fba4dd964f493622f84c99f6429708dc6573d5bf1a86e6aa371545e1ab"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
