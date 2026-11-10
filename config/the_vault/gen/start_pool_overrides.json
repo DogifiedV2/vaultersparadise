@@ -17,6 +17,15 @@
           "type": "objective"
         }
       ]
+    },
+    {
+      "poolId": "the_vault:vault/starts/time_trial",
+      "conditions": [
+        {
+          "objectiveId": "the_vault:borrowed_time",
+          "type": "objective"
+        }
+      ]
     }
   ]
 }

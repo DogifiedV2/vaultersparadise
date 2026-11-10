@@ -1,0 +1,103 @@
+{
+  "start_seconds": 300,
+  "hourglass_price_seconds": 480,
+  "price_per_extra_player": 0.5,
+  "pour_seconds": 30,
+  "pour_seconds_sneaking": 120,
+  "pour_interval_ticks": 8,
+  "minimum_clock_seconds": 30,
+  "dials_per_player": 1,
+  "max_dials": 4,
+  "dial_min_rooms_from_start": 2,
+  "dial_max_rooms_from_start": 4,
+  "dial_relocate_seconds": 480,
+  "pointer_hide_blocks": 12,
+  "trial_seconds": 45,
+  "trial_reward_seconds": 60,
+  "trial_bonus_sand_seconds": 0,
+  "trial_fail_penalty_seconds": 30,
+  "trial_retry_cooldown_seconds": 20,
+  "trial_radius": 9,
+  "trial_leave_grace_seconds": 5,
+  "trial_mobs_drop_sand": false,
+  "rush_quota": 8,
+  "rush_quota_per_extra_player": 4,
+  "rush_alive_cap": 5,
+  "rush_alive_cap_per_extra_player": 2,
+  "rush_spawn_interval_ticks": 25,
+  "hold_seconds": 30,
+  "hold_radius": 3,
+  "hold_alive_cap": 4,
+  "hold_alive_cap_per_extra_player": 2,
+  "hold_spawn_interval_ticks": 50,
+  "overwound_pack": 4,
+  "overwound_pack_per_extra_player": 2,
+  "overwound_haste_amplifier": 1,
+  "trial_horde": [
+    "the_vault:ringer",
+    "the_vault:ticker"
+  ],
+  "trial_tank": [
+    "the_vault:longcase",
+    "the_vault:bell_ox"
+  ],
+  "trial_assassin": [
+    "the_vault:sand_wraith",
+    "the_vault:hourshot"
+  ],
+  "trial_elites": [
+    "the_vault:keywinder",
+    "the_vault:meridian",
+    "the_vault:stormcaller"
+  ],
+  "leftover_bonus_per_minute": 0.1,
+  "leftover_bonus_cap": 0.5,
+  "champion": "stormclock",
+  "finale_ticks": 160,
+  "theme": "the_vault:classic_vault_wendarr",
+  "crate_type": "SCAVENGER",
+  "crate_loot": "scavenger",
+  "sand": {
+    "mob_drop_chance": 0.6,
+    "champion_mob": 12,
+    "mobs": [
+      {
+        "target": "@the_vault:elite",
+        "seconds": 20
+      },
+      {
+        "target": "@the_vault:tank",
+        "seconds": 6
+      },
+      {
+        "target": "@the_vault:assassin",
+        "seconds": 4
+      },
+      {
+        "target": "@the_vault:horde",
+        "seconds": 2
+      }
+    ],
+    "chests": [
+      {
+        "target": "the_vault:wooden_chest",
+        "seconds": 3
+      },
+      {
+        "target": "@the_vault:gilded",
+        "seconds": 5
+      },
+      {
+        "target": "@the_vault:ornate",
+        "seconds": 5
+      },
+      {
+        "target": "@the_vault:living",
+        "seconds": 5
+      }
+    ],
+    "coin_pile": 2,
+    "vault_ore": 2,
+    "merge_radius": 1.5
+  }
+}

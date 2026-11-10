@@ -206,7 +206,9 @@
       "the_vault:wisp_lantern",
       "the_vault:ink_crawler",
       "the_vault:gilt_grunt",
-      "the_vault:barnacle_grunt"
+      "the_vault:barnacle_grunt",
+      "the_vault:ringer",
+      "the_vault:ticker"
     ],
     "the_vault:assassin": [
       "minecraft:shulker",
@@ -304,7 +306,9 @@
       "the_vault:soulfang",
       "the_vault:dune_scuttler",
       "the_vault:drip_lurker",
-      "the_vault:snapjaw_bloom"
+      "the_vault:snapjaw_bloom",
+      "the_vault:sand_wraith",
+      "the_vault:hourshot"
     ],
     "the_vault:tank": [
       "the_vault:t3_zombie",
@@ -330,7 +334,9 @@
       "the_vault:basalt_bulwark",
       "the_vault:sandstone_sentinel",
       "the_vault:ore_hauler",
-      "the_vault:rimeback_ram"
+      "the_vault:rimeback_ram",
+      "the_vault:longcase",
+      "the_vault:bell_ox"
     ],
     "the_vault:winterwalker": [
       "the_vault:winterwalker_t0",
@@ -413,7 +419,10 @@
       "the_vault:elite_witch",
       "the_vault:elite_wither_skeleton",
       "the_vault:elite_zombie",
-      "the_vault:elite_spider"
+      "the_vault:elite_spider",
+      "the_vault:keywinder",
+      "the_vault:meridian",
+      "the_vault:stormcaller"
     ],
     "the_vault:bosses": [
       "the_vault:black_widow_boss",

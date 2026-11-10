@@ -2056,6 +2056,14 @@
       }
     },
     {
+      "id": "the_vault:vault/starts/time_trial_hourglass",
+      "name": "Hourglass Hall",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/time_trial_hourglass.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/starts/idona_ravine",
       "name": "Idona's Blood Ravine",
       "1.0": {

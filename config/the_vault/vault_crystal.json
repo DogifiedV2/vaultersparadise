@@ -2430,6 +2430,17 @@
           "type": "witch_brew"
         }
       }
+    ],
+    "the_vault:crystal_seal_borrowed_time": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "borrowed_time"
+        }
+      }
     ]
   },
   "PROPERTIES": {
