@@ -2441,6 +2441,17 @@
         ],
         "objective": {
           "type": "borrowed_time"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "the_vault:rotten",
+              "count": 1
+            }
+          ],
+          "random_modifiers": true,
+          "clarity": false
         }
       }
     ]

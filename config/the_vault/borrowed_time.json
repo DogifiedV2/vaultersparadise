@@ -12,29 +12,16 @@
   "dial_max_rooms_from_start": 4,
   "dial_relocate_seconds": 480,
   "pointer_hide_blocks": 12,
-  "trial_seconds": 45,
   "trial_reward_seconds": 60,
   "trial_bonus_sand_seconds": 0,
   "trial_radius": 9,
-  "trial_leave_grace_seconds": 5,
   "trial_mobs_drop_sand": false,
-  "rush_quota": 6,
-  "rush_quota_per_extra_player": 3,
-  "overwound_pack": 4,
-  "overwound_pack_per_extra_player": 2,
-  "overwound_haste_amplifier": 1,
-  "trial_horde": [
-    "the_vault:ringer",
-    "the_vault:ticker"
-  ],
-  "trial_tank": [
-    "the_vault:longcase",
-    "the_vault:bell_ox"
-  ],
-  "trial_assassin": [
-    "the_vault:sand_wraith",
-    "the_vault:hourshot"
-  ],
+  "trial_elite_count": 5,
+  "trial_elite_count_per_extra_player": 2,
+  "trial_elite_health_multiplier": 1.5,
+  "trial_elite_damage_multiplier": 1.25,
+  "trial_spawn_min_distance": 3,
+  "trial_spawn_max_distance": 6,
   "trial_elites": [
     "the_vault:keywinder",
     "the_vault:meridian",
