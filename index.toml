@@ -12649,10 +12649,6 @@ file = "config/the_vault/gen/1.0/structures/vault/rooms/special/boss2.nbt"
 hash = "a72fffc0f3979f12775ce817b9fc0f35a841d8b2a39601e5855b537bfda44f23"
 
 [[files]]
-file = "config/the_vault/gen/1.0/structures/vault/rooms/tower_floor.nbt"
-hash = "e8656b9081807945020d476cbf299c7ee746eaed6f55c77de1aa17f44bc49b8e"
-
-[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/herald.nbt"
 hash = "d8f009ccb57ee019b0b222d42657b9db70cb5b37d458fa23708af801acb5fa83"
 
@@ -17078,7 +17074,7 @@ hash = "98af2dbba69ef2df5e951b0fd74233093de94cb208ebadcb82b4df377102a536"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "6d9ffc1cb1f572bf8fd78755ec06884552709cf7afe9c74d68d237e30192c406"
+hash = "389c2ee361a159adfd8aa6318330bbdcc793dde5c611f5eab9bcabab964c0c13"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -17434,11 +17430,11 @@ hash = "b6da838587bc379750faeeb2c2772addfd0af6335869326920f7d98a1cb0d05f"
 
 [[files]]
 file = "config/the_vault/objective_upgrades.json"
-hash = "df8687b907ba68e1d242e54dd6c2f98b2b240b7be6bcc7774e29f96b6445fe2e"
+hash = "8bea4bbc80be4fde06c986d2df8a158b8be6ddb3eee8125642549d962d1616b9"
 
 [[files]]
 file = "config/the_vault/objective_upgrades_gui_styles.json"
-hash = "47b642a65d50ab565db467c4f3c15006e8bc25c2d46f0d4e35fd061965eb0123"
+hash = "13f9775f824237199f34f006e34d103ecdb5f87636bf43e375356c3c4d8b4e21"
 
 [[files]]
 file = "config/the_vault/old_notes.json"
@@ -17677,10 +17673,6 @@ file = "config/the_vault/tooltip.json"
 hash = "97944e3fdcdff26bb6c0190fb1238f48adeec8e031d102e9d92538123a17a2de"
 
 [[files]]
-file = "config/the_vault/tower.json"
-hash = "740e4cb2b176c91963072dd18ec21d6712950f75c51473e2c9ef7b7b3c00b174"
-
-[[files]]
 file = "config/the_vault/trader_exclusions.json"
 hash = "a23c9668f8c63eedd7d7f4294c90762167aef08e097f1d516dfee5e50f328f5c"
 
@@ -17766,7 +17758,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "5a9855bd69898b542dd48dada7d025c156106da36a7cd7627f81bf474d80a4c0"
+hash = "994ce5abdd87994642c12b13136fa5cf44323eac778fd00d02090f15c58e1f32"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -20831,7 +20823,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "5361e1e38d9579f799c7b7dcbc1a7b56e87e18f0cbaf0cdce607eb47a95523ab"
+hash = "2e5250ee86a19f56158f027adc50be5e33451f71e0a5cf1da2051ac510d73d35"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -21291,7 +21283,7 @@ hash = "9e89a3abb726d8cbcd06ef44fae66bc93bf38822134d82f60784b596d55bb2dd"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "a4436da673f2c585e1bb2f2bde2ea467c7305e1582f12d9f093f524dfc171675"
+hash = "d16642a28ddae2ade0805b85360d2f6b36cb6a31543f67113e1bdf23db9928c6"
 
 [[files]]
 file = "scripts/AdvancedPeripherals.zs"

@@ -1404,162 +1404,6 @@
       ]
     },
     {
-      "upgrade": "DEFENSE_MASTERY",
-      "maxLevel": 10,
-      "insightCosts": [
-        10,
-        10,
-        10,
-        15,
-        15,
-        15,
-        20,
-        20,
-        25,
-        30
-      ],
-      "requirements": [
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ]
-      ]
-    },
-    {
-      "upgrade": "ATTACK_MASTERY",
-      "maxLevel": 10,
-      "insightCosts": [
-        10,
-        10,
-        10,
-        15,
-        15,
-        15,
-        20,
-        20,
-        25,
-        30
-      ],
-      "requirements": [
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ],
-        [
-          {
-            "type": "greed_tier",
-            "level": 10
-          }
-        ]
-      ]
-    },
-    {
       "upgrade": "VAULT_MASTERY",
       "maxLevel": 10,
       "insightCosts": [
@@ -1681,12 +1525,6 @@
       ]
     }
   ],
-  "towerRequirements": [
-    {
-      "type": "vault_level",
-      "level": 75
-    }
-  ],
   "cakeGalorePercentPerLevel": 25.0,
   "chocolateChancePercentPerLevel": 2.5,
   "strawberryChancePercentPerLevel": 2.5,
@@ -1727,8 +1565,6 @@
   "companionBundleSlotsPerLevel": 1,
   "companionMasteryPercentPerLevel": 100.0,
   "companionMasteryCooldownReductionPercentPerLevel": 10.0,
-  "defenseMasteryRollPercentPerLevel": 100.0,
-  "attackMasteryRollPercentPerLevel": 100.0,
   "vaultMasteryRoomWeightPercentPerLevel": 100.0,
   "abilityMasteryRanksPerLevel": 1
 }

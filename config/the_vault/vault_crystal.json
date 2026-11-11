@@ -2398,28 +2398,6 @@
         "clearCapacity": true
       }
     ],
-    "the_vault:crystal_seal_tower": [
-      {
-        "level": 0,
-        "exhausted": true,
-        "input": [
-          "the_vault:vault_crystal"
-        ],
-        "objective": {
-          "type": "tower"
-        },
-        "layout": {
-          "type": "tower"
-        },
-        "theme": {
-          "type": "tower"
-        },
-        "modifiers": {
-          "type": "default",
-          "random_modifiers": false
-        }
-      }
-    ],
     "the_vault:crystal_seal_witch_brew": [
       {
         "level": 0,
