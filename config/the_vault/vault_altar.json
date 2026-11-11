@@ -464,6 +464,31 @@
           }
         }
       }
+    },
+    {
+      "input": "the_vault:trials_rock",
+      "min_level": 100,
+      "output": {
+        "id": "the_vault:vault_crystal",
+        "nbt": {
+          "CrystalData": {
+            "Objective": {
+              "type": "infinite_trials"
+            },
+            "Modifiers": {
+              "type": "default",
+              "RandomModifiers": 0
+            },
+            "Properties": {
+              "type": "capacity",
+              "exhausted": 1,
+              "volume": 0,
+              "level": 100
+            },
+            "Version": 3
+          }
+        }
+      }
     }
   ]
 }

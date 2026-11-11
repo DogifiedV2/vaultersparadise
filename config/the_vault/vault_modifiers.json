@@ -1,6 +1,46 @@
 {
   "modifiers": {
     "the_vault:modifier_type/empty": {
+      "the_vault:trials_bloodfeast": {
+        "properties": {},
+        "display": {
+          "name": "Bloodfeast",
+          "color": "#C8283C",
+          "description": "Trials boon: kills heal you",
+          "descriptionFormatted": "Trials boon: kills heal you",
+          "icon": "the_vault:gui/modifiers/trials_bloodfeast"
+        }
+      },
+      "the_vault:trials_unbroken": {
+        "properties": {},
+        "display": {
+          "name": "Unbroken",
+          "color": "#FF8900",
+          "description": "Trials boon: survive a killing blow",
+          "descriptionFormatted": "Trials boon: survive a killing blow",
+          "icon": "the_vault:gui/modifiers/trials_unbroken"
+        }
+      },
+      "the_vault:trials_unscathed": {
+        "properties": {},
+        "display": {
+          "name": "Unscathed",
+          "color": "#7FD3FF",
+          "description": "Trials boon: rooms cleared unhit add damage",
+          "descriptionFormatted": "Trials boon: rooms cleared unhit add damage",
+          "icon": "the_vault:gui/modifiers/trials_unscathed"
+        }
+      },
+      "the_vault:trials_arc_lash": {
+        "properties": {},
+        "display": {
+          "name": "Arc Lash",
+          "color": "#9B7CFF",
+          "description": "Trials boon: your hits chain lightning",
+          "descriptionFormatted": "Trials boon: your hits chain lightning",
+          "icon": "the_vault:gui/modifiers/trials_arc_lash"
+        }
+      },
       "the_vault:warrior": {
         "properties": {},
         "display": {
@@ -4125,6 +4165,19 @@
       }
     },
     "the_vault:modifier_type/player_stat": {
+      "the_vault:trials_wounds": {
+        "properties": {
+          "stat": "healing_effectiveness",
+          "addend": -0.5
+        },
+        "display": {
+          "name": "Wounds",
+          "color": "#bc2525",
+          "description": "-50% Healing Efficiency",
+          "descriptionFormatted": "%d%% Healing Efficiency",
+          "icon": "the_vault:gui/modifiers/antiheal"
+        }
+      },
       "the_vault:durability_reduction_50": {
         "properties": {
           "type": "durability_wear_reduction",
@@ -4957,6 +5010,21 @@
       }
     },
     "the_vault:modifier_type/mob_curse_on_hit": {
+      "the_vault:trials_blinding": {
+        "properties": {
+          "effect": "minecraft:blindness",
+          "effectAmplifier": 0,
+          "effectDurationTicks": 60,
+          "onHitApplyChance": 0.15
+        },
+        "display": {
+          "name": "Blinding",
+          "color": "#5A5851",
+          "description": "15% chance on a mob hit to blind you for 3 s",
+          "descriptionFormatted": "+%d%% Blinding On Hit Chance",
+          "icon": "the_vault:gui/modifiers/trials_blinding"
+        }
+      },
       "the_vault:on_hit_bleed_chance_1": {
         "properties": {
           "effect": "the_vault:bleed",
