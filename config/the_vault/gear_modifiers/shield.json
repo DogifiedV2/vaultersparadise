@@ -697,7 +697,7 @@
           {
             "minLevel": 0,
             "maxLevel": 66,
-            "weight": 200,
+            "weight": 0,
             "value": {
               "min": 400,
               "max": 800,
@@ -707,7 +707,7 @@
           {
             "minLevel": 28,
             "maxLevel": -1,
-            "weight": 200,
+            "weight": 0,
             "value": {
               "min": 801,
               "max": 1600,
@@ -717,7 +717,7 @@
           {
             "minLevel": 46,
             "maxLevel": -1,
-            "weight": 200,
+            "weight": 0,
             "value": {
               "min": 1601,
               "max": 2400,
@@ -727,7 +727,7 @@
           {
             "minLevel": 67,
             "maxLevel": -1,
-            "weight": 200,
+            "weight": 0,
             "value": {
               "min": 2401,
               "max": 3200,
@@ -737,7 +737,7 @@
           {
             "minLevel": 89,
             "maxLevel": -1,
-            "weight": 200,
+            "weight": 0,
             "value": {
               "min": 3201,
               "max": 4000,
@@ -747,7 +747,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 0,
             "value": {
               "min": 4001,
               "max": 6000,
@@ -757,11 +757,73 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 100,
+            "weight": 0,
             "value": {
               "min": 6001,
               "max": 8000,
               "step": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:block_heal",
+        "group": "ModHealOnBlock",
+        "identifier": "the_vault:mod_block_heal",
+        "tags": [
+          "focusHealOnBlock",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 50,
+            "weight": 300,
+            "value": {
+              "chance": {
+                "min": 0.1,
+                "max": 0.25,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 30,
+            "maxLevel": -1,
+            "weight": 300,
+            "value": {
+              "chance": {
+                "min": 0.15,
+                "max": 0.35,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 300,
+            "value": {
+              "chance": {
+                "min": 0.2,
+                "max": 0.5,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
             }
           }
         ]
@@ -1568,6 +1630,101 @@
               "min": 3201,
               "max": 4000,
               "step": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:block_heal",
+        "group": "ModHealOnBlock",
+        "identifier": "the_vault:crafted_block_heal",
+        "tags": [
+          "focusHealOnBlock"
+        ],
+        "tiers": [
+          {
+            "minLevel": 11,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "chance": {
+                "min": 0.08,
+                "max": 0.12,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 28,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "chance": {
+                "min": 0.12,
+                "max": 0.2,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 46,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "chance": {
+                "min": 0.2,
+                "max": 0.28,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 67,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "chance": {
+                "min": 0.28,
+                "max": 0.36,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 89,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "chance": {
+                "min": 0.36,
+                "max": 0.42,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
             }
           }
         ]

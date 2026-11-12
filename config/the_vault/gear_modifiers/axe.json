@@ -1296,7 +1296,7 @@
           {
             "minLevel": 11,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 500,
               "max": 900,
@@ -1306,7 +1306,7 @@
           {
             "minLevel": 28,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 901,
               "max": 1300,
@@ -1316,7 +1316,7 @@
           {
             "minLevel": 46,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1301,
               "max": 1700,
@@ -1326,7 +1326,7 @@
           {
             "minLevel": 67,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 1701,
               "max": 2100,
@@ -1336,7 +1336,7 @@
           {
             "minLevel": 89,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 2101,
               "max": 2500,
@@ -1346,7 +1346,7 @@
           {
             "minLevel": 101,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 2501,
               "max": 3700,
@@ -1356,11 +1356,114 @@
           {
             "minLevel": 102,
             "maxLevel": -1,
-            "weight": 10,
+            "weight": 0,
             "value": {
               "min": 3701,
               "max": 5000,
               "step": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:leech",
+        "group": "ModSustain",
+        "identifier": "the_vault:mod_leech",
+        "tags": [
+          "focusLeech",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 50,
+            "weight": 20,
+            "value": {
+              "min": 0.002,
+              "max": 0.005,
+              "step": 0.0005
+            }
+          },
+          {
+            "minLevel": 30,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "min": 0.004,
+              "max": 0.008,
+              "step": 0.0005
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 20,
+            "value": {
+              "min": 0.005,
+              "max": 0.01,
+              "step": 0.0005
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:on_kill_heal",
+        "group": "ModSustain",
+        "identifier": "the_vault:mod_on_kill_heal",
+        "tags": [
+          "focusHealOnKill",
+          "noLegendary"
+        ],
+        "tiers": [
+          {
+            "minLevel": 0,
+            "maxLevel": 50,
+            "weight": 15,
+            "value": {
+              "chance": {
+                "min": 0.06,
+                "max": 0.12,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 30,
+            "maxLevel": -1,
+            "weight": 15,
+            "value": {
+              "chance": {
+                "min": 0.1,
+                "max": 0.18,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 65,
+            "maxLevel": -1,
+            "weight": 15,
+            "value": {
+              "chance": {
+                "min": 0.15,
+                "max": 0.25,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
             }
           }
         ]
@@ -3302,6 +3405,151 @@
               "min": 2101,
               "max": 2500,
               "step": 1
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:leech",
+        "group": "ModSustain",
+        "identifier": "the_vault:crafted_leech",
+        "tags": [
+          "focusLeech"
+        ],
+        "tiers": [
+          {
+            "minLevel": 28,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.002,
+              "max": 0.003,
+              "step": 0.0005
+            }
+          },
+          {
+            "minLevel": 46,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.003,
+              "max": 0.005,
+              "step": 0.0005
+            }
+          },
+          {
+            "minLevel": 67,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.005,
+              "max": 0.007,
+              "step": 0.0005
+            }
+          },
+          {
+            "minLevel": 89,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 0.007,
+              "max": 0.008,
+              "step": 0.0005
+            }
+          }
+        ]
+      },
+      {
+        "attribute": "the_vault:on_kill_heal",
+        "group": "ModSustain",
+        "identifier": "the_vault:crafted_on_kill_heal",
+        "tags": [
+          "focusHealOnKill"
+        ],
+        "tiers": [
+          {
+            "minLevel": 11,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "chance": {
+                "min": 0.05,
+                "max": 0.08,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 28,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "chance": {
+                "min": 0.08,
+                "max": 0.12,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 46,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "chance": {
+                "min": 0.12,
+                "max": 0.16,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 67,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "chance": {
+                "min": 0.16,
+                "max": 0.19,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
+            }
+          },
+          {
+            "minLevel": 89,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "chance": {
+                "min": 0.19,
+                "max": 0.21,
+                "step": 0.01
+              },
+              "amount": {
+                "min": 2.0,
+                "max": 2.0,
+                "step": 0.0
+              }
             }
           }
         ]
