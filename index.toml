@@ -3077,6 +3077,14 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pu
 hash = "c4dad6433616741278967cbc265786839969a26fd834c52bf948ca7e02a22574"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_molten.png"
+hash = "f0ed23b217df577fc9d8fe45448239a298e1d1cdf9492703324621726a1c3d01"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_molten_strips.png"
+hash = "a899636d0299bf4c40f2c9fe36ea66f87e0b4ef1cd58db24b638d0546c107763"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_vfx.png"
 hash = "77af0a9b02d035e2f3e81b321032d75e07737b9ed57d3c17753b6267311f8fdb"
 
@@ -20823,7 +20831,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "5964e9c2a9c7b4f66c847c8402eab4982ee0a5bb4586898a58093158cdad8311"
+hash = "445dd0d7784a5a6d6b3745d401d96faa7ccf68c961aae10775055b4d5aaa9c9b"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
