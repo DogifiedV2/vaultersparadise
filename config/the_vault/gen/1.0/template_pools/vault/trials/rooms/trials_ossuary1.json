@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/trials/trials_ossuary1",
+      "palettes": [
+        "the_vault:trials/trials_ossuary1"
+      ]
+    }
+  }
+]

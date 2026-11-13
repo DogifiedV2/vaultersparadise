@@ -4856,6 +4856,76 @@
       "id": "the_vault:vault/rooms/arcane_resource_rooms",
       "name": "Arcane Resource Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/arcane_resource_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_conduit_court1",
+      "name": "Trials Conduit Court 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_conduit_court1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_hearth1",
+      "name": "Trials Hearth 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_hearth1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_ring_floor1",
+      "name": "Trials Ring Floor 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_ring_floor1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_pit1",
+      "name": "Trials Pit 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_pit1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_tribunal1",
+      "name": "Trials Tribunal 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_tribunal1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_stage1",
+      "name": "Trials Stage 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_stage1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_lock_yard1",
+      "name": "Trials Lock Yard 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_lock_yard1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_broken_floor1",
+      "name": "Trials Broken Floor 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_broken_floor1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_ossuary1",
+      "name": "Trials Ossuary 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_ossuary1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_depot1",
+      "name": "Trials Depot 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_depot1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_sanctuary1",
+      "name": "Trials Sanctuary 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_sanctuary1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_forge1",
+      "name": "Trials Forge 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_forge1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_peddler1",
+      "name": "Trials Peddler 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_peddler1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_conduit_geode1",
+      "name": "Trials Conduit Geode 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_conduit_geode1.json"
     }
   ]
 }

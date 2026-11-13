@@ -11642,6 +11642,118 @@
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/garden1.nbt"
       }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_conduit_court1",
+      "name": "Trials Conduit Court 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_conduit_court1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_hearth1",
+      "name": "Trials Hearth 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_hearth1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_ring_floor1",
+      "name": "Trials Ring Floor 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_ring_floor1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_pit1",
+      "name": "Trials Pit 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_pit1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_tribunal1",
+      "name": "Trials Tribunal 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_tribunal1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_stage1",
+      "name": "Trials Stage 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_stage1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_lock_yard1",
+      "name": "Trials Lock Yard 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_lock_yard1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_broken_floor1",
+      "name": "Trials Broken Floor 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_broken_floor1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_ossuary1",
+      "name": "Trials Ossuary 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_ossuary1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_depot1",
+      "name": "Trials Depot 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_depot1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_sanctuary1",
+      "name": "Trials Sanctuary 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_sanctuary1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_forge1",
+      "name": "Trials Forge 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_forge1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_peddler1",
+      "name": "Trials Peddler 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_peddler1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_conduit_geode1",
+      "name": "Trials Conduit Geode 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_conduit_geode1.nbt"
+      }
     }
   ]
 }

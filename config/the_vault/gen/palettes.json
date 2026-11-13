@@ -2779,6 +2779,26 @@
       "id": "the_vault:generic/spawners/arcane_mobs",
       "name": "Arcane Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/arcane_mobs.json"
+    },
+    {
+      "id": "the_vault:trials/trials_ring_floor1",
+      "name": "Trials Ring Floor 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/trials/trials_ring_floor1.json"
+    },
+    {
+      "id": "the_vault:trials/trials_lock_yard1",
+      "name": "Trials Lock Yard 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/trials/trials_lock_yard1.json"
+    },
+    {
+      "id": "the_vault:trials/trials_ossuary1",
+      "name": "Trials Ossuary 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/trials/trials_ossuary1.json"
+    },
+    {
+      "id": "the_vault:trials/trials_depot1",
+      "name": "Trials Depot 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/trials/trials_depot1.json"
     }
   ]
 }
