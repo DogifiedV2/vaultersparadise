@@ -4956,6 +4956,11 @@
       "id": "the_vault:vault/trials/rooms/trials_long_bridge1",
       "name": "Trials Long Bridge 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_long_bridge1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_colosseum2",
+      "name": "Trials Colosseum 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_colosseum2.json"
     }
   ]
 }

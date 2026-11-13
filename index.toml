@@ -12769,6 +12769,10 @@ file = "config/the_vault/gen/1.0/structures/vault/trials/trials_colosseum1.nbt"
 hash = "93cb04119c830390030845dec3eb0390531b86a605cac707979db386659e625b"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/trials/trials_colosseum2.nbt"
+hash = "ae3b716b453994dac5bd750adec4a38e05dacd6475e3a1b332b4bf7eaa44427d"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/trials/trials_conduit_court1.nbt"
 hash = "1a7d8c3db290031e87eba5c25831990037295e73f15ba57e2be2468cbf327b57"
 
@@ -16477,6 +16481,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_coloss
 hash = "71ec1390a96e1eaa26a4750b1f4ffd1d479233e81ec3ee4783fee737fc5e6c38"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_colosseum2.json"
+hash = "894fbd6d622df09f7362c30fe0531ad35e91c63d0fd50da4871c445d12bc34ac"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_conduit_court1.json"
 hash = "5aeee00d24f7f745e57427e8bcd6b4c9b9f8c0427ad0c1e4e5b662c2ef52789f"
 
@@ -17258,11 +17266,11 @@ hash = "3cb0d4600c998a4aeb5ce662cd7efcb17404fec597328bce5ce0abc34d308579"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "e95420713a36387d702af59eca7894a4eda372ba543d76e4949a1adacbe2f081"
+hash = "bcd0da418df9a17b6056655247cb628d4fca046e31021805629a6ebd909c7f3d"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "859adaf9eba61d9d77465b5c6cd27f1d63236245dbe6fc0e9bc7ac659b85c63b"
+hash = "86a08494c10f0085214d4234a4ccc21b7543a27d2246ea80b1776aea0fd24450"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"

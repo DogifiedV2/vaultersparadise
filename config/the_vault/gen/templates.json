@@ -11802,6 +11802,14 @@
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_long_bridge1.nbt"
       }
+    },
+    {
+      "id": "the_vault:vault/trials/trials_colosseum2",
+      "name": "Trials Colosseum 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/trials/trials_colosseum2.nbt"
+      }
     }
   ]
 }
