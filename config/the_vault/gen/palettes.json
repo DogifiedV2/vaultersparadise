@@ -2799,6 +2799,11 @@
       "id": "the_vault:trials/trials_depot1",
       "name": "Trials Depot 1",
       "1.0": "config/the_vault/gen/1.0/palettes/trials/trials_depot1.json"
+    },
+    {
+      "id": "the_vault:trials/trials_lighthouse1",
+      "name": "Trials Lighthouse 1",
+      "1.0": "config/the_vault/gen/1.0/palettes/trials/trials_lighthouse1.json"
     }
   ]
 }

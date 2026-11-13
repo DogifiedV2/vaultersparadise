@@ -4926,6 +4926,36 @@
       "id": "the_vault:vault/trials/rooms/trials_conduit_geode1",
       "name": "Trials Conduit Geode 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_conduit_geode1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_lighthouse1",
+      "name": "Trials Lighthouse 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_lighthouse1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_hive1",
+      "name": "Trials Hive 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_hive1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_colosseum1",
+      "name": "Trials Colosseum 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_colosseum1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_sinking_shaft1",
+      "name": "Trials Sinking Shaft 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_sinking_shaft1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_dust_mine1",
+      "name": "Trials Dust Mine 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_dust_mine1.json"
+    },
+    {
+      "id": "the_vault:vault/trials/rooms/trials_long_bridge1",
+      "name": "Trials Long Bridge 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_long_bridge1.json"
     }
   ]
 }

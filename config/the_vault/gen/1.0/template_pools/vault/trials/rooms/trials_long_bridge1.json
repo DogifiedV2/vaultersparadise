@@ -1,0 +1,11 @@
+[
+  {
+    "weight": 1,
+    "value": {
+      "template": "the_vault:vault/trials/trials_long_bridge1",
+      "palettes": [
+        "the_vault:generic/room_base"
+      ]
+    }
+  }
+]

@@ -4,7 +4,7 @@
     "value": {
       "template": "the_vault:vault/trials/trials_pit1",
       "palettes": [
-        "the_vault:universal_cave"
+        "the_vault:generic/room_base"
       ]
     }
   }
