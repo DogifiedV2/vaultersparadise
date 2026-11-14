@@ -2432,6 +2432,30 @@
           "clarity": false
         }
       }
+    ],
+    "the_vault:crystal_seal_time": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "seal_of_time"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "the_vault:rotten",
+              "count": 1
+            }
+          ],
+          "random_modifiers": true,
+          "clarity": false
+        }
+      }
     ]
   },
   "PROPERTIES": {
