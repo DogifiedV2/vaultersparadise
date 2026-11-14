@@ -2456,6 +2456,25 @@
           "clarity": false
         }
       }
+    ],
+    "the_vault:crystal_seal_gauntlet": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "infinite_trials"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [],
+          "random_modifiers": false,
+          "clarity": false
+        }
+      }
     ]
   },
   "PROPERTIES": {
