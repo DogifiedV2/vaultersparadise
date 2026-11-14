@@ -6657,26 +6657,6 @@ file = "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_rooms.json"
 hash = "a2097b8fdd5d656c6c9e2d43fd9ce559a263c12fc27c19d2630b18f0e45fa079"
 
 [[files]]
-file = "config/the_vault/gen/1.0/palettes/trials/trials_depot1.json"
-hash = "9415e659e7cd9a126c08057fc0b8a6af1b01918639cd92d021866178f2db8736"
-
-[[files]]
-file = "config/the_vault/gen/1.0/palettes/trials/trials_lighthouse1.json"
-hash = "9415e659e7cd9a126c08057fc0b8a6af1b01918639cd92d021866178f2db8736"
-
-[[files]]
-file = "config/the_vault/gen/1.0/palettes/trials/trials_lock_yard1.json"
-hash = "9415e659e7cd9a126c08057fc0b8a6af1b01918639cd92d021866178f2db8736"
-
-[[files]]
-file = "config/the_vault/gen/1.0/palettes/trials/trials_ossuary1.json"
-hash = "9415e659e7cd9a126c08057fc0b8a6af1b01918639cd92d021866178f2db8736"
-
-[[files]]
-file = "config/the_vault/gen/1.0/palettes/trials/trials_ring_floor1.json"
-hash = "9415e659e7cd9a126c08057fc0b8a6af1b01918639cd92d021866178f2db8736"
-
-[[files]]
 file = "config/the_vault/gen/1.0/palettes/trove/base.json"
 hash = "f3dda50b9d30f4c4f4550e14aacf2efefc2c3fca34549d14a334e3876aa09470"
 
@@ -12761,90 +12741,6 @@ file = "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1_u21.n
 hash = "53e612619bc993fc3093dfa4a8f686cda440cb9bf01de3f458ff7feb5bcb1b0a"
 
 [[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_broken_floor1.nbt"
-hash = "b37904a9ae3cf1d01ea71b5590d9c7086464ab66ecf8deab305740b3cfdcb7f2"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_colosseum1.nbt"
-hash = "93cb04119c830390030845dec3eb0390531b86a605cac707979db386659e625b"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_colosseum2.nbt"
-hash = "ae3b716b453994dac5bd750adec4a38e05dacd6475e3a1b332b4bf7eaa44427d"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_conduit_court1.nbt"
-hash = "1a7d8c3db290031e87eba5c25831990037295e73f15ba57e2be2468cbf327b57"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_conduit_geode1.nbt"
-hash = "7c8eaf3d78044927065554fd9d1f5022de8df150f0ef34ce318bbbaffa938a46"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_depot1.nbt"
-hash = "98dbc022248b28e340e84b01ddfe54e1548fc31ea22c03f2205e354bd4d63420"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_dust_mine1.nbt"
-hash = "b226e8a4157a2732277f2123b464eab7174cb3a91153475c0537f56cec6296ea"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_forge1.nbt"
-hash = "f3cf6acc60439009895e1dff3b92f34ec7f6391344f5347abba6c407646a6f99"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_hearth1.nbt"
-hash = "884d3f66341322bf53c7275ce2e456eec8effe7c64d821091522375be969659d"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_hive1.nbt"
-hash = "bfcee81d45ab6f448ab811d934ad3547c9a5a36d0d1605635fcabb4acca54c3b"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_lighthouse1.nbt"
-hash = "2244c241865f2727356a340f2e34eff4643aebf5872f6de8d198838e2eeed8d9"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_lock_yard1.nbt"
-hash = "819f00aa0dcbe4f3e2ab6ca2e3e716c175357da160d67623b7c3f5a26c01473b"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_long_bridge1.nbt"
-hash = "481cefb9684ceee21324c906051cc87261e2a5357f147d162d35da5e0f51cdf5"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_ossuary1.nbt"
-hash = "9815983579337bbc7870939a9dcc214523e551ba3a4e741a883f96c4a95458ae"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_peddler1.nbt"
-hash = "7245245a2588f6cae05d7c09fa6a3820e750af64263bc2e97aeb213eaa17a383"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_pit1.nbt"
-hash = "1d602e6969bb2f2e4f8fce5bc61ffe364ef8631fda0e0e2e7484066b87b893c4"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_ring_floor1.nbt"
-hash = "c70af5bbacaf6edee0194c0954c5098ee2a8cd7f07e6bef84a0c2cd22528e94a"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_sanctuary1.nbt"
-hash = "a130efe68a1bab6680b9e22e2d7aa735cf5304e0da963240edfc1b74b70f06f6"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_sinking_shaft1.nbt"
-hash = "cbbf17718c8e4cbc77890b0297f71af9568b711b19ae2cacb24f6c38866b34c0"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_stage1.nbt"
-hash = "2248fece7a9560ea04d4a97c764a26143a536abe10065415949c610f8a5c4fe7"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/trials/trials_tribunal1.nbt"
-hash = "c54d0ac2a197122c4bacb310304acdb93886121d0d15639dc34ad1d260ccd345"
-
-[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/tunnels/raid1.nbt"
 hash = "eda46057a1c0f258922368e1bb05825498c84e47850af4413eb1eceae61a8403"
 
@@ -16473,90 +16369,6 @@ file = "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/treasure_ro
 hash = "d21c298b70c5acef64e75e25c662aaeeded64960df972c8e97368739b84d11fb"
 
 [[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_broken_floor1.json"
-hash = "5a0bb9febb2d1baafe70d0ab8fa031369ec5428d72e9144a5ad8cde446160a99"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_colosseum1.json"
-hash = "71ec1390a96e1eaa26a4750b1f4ffd1d479233e81ec3ee4783fee737fc5e6c38"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_colosseum2.json"
-hash = "894fbd6d622df09f7362c30fe0531ad35e91c63d0fd50da4871c445d12bc34ac"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_conduit_court1.json"
-hash = "5aeee00d24f7f745e57427e8bcd6b4c9b9f8c0427ad0c1e4e5b662c2ef52789f"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_conduit_geode1.json"
-hash = "fd424a35eb2b786053d2f434a84b57bc5cca61b7a020781d395daa9cc8259511"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_depot1.json"
-hash = "2b1fecd4e78305f91f6c14fcaacddc889c109e6fc7da5749c76f9998aa66cc73"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_dust_mine1.json"
-hash = "a77d0e2e44e9556da72037b982c8cad71aef187554167b786cf831ebb8905f0d"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_forge1.json"
-hash = "9dedc99895cf706b2a2fa4a4110f185e9ac18807b7b9698eb5354b77d658dbf6"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_hearth1.json"
-hash = "59977663c5db863fa52db46a634c3c8a033c8014af305e708c57ca76660ff067"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_hive1.json"
-hash = "2d75ed0da6b4805c69a946f3ac58ca60044d5217d9968486cef22a46dad1c469"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_lighthouse1.json"
-hash = "e838428aa6bc23ea99a29f1fd666a319f2e920b198e0e25edcd8817b06ea7763"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_lock_yard1.json"
-hash = "270b32a9b8e11bd3e852885d8206c06f987c0334289daa80b4b470960201de32"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_long_bridge1.json"
-hash = "48eab563770c1fe61b80b03e52cc2e59d23a5072339adc41027e0c3491e07485"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_ossuary1.json"
-hash = "580bc4525c5533b743c1a723322db05ad5a92feecc8019dc79e9ef192d5b184b"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_peddler1.json"
-hash = "2396ea48b698406aa6287b3fd8f4f6f17bba2adbbb15a7a3fe6cdfc254942e7c"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_pit1.json"
-hash = "1f9daa6776130000f44c63314292b32aa1579dc9adc30db58c3990409d8fa814"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_ring_floor1.json"
-hash = "f0c7df15cf25b679e9432581eb08e2f27f7e2e83a328f5adb6d2303b9e77c44a"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_sanctuary1.json"
-hash = "abb0cf5f5cb4306952ef7469b433f0f45f10f51f2fc1f77b1c9ae3876629989c"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_sinking_shaft1.json"
-hash = "7745b5a09569cbdfb62e997322c801c4a858677678fa7694f8c749b855754a6c"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_stage1.json"
-hash = "9f472ee9a736082aa6a69c1ce7927a2857232a0601839bb782922cd1ce3cc892"
-
-[[files]]
-file = "config/the_vault/gen/1.0/template_pools/vault/trials/rooms/trials_tribunal1.json"
-hash = "ed12ad099faa201fef7d81c452d0ee17e51936149d873e4c39b3be97284e1124"
-
-[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/tunnels/alpha_tunnels.json"
 hash = "ccfd59c9274cfc4e5a3ecc48222bdbc44d08a318b23dc500aebbd77ebf322928"
 
@@ -17254,7 +17066,7 @@ hash = "d02b22559ada61e4b30e65216a532c7fd653e38992bb2269996ac3c36b8af88b"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "22d91f64e2053da755af7a9ce89720e43a210d2c186ab1b6fd0ac653ef35b34d"
+hash = "486298f226f813ec450f2b478ddeb9b91b22f9b6d44e9f9124e8524470aad9f5"
 
 [[files]]
 file = "config/the_vault/gen/room_level_lock.json"
@@ -17266,11 +17078,11 @@ hash = "3cb0d4600c998a4aeb5ce662cd7efcb17404fec597328bce5ce0abc34d308579"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "bcd0da418df9a17b6056655247cb628d4fca046e31021805629a6ebd909c7f3d"
+hash = "98af2dbba69ef2df5e951b0fd74233093de94cb208ebadcb82b4df377102a536"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "86a08494c10f0085214d4234a4ccc21b7543a27d2246ea80b1776aea0fd24450"
+hash = "389c2ee361a159adfd8aa6318330bbdcc793dde5c611f5eab9bcabab964c0c13"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -18022,7 +17834,7 @@ hash = "9bb24545af4cdc12dae2a0559bae20b8fa5852626a3db06dd38882a85944f3b5"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "05deae7f5cbf5617473e9cd6332a06da3a4093966d9c233ef2196738f5014b7f"
+hash = "6465ce2ed83cb7904ad46c7a438a32e5c84c0ca476115810de9ca382ff9bc9ef"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
