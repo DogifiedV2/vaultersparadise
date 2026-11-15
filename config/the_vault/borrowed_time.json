@@ -76,5 +76,12 @@
     "coin_pile": 2,
     "vault_ore": 2,
     "merge_radius": 1.5
+  },
+  "seal_of_time": {
+    "hour_seconds": 150,
+    "enemy_growth_per_hour": 1.21,
+    "dust_growth_per_hour": 1.11,
+    "base_dust_sand_seconds": 480,
+    "crate_quantity_per_hour": 0.06
   }
 }
