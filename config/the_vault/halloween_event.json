@@ -9,6 +9,7 @@
   "CANDY_SOFT_CAP": 30,
   "CANDY_AFTER_SOFT_CAP_RATE": 0.33,
   "CANDY_HARD_CAP": 65,
+  "HOLLOW_HAUNTINGS": false,
   "PEDDLER_OBJECTIVES": [
     "monolith",
     "elixir",
