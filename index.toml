@@ -3069,6 +3069,10 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/he
 hash = "b74ea9ce7f3dad79ee3eccdc6194ead709acbc9e6dfd3b866e8ad4e80f8178ae"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/keygolem/keygolem_vfx.png"
+hash = "52873f96515131075996c02482dce6cf70f9c1d19aff454bde59c482b8180a3f"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pumpking/pumpking_vfx.png"
 hash = "d51f324102de9e084fd2ab243a5025263e58b40f506d28495e06e02f3ae4e0aa"
 
@@ -3077,12 +3081,36 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pu
 hash = "c4dad6433616741278967cbc265786839969a26fd834c52bf948ca7e02a22574"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_domain.png"
+hash = "82ba6725237be13169eb8a40958c31f22c28deb321d57288cdcf69e0b9949b5f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_domain_bodies.png"
+hash = "5a4b14426283837d624400f3205b5a7f3e51391c7a0a103ef132ae6f05efce62"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_hours.png"
+hash = "ad4b449834c4fbe18c5160e9683164cf21061b2b34dc419b4e68c7fffa67f8e0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_hours_matter.png"
+hash = "fa69540c62116e7ed0e0a32a2863f9b30c2de851b889e0ee5952c7040bd80e82"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_molten.png"
 hash = "f0ed23b217df577fc9d8fe45448239a298e1d1cdf9492703324621726a1c3d01"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_molten_strips.png"
 hash = "a899636d0299bf4c40f2c9fe36ea66f87e0b4ef1cd58db24b638d0546c107763"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_sky.png"
+hash = "7ce36910da38b009db4beedc8eeda2107a7a12d19d32e5c843f72b7138848dad"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_storm.png"
+hash = "4d40c7b451d9322e2d568f6351a9e450fc6243e8feb726f9d572f5e5df5db80c"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_vfx.png"
@@ -12718,7 +12746,7 @@ hash = "37f1f345efb4b94e43eb637727e6aa12822128b254f6b9c95e10f194a6db1418"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_clockspire.nbt"
-hash = "c10708ce75d05b7b243bcc7b7b25e406d5872f88f02e53a1f73a0e54795c61e3"
+hash = "906c58643b503b08bc4c27f55465a5148dab4ccfc2375cc4680e482b8df3672b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_clockspire_exit.nbt"
@@ -20831,7 +20859,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "6149ecd8a954bdedc1ec52f17b663d692023a34538e56343ae3ffcfdccbc7f0e"
+hash = "ab7cafd0088b727fb3fcfa063d2490115e82064b1b2fdd90c8e3f5462d673f0b"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
