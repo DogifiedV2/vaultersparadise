@@ -17565,6 +17565,10 @@ file = "config/the_vault/reaper.json"
 hash = "804cc365256d2f25f91ef8db5de77c9408ba5ec2ccd9c569a38e64030917a54f"
 
 [[files]]
+file = "config/the_vault/reaper_fight.json"
+hash = "a8ca7074c2520dd54412e980198677a7ed40c4f3eaa7229e08ff964fe09493ff"
+
+[[files]]
 file = "config/the_vault/reaper_hunter.json"
 hash = "c434ac4eb033538791048aa42f5de00b046ab32ac20e88bcbc410449e26a1cd9"
 
