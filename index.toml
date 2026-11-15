@@ -3081,6 +3081,26 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pu
 hash = "c4dad6433616741278967cbc265786839969a26fd834c52bf948ca7e02a22574"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/canopy.png"
+hash = "a4e93e98b7569e19b1ef43a12ad87e67aae854f33dcd97abdb9fee83528f0311"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/reaper_faces.png"
+hash = "bf23bef0462b5275ad26dc7182d73a20dbeb5d434178d441ac9b3aa0ae12e699"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/reaper_fx.png"
+hash = "df472bc5bd6e975a5a31a997bdee392f671fdf0847cb10fb392e8d611be855a0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/reaper_fx_b.png"
+hash = "5a7a04b41e053086ae97b2a86d53a44bf21616a0816d8c4998b180fe3f54231d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/reaper_fx_strips.png"
+hash = "b185a74702760731f63299f320cfd0188c61b82d6bf094ba07790f14275d9b6b"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_domain.png"
 hash = "82ba6725237be13169eb8a40958c31f22c28deb321d57288cdcf69e0b9949b5f"
 
@@ -20871,7 +20891,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "dd276d39af6673af16cf39e33695bae647c526ed832127e721a1e08750e34fd8"
+hash = "4e21d448cf0055753ef53ba4fd91448a39aa09d63dbfbab105f3d66cda77b149"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
