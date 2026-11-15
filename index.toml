@@ -3721,6 +3721,10 @@ file = "config/the_vault/entity_hitbox_offsets.json"
 hash = "31660a2fd88d524fe39edd2c7ad83e2c6f73ef87ad929d70b2bcde7628ccf311"
 
 [[files]]
+file = "config/the_vault/escort.json"
+hash = "04dde4ca5ca750204c5c57b5d20ab345ea0daa6d6e67ae137122e2ac2db599ff"
+
+[[files]]
 file = "config/the_vault/eternal.json"
 hash = "d4f1cf19f6c238acd53f1a09ccf510360f8c0ee606baf97e84e81f61f12d4ecb"
 
@@ -17537,6 +17541,10 @@ file = "config/the_vault/quest/sky_quests.json"
 hash = "4a8a3a6400b7440c50d2f3b9fc956a14e9d130ff78e19bc24ee6756a55742694"
 
 [[files]]
+file = "config/the_vault/reaper.json"
+hash = "804cc365256d2f25f91ef8db5de77c9408ba5ec2ccd9c569a38e64030917a54f"
+
+[[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
 hash = "b32b7739e4f0d8c68acb2bbbd133707be995f32447467e4526d9b9aa828ecd0d"
 
@@ -17794,7 +17802,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "e9f815bb488848aba8f766dc577a8d901204a8ee0998810b1577fa423053c180"
+hash = "8769240679a1349f9da3d6f75be38826c43f5cd39a062d17cbfd467fa7015a88"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -20859,7 +20867,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "ab7cafd0088b727fb3fcfa063d2490115e82064b1b2fdd90c8e3f5462d673f0b"
+hash = "dd276d39af6673af16cf39e33695bae647c526ed832127e721a1e08750e34fd8"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

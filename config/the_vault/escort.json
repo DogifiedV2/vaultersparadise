@@ -1,0 +1,148 @@
+{
+  "crate_type": "SCAVENGER",
+  "crate_loot": "scavenger",
+  "bar_target": 100,
+  "chest_points": {
+    "WOODEN": 4,
+    "GILDED": 8,
+    "LIVING": 8,
+    "ORNATE": 10,
+    "TREASURE": 12,
+    "ALTAR": 6,
+    "HARDENED": 6,
+    "ENIGMA": 8,
+    "FLESH": 6
+  },
+  "coin_pile_points": 2,
+  "clap_milestones": [
+    0.25,
+    0.5,
+    0.75
+  ],
+  "prebuild_at_share": 0.6,
+  "golem": {
+    "vault_health": 100.0,
+    "bridge_health": 100.0,
+    "strike_damage": 6.0,
+    "champion_strike_damage": 15.0,
+    "recover_radius": 8.0,
+    "owner_recover_radius": 6.0,
+    "seeker_range": 12.0,
+    "seeker_share": 0.35,
+    "respawn_missing_ticks": 40,
+    "call_reach": 2.5,
+    "cower_quiet_seconds": 10,
+    "lost_distance": 64.0
+  },
+  "fall": {
+    "dark_in_ticks": 6,
+    "dark_hold_ticks": 30,
+    "dark_out_ticks": 14
+  },
+  "bridge": {
+    "origin": [
+      6144,
+      64,
+      6144
+    ],
+    "slot_spacing": 128,
+    "build_budget_ms": 4,
+    "walk_blocks_per_second": 1.0,
+    "start_reach": 5.0,
+    "follow_range": 10.0,
+    "player_below_deck": 8,
+    "player_below_deck_ticks": 10,
+    "mob_below_deck": 3,
+    "mob_below_deck_ticks": 60,
+    "leap_settle_ticks": 40,
+    "pack_health_multiplier": 1.0,
+    "champion_affixes": 2,
+    "pack_stray_range": 6,
+    "pack_stray_seconds": 10,
+    "outside_room_ticks": 40,
+    "golem_below_deck": 3,
+    "golem_below_deck_ticks": 40
+  },
+  "packs": [
+    [
+      {
+        "entity": "the_vault:elite_zombie",
+        "count": 1,
+        "champion": false
+      },
+      {
+        "entity": "the_vault:elite_skeleton",
+        "count": 1,
+        "champion": false
+      },
+      {
+        "entity": "the_vault:elite_spider",
+        "count": 1,
+        "champion": false
+      }
+    ],
+    [
+      {
+        "entity": "the_vault:elite_husk",
+        "count": 1,
+        "champion": false
+      },
+      {
+        "entity": "the_vault:elite_stray",
+        "count": 1,
+        "champion": false
+      },
+      {
+        "entity": "the_vault:elite_witch",
+        "count": 1,
+        "champion": false
+      },
+      {
+        "entity": "the_vault:elite_zombie",
+        "count": 1,
+        "champion": false
+      }
+    ],
+    [
+      {
+        "entity": "the_vault:elite_wither_skeleton",
+        "count": 1,
+        "champion": true
+      },
+      {
+        "entity": "the_vault:elite_spider",
+        "count": 1,
+        "champion": false
+      },
+      {
+        "entity": "the_vault:elite_zombie",
+        "count": 1,
+        "champion": false
+      },
+      {
+        "entity": "the_vault:elite_skeleton",
+        "count": 1,
+        "champion": false
+      },
+      {
+        "entity": "the_vault:elite_husk",
+        "count": 1,
+        "champion": false
+      }
+    ]
+  ],
+  "bridges": [
+    {
+      "room": "escort_bone_span",
+      "template": "the_vault:vault/rooms/escort/escort_bone_span",
+      "markers": "config/the_vault/gen/1.0/structures/vault/rooms/escort/escort_bone_span.markers.json",
+      "weight": 1
+    },
+    {
+      "room": "escort_chain_span",
+      "template": "the_vault:vault/rooms/escort/escort_chain_span",
+      "markers": "config/the_vault/gen/1.0/structures/vault/rooms/escort/escort_chain_span.markers.json",
+      "weight": 1
+    }
+  ]
+}

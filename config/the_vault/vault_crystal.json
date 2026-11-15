@@ -2457,6 +2457,44 @@
         }
       }
     ],
+    "the_vault:crystal_seal_escort": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "escort"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [],
+          "random_modifiers": true,
+          "clarity": false
+        }
+      }
+    ],
+    "the_vault:crystal_seal_reaper": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "reaper"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [],
+          "random_modifiers": true,
+          "clarity": false
+        }
+      }
+    ],
     "the_vault:crystal_seal_gauntlet": [
       {
         "level": 0,
