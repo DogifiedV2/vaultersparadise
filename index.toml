@@ -3342,11 +3342,11 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "b2f40452117d15d5aec7a27fb4953faa6fbfd239aa24c0a8d1bdb33e4d511ea7"
+hash = "152cbac6faf5482c625b36b8aac9e7101e43cd91d74df0f5ebf2200301fffd6d"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "b2755590bb6eedf8fa4454e292a2e742f82db0e8a9e301118e8ceadec99ffe3c"
+hash = "5d752f5fe4a2ef66213ada65f3d263cd049f7b2aac46ff74812918f7d6b56f7b"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -3810,7 +3810,7 @@ hash = "29c84f06b8cfa05a4e43b913bfde2e8cbf484ec685bc0873d67109ecfec2a57f"
 
 [[files]]
 file = "config/the_vault/gear/modifier_tooltips.json"
-hash = "6774f5556b571f2c1c3b5c50235cdd395590bfeccd99294e084e74e953bbc2e9"
+hash = "749b1c1580030bac3b6abac445a74ad58982d31edcfe7669a626cb06b87c1090"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
@@ -3846,7 +3846,7 @@ hash = "2eceb307c3dbcb2e845a6c6c12affe572f173ca178b50060f64a782ccc9900ac"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/focus.json"
-hash = "17ff2fe46ad5da08e39aeb00f49a39d60eeabdd86bd5d7ea7de5109f9303db76"
+hash = "89be074116e1ec5aa1fa657b69eb60511d92c268c438c7d0ae098f283f1d6cf9"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
@@ -3922,7 +3922,7 @@ hash = "b93e682e39bde95ffb76e3e3c282b876f13682af7c2de06625f7815d09b12c17"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
-hash = "5e0b17cb4565e8c6e39adc4f7f47c307bfc82e9c1646939ca23a6d2dc8b72f00"
+hash = "8bd47a57cd75c9e311a6b94c23e0650a07f1788e0dadbdca83b7ba590b35edc4"
 
 [[files]]
 file = "config/the_vault/gear_workbench/axe.json"
@@ -20903,7 +20903,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "56d8fa224970c639091d495ad306ca7acfb37535e23153d3e9d7362439f1c253"
+hash = "47b5dc4f74965837cbff5591ef2aa8a3360201a7d1829b51b58132634e6ea9b7"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
