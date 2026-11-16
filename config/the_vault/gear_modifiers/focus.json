@@ -11,7 +11,7 @@
         "tiers": [
           {
             "minLevel": 0,
-            "maxLevel": -1,
+            "maxLevel": 99,
             "weight": 10,
             "value": {
               "min": 400,
@@ -21,7 +21,7 @@
           },
           {
             "minLevel": 21,
-            "maxLevel": -1,
+            "maxLevel": 99,
             "weight": 10,
             "value": {
               "min": 801,
@@ -31,11 +31,41 @@
           },
           {
             "minLevel": 60,
-            "maxLevel": -1,
+            "maxLevel": 99,
             "weight": 10,
             "value": {
               "min": 1601,
               "max": 2400,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 100,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 1600,
+              "max": 3200,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 100,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 3204,
+              "max": 6400,
+              "step": 1
+            }
+          },
+          {
+            "minLevel": 100,
+            "maxLevel": -1,
+            "weight": 10,
+            "value": {
+              "min": 6404,
+              "max": 9600,
               "step": 1
             }
           }
