@@ -9,7 +9,7 @@
   "prebuild_at_share": 0.6,
   "golem": {
     "vault_health": 100.0,
-    "bridge_health": 100.0,
+    "bridge_health": 300.0,
     "strike_damage": 6.0,
     "champion_strike_damage": 15.0,
     "recover_radius": 8.0,
