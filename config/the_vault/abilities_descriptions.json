@@ -4185,7 +4185,7 @@
           "color": "$heal"
         },
         {
-          "text": " are a share of your own, and it has your ",
+          "text": " come from your Attack Damage or half your Ability Power (the higher one) and your health, and it has your ",
           "color": "$text"
         },
         {
@@ -4255,7 +4255,7 @@
           "color": "$heal"
         },
         {
-          "text": " come from your own.\n\n",
+          "text": " come from your Attack Damage or half your Ability Power (the higher one) and your health.\n\n",
           "color": "$text"
         },
         {
