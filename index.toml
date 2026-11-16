@@ -2729,6 +2729,198 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/the_voi
 hash = "3cf9f4e36fae1a75bc4928f4ae5cd4623ac8da95eef6b62c6b7c057cfbf90174"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/awaken_bell.ogg"
+hash = "a8621089b2b3462e9584ec077d9346da2e4258962457cba4cb13599b700bc7ee"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/axe_catch.ogg"
+hash = "4538c053fb2fe7af7c157c74277316cfc8a136de08f9bd2f2e0c7d5e89186f5d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/axe_plant.ogg"
+hash = "da9cf4458ac91f08b80a1d3ab46acdc43985e1073cc6d5bba4ad4738cdd6d9d5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/axe_yank.ogg"
+hash = "e42cf9e29018e28e01b920e27058c156ccb4146e6882bd9d9e2f72cac9e6f2b3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/beat_bar.ogg"
+hash = "80be057b871ee87ddf11752e4afe10f55dea6978808170740476ef422d12a34c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/beat_tick1.ogg"
+hash = "72ed2a444d7d9aca21aecfc66f137637fbfef7e8721d88dc5eacaf062f86681f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/beat_tick2.ogg"
+hash = "e00f811f2c5a54b35209d0bc9ab6580609d00200c2c9881ec805c3e027aebd08"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/beat_tick3.ogg"
+hash = "4b90a3714a8a48038dc68435b63ea769b7d55e3283dcaf306be93ec6cb2e9529"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/comet_fall.ogg"
+hash = "efd6c11739eec48235ed0a5819308e34ad0b6a05e05cf25dafdfcc5e22ff7206"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/comet_land.ogg"
+hash = "509580ea8636cfaa46f3bb353d36feb3eb28d9402ca5f3df150f62360c83b080"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/cyclone_call.ogg"
+hash = "edd536282c3fca2e4bd1320f2ef53ea1cf30b0d875fa5466d05afb91af7c83aa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/cyclone_end_sand.ogg"
+hash = "5eea83eef327952e67ee81117b2c690a874c76ee0290f1e261342ad15320c6dc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/cyclone_fork.ogg"
+hash = "e44bd6918cb73e118fd333e0b7529e2fa04dd18f97730baf3223a9dd1d503039"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/death_freeze.ogg"
+hash = "81c068d05c87f33b067edd46630519b040e698fed1b7c4094a5157ac5311cdc3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/death_pour.ogg"
+hash = "e4fadd68bfc12f57f0d62ebcaf165d8883cb164a58a5c5787cd02cc436e0bb07"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/escapement_hitch.ogg"
+hash = "d9ff5c05d74dd491908993e14c1a00dc3197ce223b359825e18cd54da1ad09eb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/escapement_overhead.ogg"
+hash = "71a1aa201cb75588a759e25aada61195de0555151c04327d7bf9f4b607ac475e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/escapement_tick.ogg"
+hash = "abdf3f090be139200ead61247379bd14eb5582139c9dd8115685bfdb1ff53e71"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/gear_shove.ogg"
+hash = "5761875786ce99ae1fb04256d75f5bd6c853bae87b3811b23e31f65655a69abe"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/gear_spin.ogg"
+hash = "756d5c7948cf8ac75462960bbecd64d6226432e96de33d52e7f167508da34580"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/hit_player.ogg"
+hash = "a71f2250799ebc347c0d6db3045d57c09b50689e522b6f4493ce60d94e00617c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/hook_pull.ogg"
+hash = "f7e82f199fa522d5675999e33d4300e2738df496c4c186a8f70de18edfae4c2d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/hour_crack_rocks.ogg"
+hash = "5783ce76a88704da876f87b285d56fe97879036e5bbb3ff6b93772a59fc4675c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/last_hour.ogg"
+hash = "6d525ab4a3738c2a617e07fa1e79940f169dacd65120832f95fe3207877e73e9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/leap_land.ogg"
+hash = "35d9f30fd8a8541062be60055ddd4b02daec1683f9b801863711cfbf4dd70a96"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/ram.ogg"
+hash = "f5bdadc6b2dcd443cab50540d927134f6d8becdad2cbfec662e450f25903e0ac"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/rewind.ogg"
+hash = "b53fcdd1af70629c253c9b90cd01ac8f78243ed6db79f17747b2667880db9953"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/sand_hand_pull.ogg"
+hash = "2f9c4972e447a70cad7fc03053c51e75a6e91481bde16acd73bb595e1ba4aa5e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/sand_hand_rise.ogg"
+hash = "5ff3fcebbb8dff18fe20196d84e431bf9c2904818719e60454e4a39a7242f725"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/skid.ogg"
+hash = "f195e7c0cd389d83a70ee20e7d3d3cc65e53ed85db7b65975d340032cca57469"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/statue_tick1.ogg"
+hash = "09c9add90b808e1087f421af7eb6df7d06a63972f8a00490293e22c548892407"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/statue_tick2.ogg"
+hash = "ea96a46e9be34fcf63a289f7892eabc6269b2535a6ad2acb998e5592b238a36f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/statue_tick3.ogg"
+hash = "5128a10ec95e1552bfd20ea8e231a5c858d2f89cc07d6959ec101eb4213ff7cc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/step1.ogg"
+hash = "7e2be0db0504ac5651a005bf25576f16f4d067e625c611366a750031c269dd9a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/step2.ogg"
+hash = "d1049c5d40644661d0ff42bda280742a9a5cac65430a598d987db72eff8d7733"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/step3.ogg"
+hash = "a32226c7310cc48531c4a4b85d656bfcf8d212847e5d07ba407afeace89698b6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/stolen_grip.ogg"
+hash = "351a1cb78c8685e2a304e840251ac3e0f9f7f0f38dcfb366b73feecf60879662"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/stolen_snap.ogg"
+hash = "6c3b575f4f6c1a3071a1b1f643483e293d1e880a76caa729df82db62224b8343"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/storm_call.ogg"
+hash = "ac78510fc6b18033d569c80ad7caed6473842b2cb6ba2a67fb9b63bcbc8cfcdd"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/storm_final.ogg"
+hash = "b4501088e8d1733d9cf25562e8076ee37b43e5b3f8c20c2f4a6d86c0e1412817"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/storm_raise.ogg"
+hash = "91185db63ba0b42d0deb45ec514e8d092e7c15d0c1ec0d9fd1d4fb9f0aa9efda"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/strike_twelve.ogg"
+hash = "e463d69a43bdac218a857c3b1f5afc526103bc3ae712a0c574112906b532e5ef"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter1.ogg"
+hash = "d8c28045de81ea4b90b59a4c2b006290fa8a0252e55aa450fe4436025e9a079f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter2.ogg"
+hash = "0a8dbac81424fac600d38bc332c91cdc4ea53f25397da9c9267f034d4c899cc8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter3.ogg"
+hash = "69cedbed67804b2b25a6dfb22479cd7d1117d6ce2de6e984b3fb0765260805ef"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter4.ogg"
+hash = "bf823813f23b101a5f38d64c85447e6c62d8d983abdc2e7821abbff8645f4c47"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter5.ogg"
+hash = "ec1e4205c4806227fea0bfa74d56ce51f27e7642452cc7f1e98ff6eacbcbb209"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_suck.ogg"
+hash = "2dffca77b1af20fb428d9311904b4dc72e05b9d152cb31965b2b029cb525a67a"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/timer_kill.ogg"
 hash = "39d79451c580809fdfa24b602fb818b1f8c65f77ae6ab43bfc0942123416eee2"
 
@@ -20903,7 +21095,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "47b5dc4f74965837cbff5591ef2aa8a3360201a7d1829b51b58132634e6ea9b7"
+hash = "f7fbecafae849800ba317956c418480fec13c3fe4ba6616b832ae0d45b0533ba"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
