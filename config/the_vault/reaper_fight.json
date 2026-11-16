@@ -1,7 +1,7 @@
 {
-  "base_damage": 20.0,
+  "base_damage": 16.0,
   "tier_damage_step": 0.1,
-  "soul_strength_max": 3.0,
+  "soul_strength_max": 2.0,
   "fallback_health_per_player": 35000.0,
   "fallback_extra_player_health": 0.7,
   "fallback_damage_factor": 2.7,
