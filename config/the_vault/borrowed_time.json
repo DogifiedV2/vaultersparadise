@@ -34,6 +34,7 @@
   "theme": "the_vault:classic_vault_wendarr",
   "crate_type": "SCAVENGER",
   "crate_loot": "scavenger",
+  "wendarr_reputation": 50,
   "sand": {
     "mob_drop_chance": 0.6,
     "champion_mob": 12,
