@@ -83,7 +83,8 @@
     "strike_seconds": 300,
     "enemy_strength_per_strike": 0.33,
     "dust_per_strike": 0.33,
-    "base_dust_sand_seconds": 575,
+    "base_dust_sand_seconds": 3000,
+    "dust_party_share_per_extra_player": 1.0,
     "crate_quantity_per_strike": 0.06
   }
 }
