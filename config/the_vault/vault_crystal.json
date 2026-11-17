@@ -2398,28 +2398,6 @@
         "clearCapacity": true
       }
     ],
-    "the_vault:crystal_seal_tower": [
-      {
-        "level": 0,
-        "exhausted": true,
-        "input": [
-          "the_vault:vault_crystal"
-        ],
-        "objective": {
-          "type": "tower"
-        },
-        "layout": {
-          "type": "tower"
-        },
-        "theme": {
-          "type": "tower"
-        },
-        "modifiers": {
-          "type": "default",
-          "random_modifiers": false
-        }
-      }
-    ],
     "the_vault:crystal_seal_witch_brew": [
       {
         "level": 0,
@@ -2428,6 +2406,111 @@
         ],
         "objective": {
           "type": "witch_brew"
+        }
+      }
+    ],
+    "the_vault:crystal_seal_borrowed_time": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "borrowed_time"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "the_vault:rotten",
+              "count": 1
+            }
+          ],
+          "random_modifiers": true,
+          "clarity": false
+        }
+      }
+    ],
+    "the_vault:crystal_seal_time": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "seal_of_time"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "the_vault:rotten",
+              "count": 1
+            }
+          ],
+          "random_modifiers": true,
+          "clarity": false
+        }
+      }
+    ],
+    "the_vault:crystal_seal_escort": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "escort"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [],
+          "random_modifiers": true,
+          "clarity": false
+        }
+      }
+    ],
+    "the_vault:crystal_seal_reaper": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "reaper"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [],
+          "random_modifiers": true,
+          "clarity": false
+        }
+      }
+    ],
+    "the_vault:crystal_seal_gauntlet": [
+      {
+        "level": 0,
+        "exhausted": true,
+        "wipe": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "infinite_trials"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [],
+          "random_modifiers": false,
+          "clarity": false
         }
       }
     ]

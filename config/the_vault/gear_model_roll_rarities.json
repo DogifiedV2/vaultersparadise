@@ -86,6 +86,9 @@
       "the_vault:gear/armor/duck",
       "the_vault:gear/armor/baker",
       "the_vault:gear/armor/baker_boy",
+      "the_vault:gear/armor/butler",
+      "the_vault:gear/armor/sponge_suit",
+      "the_vault:gear/armor/cat_maid",
       "the_vault:gear/armor/gilded_noir",
       "the_vault:gear/armor/snow_fox",
       "the_vault:gear/armor/raven_witch",
@@ -128,6 +131,7 @@
       "the_vault:gear/armor/vitalis"
     ],
     "SPECIAL": [
+      "the_vault:gear/armor/opus_maid_test",
       "the_vault:gear/armor/voidbound_protector",
       "the_vault:gear/armor/nimbus_knight",
       "the_vault:gear/armor/fairy",

@@ -80,16 +80,6 @@
       "boxHeight": 110,
       "icon": "the_vault:gui/objective_upgrades/category_mastery"
     },
-    "TOWER": {
-      "group": "Infinity Tower",
-      "headerColor": -11584372,
-      "headerTextColor": -1,
-      "x": 380,
-      "y": 260,
-      "boxWidth": 170,
-      "boxHeight": 110,
-      "icon": "the_vault:gui/objective_upgrades/category_tower"
-    },
     "COMPASS": {
       "group": "Compass",
       "headerColor": -9741778,
@@ -334,47 +324,11 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/vault_mastery"
     },
-    "DEFENSE_MASTERY": {
-      "x": 225,
-      "y": 342,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/defense_mastery"
-    },
-    "ATTACK_MASTERY": {
+    "ABILITY_MASTERY": {
       "x": 275,
       "y": 342,
       "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/attack_mastery"
-    },
-    "ABILITY_MASTERY": {
-      "x": 325,
-      "y": 342,
-      "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/objective_upgrades/ability_mastery"
-    },
-    "RELENTLESS_STRIKES": {
-      "x": 415,
-      "y": 300,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/relentless_strikes"
-    },
-    "EMPOWERED_ABILITIES": {
-      "x": 465,
-      "y": 300,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/empowered_abilities"
-    },
-    "REINFORCED_ARMOR": {
-      "x": 515,
-      "y": 300,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/reinforced_armor"
-    },
-    "TOWER_FORTUNE": {
-      "x": 465,
-      "y": 342,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/objective_upgrades/tower_fortune"
     },
     "COMPASS_COMPANION_EGG": {
       "x": 35,
@@ -481,13 +435,7 @@
     "COMPANION_BUNDLE": -10141409,
     "COMPANION_MASTERY": -8769681,
     "VAULT_MASTERY": -10866041,
-    "DEFENSE_MASTERY": -13807240,
-    "ATTACK_MASTERY": -7657432,
     "ABILITY_MASTERY": -11651446,
-    "RELENTLESS_STRIKES": -7395031,
-    "EMPOWERED_ABILITIES": -11128436,
-    "REINFORCED_ARMOR": -13741451,
-    "TOWER_FORTUNE": -10271488,
     "COMPASS_COMPANION_EGG": -10141409,
     "COMPASS_TREASURE_DOOR": -9744896,
     "COMPASS_DUNGEON_DOOR": -10864102,

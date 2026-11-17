@@ -1,0 +1,33 @@
+{
+  "crate_type": "RUNE_BOSS",
+  "crate_loot": "rune_boss",
+  "boss_entity": "the_vault:reaper",
+  "souls": {
+    "champion": 15,
+    "mobs": [
+      { "target": "@the_vault:elite", "souls": 8 },
+      { "target": "@the_vault:guardians", "souls": 6 },
+      { "target": "@the_vault:tank", "souls": 4 },
+      { "target": "@the_vault:assassin", "souls": 2 },
+      { "target": "@the_vault:horde", "souls": 1 },
+      { "target": "@the_vault:minions", "souls": 0 }
+    ],
+    "drop_chance": 1.0,
+    "merge_radius": 1.5
+  },
+  "altar_rooms": {
+    "extra_chance": 0.08
+  },
+  "soul_tier_souls": [0, 120, 210, 300],
+  "soul_tier_scale_per_extra_player": 0.5,
+  "soul_strength_souls": 75,
+  "anger_tiers": [1, 15, 40, 80],
+  "reward_share_per_tier": [0.0, 0.5, 1.0, 1.5],
+  "fight": {
+    "clock_resume_minimum_seconds": 20,
+    "gate_wait_ticks": 0,
+    "abandon_ticks": 160,
+    "missing_boss_ticks": 100,
+    "victory_seconds": 15
+  }
+}

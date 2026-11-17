@@ -2,6 +2,7 @@
     "tooltips": {
         "the_vault:living": "<green>This item will level up when levelling up from completing a vault.",
         "the_vault:armor": "Increases your damage reduction by adding armor points, the more the merrier.",
+        "the_vault:summon_damage": "Increases the damage of your Soul Call and Soul Army summons by a percentage, including their cleave and death bursts.",
         "the_vault:ability_power": "Ability Power is used to calculate damage from certain, usually magical, abilities.",
         "the_vault:critical_hit_mitigation": "Most non horde mobs in the game has a chance to deal critical damage, this affix acts as a chance to dodge a critical hit.",
         "the_vault:mana_additive": "Adds mana points to your total mana pool.",

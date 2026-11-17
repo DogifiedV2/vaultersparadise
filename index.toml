@@ -486,7 +486,7 @@ hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
-hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
 
 [[files]]
 file = "config/byg/byg-biome-dictionary.json"
@@ -494,7 +494,7 @@ hash = "0b9f1505782c9c3b54fcbf2f0592b1230917092bd2da3ef1b940c095845a21e4"
 
 [[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
-hash = "3205bffab22f58f8651520495ee109bb2f509e0a34d875762d97de388ffd2abf"
+hash = "785e1bfc3e4880c54293756a89a4515d12e7b3b9428f3211c95bc6c95c347c90"
 
 [[files]]
 file = "config/byg/config_versions.json5"
@@ -2729,6 +2729,198 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/the_voi
 hash = "3cf9f4e36fae1a75bc4928f4ae5cd4623ac8da95eef6b62c6b7c057cfbf90174"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/awaken_bell.ogg"
+hash = "a8621089b2b3462e9584ec077d9346da2e4258962457cba4cb13599b700bc7ee"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/axe_catch.ogg"
+hash = "4538c053fb2fe7af7c157c74277316cfc8a136de08f9bd2f2e0c7d5e89186f5d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/axe_plant.ogg"
+hash = "da9cf4458ac91f08b80a1d3ab46acdc43985e1073cc6d5bba4ad4738cdd6d9d5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/axe_yank.ogg"
+hash = "e42cf9e29018e28e01b920e27058c156ccb4146e6882bd9d9e2f72cac9e6f2b3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/beat_bar.ogg"
+hash = "80be057b871ee87ddf11752e4afe10f55dea6978808170740476ef422d12a34c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/beat_tick1.ogg"
+hash = "72ed2a444d7d9aca21aecfc66f137637fbfef7e8721d88dc5eacaf062f86681f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/beat_tick2.ogg"
+hash = "e00f811f2c5a54b35209d0bc9ab6580609d00200c2c9881ec805c3e027aebd08"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/beat_tick3.ogg"
+hash = "4b90a3714a8a48038dc68435b63ea769b7d55e3283dcaf306be93ec6cb2e9529"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/comet_fall.ogg"
+hash = "efd6c11739eec48235ed0a5819308e34ad0b6a05e05cf25dafdfcc5e22ff7206"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/comet_land.ogg"
+hash = "509580ea8636cfaa46f3bb353d36feb3eb28d9402ca5f3df150f62360c83b080"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/cyclone_call.ogg"
+hash = "edd536282c3fca2e4bd1320f2ef53ea1cf30b0d875fa5466d05afb91af7c83aa"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/cyclone_end_sand.ogg"
+hash = "5eea83eef327952e67ee81117b2c690a874c76ee0290f1e261342ad15320c6dc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/cyclone_fork.ogg"
+hash = "e44bd6918cb73e118fd333e0b7529e2fa04dd18f97730baf3223a9dd1d503039"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/death_freeze.ogg"
+hash = "81c068d05c87f33b067edd46630519b040e698fed1b7c4094a5157ac5311cdc3"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/death_pour.ogg"
+hash = "e4fadd68bfc12f57f0d62ebcaf165d8883cb164a58a5c5787cd02cc436e0bb07"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/escapement_hitch.ogg"
+hash = "d9ff5c05d74dd491908993e14c1a00dc3197ce223b359825e18cd54da1ad09eb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/escapement_overhead.ogg"
+hash = "71a1aa201cb75588a759e25aada61195de0555151c04327d7bf9f4b607ac475e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/escapement_tick.ogg"
+hash = "abdf3f090be139200ead61247379bd14eb5582139c9dd8115685bfdb1ff53e71"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/gear_shove.ogg"
+hash = "5761875786ce99ae1fb04256d75f5bd6c853bae87b3811b23e31f65655a69abe"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/gear_spin.ogg"
+hash = "756d5c7948cf8ac75462960bbecd64d6226432e96de33d52e7f167508da34580"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/hit_player.ogg"
+hash = "a71f2250799ebc347c0d6db3045d57c09b50689e522b6f4493ce60d94e00617c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/hook_pull.ogg"
+hash = "f7e82f199fa522d5675999e33d4300e2738df496c4c186a8f70de18edfae4c2d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/hour_crack_rocks.ogg"
+hash = "5783ce76a88704da876f87b285d56fe97879036e5bbb3ff6b93772a59fc4675c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/last_hour.ogg"
+hash = "6d525ab4a3738c2a617e07fa1e79940f169dacd65120832f95fe3207877e73e9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/leap_land.ogg"
+hash = "35d9f30fd8a8541062be60055ddd4b02daec1683f9b801863711cfbf4dd70a96"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/ram.ogg"
+hash = "f5bdadc6b2dcd443cab50540d927134f6d8becdad2cbfec662e450f25903e0ac"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/rewind.ogg"
+hash = "b53fcdd1af70629c253c9b90cd01ac8f78243ed6db79f17747b2667880db9953"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/sand_hand_pull.ogg"
+hash = "2f9c4972e447a70cad7fc03053c51e75a6e91481bde16acd73bb595e1ba4aa5e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/sand_hand_rise.ogg"
+hash = "5ff3fcebbb8dff18fe20196d84e431bf9c2904818719e60454e4a39a7242f725"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/skid.ogg"
+hash = "f195e7c0cd389d83a70ee20e7d3d3cc65e53ed85db7b65975d340032cca57469"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/statue_tick1.ogg"
+hash = "09c9add90b808e1087f421af7eb6df7d06a63972f8a00490293e22c548892407"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/statue_tick2.ogg"
+hash = "ea96a46e9be34fcf63a289f7892eabc6269b2535a6ad2acb998e5592b238a36f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/statue_tick3.ogg"
+hash = "5128a10ec95e1552bfd20ea8e231a5c858d2f89cc07d6959ec101eb4213ff7cc"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/step1.ogg"
+hash = "7e2be0db0504ac5651a005bf25576f16f4d067e625c611366a750031c269dd9a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/step2.ogg"
+hash = "d1049c5d40644661d0ff42bda280742a9a5cac65430a598d987db72eff8d7733"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/step3.ogg"
+hash = "a32226c7310cc48531c4a4b85d656bfcf8d212847e5d07ba407afeace89698b6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/stolen_grip.ogg"
+hash = "351a1cb78c8685e2a304e840251ac3e0f9f7f0f38dcfb366b73feecf60879662"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/stolen_snap.ogg"
+hash = "6c3b575f4f6c1a3071a1b1f643483e293d1e880a76caa729df82db62224b8343"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/storm_call.ogg"
+hash = "ac78510fc6b18033d569c80ad7caed6473842b2cb6ba2a67fb9b63bcbc8cfcdd"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/storm_final.ogg"
+hash = "b4501088e8d1733d9cf25562e8076ee37b43e5b3f8c20c2f4a6d86c0e1412817"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/storm_raise.ogg"
+hash = "91185db63ba0b42d0deb45ec514e8d092e7c15d0c1ec0d9fd1d4fb9f0aa9efda"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/strike_twelve.ogg"
+hash = "e463d69a43bdac218a857c3b1f5afc526103bc3ae712a0c574112906b532e5ef"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter1.ogg"
+hash = "d8c28045de81ea4b90b59a4c2b006290fa8a0252e55aa450fe4436025e9a079f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter2.ogg"
+hash = "0a8dbac81424fac600d38bc332c91cdc4ea53f25397da9c9267f034d4c899cc8"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter3.ogg"
+hash = "69cedbed67804b2b25a6dfb22479cd7d1117d6ce2de6e984b3fb0765260805ef"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter4.ogg"
+hash = "bf823813f23b101a5f38d64c85447e6c62d8d983abdc2e7821abbff8645f4c47"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_stutter5.ogg"
+hash = "ec1e4205c4806227fea0bfa74d56ce51f27e7642452cc7f1e98ff6eacbcbb209"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/time_guard/unwind_suck.ogg"
+hash = "2dffca77b1af20fb428d9311904b4dc72e05b9d152cb31965b2b029cb525a67a"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/timer_kill.ogg"
 hash = "39d79451c580809fdfa24b602fb818b1f8c65f77ae6ab43bfc0942123416eee2"
 
@@ -3057,12 +3249,20 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/ar
 hash = "63e355efde071fe88fefba1b729212d17de81f42bef769e089292a405fd59cde"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/borrowedtime/borrowed_time_vfx.png"
+hash = "b526287ddf69ffea363d987fba4d2c332f8ee8c6c5984744452d477f42ff7b20"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/bramble/bramble_vfx.png"
 hash = "de9a2bd43031aea5ba032f9d965502ee5523e76550c8667961de19decee259e1"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/herald/herald_vfx.png"
 hash = "b74ea9ce7f3dad79ee3eccdc6194ead709acbc9e6dfd3b866e8ad4e80f8178ae"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/keygolem/keygolem_vfx.png"
+hash = "52873f96515131075996c02482dce6cf70f9c1d19aff454bde59c482b8180a3f"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pumpking/pumpking_vfx.png"
@@ -3073,8 +3273,68 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pu
 hash = "c4dad6433616741278967cbc265786839969a26fd834c52bf948ca7e02a22574"
 
 [[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/stormclock/stormclock_vfx.png"
-hash = "b5eb3093074d429c7a24c025ed8e4b1c1fa2cf2fbdd15fa438f965d2e6a3db31"
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/canopy.png"
+hash = "a4e93e98b7569e19b1ef43a12ad87e67aae854f33dcd97abdb9fee83528f0311"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/reaper_faces.png"
+hash = "bf23bef0462b5275ad26dc7182d73a20dbeb5d434178d441ac9b3aa0ae12e699"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/reaper_fx.png"
+hash = "df472bc5bd6e975a5a31a997bdee392f671fdf0847cb10fb392e8d611be855a0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/reaper_fx_b.png"
+hash = "5a7a04b41e053086ae97b2a86d53a44bf21616a0816d8c4998b180fe3f54231d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/reaper/reaper_fx_strips.png"
+hash = "b185a74702760731f63299f320cfd0188c61b82d6bf094ba07790f14275d9b6b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_domain.png"
+hash = "82ba6725237be13169eb8a40958c31f22c28deb321d57288cdcf69e0b9949b5f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_domain_bodies.png"
+hash = "5a4b14426283837d624400f3205b5a7f3e51391c7a0a103ef132ae6f05efce62"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_hours.png"
+hash = "ad4b449834c4fbe18c5160e9683164cf21061b2b34dc419b4e68c7fffa67f8e0"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_hours_matter.png"
+hash = "fa69540c62116e7ed0e0a32a2863f9b30c2de851b889e0ee5952c7040bd80e82"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_hunt.png"
+hash = "5bfae73349759696759f884d2a719cd80367f4ad21e7cef9eb6dcb2fe3191732"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_hunt_matter.png"
+hash = "8fda0a604a3497a6173bc0abb9ec2e6dec74c5a48886541189db524838eb7f9e"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_molten.png"
+hash = "f0ed23b217df577fc9d8fe45448239a298e1d1cdf9492703324621726a1c3d01"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_molten_strips.png"
+hash = "a899636d0299bf4c40f2c9fe36ea66f87e0b4ef1cd58db24b638d0546c107763"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_sky.png"
+hash = "7ce36910da38b009db4beedc8eeda2107a7a12d19d32e5c843f72b7138848dad"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_storm.png"
+hash = "4d40c7b451d9322e2d568f6351a9e450fc6243e8feb726f9d572f5e5df5db80c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_vfx.png"
+hash = "77af0a9b02d035e2f3e81b321032d75e07737b9ed57d3c17753b6267311f8fdb"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/ultimate/earthquake/earthquake_vfx.png"
@@ -3274,11 +3534,11 @@ hash = "081f4b26bc67fb7e27d5663498794b3ea605fcb124083e7283d15b7710a50d61"
 
 [[files]]
 file = "config/the_vault/abilities.json"
-hash = "b2f40452117d15d5aec7a27fb4953faa6fbfd239aa24c0a8d1bdb33e4d511ea7"
+hash = "152cbac6faf5482c625b36b8aac9e7101e43cd91d74df0f5ebf2200301fffd6d"
 
 [[files]]
 file = "config/the_vault/abilities_descriptions.json"
-hash = "b2755590bb6eedf8fa4454e292a2e742f82db0e8a9e301118e8ceadec99ffe3c"
+hash = "5d752f5fe4a2ef66213ada65f3d263cd049f7b2aac46ff74812918f7d6b56f7b"
 
 [[files]]
 file = "config/the_vault/abilities_drill_dig_deny.json"
@@ -3375,6 +3635,10 @@ hash = "cd06d56223ee28d315d2cdcf00d7a8602cc35163026157634aa6cb0bb87275ff"
 [[files]]
 file = "config/the_vault/black_market/greed_trades.json"
 hash = "e75452010547d87656da53e62874a406c182fefdf58b51ec0158a2f3b2ba6d83"
+
+[[files]]
+file = "config/the_vault/borrowed_time.json"
+hash = "dd81184a4e51920df3732f6bdaa5336c254f9ef76678cd65d8b3f89e6bc1cc07"
 
 [[files]]
 file = "config/the_vault/bounty/bounties.json"
@@ -3654,7 +3918,7 @@ hash = "9c22cd8a2cecd10e34050258901740c92f9c197b21a06dbdd6279f056cc1aa3d"
 
 [[files]]
 file = "config/the_vault/elite_spawner.json"
-hash = "80019438dd224c08e65d67b21e310ff1d4778d0ab7b4d664bc81e57d1074c0ba"
+hash = "4bd6a700c4915b8ed8635c765758f2d988cf1627a8146924fb7fcba5539e8feb"
 
 [[files]]
 file = "config/the_vault/elixir.json"
@@ -3670,11 +3934,15 @@ hash = "e3cc18f36f5e12cb3fa0733ec8d80e56f1711089e588e02fb2b551a1b8c53e57"
 
 [[files]]
 file = "config/the_vault/entity_groups.json"
-hash = "1b60cc3807a89f8bef288a66d38768a25777a7095ac44797c572f816467bd305"
+hash = "2b0640f48427fcc69b4c6f2dcbe44a664ce8352d6d700489818c21b7c186718f"
 
 [[files]]
 file = "config/the_vault/entity_hitbox_offsets.json"
 hash = "31660a2fd88d524fe39edd2c7ad83e2c6f73ef87ad929d70b2bcde7628ccf311"
+
+[[files]]
+file = "config/the_vault/escort.json"
+hash = "af67dba70377353eb5884e523c8a1cd25342c0c9d353688b4caae14a4146f811"
 
 [[files]]
 file = "config/the_vault/eternal.json"
@@ -3730,11 +3998,11 @@ hash = "959e8593119bccd6d35baa66b280715b59547a56bf1e9f88e45419e660f173c0"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json"
-hash = "7a14cf138cabe7451daecddeec55fe0d9c3014a23320592ca1699476daadf8ec"
+hash = "29c84f06b8cfa05a4e43b913bfde2e8cbf484ec685bc0873d67109ecfec2a57f"
 
 [[files]]
 file = "config/the_vault/gear/modifier_tooltips.json"
-hash = "6774f5556b571f2c1c3b5c50235cdd395590bfeccd99294e084e74e953bbc2e9"
+hash = "749b1c1580030bac3b6abac445a74ad58982d31edcfe7669a626cb06b87c1090"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
@@ -3742,11 +4010,11 @@ hash = "1063d6884ac4e54cbcfdf6701af882e6b9be04fbbc436447f6a9a8912267456d"
 
 [[files]]
 file = "config/the_vault/gear_model_roll_rarities.json"
-hash = "049fe6e62daa529d05f3989845b0128638ff323bc6b40b8d3fcf62771c7f0992"
+hash = "269c2cee1cdab10e96191e9c416e5a9cd5cb74b3dbacf5b75784a2a0a0cf4cbf"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/axe.json"
-hash = "0576dda9c5c79951b941558b7ce06176c180eda3b6588f548f57c88cfa19ed88"
+hash = "f09ba836d1edf38b3a1d5897922bc18617efaa4f7e6feece19b85df6ab200380"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff.json"
@@ -3754,7 +4022,7 @@ hash = "6cdacf3aff7432e878cc6e8792d82c85eaab6dde4cad81652d93992484f98894"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
-hash = "61f8c061af8111c90fa017aa1f605343c452dd1124cc78529ce3ed976d22eca3"
+hash = "702eeb2b54486dc186b9a9074c1297c8c009d98899d2678842af24e2b2b581d4"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/bottle.json"
@@ -3762,7 +4030,7 @@ hash = "445a6c9fe66900da360ee863ea0b751ee0c908fb029cc3b169f976ffb9c3398a"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/chestplate.json"
-hash = "d87899be615e421b30306eaa4d7b435ae902243dc69ce43fa153c41047b30915"
+hash = "966db69e3ddca780c990b4ca91d91496361db8bf74f10c995c961512b6816c4f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/drink.json"
@@ -3770,11 +4038,11 @@ hash = "2eceb307c3dbcb2e845a6c6c12affe572f173ca178b50060f64a782ccc9900ac"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/focus.json"
-hash = "6d046e1e350675052c410730f0ec21cd421bf91851ae319df22565c57e8083e3"
+hash = "89be074116e1ec5aa1fa657b69eb60511d92c268c438c7d0ae098f283f1d6cf9"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/helmet.json"
-hash = "7991ea88fce1f1fe41b88cbb25800ac968884e3fa24f5bc2951779e74cc833dc"
+hash = "1839c6f5f14a8c7af0fe342a23f60df33cbeb073a30f913c25bd7d2df640756d"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/idol_benevolent.json"
@@ -3798,7 +4066,7 @@ hash = "4998a2aa280e52ebec28233dbfb22e02829ac1221b7cde2b45b20339921792d1"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/leggings.json"
-hash = "031ccbda31e68818a120ff726300b19881c081134b25244d202885af90f722ed"
+hash = "dcfc5a4570da5fd4fb45e400f85ea67291db75a6cc0b4d7d07bd5da730ae0c92"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/loot_sack.json"
@@ -3818,11 +4086,11 @@ hash = "49eb07be9d0ac65401678217ee1ea5946de9ea0b9795f559f344f3ce45f71d9f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/shield.json"
-hash = "4236b3bfd0f0624f039d93e3ad68855dba41561f302abbd8cda511472367c420"
+hash = "9d4dcaab2f74df68ed96598bf993d42f377edd84b1321ab119a624dc4a61ac69"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/sword.json"
-hash = "b408f76d57a3ab91220947f4b8260215804cfc53b68bc9ae91c15ec80015f816"
+hash = "ba36e0f1f434278cf00b8ee9d5ec6a35a72f3b9359471c2635f6db69e4d7fe5f"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident.json"
@@ -3846,11 +4114,11 @@ hash = "b93e682e39bde95ffb76e3e3c282b876f13682af7c2de06625f7815d09b12c17"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/wand.json"
-hash = "ddbc68c8a185b3d829cd85cfc35d66c022094564eeff06c7d77eb5f33ce16273"
+hash = "8bd47a57cd75c9e311a6b94c23e0650a07f1788e0dadbdca83b7ba590b35edc4"
 
 [[files]]
 file = "config/the_vault/gear_workbench/axe.json"
-hash = "b44db790554dc87c683af350a01d4afe54d7883ca63f26ecb60332259c44ba35"
+hash = "9e5b0201fe5dda506cde184fba9de5e6b438876eb8a7d38117b73fd478153bac"
 
 [[files]]
 file = "config/the_vault/gear_workbench/battlestaff.json"
@@ -3858,19 +4126,19 @@ hash = "95f4533c89bc87c09cd563750258d81c698daeb4c83ae728c37e258731f61769"
 
 [[files]]
 file = "config/the_vault/gear_workbench/boots.json"
-hash = "c07316e84e11f7829b93a36c976f9b85c1eb162101e8e12d197a52ed4fdb0d8c"
+hash = "8d92017f2fcb858ec1210c124d4e4338fe845d9ae58080baa93a3f66e0e40d0f"
 
 [[files]]
 file = "config/the_vault/gear_workbench/chestplate.json"
-hash = "3a6544cec856ad46c1e965044028e5c318b85fba0280d3fe0966c5eb12d775ed"
+hash = "8f13db4f1e0d7a4efb10014f212300d2d9861b838168b67f9c6cee099d98da4c"
 
 [[files]]
 file = "config/the_vault/gear_workbench/focus.json"
-hash = "a6a5960bc9caa1e0e48ecd345bbdf9a9e4aec609fd8dce355d33b83981c42106"
+hash = "5d0e099f49b0ab0e7c660c67c12c71f96dbaaf96cead39e5d1b4d313f1a00a7e"
 
 [[files]]
 file = "config/the_vault/gear_workbench/helmet.json"
-hash = "fb66e2e57280e595a99a04e5b96bee04fc1a0375bfd03f865a118bf21889f3fc"
+hash = "84b0b3ba176157cf2b9cfb0cb2e81ffd05502087b51384f7602796fbfdd96b3d"
 
 [[files]]
 file = "config/the_vault/gear_workbench/idol_benevolent.json"
@@ -3890,7 +4158,7 @@ hash = "934b6e12482cdf5205add130429e5ccba38520bd0ef5bdb40188668aaa44db91"
 
 [[files]]
 file = "config/the_vault/gear_workbench/leggings.json"
-hash = "dad8aff5897fb5c5ac3e1075a96649d6652e14f0f4da173b6eae3d3b716bea68"
+hash = "0aae342d192b11a1e94c9d81bef4cfe957d5dbe564b8a67bdd85e0952f413e4a"
 
 [[files]]
 file = "config/the_vault/gear_workbench/loot_sack.json"
@@ -3910,11 +4178,11 @@ hash = "5260bc39fddb8b51cd4221cbeeb18fc418d080326fd1c8e5a25f48c7d0d66c7f"
 
 [[files]]
 file = "config/the_vault/gear_workbench/shield.json"
-hash = "ec52c937e57c347d5ecfa86c53a4fe5a6cd40b7b5810f28db82889511b47307a"
+hash = "68cb6978ddac15c4c9c32c1c8839fd70a4cd88bfafcc16027bcd2750908723dd"
 
 [[files]]
 file = "config/the_vault/gear_workbench/sword.json"
-hash = "86b72bf06b7f138bdd12a1df963e5f2e7e116dd7ef48ff8897a1f5911e543961"
+hash = "1ef5c610f376025514ec08720d2cc759b5da2f855eaf350fc7e8239c86ba65d1"
 
 [[files]]
 file = "config/the_vault/gear_workbench/trident.json"
@@ -3922,7 +4190,7 @@ hash = "76fa2718bd533a5d18c1b6d56a33437e71f5e9df1cb3a5e300f68a2299129978"
 
 [[files]]
 file = "config/the_vault/gear_workbench/wand.json"
-hash = "e9dd456647780006df1f9b752ce7e805a8dcf5fedb6f37ec6f8e7d5f61cd07c0"
+hash = "d41eeb96e761f74bd313ece937c3b1cf50c969b5e224f2d9b95209a78e6c1681"
 
 [[files]]
 file = "config/the_vault/gem_box.json"
@@ -5557,6 +5825,10 @@ file = "config/the_vault/gen/1.0/palettes/generic/spawners/void_mobs.json"
 hash = "ce2b367d1fb5653a5cd528e3ab707d3b3b805002c08107dd1b0606383f1b6b5b"
 
 [[files]]
+file = "config/the_vault/gen/1.0/palettes/generic/spawners/wendarr_mobs.json"
+hash = "771c1913c913297187b5afe699f36c76d1b3295ef7d69ef1b3fbbe6421c77b84"
+
+[[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/spawners/white_mobs.json"
 hash = "8f8ad67f845bd3e5b6197de5366085eba41d20ce4f563b7596302f5ba9c7abc0"
 
@@ -5591,6 +5863,10 @@ hash = "4c31687e3cbcc135e095eadc9df16fffec0da407602fef3c547165cf4d2b8ef5"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/vendor_pedestal_placeholder.json"
 hash = "9a0f0fe7d70911cd11c671b272523b5180d65e118234d6ec37e8d33cd6b2c205"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/generic/wendarr_elite_spawners.json"
+hash = "34f5b375d8ee867132aff58d4b9e7318f3bc81f0d90dbea7be35466f1c4908de"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/generic/wooden_chest_placeholder.json"
@@ -6890,11 +7166,11 @@ hash = "15fb1fa36655b0fdc653460aeff05161bde3d045616a60f0226067ce17242861"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_wendarr.json"
-hash = "f929644df80b3006e0f87c80a9f8502a9e8aea6521ae14e4d196181efaaacfdd"
+hash = "53ccd066b42b30547fbc2bed788b5c6871db16b7835823fced7e9304beb83a58"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_wendarr_normal.json"
-hash = "046b6f2aa25eb0c466ddcf216dd310d8eb685e0b28ac0a7cca200356775ea3f5"
+hash = "3bb3a23a034e8451a3162f6884a7e261743507c63cd26217b90732a8ef18af8e"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/universal_white.json"
@@ -12633,10 +12909,6 @@ file = "config/the_vault/gen/1.0/structures/vault/rooms/special/boss2.nbt"
 hash = "a72fffc0f3979f12775ce817b9fc0f35a841d8b2a39601e5855b537bfda44f23"
 
 [[files]]
-file = "config/the_vault/gen/1.0/structures/vault/rooms/tower_floor.nbt"
-hash = "e8656b9081807945020d476cbf299c7ee746eaed6f55c77de1aa17f44bc49b8e"
-
-[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/herald.nbt"
 hash = "d8f009ccb57ee019b0b222d42657b9db70cb5b37d458fa23708af801acb5fa83"
 
@@ -12685,6 +12957,10 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/tenos_athenaeum_exit.nb
 hash = "df9cb27b36774516db313e05fc633855db513e256aa98f5f30f98b2b186a34e4"
 
 [[files]]
+file = "config/the_vault/gen/1.0/structures/vault/starts/time_trial_hourglass.nbt"
+hash = "664cdcfc318cc881fe3f01b5ed8d8f56ef8d2548716d29cda31f02ee2c4b1456"
+
+[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/velara_grove.nbt"
 hash = "8aa4ec6c4e9d589e3b0f28ba608df37d0c160f9b1e2dd8c168ee9703d27d5024"
 
@@ -12694,7 +12970,7 @@ hash = "37f1f345efb4b94e43eb637727e6aa12822128b254f6b9c95e10f194a6db1418"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_clockspire.nbt"
-hash = "d92e836a30e4b45a57c4e04c0f6121713289e2a9aa449ecab84726bc3eec55ed"
+hash = "906c58643b503b08bc4c27f55465a5148dab4ccfc2375cc4680e482b8df3672b"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/wendarr_clockspire_exit.nbt"
@@ -16309,6 +16585,10 @@ file = "config/the_vault/gen/1.0/template_pools/vault/starts/tenos_starts_normal
 hash = "4aeb5dec6c6cd6f9fd85aa8a88c9ae65f119a1bc4e56ea4243c261c0bb627c80"
 
 [[files]]
+file = "config/the_vault/gen/1.0/template_pools/vault/starts/time_trial.json"
+hash = "a32421f08b3ce59565010e05252ca3ba3230de7f921c3b7016d8193487cac3e2"
+
+[[files]]
 file = "config/the_vault/gen/1.0/template_pools/vault/starts/velara_starts.json"
 hash = "7bb17f51a50551a1a6d5a56a352ca9407903970c50ffde1ccb4d883bd3c9e53b"
 
@@ -17038,7 +17318,7 @@ hash = "d02b22559ada61e4b30e65216a532c7fd653e38992bb2269996ac3c36b8af88b"
 
 [[files]]
 file = "config/the_vault/gen/palettes.json"
-hash = "6d51c9f3e31c22bd72c65d589f37697d122277d9534983de05a099d80b633f4f"
+hash = "486298f226f813ec450f2b478ddeb9b91b22f9b6d44e9f9124e8524470aad9f5"
 
 [[files]]
 file = "config/the_vault/gen/room_level_lock.json"
@@ -17050,11 +17330,11 @@ hash = "d47994d553e6a60ee03e99278a3ef7e76eee06ca73fb3bcb5f1758e75aca251c"
 
 [[files]]
 file = "config/the_vault/gen/template_pools.json"
-hash = "492ba2d33475742d0f8d9561d7fe60aca9fcd01994b3a826ce9852bf2ca776cc"
+hash = "98af2dbba69ef2df5e951b0fd74233093de94cb208ebadcb82b4df377102a536"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "14ba13987b04be169ef963669146e3a2d2a63b1fcaf9ed99d7dfa81adeddc215"
+hash = "389c2ee361a159adfd8aa6318330bbdcc793dde5c611f5eab9bcabab964c0c13"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
@@ -17110,7 +17390,7 @@ hash = "fa631fe1bf6fa9fa69654e55ee48ec5cf2b7b33bb7b1dff9317ee124d2010752"
 
 [[files]]
 file = "config/the_vault/halloween_event.json"
-hash = "0b9801880ba8caf1e9fe5fec433b32c28fbf968ac9a3b836c1f72570c07dea6f"
+hash = "06ddcefb7ab42518af0b47044c4480b7bcc8f4c1f5c38c2658caf57637bb59f1"
 
 [[files]]
 file = "config/the_vault/haunted_objective.json"
@@ -17410,11 +17690,11 @@ hash = "b6da838587bc379750faeeb2c2772addfd0af6335869326920f7d98a1cb0d05f"
 
 [[files]]
 file = "config/the_vault/objective_upgrades.json"
-hash = "df8687b907ba68e1d242e54dd6c2f98b2b240b7be6bcc7774e29f96b6445fe2e"
+hash = "8bea4bbc80be4fde06c986d2df8a158b8be6ddb3eee8125642549d962d1616b9"
 
 [[files]]
 file = "config/the_vault/objective_upgrades_gui_styles.json"
-hash = "47b642a65d50ab565db467c4f3c15006e8bc25c2d46f0d4e35fd061965eb0123"
+hash = "13f9775f824237199f34f006e34d103ecdb5f87636bf43e375356c3c4d8b4e21"
 
 [[files]]
 file = "config/the_vault/old_notes.json"
@@ -17479,6 +17759,18 @@ hash = "82ecfb4aeeb6becf3490c48453f2f497fdc22a738c3b095a1233d9258660d0a5"
 [[files]]
 file = "config/the_vault/quest/sky_quests.json"
 hash = "4a8a3a6400b7440c50d2f3b9fc956a14e9d130ff78e19bc24ee6756a55742694"
+
+[[files]]
+file = "config/the_vault/reaper.json"
+hash = "518bf8d59982513b74155529ecc47e5f241bc09e056696e805472331cecfa73d"
+
+[[files]]
+file = "config/the_vault/reaper_fight.json"
+hash = "4f45825cb829b906576a917e8b5dcd109c73107bac6cf5b1e6d4f162b094926b"
+
+[[files]]
+file = "config/the_vault/reaper_hunter.json"
+hash = "c434ac4eb033538791048aa42f5de00b046ab32ac20e88bcbc410449e26a1cd9"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
@@ -17653,10 +17945,6 @@ file = "config/the_vault/tooltip.json"
 hash = "97944e3fdcdff26bb6c0190fb1238f48adeec8e031d102e9d92538123a17a2de"
 
 [[files]]
-file = "config/the_vault/tower.json"
-hash = "740e4cb2b176c91963072dd18ec21d6712950f75c51473e2c9ef7b7b3c00b174"
-
-[[files]]
 file = "config/the_vault/trader_exclusions.json"
 hash = "a23c9668f8c63eedd7d7f4294c90762167aef08e097f1d516dfee5e50f328f5c"
 
@@ -17742,7 +18030,7 @@ hash = "c8175986d3c2786091a83a8c2e79ff5dbcddd98fbf7441ee1289465342e3d261"
 
 [[files]]
 file = "config/the_vault/vault_crystal.json"
-hash = "6f6e317e225cf6fb55ae13422c995b65494954be7ab2b92d8b1a05e6e9001d28"
+hash = "8769240679a1349f9da3d6f75be38826c43f5cd39a062d17cbfd467fa7015a88"
 
 [[files]]
 file = "config/the_vault/vault_crystal_catalyst_modifiers.json"
@@ -17790,7 +18078,7 @@ hash = "163b14896fafa59c009b7f3b558609b446986a11746d256fb4a96f52425d4758"
 
 [[files]]
 file = "config/the_vault/vault_mobs.json"
-hash = "156627611fcd26184753b0022c2f95c058afd05274c454e4cfd240c6295e2665"
+hash = "a3dc0aed5df67ceb1c2d6982688f3b05ad6484d85717dd0d6e7e7718eb8fa8c8"
 
 [[files]]
 file = "config/the_vault/vault_mobs_gear.json"
@@ -17842,7 +18130,7 @@ hash = "bfe1904d209108a069722379bc5c6de7d8bfa69f6e3140d0f3bb5750587839b1"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
-hash = "2b2598b8f7041cb4a785d5fdb404faef7713a33ca1a7cfe1638cc35e3af821df"
+hash = "628bc4ff2fcf743c19740e8d93f71515bbc9258520d956b2c30acf8fc3d68fb8"
 
 [[files]]
 file = "config/the_vault/vault_stew.json"
@@ -20806,8 +21094,8 @@ file = "mods/textrues_embeddium_options-0.1.1+mc1.18.2.jar"
 hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
-file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "6ce8d5caac3f04f1c96c3ada0a311f5c2f8349f8481294a16a6ff0e8a41ab179"
+file = "mods/the_vault-1.18.2-3.21.74.jar"
+hash = "7f3f814a5b816919ab3bdf146ff048228a3462133a28e4d9722b77ee3f00289d"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -20890,8 +21178,8 @@ hash = "6af1812f033528c272ecd1b664be6693c89e18e2b8de2740f171edd54f381479"
 metafile = true
 
 [[files]]
-file = "mods/vhcctweaks-2.2.23-paradise.jar"
-hash = "ba5665c70bb0d58ac9fae89fbc80d9fdf39b218d8571f2bd5efae3b04d582f7e"
+file = "mods/vhcctweaks-2.2.36.jar"
+hash = "dbec9957fc444a140798f674fe1356c22cd91c6fac31f3e5a631e6114d83b964"
 
 [[files]]
 file = "mods/voicechat-forge-1.18.2-2.6.16.jar"
@@ -20906,8 +21194,8 @@ file = "mods/weirdinggadget-1.18.1-2.2.11.jar"
 hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
-file = "mods/woldsvaultsstandalone-0.23.7-all.jar"
-hash = "0fbdfe6d335f42e57f98addfdba1044c036af30c5a65c5e6d4bac9c909f569b6"
+file = "mods/woldsvaultsstandalone-0.23.8-all.jar"
+hash = "73f5769dcc3f589bb80af49835ded746ea05d280e597abb7d0672bdbc80e42c5"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
@@ -21267,7 +21555,7 @@ hash = "9e89a3abb726d8cbcd06ef44fae66bc93bf38822134d82f60784b596d55bb2dd"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "a4436da673f2c585e1bb2f2bde2ea467c7305e1582f12d9f093f524dfc171675"
+hash = "d16642a28ddae2ade0805b85360d2f6b36cb6a31543f67113e1bdf23db9928c6"
 
 [[files]]
 file = "scripts/AdvancedPeripherals.zs"

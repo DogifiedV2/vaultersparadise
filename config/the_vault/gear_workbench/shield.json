@@ -435,8 +435,9 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t0",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_block_heal_t0",
+        "modifierIdentifier": "the_vault:crafted_block_heal",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
         "craftingCost": [
@@ -452,8 +453,9 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t1",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_block_heal_t1",
+        "modifierIdentifier": "the_vault:crafted_block_heal",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
         "craftingCost": [
@@ -469,8 +471,9 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t2",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_block_heal_t2",
+        "modifierIdentifier": "the_vault:crafted_block_heal",
         "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -486,8 +489,9 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t3",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_block_heal_t3",
+        "modifierIdentifier": "the_vault:crafted_block_heal",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -503,8 +507,9 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t4",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_block_heal_t4",
+        "modifierIdentifier": "the_vault:crafted_block_heal",
         "modifierTier": 4,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -520,7 +525,6 @@
           }
         ]
       },
-
       { "workbenchCraftIdentifier": "the_vault:crafted_healing_cloud_t0",
         "modifierIdentifier": "the_vault:crafted_healing_cloud",
         "modifierTier": 0,

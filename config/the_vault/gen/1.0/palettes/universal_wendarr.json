@@ -631,11 +631,11 @@
         },
         {
             "type": "reference",
-            "id": "the_vault:generic/spawners/desert_mobs"
+            "id": "the_vault:generic/spawners/wendarr_mobs"
         },
         {
             "type": "reference",
-            "id": "the_vault:generic/common_elite_spawners"
+            "id": "the_vault:generic/wendarr_elite_spawners"
         }
     ],
     "entity_processors": [],

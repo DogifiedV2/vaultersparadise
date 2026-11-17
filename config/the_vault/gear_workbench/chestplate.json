@@ -607,8 +607,9 @@
       }
     ],
     "SUFFIX": [
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t0",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_kill_heal_t0",
+        "modifierIdentifier": "the_vault:crafted_on_kill_heal",
         "modifierTier": 0,
         "unlockCategory": "LEVEL",
         "craftingCost": [
@@ -624,8 +625,9 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t1",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_kill_heal_t1",
+        "modifierIdentifier": "the_vault:crafted_on_kill_heal",
         "modifierTier": 1,
         "unlockCategory": "LEVEL",
         "craftingCost": [
@@ -641,10 +643,11 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t2",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_kill_heal_t2",
+        "modifierIdentifier": "the_vault:crafted_on_kill_heal",
         "modifierTier": 2,
-        "unlockCategory": "VAULT_DISCOVERY",
+        "unlockCategory": "LEVEL",
         "craftingCost": [
           {
             "AMOUNT": 8,
@@ -658,8 +661,9 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t3",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_kill_heal_t3",
+        "modifierIdentifier": "the_vault:crafted_on_kill_heal",
         "modifierTier": 3,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
@@ -675,41 +679,96 @@
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t4",
-        "modifierIdentifier": "the_vault:crafted_durability",
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_on_kill_heal_t4",
+        "modifierIdentifier": "the_vault:crafted_on_kill_heal",
         "modifierTier": 4,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
           {
-            "AMOUNT": 32,
+            "AMOUNT": 24,
             "ITEM": "the_vault:amplifying_focus",
             "NBT": "{}"
           },
           {
-            "AMOUNT": 32,
+            "AMOUNT": 24,
             "ITEM": "the_vault:vault_gold",
             "NBT": "{}"
           }
         ]
       },
-      { "workbenchCraftIdentifier": "the_vault:crafted_durability_t5",
-        "modifierIdentifier": "the_vault:crafted_durability",
-        "modifierTier": 5,
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_leech_t0",
+        "modifierIdentifier": "the_vault:crafted_leech",
+        "modifierTier": 0,
+        "unlockCategory": "LEVEL",
+        "craftingCost": [
+          {
+            "AMOUNT": 4,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 4,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_leech_t1",
+        "modifierIdentifier": "the_vault:crafted_leech",
+        "modifierTier": 1,
+        "unlockCategory": "LEVEL",
+        "craftingCost": [
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 8,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_leech_t2",
+        "modifierIdentifier": "the_vault:crafted_leech",
+        "modifierTier": 2,
         "unlockCategory": "VAULT_DISCOVERY",
         "craftingCost": [
           {
-            "AMOUNT": 48,
+            "AMOUNT": 16,
             "ITEM": "the_vault:amplifying_focus",
             "NBT": "{}"
           },
           {
-            "AMOUNT": 48,
+            "AMOUNT": 16,
             "ITEM": "the_vault:vault_gold",
             "NBT": "{}"
           }
         ]
       },
-
+      {
+        "workbenchCraftIdentifier": "the_vault:crafted_leech_t3",
+        "modifierIdentifier": "the_vault:crafted_leech",
+        "modifierTier": 3,
+        "unlockCategory": "VAULT_DISCOVERY",
+        "craftingCost": [
+          {
+            "AMOUNT": 24,
+            "ITEM": "the_vault:amplifying_focus",
+            "NBT": "{}"
+          },
+          {
+            "AMOUNT": 24,
+            "ITEM": "the_vault:vault_gold",
+            "NBT": "{}"
+          }
+        ]
+      },
       { "workbenchCraftIdentifier": "the_vault:crafted_cdr_t0",
         "modifierIdentifier": "the_vault:crafted_cooldown_reduction",
         "modifierTier": 0,

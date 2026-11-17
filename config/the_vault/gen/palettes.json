@@ -406,6 +406,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/desert_mobs.json"
     },
     {
+      "id": "the_vault:generic/spawners/wendarr_mobs",
+      "name": "Wendarr Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/wendarr_mobs.json"
+    },
+    {
       "id": "the_vault:generic/spawners/lush_cave_mobs",
       "name": "Lush Cave Mobs",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/lush_cave_mobs.json"
@@ -494,6 +499,11 @@
       "id": "the_vault:generic/common_elite_spawners",
       "name": "Common Elite Spawners",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/common_elite_spawners.json"
+    },
+    {
+      "id": "the_vault:generic/wendarr_elite_spawners",
+      "name": "Wendarr Elite Spawners",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/wendarr_elite_spawners.json"
     },
     {
       "id": "the_vault:generic/spawners/challenge_mobs",
