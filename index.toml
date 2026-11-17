@@ -486,7 +486,7 @@ hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
-hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
 
 [[files]]
 file = "config/byg/byg-biome-dictionary.json"
@@ -494,7 +494,7 @@ hash = "0b9f1505782c9c3b54fcbf2f0592b1230917092bd2da3ef1b940c095845a21e4"
 
 [[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
-hash = "3205bffab22f58f8651520495ee109bb2f509e0a34d875762d97de388ffd2abf"
+hash = "785e1bfc3e4880c54293756a89a4515d12e7b3b9428f3211c95bc6c95c347c90"
 
 [[files]]
 file = "config/byg/config_versions.json5"
@@ -21095,7 +21095,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.73.jar"
-hash = "7f88849b35bf4c8035b6ca6e58ade9833137d79daa99799e9e1a2b36ce1ed6f6"
+hash = "100fc1f419a3e532f899957db16dfd924acefd60a95dfbd92ffcd245b17d7158"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
