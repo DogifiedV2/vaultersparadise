@@ -369,6 +369,160 @@
                 "maxCount": 16
               },
               "weight": 30
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"stony\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"woody\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"glassy\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"colourful\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"earthy\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"deepslate\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"nether\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"lights\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"gilded\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ornate\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"living\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"wooden\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"resource\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"sunken\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
             }
           ],
           "minTotalStacks": 4,
@@ -754,6 +908,160 @@
                 "maxCount": 1
               },
               "weight": 30
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"stony\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"woody\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"glassy\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"colourful\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"earthy\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"deepslate\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"nether\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"lights\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"gilded\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ornate\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"living\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"wooden\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"resource\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"sunken\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 9
             }
           ],
           "minTotalStacks": 4,
@@ -1169,6 +1477,171 @@
                 "maxCount": 1
               },
               "weight": 12
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"stony\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"woody\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"glassy\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"colourful\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"earthy\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"deepslate\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"nether\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"lights\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"gilded\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ornate\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"living\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"wooden\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ancient_copper\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"resource\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"sunken\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
             }
           ],
           "minTotalStacks": 4,
@@ -1535,6 +2008,171 @@
                 "maxCount": 1
               },
               "weight": 12
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"stony\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"woody\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"glassy\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"colourful\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"earthy\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"deepslate\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"nether\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"lights\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"gilded\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ornate\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"living\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"wooden\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ancient_copper\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"resource\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"sunken\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
             }
           ],
           "minTotalStacks": 4,
@@ -1923,6 +2561,94 @@
                 "maxCount": 2
               },
               "weight": 12
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"gilded\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ornate\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"living\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"wooden\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"god_brick\",Tier:1}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ancient_copper\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"resource\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"sunken\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
             }
           ],
           "minTotalStacks": 4,
@@ -2311,6 +3037,83 @@
                 "maxCount": 1
               },
               "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"gilded\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 11
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ornate\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 11
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"living\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 11
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"wooden\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 11
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"god_brick\",Tier:2}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 11
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ancient_copper\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 11
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"sunken\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 11
             }
           ],
           "minTotalStacks": 4,
@@ -2729,6 +3532,83 @@
                 "maxCount": 6
               },
               "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"gilded\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ornate\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"living\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"wooden\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"god_brick\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"ancient_copper\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_crate_bounty",
+                  "nbt": "{BlockEntityTag:{Kind:\"sunken\",Tier:3}}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
             }
           ],
           "minTotalStacks": 4,
