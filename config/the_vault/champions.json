@@ -1,5 +1,6 @@
 {
   "defaultChampionChance": 0.01,
+  "minimumVaultLevel": 20,
   "entityChampionChance": {
     "@the_vault:dungeon": 0.02,
     "@the_vault:tank": 0.02,
@@ -37,7 +38,8 @@
     "minecraft:vex": -10.0,
     "minecraft:ravager": -10.0,
     "@the_vault:greed_assassin": -10.0,
-    "the_vault:billy": -10.0
+    "the_vault:billy": -10.0,
+    "the_vault:the_vessel": -10.0
   },
   "defaultAttributeOverrides": [
     {
@@ -276,5 +278,178 @@
         "weight": 4.0
       }
     ]
+  },
+  "rules": {
+    "checkIntervalTicks": 5,
+    "heightBlocks": 3.0,
+    "targets": [
+      "the_vault:minions",
+      "the_vault:horde",
+      "the_vault:assassin",
+      "the_vault:tank",
+      "the_vault:dungeon",
+      "the_vault:illagers"
+    ],
+    "difficulty": {
+      "piece_of_cake": {
+        "aura": false,
+        "onHit": false
+      },
+      "easy": {
+        "aura": true,
+        "onHit": false
+      },
+      "normal": {
+        "aura": true,
+        "onHit": false
+      },
+      "hard": {
+        "aura": true,
+        "onHit": false
+      },
+      "impossible": {
+        "aura": true,
+        "onHit": true
+      },
+      "fragged": {
+        "aura": true,
+        "onHit": true
+      }
+    }
+  },
+  "auras": {
+    "ethereal": {
+      "enabled": true,
+      "color": "#cfefff",
+      "radius": 10.0,
+      "value": 0,
+      "intervalTicks": 0,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 0,
+      "weight": 2
+    },
+    "healing": {
+      "enabled": true,
+      "color": "#f670db",
+      "radius": 5.0,
+      "value": 5,
+      "intervalTicks": 40,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 0,
+      "weight": 4
+    },
+    "speed": {
+      "enabled": true,
+      "color": "#fff07a",
+      "radius": 5.0,
+      "value": 25,
+      "intervalTicks": 0,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 0,
+      "weight": 4
+    },
+    "damage": {
+      "enabled": true,
+      "color": "#e0301f",
+      "radius": 4.5,
+      "value": 50,
+      "intervalTicks": 0,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 0,
+      "weight": 4
+    },
+    "aegis": {
+      "enabled": true,
+      "color": "#7fa8d9",
+      "radius": 7.0,
+      "value": 50,
+      "intervalTicks": 0,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 0,
+      "weight": 4
+    },
+    "poisonous": {
+      "enabled": true,
+      "color": "#8fe33a",
+      "radius": 5.0,
+      "value": 30,
+      "intervalTicks": 40,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 0,
+      "weight": 4
+    },
+    "chilling": {
+      "enabled": true,
+      "color": "#62cbf2",
+      "radius": 5.0,
+      "value": 50,
+      "intervalTicks": 0,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 0,
+      "weight": 4
+    },
+    "mana_steal": {
+      "enabled": true,
+      "color": "#3b5bff",
+      "radius": 5.0,
+      "value": 5,
+      "intervalTicks": 40,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 0,
+      "weight": 4
+    },
+    "blast_wave": {
+      "enabled": true,
+      "color": "#ff8a1f",
+      "radius": 5.0,
+      "value": 500,
+      "intervalTicks": 0,
+      "periodTicks": 160,
+      "chargeTicks": 40,
+      "cooldownTicks": 0,
+      "weight": 4
+    },
+    "reflect": {
+      "enabled": true,
+      "color": "#b05cf2",
+      "radius": 7.5,
+      "value": 75,
+      "intervalTicks": 0,
+      "periodTicks": 0,
+      "chargeTicks": 0,
+      "cooldownTicks": 10,
+      "weight": 4
+    }
+  },
+  "onHits": {
+    "leech": {
+      "enabled": true,
+      "value": 20,
+      "maxStacks": 0,
+      "durationTicks": 0,
+      "weight": 1
+    },
+    "vulnerable": {
+      "enabled": true,
+      "value": 0,
+      "maxStacks": 8,
+      "durationTicks": 100,
+      "weight": 1
+    },
+    "grievous": {
+      "enabled": true,
+      "value": 50,
+      "maxStacks": 0,
+      "durationTicks": 100,
+      "weight": 1
+    }
   }
 }

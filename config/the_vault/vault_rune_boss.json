@@ -1,164 +1,210 @@
 {
-  "maxFights": 1,
-  "tasks": [
+  "minimumFury": 10,
+  "sealedRunesAddFury": true,
+  "healthPercentPerExtraCrateTier": 100.0,
+  "damagePercentPerExtraCrateTier": 15.0,
+  "healthPercentPerExtraPlayer": 80.0,
+  "furyTiers": [
     {
-      "type": "chest",
-      "target": "the_vault:wooden_chest",
-      "probability": 0.04,
-      "icon": "the_vault:gui/scav/wooden_chest",
-      "entries": {
-        "the_vault:boss_rune": {
-          "weight": 8.0,
-          "multiplier": 1.0,
-          "color": 16777215
-        }
-      }
+      "name": "Calm",
+      "fromCrateTier": 1,
+      "color": "#AAAAAA"
     },
     {
-      "type": "chest",
-      "target": "@the_vault:living",
-      "probability": 0.1,
-      "icon": "the_vault:gui/scav/living_chest",
-      "entries": {
-        "the_vault:boss_rune": {
-          "weight": 8.0,
-          "multiplier": 1.0,
-          "color": 16777215
-        }
-      }
+      "name": "Riled",
+      "fromCrateTier": 2,
+      "color": "#FFFF55"
     },
     {
-      "type": "chest",
-      "target": "@the_vault:ornate",
-      "probability": 0.1,
-      "icon": "the_vault:gui/scav/ornate_chest",
-      "entries": {
-        "the_vault:boss_rune": {
-          "weight": 8.0,
-          "multiplier": 1.0,
-          "color": 16777215
-        }
-      }
+      "name": "Enraged",
+      "fromCrateTier": 4,
+      "color": "#FFAA00"
     },
     {
-      "type": "chest",
-      "target": "@the_vault:gilded",
-      "probability": 0.1,
-      "icon": "the_vault:gui/scav/gilded_chest",
-      "entries": {
-        "the_vault:boss_rune": {
-          "weight": 8.0,
-          "multiplier": 1.0,
-          "color": 16777215
-        }
-      }
+      "name": "Frenzied",
+      "fromCrateTier": 8,
+      "color": "#FF5555"
     },
     {
-      "type": "ore",
-      "target": "@the_vault:ores",
-      "probability": 0.0,
-      "icon": "the_vault:gui/scav/ores",
-      "entries": {
-        "the_vault:boss_rune": {
-          "weight": 8.0,
-          "multiplier": 1.0,
-          "color": 16777215
-        }
-      }
-    },
-    {
-      "type": "coin_stacks",
-      "probability": 0.0,
-      "icon": "the_vault:gui/scav/coin_stacks",
-      "entries": {
-        "the_vault:boss_rune": {
-          "weight": 8.0,
-          "multiplier": 1.0,
-          "color": 16777215
-        }
-      }
-    },
-    {
-      "type": "mob",
-      "probability": 0.005,
-      "icon": "the_vault:gui/scav/mob",
-      "color": 16777215,
-      "entries": {
-        "the_vault:boss_rune": {
-          "multiplier": 0.01,
-          "mobs": [
-            "@the_vault:horde"
-          ]
-        }
-      }
-    },
-    {
-      "type": "mob",
-      "probability": 0.15,
-      "icon": "the_vault:gui/scav/mob",
-      "color": 16777215,
-      "entries": {
-        "the_vault:boss_rune": {
-          "multiplier": 0.5,
-          "mobs": [
-            "@the_vault:tank"
-          ]
-        }
-      }
-    },
-    {
-      "type": "mob",
-      "probability": 0.05,
-      "icon": "the_vault:gui/scav/mob",
-      "color": 16777215,
-      "entries": {
-        "the_vault:boss_rune": {
-          "multiplier": 0.05,
-          "mobs": [
-            "@the_vault:assassin"
-          ]
-        }
-      }
-    },
-    {
-      "type": "mob",
-      "probability": 0.04,
-      "icon": "the_vault:gui/scav/mob",
-      "color": 16777215,
-      "entries": {
-        "the_vault:boss_rune": {
-          "multiplier": 0.05,
-          "mobs": [
-            "@the_vault:dweller"
-          ]
-        }
-      }
+      "name": "Apex",
+      "fromCrateTier": 15,
+      "color": "#AA00AA"
     }
   ],
-  "Shield": {
-    "Enabled": true,
-    "RequiredRunes": 20,
-    "CooldownTicks": 400,
-    "DurationTicks": 100,
-    "BossBarColor": "WHITE",
-    "ParticleRadius": 2.5,
-    "CooldownReductionPerHaste": 0
-  },
-  "WaveBlast": {
-    "Enabled": true,
-    "RequiredRunes": 40,
-    "CooldownTicks": 800,
-    "Radius": 30.0,
-    "DamageMultiplier": 1.0,
-    "CooldownReductionPerHaste": 0,
-    "KnockbackStrength": 1.0
-  },
-  "Revive": {
-    "Enabled": true,
-    "RequiredRunes": 60,
-    "AdditionalRunesPerStack": 20,
-    "MaxStacks": 0,
-    "HealthPercent": 1.0,
-    "InvulnerabilityTicks": 60
+  "strengths": [
+    {
+      "key": "faint",
+      "name": "Faint",
+      "fury": 1,
+      "color": "#D8D2E6",
+      "sealChancePercent": 0.5,
+      "sources": [
+        {
+          "name": "Hordes",
+          "type": "mob",
+          "target": "@the_vault:horde",
+          "chancePercent": 1.0
+        },
+        {
+          "name": "Wooden chests",
+          "type": "chest",
+          "target": "WOODEN",
+          "chancePercent": 4.0
+        },
+        {
+          "name": "Ore",
+          "type": "ore",
+          "chancePercent": 4.0
+        },
+        {
+          "name": "Coin piles",
+          "type": "coin_pile",
+          "chancePercent": 2.0
+        },
+        {
+          "name": "Dungeon barrels",
+          "type": "barrel",
+          "chancePercent": 15.0
+        }
+      ],
+      "shelf": []
+    },
+    {
+      "key": "charged",
+      "name": "Charged",
+      "fury": 3,
+      "color": "#00A3D7",
+      "sealChancePercent": 2.0,
+      "sources": [
+        {
+          "name": "Assassins",
+          "type": "mob",
+          "target": "@the_vault:assassin",
+          "chancePercent": 2.0
+        },
+        {
+          "name": "Dwellers",
+          "type": "mob",
+          "target": "@the_vault:fighter",
+          "chancePercent": 5.0
+        },
+        {
+          "name": "Ornate chests",
+          "type": "chest",
+          "target": "ORNATE",
+          "chancePercent": 2.0
+        },
+        {
+          "name": "Gilded chests",
+          "type": "chest",
+          "target": "GILDED",
+          "chancePercent": 2.0
+        },
+        {
+          "name": "Living chests",
+          "type": "chest",
+          "target": "LIVING",
+          "chancePercent": 2.0
+        },
+        {
+          "name": "Dungeon mobs",
+          "type": "mob",
+          "target": "@the_vault:mob_type/dungeon",
+          "chancePercent": 5.0
+        }
+      ],
+      "shelf": [
+        "the_vault:booster_pack{id:\"the_vault:mix_pack\"}",
+        "the_vault:jewel_pouch",
+        "the_vault:salty_deluxe_cheese_burger"
+      ]
+    },
+    {
+      "key": "blazing",
+      "name": "Blazing",
+      "fury": 8,
+      "color": "#FFB423",
+      "sealChancePercent": 10.0,
+      "sources": [
+        {
+          "name": "Champions",
+          "type": "mob",
+          "target": "@the_vault:mob_type/champion",
+          "chancePercent": 50.0
+        },
+        {
+          "name": "Tanks",
+          "type": "mob",
+          "target": "@the_vault:tank",
+          "chancePercent": 5.0
+        },
+        {
+          "name": "Guardians",
+          "type": "mob",
+          "target": "@the_vault:guardians",
+          "chancePercent": 2.0
+        }
+      ],
+      "shelf": [
+        "the_vault:booster_pack{id:\"the_vault:mega_mix_pack\"}",
+        "the_vault:empowered_chaotic_focus",
+        "the_vault:opportunistic_focus"
+      ]
+    },
+    {
+      "key": "ancient",
+      "name": "Ancient",
+      "fury": 20,
+      "color": "#DC2A3C",
+      "sealChancePercent": 15.0,
+      "sources": [
+        {
+          "name": "Challenge room completion",
+          "type": "challenge_room",
+          "chancePercent": 80.0
+        }
+      ],
+      "shelf": [
+        "the_vault:star_fruit",
+        "the_vault:blank_key",
+        "the_vault:unique_shard",
+        "the_vault:vorpal_focus"
+      ]
+    }
+  ],
+  "bosses": {
+    "the_vault:golem_boss": {
+      "name": "Golem",
+      "healthMultiplier": 1.5,
+      "maxHitSharePercent": 8.0,
+      "phaseTwoHealthPercent": 50.0,
+      "moveDamage": {
+        "hook": 1.0,
+        "hook_follow": 1.0,
+        "twin_first": 1.0,
+        "twin_second": 1.4,
+        "clap": 1.8,
+        "slam": 1.6,
+        "fault": 1.2,
+        "aftershock": 1.0,
+        "boulder": 1.5,
+        "scoop": 1.0,
+        "rockfall": 1.1
+      }
+    },
+    "the_vault:boogieman_boss": {
+      "name": "Boogieman",
+      "healthMultiplier": 1.5,
+      "maxHitSharePercent": 8.0,
+      "phaseTwoHealthPercent": 50.0,
+      "moveDamage": {
+        "rend": 1.0,
+        "rend_follow": 0.9,
+        "pierce": 1.3,
+        "nightfall": 1.6,
+        "rise_rend": 1.4,
+        "night_terror": 0.8
+      }
+    }
   }
 }

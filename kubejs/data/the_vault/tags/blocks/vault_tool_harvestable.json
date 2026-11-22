@@ -1,0 +1,2345 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "davebuildingmod:alarm_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:alarm_lightoff",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:alarm_lighton",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:alarm_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:animated_server_rack",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:arcane_duck",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:arrow_down_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:arrow_left_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:arrow_return_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:arrow_right_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:arrow_up_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_0",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_1",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_2",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_3",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_4",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_5",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_6",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_7",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_8",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_9",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_a",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_and",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_b",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_c",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_d",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_dash",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_dollar",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_e",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_exclamation_mark",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_f",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_g",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_h",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_i",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_j",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_k",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_l",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_m",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_n",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_o",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_p",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_q",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_question_mark",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_r",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_s",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_t",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_u",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_v",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_w",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_x",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_y",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ascii_z",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ballast",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ballast_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:bee_nest_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:biohazard_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_guilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_guilder_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:black_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_light_off",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_light_on",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:blue_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:book_1",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:book_2",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brass_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:brown_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:campfire_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:charles_face",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:computer_terminal",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:computer_terminal_steel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:copper_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_black",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_blue",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_brown",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_cyan",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_gray",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_green",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_light_blue",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_light_gray",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_lime",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_magenta",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_orange",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_pink",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_purple",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_red",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_white",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cow_catcher_yellow",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:create_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cross_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cut_laboratory_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:cyan_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:dark_green_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:death_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:diorite_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:dirt_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:electricity_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:engine_piston",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:exit_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:fire_charge_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:firework_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:flint_and_steel_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:full_log_pile",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gauge_inner",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gauge_outer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:granite_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gravel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:gray_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_light_off",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_light_on",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:green_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_border",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_brick_border",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_brick_diagonal_left",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_brick_diagonal_right",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_brick_horizontal",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_brick_vertical",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_diagonal_left",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_diagonal_right",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_horizontal",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:half_lumber_vertical",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:helms",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:laboratory_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:laboratory_panel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:laboratory_stripe_red",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:laboratory_vent",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lava_bucket_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_blue_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:light_gray_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lightoff",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lighton",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:lime_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:log_palisade",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:log_pile_1_bottom",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:log_pile_1_top",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:log_pile_2_bottom",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:log_pile_2_top",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:log_pile_chair",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:magenta_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:melon_duck",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:no_entry_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:offset_alarm_light_off",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:offset_alarm_light_on",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:offset_blue_light_off",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:offset_blue_light_on",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:offset_green_light_off",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:offset_green_light_on",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:offset_light_off",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:offset_light_on",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:oneway_laboratory_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:oneway_sign",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:oneway_stone",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:orange_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:particle_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pc_setup",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:pink_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:polished_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:purple_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:radiation_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_guilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_guilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:red_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:reinforced_glass",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:rocky_dirt",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:rocky_dirt_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:rubber_duck",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:server_rack",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:skeleton_1",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:skeleton_2",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:skeleton_3",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:skeleton_4",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:skeleton_5",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:skeleton_6",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:small_smoke_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:small_smokebox_door",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:small_thomas_face",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:smokebox_bolted_door",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:smokebox_cap",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:smokebox_door",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:soft_air",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:sound_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:space_duck",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:stars",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steam_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_block",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_door",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_frame",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_mesh_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_pillar",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:stripedblock",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:stripedblock_middle",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:strippedblock_horizontal",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_0",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_1",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_2",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_3",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_4",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_5",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_6",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_7",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_8",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_ascii_9",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_face",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_face_astonished",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_face_rethinking",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_face_sad",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:thomas_face_speechless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:tnt_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:track_end",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:ultra_white",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:vanta_black",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:vent_l",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:vent_l_up",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:vent_straight",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:vent_t",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:vent_t_up",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:water_bucket_passive_generator",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:white_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_arrow_left",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_arrow_right",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_gilded_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_gilded_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_gilded_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_quilted_wool",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_screen",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_boiler",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_button",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_dark_buffer",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_funnel",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_pilot",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_plate",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_plating",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_seamless",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_slab",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_stairs",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_steam_exhaust",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_tank",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_trapdoor",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:yellow_steel_wall",
+      "required": false
+    },
+    {
+      "id": "davebuildingmod:zinc_boiler",
+      "required": false
+    }
+  ]
+}

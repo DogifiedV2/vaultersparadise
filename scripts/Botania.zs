@@ -43,8 +43,9 @@ craftingTable.addShapeless("ender_air", <item:botania:ender_air_bottle>, [
  <recipetype:botania:mana_infusion>.addRecipe("manasteel_ingot", <item:botania:manasteel_ingot>,
  <item:the_vault:chromatic_iron_ingot>, 25000);
 
+// Three inputs: the Industrial Agglomeration Factory has three input slots.
 <recipetype:botania:terra_plate>.addRecipe("terra_plate_test", <item:botania:terrasteel_ingot>, 850000,
-<item:the_vault:chromatic_steel_ingot>, <item:the_vault:vault_diamond>, <item:botania:mana_diamond>, <item:botania:manasteel_ingot>, <item:botania:mana_pearl>, <item:the_vault:vault_essence>);
+<item:the_vault:chromatic_steel_ingot>, <item:the_vault:vault_diamond>, <item:botania:manasteel_ingot>);
 
 <recipetype:botania:petal_apothecary>.addRecipe("pure_daisy", <item:botania:pure_daisy>,
  <tag:items:botania:petals/white>, <item:the_vault:chromatic_steel_ingot>, <tag:items:botania:petals/white>, <item:the_vault:perfect_larimar>, <tag:items:botania:petals/white>);

@@ -904,6 +904,266 @@
       "id": "the_vault:outlaw_elite_loot_lvl50",
       "name": "Elite Outlaw Loot Level 50",
       "1.0": "config/the_vault/gen/1.0/loot_tables/outlaw_elite_loot_lvl50.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_gilded",
+      "name": "Gilded Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/gilded.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_ornate",
+      "name": "Ornate Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/ornate.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_living",
+      "name": "Living Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/living.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_wooden",
+      "name": "Wooden Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/wooden.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_vault_stone",
+      "name": "Vault Stone Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/vault_stone.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_sandy",
+      "name": "Sandy Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/sandy.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_god_brick",
+      "name": "God Brick Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/god_brick.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_material",
+      "name": "Material Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/material.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_stony",
+      "name": "Stony Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/stony.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_woody",
+      "name": "Woody Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/woody.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_glassy",
+      "name": "Glassy Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/glassy.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_colourful",
+      "name": "Colourful Bounty Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/colourful.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_stony_1",
+      "name": "Stony Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/stony_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_stony_2",
+      "name": "Stony Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/stony_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_woody_1",
+      "name": "Woody Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/woody_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_woody_2",
+      "name": "Woody Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/woody_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_glassy_1",
+      "name": "Glassy Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/glassy_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_glassy_2",
+      "name": "Glassy Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/glassy_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_colourful_1",
+      "name": "Colourful Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/colourful_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_colourful_2",
+      "name": "Colourful Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/colourful_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_earthy_1",
+      "name": "Earthy Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/earthy_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_earthy_2",
+      "name": "Earthy Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/earthy_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_deepslate_1",
+      "name": "Deepslate Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/deepslate_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_deepslate_2",
+      "name": "Deepslate Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/deepslate_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_nether_1",
+      "name": "Nether Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/nether_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_nether_2",
+      "name": "Nether Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/nether_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_lights_1",
+      "name": "Lights Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/lights_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_lights_2",
+      "name": "Lights Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/lights_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_gilded_1",
+      "name": "Gilded Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/gilded_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_gilded_2",
+      "name": "Gilded Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/gilded_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_gilded_3",
+      "name": "Gilded Material Crate III",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/gilded_3.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_ornate_1",
+      "name": "Ornate Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/ornate_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_ornate_2",
+      "name": "Ornate Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/ornate_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_ornate_3",
+      "name": "Ornate Material Crate III",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/ornate_3.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_living_1",
+      "name": "Living Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/living_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_living_2",
+      "name": "Living Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/living_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_living_3",
+      "name": "Living Material Crate III",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/living_3.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_wooden_1",
+      "name": "Wooden Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/wooden_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_wooden_2",
+      "name": "Wooden Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/wooden_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_wooden_3",
+      "name": "Wooden Material Crate III",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/wooden_3.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_god_brick_1",
+      "name": "God Brick Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/god_brick_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_god_brick_2",
+      "name": "God Brick Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/god_brick_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_god_brick_3",
+      "name": "God Brick Material Crate III",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/god_brick_3.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_ancient_copper_1",
+      "name": "Ancient Copper Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/ancient_copper_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_ancient_copper_2",
+      "name": "Ancient Copper Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/ancient_copper_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_ancient_copper_3",
+      "name": "Ancient Copper Material Crate III",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/ancient_copper_3.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_resource_1",
+      "name": "Resource Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/resource_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_resource_2",
+      "name": "Resource Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/resource_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_resource_3",
+      "name": "Resource Material Crate III",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/resource_3.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_sunken_1",
+      "name": "Sunken Material Crate",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/sunken_1.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_sunken_2",
+      "name": "Sunken Material Crate II",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/sunken_2.json"
+    },
+    {
+      "id": "the_vault:bounty_crate_sunken_3",
+      "name": "Sunken Material Crate III",
+      "1.0": "config/the_vault/gen/1.0/loot_tables/bounty_crate/sunken_3.json"
     }
   ]
 }

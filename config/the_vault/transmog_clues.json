@@ -63,6 +63,9 @@
     "the_vault:gear/armor/falcon": ["Dropped during the Horde Rush Twitch event – No longer obtainable"],
     "the_vault:gear/armor/companion10": ["Dropped during the Horde Rush Twitch event – No longer obtainable"],
 
+    "the_vault:gear/armor/jardoon_cheese": ["Find and interact with Cakes in a Cake Vault for a chance at a piece"],
+    "the_vault:gear/armor/stress_flower": ["Find and break a Sugar Plum Fairy Flower in a Glimmergrove room"],
+
     "the_vault:gear/armor/flowery_madness": ["A rare bloom hides among the lush overgrowth... strike it down and reap the petals"],
     "the_vault:gear/armor/halloween_set": [
       "The dead walk in a vault drenched in gloom",
@@ -97,6 +100,7 @@
     "the_vault:gear/sword/twin_blade": ["Dropped during the Horde Rush Twitch event – No longer obtainable"],
 
     "the_vault:gear/axe/greathammer": ["Unlocked in the Ascension Forge"],
+    "the_vault:gear/axe/soul_crusher": ["Unlocked in the Ascension Forge"],
     "the_vault:gear/axe/evil_mace": ["Completing a Vault without using any Mana at all"],
     "the_vault:gear/axe/tiny_hammer": ["Currently Unobtainable"],
     "the_vault:gear/axe/janitors_broom": ["Crafting an Iron Grate using 6 Chromatic Iron Nuggets"],
@@ -130,6 +134,7 @@
     "the_vault:gear/shield/spring_shield": ["A rare bloom hides among the lush overgrowth... strike it down and reap the petals"],
     "the_vault:gear/shield/golden_kappa": ["Obtainable for all awake Companions during a Golden Kappa Hype Train on Twitch"],
     "the_vault:gear/shield/mattress": ["Dropped during the Horde Rush Twitch event – No longer obtainable"],
+    "the_vault:gear/shield/soul_protector": ["Unlocked in the Ascension Forge"],
 
     "the_vault:gear/wand/carri_king": ["Currently Unobtainable"],
     "the_vault:gear/wand/carrot_on_a_wand": ["Currently Unobtainable"],
@@ -145,6 +150,7 @@
     "the_vault:gear/focus/spring_focus": ["A rare bloom hides among the lush overgrowth... strike it down and reap the petals"],
     "the_vault:gear/focus/tiny_treasure_train": ["Obtainable for all awake Companions during a Treasure Hype Train on Twitch"],
     "the_vault:gear/focus/ancient_scroll": ["Dropped during the Horde Rush Twitch event – No longer obtainable"],
+    "the_vault:gear/focus/cauldron": ["Currently Unobtainable"],
 
     "the_vault:gear/magnets/spring_magnet": ["A rare bloom hides among the lush overgrowth... strike it down and reap the petals"]
   }

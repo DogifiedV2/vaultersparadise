@@ -1,0 +1,26 @@
+{
+  "defaultTier": "plain",
+  "scrappedTier": "notable",
+  "gear": {
+    "mixed_roll": { "tier": "notable" },
+    "scrappy": { "tier": "plain" },
+    "common": { "tier": "plain" },
+    "rare": { "tier": "notable" },
+    "epic": { "tier": "rare" },
+    "omega": { "tier": "jackpot" },
+    "unique": { "tier": "jackpot" },
+    "chaotic": { "tier": "jackpot" },
+    "legendary": { "tier": "jackpot" }
+  },
+  "items": {
+    "the_vault:crystal_seal_time": { "tier": "rare" },
+    "the_vault:crystal_seal_time_trial": { "tier": "rare" },
+    "the_vault:crystal_seal_borrowed_time": { "tier": "rare" },
+    "the_vault:crystal_seal_gauntlet": { "tier": "rare" },
+    "the_vault:crystal_seal_escort": { "tier": "rare" },
+    "the_vault:crystal_seal_reaper": { "tier": "rare" },
+    "the_vault:divine_star": { "tier": "rare" },
+    "the_vault:archetype_star": { "tier": "rare" },
+    "the_vault:god_token": { "tier": "notable" }
+  }
+}
