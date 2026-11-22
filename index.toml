@@ -3245,6 +3245,10 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/xmas/ye
 hash = "077533e0ce897fd1dd7554e826dd4334f7e799568a64a04240c4f7f2d4879b6c"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/ability/poison_nova/poison_nova_vfx.png"
+hash = "9a37aa34dc2b26f77c556f518a94e382f9d7d2308b64c69f60ac4232a3d36895"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/archivist/archivist_vfx.png"
 hash = "63e355efde071fe88fefba1b729212d17de81f42bef769e089292a405fd59cde"
 
@@ -3263,6 +3267,14 @@ hash = "b74ea9ce7f3dad79ee3eccdc6194ead709acbc9e6dfd3b866e8ad4e80f8178ae"
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/keygolem/keygolem_vfx.png"
 hash = "52873f96515131075996c02482dce6cf70f9c1d19aff454bde59c482b8180a3f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_decals.png"
+hash = "ddc5d309dfd255c79258647a7df7e28134227ae8a86964ce8fa88ca2c2e962f5"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_fx.png"
+hash = "666692ee95f0e795afb47838077d78918be165b14e7e2e06aeec175f2a63ca71"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pumpking/pumpking_vfx.png"
@@ -21323,7 +21335,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "d6927b0ee67747a4aed4c5175dcda75709944a91b669db43ee61e1f32ed095f0"
+hash = "e2096c079102773e0bdeb875dbb2938de67046cd7c61f91c4072bab33fe13193"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
