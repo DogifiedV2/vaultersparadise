@@ -3293,6 +3293,14 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/re
 hash = "b185a74702760731f63299f320cfd0188c61b82d6bf094ba07790f14275d9b6b"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/rune_boogieman/rune_boogieman_vfx.png"
+hash = "4c318bcc6870d0395ef793911eae97da5ce647ce6ed2f81bb25e7d79ddb1d6ff"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/rune_golem/rune_golem_vfx.png"
+hash = "3ab60a2b249c9310b7cd1335dade307c03db36dedcd5e24d447e4af7acadc8f1"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_domain.png"
 hash = "82ba6725237be13169eb8a40958c31f22c28deb321d57288cdcf69e0b9949b5f"
 
@@ -21315,7 +21323,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.74.jar"
-hash = "ab37fc46017918dbeb3c414c78b5b03b7e74df4dc2c9d7ab0bfa1df247d114b9"
+hash = "e79851d0e7729ae0c226f60fc97eb20739f012b53c49f9a3e9d570456b135095"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
