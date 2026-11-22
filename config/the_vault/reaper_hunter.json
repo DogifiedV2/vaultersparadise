@@ -105,7 +105,7 @@
   "grasp_damage": 0.7,
   "underreach_damage": 1.3,
   "grasp_slowness_ticks": 30,
-  "cut_share": 0.1,
+  "cut_share": 0.3,
   "cut_min": 1,
   "cut_max_wisps": 5,
   "shade_drift": 0.12,
