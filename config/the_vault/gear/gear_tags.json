@@ -201,39 +201,6 @@
       "weight": 0,
       "affixType": ["PREFIX","SUFFIX"]
     },
-    "Leech": {
-      "tags": [
-        "focusLeech"
-      ],
-      "display": "Leech",
-      "color": 16716820,
-      "weight": 10,
-      "affixType": [
-        "SUFFIX"
-      ]
-    },
-    "HealOnKill": {
-      "tags": [
-        "focusHealOnKill"
-      ],
-      "display": "Heal on Kill",
-      "color": 14901010,
-      "weight": 10,
-      "affixType": [
-        "SUFFIX"
-      ]
-    },
-    "HealOnBlock": {
-      "tags": [
-        "focusHealOnBlock"
-      ],
-      "display": "Heal on Block",
-      "color": 14901010,
-      "weight": 5,
-      "affixType": [
-        "SUFFIX"
-      ]
-    },
     "Damage": {
       "tags": [
         "focusDamage"
@@ -530,6 +497,39 @@
       "color": 16570215,
       "weight": 10,
       "affixType": ["PREFIX"]
+    },
+    "Leech": {
+      "tags": [
+        "focusLeech"
+      ],
+      "display": "Leech",
+      "color": 16716820,
+      "weight": 10,
+      "affixType": [
+        "SUFFIX"
+      ]
+    },
+    "HealOnKill": {
+      "tags": [
+        "focusHealOnKill"
+      ],
+      "display": "Heal on Kill",
+      "color": 14901010,
+      "weight": 10,
+      "affixType": [
+        "SUFFIX"
+      ]
+    },
+    "HealOnBlock": {
+      "tags": [
+        "focusHealOnBlock"
+      ],
+      "display": "Heal on Block",
+      "color": 14901010,
+      "weight": 5,
+      "affixType": [
+        "SUFFIX"
+      ]
     }
   }
 }

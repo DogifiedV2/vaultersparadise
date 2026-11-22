@@ -3998,7 +3998,7 @@ hash = "959e8593119bccd6d35baa66b280715b59547a56bf1e9f88e45419e660f173c0"
 
 [[files]]
 file = "config/the_vault/gear/gear_tags.json"
-hash = "29c84f06b8cfa05a4e43b913bfde2e8cbf484ec685bc0873d67109ecfec2a57f"
+hash = "d901fa0d21ffef480bb37fbed089650294202754b2b638f72c95c7cf8d996fee"
 
 [[files]]
 file = "config/the_vault/gear/modifier_tooltips.json"
@@ -19811,6 +19811,14 @@ file = "kubejs/data/curios/tags/items/companion.json"
 hash = "f42d8110edd95fb7f289b7495ab363b8710d0802cb787aa17188f11f41a3d029"
 
 [[files]]
+file = "kubejs/data/paradise/recipes/botanypotstiers/soil/suol_snad.json"
+hash = "3f08d8a6d4310e4be00daa0d57772dcf796dedd873954555434e5fcecdcb8e10"
+
+[[files]]
+file = "kubejs/data/the_vault/tags/blocks/vault_tool_harvestable.json"
+hash = "5a86a1c8ec30a5c5c60dfa6a90ed0021b8b84121039648fdd28b48062d5ff42f"
+
+[[files]]
 file = "kubejs/exported/tags/activity.txt"
 hash = "d55fab6703561bdd8b3ae40851cec836b096954744caa645c5c201ecc01b66af"
 
@@ -21095,7 +21103,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.74.jar"
-hash = "f32957f7c69dd9a65aede982a75a1a72eccd06abeeac375995758afe285459e3"
+hash = "ab37fc46017918dbeb3c414c78b5b03b7e74df4dc2c9d7ab0bfa1df247d114b9"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
@@ -21195,7 +21203,7 @@ hash = "730cfc3a6f0bea27a42634d248fd351fc791625e6826f7d45a42c8e0d9f5f0dd"
 
 [[files]]
 file = "mods/woldsvaultsstandalone-0.23.8-all.jar"
-hash = "1c790864853075c5403df49ab571570fa02cdbbc2b4c6949981ca6e03a148454"
+hash = "21b571b2a024e93fcef7a0834347102ba1c370d4e472f8ad11d895c93455dc46"
 
 [[files]]
 file = "mods/xnet-1.18-4.0.9.jar"
@@ -21571,7 +21579,7 @@ hash = "adb8d35a8c224de5a868910cff4a5fa0a258b5e65bbb194285f17a71849688f5"
 
 [[files]]
 file = "scripts/Botania.zs"
-hash = "49674b0822ae24ab641220f990a4520c0e2ca05d7170511af81bd5e9c21e80a9"
+hash = "1f84e6e57d3d11f6649161c062ed552cdaacff4e640d891d2ea82b1f816990eb"
 
 [[files]]
 file = "scripts/Botany_Pots.zs"
