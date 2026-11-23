@@ -3262,7 +3262,11 @@ hash = "de9a2bd43031aea5ba032f9d965502ee5523e76550c8667961de19decee259e1"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/fateweaver/fateweaver_fx.png"
-hash = "ebfa42e1ce843fa621aebde4745c20fb92ebadca63939809e56a1744a67b3c92"
+hash = "05e891487c579966e4b9582377f3ad89b2672d339daa50d3fa2ca4610e3abba6"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/fateweaver/fateweaver_sky.png"
+hash = "7756751146c0f344bacb6f3b61174ac087c70d0f10833d7910fdce02512dbc0a"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/fateweaver/fateweaver_strips.png"
@@ -21375,7 +21379,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "32a0296acb8b58dbc5eeb409322ec9fccab7d812ccd76fe3db4c009266246555"
+hash = "e5fb1ec99766df7a9967856df7e2686fb4a6bae628e7f6792f15b9106a060e19"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
