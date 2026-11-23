@@ -3282,7 +3282,15 @@ hash = "ddc5d309dfd255c79258647a7df7e28134227ae8a86964ce8fa88ca2c2e962f5"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_fx.png"
-hash = "666692ee95f0e795afb47838077d78918be165b14e7e2e06aeec175f2a63ca71"
+hash = "53e1699feaab62255cf5a7f497c47d5164d6412c1120c995aec1af1a73305d57"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_fx_b.png"
+hash = "f6dd65851cf3fa07ef22a659155d376f85964996f1a4bc0e09dc8748626f5552"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_sky.png"
+hash = "492f7d6036bbb1d11b46a334d195ca7fde50940252c808644feca0a64e201904"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pumpking/pumpking_vfx.png"
@@ -21367,7 +21375,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "bbcac4d01f11dad47642fc91ef4d6f2ba8c0c268fa2ca164ae0442f3d2493b0b"
+hash = "309f1991b0544347cb289ac9f937f28ddc0489b572cc9669999f75e74babd75d"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
