@@ -2016,6 +2016,38 @@
       }
     },
     {
+      "id": "the_vault:vault/starts/tenos_still_cistern",
+      "name": "The Still Cistern",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/tenos_still_cistern.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/starts/tenos_still_cistern_exit",
+      "name": "The Still Cistern Exit",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/tenos_still_cistern_exit.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/starts/velara_briar_coliseum",
+      "name": "The Briar Coliseum",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/velara_briar_coliseum.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/starts/velara_briar_coliseum_exit",
+      "name": "The Briar Coliseum Exit",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/velara_briar_coliseum_exit.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/starts/tenos_athenaeum",
       "name": "Tenos' Athenaeum",
       "1.0": {

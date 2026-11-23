@@ -479,6 +479,18 @@
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_wendarr_clockspire.json"
     },
     {
+      "id": "the_vault:classic_vault_tenos_still_cistern",
+      "name": "The Still Cistern",
+      "color": 5632255,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_tenos_still_cistern.json"
+    },
+    {
+      "id": "the_vault:classic_vault_velara_briar_coliseum",
+      "name": "The Briar Coliseum",
+      "color": 7208794,
+      "1.0": "config/the_vault/gen/1.0/themes/classic_vault_velara_briar_coliseum.json"
+    },
+    {
       "id": "the_vault:classic_vault_tenos_athenaeum",
       "name": "Tenos' Athenaeum",
       "color": 3986889,
