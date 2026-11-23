@@ -114,7 +114,7 @@
         }
       ],
       "shelf": [
-        "the_vault:booster_pack{id:\"the_vault:mix_pack\"}",
+        "the_vault:booster_pack{id:\"the_vault:resource_pack\"}",
         "the_vault:jewel_pouch",
         "the_vault:salty_deluxe_cheese_burger"
       ]
@@ -146,7 +146,7 @@
         }
       ],
       "shelf": [
-        "the_vault:booster_pack{id:\"the_vault:mega_mix_pack\"}",
+        "the_vault:booster_pack{id:\"the_vault:mega_resource_pack\"}",
         "the_vault:empowered_chaotic_focus",
         "the_vault:opportunistic_focus"
       ]
