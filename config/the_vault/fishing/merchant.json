@@ -1,0 +1,70 @@
+{
+  "default_sell_value": 1,
+  "sell_values_by_feature": {
+    "bait": 1,
+    "waters": 2,
+    "pots": 3,
+    "ice": 4,
+    "tricksters": 5,
+    "variants": 6,
+    "gods": 6,
+    "liquids": 8,
+    "abyss": 10,
+    "treasure": 20,
+    "harpoon": 25,
+    "sea": 30,
+    "monsters": 60,
+    "legends": 250,
+    "bosses": 1000
+  },
+  "sell_values_by_catch": {},
+  "rod_offers": [
+    {
+      "id": "driftwood_bundle",
+      "name": "Driftwood Bundle",
+      "price": 50,
+      "odds": {
+        "SCRAPPY": 60,
+        "COMMON": 35,
+        "RARE": 5
+      }
+    },
+    {
+      "id": "anglers_crate",
+      "name": "Angler's Crate",
+      "price": 400,
+      "odds": {
+        "COMMON": 50,
+        "RARE": 35,
+        "EPIC": 13,
+        "OMEGA": 2
+      }
+    },
+    {
+      "id": "masters_case",
+      "name": "Master's Case",
+      "price": 3000,
+      "odds": {
+        "RARE": 40,
+        "EPIC": 40,
+        "OMEGA": 20
+      }
+    },
+    {
+      "id": "legends_case",
+      "name": "Legend's Case",
+      "price": 20000,
+      "odds": {
+        "EPIC": 25,
+        "OMEGA": 75
+      }
+    }
+  ],
+  "free_first_offer": "driftwood_bundle",
+  "part_prices_by_slot": {
+    "line": 300,
+    "hook": 400,
+    "lure": 250
+  },
+  "frame_change_price": 150
+}

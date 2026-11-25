@@ -364,23 +364,13 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 0.02,
-              "max": 0.03,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 20,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.04,
+              "min": 0.03,
               "max": 0.05,
               "step": 0.01
             }
           },
           {
-            "minLevel": 40,
+            "minLevel": 20,
             "maxLevel": -1,
             "weight": 100,
             "value": {
@@ -390,12 +380,22 @@
             }
           },
           {
-            "minLevel": 60,
+            "minLevel": 40,
             "maxLevel": -1,
             "weight": 100,
             "value": {
               "min": 0.09,
-              "max": 0.11,
+              "max": 0.12,
+              "step": 0.01
+            }
+          },
+          {
+            "minLevel": 60,
+            "maxLevel": -1,
+            "weight": 100,
+            "value": {
+              "min": 0.13,
+              "max": 0.16,
               "step": 0.01
             }
           },
@@ -404,8 +404,8 @@
             "maxLevel": -1,
             "weight": 100,
             "value": {
-              "min": 0.12,
-              "max": 0.15,
+              "min": 0.17,
+              "max": 0.22,
               "step": 0.01
             }
           }
@@ -464,64 +464,6 @@
             "value": {
               "min": 0.11,
               "max": 0.14,
-              "step": 0.01
-            }
-          }
-        ]
-      },
-      {
-        "attribute": "the_vault:fishing_chest_fish_chance",
-        "group": "ModFishingChestFishChance",
-        "identifier": "the_vault:mod_fishing_chest_fish_chance",
-        "tags": [],
-        "tiers": [
-          {
-            "minLevel": 1,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.03,
-              "max": 0.05,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 20,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.06,
-              "max": 0.08,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 40,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.09,
-              "max": 0.12,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 60,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.13,
-              "max": 0.16,
-              "step": 0.01
-            }
-          },
-          {
-            "minLevel": 80,
-            "maxLevel": -1,
-            "weight": 100,
-            "value": {
-              "min": 0.17,
-              "max": 0.22,
               "step": 0.01
             }
           }

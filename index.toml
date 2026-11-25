@@ -4013,6 +4013,10 @@ file = "config/the_vault/fighter.json"
 hash = "43ab6a4b2409c3b6a12c997900ae3a60b642b12864d9a3883950afc4fce14d68"
 
 [[files]]
+file = "config/the_vault/fishing/merchant.json"
+hash = "f2c5db73008719790f55c61d6e923744a8938958b6bd8e19bd06cef187c1f5f5"
+
+[[files]]
 file = "config/the_vault/gear/etchings.json"
 hash = "1db23b58a78d4f400d83f475c1f2381e00bae24c2cfa6cdeae50ca9d36c43fa4"
 
@@ -4042,7 +4046,7 @@ hash = "d901fa0d21ffef480bb37fbed089650294202754b2b638f72c95c7cf8d996fee"
 
 [[files]]
 file = "config/the_vault/gear/modifier_tooltips.json"
-hash = "5159aeb9c483271bf81d5a2ee566227be8a1aa92807a0bc22a3fe20f92b7c011"
+hash = "b96f13662f444e8928adc7efdb649ccc76998f5372988c8a51f964429498f8c8"
 
 [[files]]
 file = "config/the_vault/gear_enchantment.json"
@@ -4078,7 +4082,7 @@ hash = "2eceb307c3dbcb2e845a6c6c12affe572f173ca178b50060f64a782ccc9900ac"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/fishing_rod.json"
-hash = "8b1358022bcf0f9be259c20d420a9a1dc138b894b6a4ab2e4ca5b90ec7d8d10b"
+hash = "ddb6bd727b899ab596cca2fa808c3237e7087ab699f3debb78185770186eaa09"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/focus.json"
@@ -21383,7 +21387,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "c940db5c9377f31fde9becb0a54e83b5baeff58299960b9ea5a35d8c20512c73"
+hash = "bf168481cae1c3c09d3b2c31a59d89b407dd10e13a6ac38a738316dba4081ce0"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
