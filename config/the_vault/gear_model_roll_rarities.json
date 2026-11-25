@@ -613,10 +613,11 @@
     ]
   },
   "FISHING_ROD_MODEL_ROLLS": {
-    "SCRAPPY": ["the_vault:gear/fishing_rod/driftwood"],
-    "COMMON": ["the_vault:gear/fishing_rod/vault", "the_vault:gear/fishing_rod/bamboo"],
-    "RARE": ["the_vault:gear/fishing_rod/brass_reel", "the_vault:gear/fishing_rod/coral", "the_vault:gear/fishing_rod/lantern"],
-    "EPIC": ["the_vault:gear/fishing_rod/fishbone", "the_vault:gear/fishing_rod/anglerfish", "the_vault:gear/fishing_rod/kraken"],
-    "OMEGA": ["the_vault:gear/fishing_rod/leviathan"]
+    "SCRAPPY": ["the_vault:gear/fishing_rod/driftwood", "the_vault:gear/fishing_rod/twig", "the_vault:gear/fishing_rod/tin_can", "the_vault:gear/fishing_rod/old_boot", "the_vault:gear/fishing_rod/washing_line"],
+    "COMMON": ["the_vault:gear/fishing_rod/vault", "the_vault:gear/fishing_rod/bamboo", "the_vault:gear/fishing_rod/reed", "the_vault:gear/fishing_rod/copper", "the_vault:gear/fishing_rod/ice_jigger"],
+    "RARE": ["the_vault:gear/fishing_rod/brass_reel", "the_vault:gear/fishing_rod/coral", "the_vault:gear/fishing_rod/lantern", "the_vault:gear/fishing_rod/lilypad", "the_vault:gear/fishing_rod/glass_float"],
+    "EPIC": ["the_vault:gear/fishing_rod/fishbone", "the_vault:gear/fishing_rod/anglerfish", "the_vault:gear/fishing_rod/kraken", "the_vault:gear/fishing_rod/shipwreck", "the_vault:gear/fishing_rod/swordfish"],
+    "OMEGA": ["the_vault:gear/fishing_rod/leviathan", "the_vault:gear/fishing_rod/trident", "the_vault:gear/fishing_rod/pearl_dragon", "the_vault:gear/fishing_rod/moon_tide", "the_vault:gear/fishing_rod/stormbringer"],
+    "SPECIAL": ["the_vault:gear/fishing_rod/lucky_cat", "the_vault:gear/fishing_rod/ship_bottle", "the_vault:gear/fishing_rod/sushi", "the_vault:gear/fishing_rod/candy_cane", "the_vault:gear/fishing_rod/paradise_palm"]
   }
 }
