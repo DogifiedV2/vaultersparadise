@@ -1,0 +1,167 @@
+{
+  "traders": {
+    "heron": {
+      "name": "The Heron",
+      "rings": [
+        0,
+        1,
+        2
+      ],
+      "weight": 40,
+      "stock": {
+        "type": "parts",
+        "offers": 4,
+        "price_multiplier": 0.75,
+        "locked_price_multiplier": 1.25,
+        "pool": {
+          "heatproof_line": 10,
+          "void_thread": 10,
+          "mistsilk_line": 10,
+          "grit_line": 10,
+          "frost_line": 10,
+          "deep_line": 6,
+          "barbed_hook": 10,
+          "double_hook": 4,
+          "weighted_hook": 10,
+          "harpoon_head": 5,
+          "feather_fly": 10,
+          "spoon_lure": 8,
+          "glow_lure": 6,
+          "golden_lure": 6,
+          "monster_bait": 3,
+          "hourglass_lure": 4,
+          "spark_lure": 4,
+          "blossom_lure": 4,
+          "blood_lure": 4
+        }
+      },
+      "premiums": {
+        "fixed": [],
+        "rolled_count": 2,
+        "rolled": [
+          {
+            "tag": "SMALL",
+            "min_percent": 30,
+            "max_percent": 60
+          },
+          {
+            "tag": "PREDATOR",
+            "min_percent": 30,
+            "max_percent": 60
+          },
+          {
+            "tag": "DEEP",
+            "min_percent": 40,
+            "max_percent": 70
+          }
+        ]
+      }
+    },
+    "river_granny": {
+      "name": "The River Granny",
+      "rings": [
+        0,
+        1
+      ],
+      "weight": 35,
+      "stock": {
+        "type": "parts",
+        "offers": 3,
+        "price_multiplier": 0.75,
+        "locked_price_multiplier": 1.25,
+        "pool": {
+          "feather_fly": 10,
+          "spoon_lure": 10,
+          "glow_lure": 8,
+          "golden_lure": 8,
+          "monster_bait": 4,
+          "hourglass_lure": 6,
+          "spark_lure": 6,
+          "blossom_lure": 6,
+          "blood_lure": 6
+        }
+      },
+      "premiums": {
+        "fixed": [
+          {
+            "tag": "POND",
+            "min_percent": 50,
+            "max_percent": 50
+          }
+        ],
+        "rolled_count": 1,
+        "rolled": [
+          {
+            "tag": "WENDARR",
+            "min_percent": 40,
+            "max_percent": 80
+          },
+          {
+            "tag": "TENOS",
+            "min_percent": 40,
+            "max_percent": 80
+          },
+          {
+            "tag": "VELARA",
+            "min_percent": 40,
+            "max_percent": 80
+          },
+          {
+            "tag": "IDONA",
+            "min_percent": 40,
+            "max_percent": 80
+          },
+          {
+            "tag": "TREASURE",
+            "min_percent": 30,
+            "max_percent": 60
+          }
+        ]
+      }
+    },
+    "shipwright": {
+      "name": "The Shipwright",
+      "rings": [
+        1,
+        2,
+        3
+      ],
+      "weight": 25,
+      "stock": {
+        "type": "boat_addons",
+        "offers": 3,
+        "price_multiplier": 0.8,
+        "pool": {
+          "speed": 10,
+          "plating": 10,
+          "hold": 10,
+          "light": 6,
+          "rod_holders": 4,
+          "harpoon": 4,
+          "net_winch": 3
+        }
+      },
+      "premiums": {
+        "fixed": [],
+        "rolled_count": 2,
+        "rolled": [
+          {
+            "tag": "LARGE",
+            "min_percent": 30,
+            "max_percent": 60
+          },
+          {
+            "tag": "HUGE",
+            "min_percent": 40,
+            "max_percent": 70
+          },
+          {
+            "tag": "MONSTER",
+            "min_percent": 40,
+            "max_percent": 80
+          }
+        ]
+      }
+    }
+  }
+}

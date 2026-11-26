@@ -4034,7 +4034,7 @@ hash = "b46d39a0115d55a706acd0fe0e933e5f737d711bc387cb05bf6b2f2eb88b1a66"
 
 [[files]]
 file = "config/the_vault/fishing/merchant.json"
-hash = "f2c5db73008719790f55c61d6e923744a8938958b6bd8e19bd06cef187c1f5f5"
+hash = "eaab794cf70de062f01bedd18daad82b2d46e0ea5e3105c559ef79e4404cf377"
 
 [[files]]
 file = "config/the_vault/fishing/parts.json"
@@ -4043,6 +4043,10 @@ hash = "884c6db414924475a7ea3b96c58a4c37dfb12615df0dc8f569900ff266d53783"
 [[files]]
 file = "config/the_vault/fishing/ponds.json"
 hash = "3626a5e01aa9994b835cbae734b5db3c1e8306b293de7f55a0ba48c29bac3f85"
+
+[[files]]
+file = "config/the_vault/fishing/traders.json"
+hash = "6081a535fb553f5bdef1cc6747afe80abdcc8f310abf795d73ab3567d7a9b497"
 
 [[files]]
 file = "config/the_vault/gear/etchings.json"
@@ -21419,7 +21423,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "93e145cc05fa5340c7dba146000116f56c70dae14e4815ebe55d0c10ba6498e6"
+hash = "25f2204549a4096b478046e33c8ce5d71916962c698c9c90aa990bc927b30584"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
