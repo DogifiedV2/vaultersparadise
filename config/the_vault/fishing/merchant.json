@@ -209,7 +209,8 @@
     "spark_lure": 59400,
     "blossom_lure": 15200,
     "blood_lure": 35400,
-    "monster_bait": 424000
+    "monster_bait": 424000,
+    "grapple_hook": 0
   },
   "frame_change_price": 1200,
   "locked_until": {
@@ -223,6 +224,7 @@
     "hourglass_lure": "first_god_wendarr",
     "spark_lure": "first_god_tenos",
     "blossom_lure": "first_god_velara",
-    "blood_lure": "first_god_idona"
+    "blood_lure": "first_god_idona",
+    "grapple_hook": "page_treasure"
   }
 }
