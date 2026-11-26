@@ -213,6 +213,7 @@
     "grapple_hook": 0
   },
   "frame_change_price": 1200,
+  "fish_finder_price": 35,
   "locked_until": {
     "masters_case": "total_100",
     "legends_case": "first_legend",

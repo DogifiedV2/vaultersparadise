@@ -2,7 +2,7 @@
   "traders": {
     "heron": {
       "name": "The Heron",
-      "rings": [
+      "area_bands": [
         0,
         1,
         2
@@ -59,7 +59,7 @@
     },
     "river_granny": {
       "name": "The River Granny",
-      "rings": [
+      "area_bands": [
         0,
         1
       ],
@@ -121,7 +121,7 @@
     },
     "shipwright": {
       "name": "The Shipwright",
-      "rings": [
+      "area_bands": [
         1,
         2,
         3
