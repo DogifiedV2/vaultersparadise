@@ -7262,6 +7262,371 @@
             ]
           }
         ]
+      },
+      {
+        "type": "tiered",
+        "id": "Battle_Trance",
+        "name": "Battle Trance",
+        "tiers": [
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:damage_increase",
+            "value": 0.03,
+            "effect": "the_vault:battle_trance",
+            "durationTicks": 80,
+            "maxStacks": 4,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "battle_trance_1"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:damage_increase",
+            "value": 0.03,
+            "effect": "the_vault:battle_trance",
+            "durationTicks": 120,
+            "maxStacks": 6,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "battle_trance_2"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:damage_increase",
+            "value": 0.03,
+            "effect": "the_vault:battle_trance",
+            "durationTicks": 160,
+            "maxStacks": 8,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "battle_trance_3"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:damage_increase",
+            "value": 0.03,
+            "effect": "the_vault:battle_trance",
+            "durationTicks": 200,
+            "maxStacks": 10,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "battle_trance_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Blood_Rush",
+        "name": "Blood Rush",
+        "tiers": [
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:healing_effectiveness",
+            "value": 0.08,
+            "effect": "the_vault:blood_rush",
+            "durationTicks": 80,
+            "maxStacks": 4,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "blood_rush_1"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:healing_effectiveness",
+            "value": 0.08,
+            "effect": "the_vault:blood_rush",
+            "durationTicks": 120,
+            "maxStacks": 6,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "blood_rush_2"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:healing_effectiveness",
+            "value": 0.08,
+            "effect": "the_vault:blood_rush",
+            "durationTicks": 160,
+            "maxStacks": 8,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "blood_rush_3"
+          },
+          {
+            "type": "stacking_gear_attribute",
+            "attribute": "the_vault:healing_effectiveness",
+            "value": 0.08,
+            "effect": "the_vault:blood_rush",
+            "durationTicks": 200,
+            "maxStacks": 10,
+            "learnPointCost": 2,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "blood_rush_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Sword_Specialisation",
+        "name": "Sword Specialisation",
+        "tiers": [
+          {
+            "type": "sword_specialisation",
+            "sweepingDamageIncrease": 0.1,
+            "sweepingRangeIncrease": 0.25,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "sword_specialisation_1"
+          },
+          {
+            "type": "sword_specialisation",
+            "sweepingDamageIncrease": 0.2,
+            "sweepingRangeIncrease": 0.5,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "sword_specialisation_2"
+          },
+          {
+            "type": "sword_specialisation",
+            "sweepingDamageIncrease": 0.3,
+            "sweepingRangeIncrease": 0.75,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "sword_specialisation_3"
+          },
+          {
+            "type": "sword_specialisation",
+            "sweepingDamageIncrease": 0.4,
+            "sweepingRangeIncrease": 1.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "sword_specialisation_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Quickening",
+        "name": "Quickening",
+        "tiers": [
+          {
+            "type": "cooldown_refund",
+            "chance": 0.1,
+            "refundPercent": 0.1,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "quickening_1"
+          },
+          {
+            "type": "cooldown_refund",
+            "chance": 0.1,
+            "refundPercent": 0.2,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "quickening_2"
+          },
+          {
+            "type": "cooldown_refund",
+            "chance": 0.1,
+            "refundPercent": 0.3,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "quickening_3"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Lingering_Fumes",
+        "name": "Lingering Fumes",
+        "tiers": [
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:effect_duration",
+            "value": 0.05,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "lingering_fumes_1"
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:effect_duration",
+            "value": 0.1,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "lingering_fumes_2"
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:effect_duration",
+            "value": 0.15,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "lingering_fumes_3"
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:effect_duration",
+            "value": 0.2,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "lingering_fumes_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Voltaic_Impact",
+        "name": "Voltaic Impact",
+        "tiers": [
+          {
+            "type": "voltaic_impact",
+            "collisionDamageIncrease": 0.25,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "voltaic_impact_1"
+          },
+          {
+            "type": "voltaic_impact",
+            "collisionDamageIncrease": 0.5,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "voltaic_impact_2"
+          },
+          {
+            "type": "voltaic_impact",
+            "collisionDamageIncrease": 0.75,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "voltaic_impact_3"
+          },
+          {
+            "type": "voltaic_impact",
+            "collisionDamageIncrease": 1.0,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "voltaic_impact_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Mana_Harvest",
+        "name": "Mana Harvest",
+        "tiers": [
+          {
+            "type": "mana_per_looted_container",
+            "tileGroupId": "the_vault:chest",
+            "displayName": "Chest",
+            "manaGenerated": 1,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "mana_harvest_1"
+          },
+          {
+            "type": "mana_per_looted_container",
+            "tileGroupId": "the_vault:chest",
+            "displayName": "Chest",
+            "manaGenerated": 2,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "mana_harvest_2"
+          },
+          {
+            "type": "mana_per_looted_container",
+            "tileGroupId": "the_vault:chest",
+            "displayName": "Chest",
+            "manaGenerated": 3,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "mana_harvest_3"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Trap_Disarm",
+        "name": "Trap Disarm",
+        "tiers": [
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:trap_disarming",
+            "value": 0.1,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "trap_disarm_1"
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:trap_disarming",
+            "value": 0.2,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "trap_disarm_2"
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:trap_disarming",
+            "value": 0.3,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "trap_disarm_3"
+          },
+          {
+            "type": "gear_attribute",
+            "attribute": "the_vault:trap_disarming",
+            "value": 0.4,
+            "learnPointCost": 1,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "trap_disarm_4"
+          }
+        ]
+      },
+      {
+        "type": "tiered",
+        "id": "Treasure_Sense",
+        "name": "Treasure Sense",
+        "tiers": [
+          {
+            "type": "trap_disarm_loot",
+            "trapDisarmStep": 0.1,
+            "bonusPerStep": 0.01,
+            "learnPointCost": 3,
+            "regretPointCost": 1,
+            "unlockLevel": 0,
+            "id": "treasure_sense_1"
+          }
+        ]
       }
 
     ]
