@@ -583,7 +583,6 @@
     "search_per_light_level": 0.1,
     "search_far_sight": 0.5,
     "legend_chance_per_cast": 0.0015,
-    "glowing_legend_chance_per_cast": 0.008,
-    "great_catch_chance_per_cast": 0.0003
+    "glowing_legend_chance_per_cast": 0.008
   }
 }

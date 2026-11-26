@@ -3469,6 +3469,10 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/se
 hash = "9abdacfb50eb7e44f039e47951ae0f53890065a08d814a432ba4a651f458b319"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/sea_life/sea_life_vfx.png"
+hash = "39f1019564e0b152189000e3e0b45a237a476da8e5fd0925c435388f084e5ba6"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_domain.png"
 hash = "82ba6725237be13169eb8a40958c31f22c28deb321d57288cdcf69e0b9949b5f"
 
@@ -4150,7 +4154,7 @@ hash = "43ab6a4b2409c3b6a12c997900ae3a60b642b12864d9a3883950afc4fce14d68"
 
 [[files]]
 file = "config/the_vault/fishing/economy.json"
-hash = "a296bd0fc8f6c3423d822bf7ebebe8eb93b9fe39d7c84830012987ab2784dfa9"
+hash = "fd3584eaa6df97da4b5883753553d759803aafd88cc53c57fc6e396d3f225a8d"
 
 [[files]]
 file = "config/the_vault/fishing/fish.json"
@@ -21547,7 +21551,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "8b560e7cc760292221ac07d2ccde02bdaaa9c6986cc472767de75e363b5ac139"
+hash = "b540c32246f67371fddaf847db5b5d7973e8d93f93354e3a744633ed759936c8"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
