@@ -1,0 +1,169 @@
+{
+  "min_cells": 6,
+  "mystery_chance": 0.05,
+  "rooms": {
+    "COMMON": {
+      "stock_chance": 0.5,
+      "rarity": {
+        "COMMON": 70,
+        "RARE": 22,
+        "EPIC": 7,
+        "OMEGA": 1
+      }
+    },
+    "ORE": {
+      "stock_chance": 0.5,
+      "rarity": {
+        "COMMON": 70,
+        "RARE": 22,
+        "EPIC": 7,
+        "OMEGA": 1
+      }
+    },
+    "RAW": {
+      "stock_chance": 0.5,
+      "rarity": {
+        "COMMON": 70,
+        "RARE": 22,
+        "EPIC": 7,
+        "OMEGA": 1
+      }
+    },
+    "CHALLENGE": {
+      "stock_chance": 0.6,
+      "rarity": {
+        "COMMON": 45,
+        "RARE": 35,
+        "EPIC": 16,
+        "OMEGA": 4
+      }
+    },
+    "SPECIAL": {
+      "stock_chance": 0.6,
+      "rarity": {
+        "COMMON": 45,
+        "RARE": 35,
+        "EPIC": 16,
+        "OMEGA": 4
+      }
+    },
+    "OMEGA": {
+      "stock_chance": 0.8,
+      "rarity": {
+        "COMMON": 15,
+        "RARE": 40,
+        "EPIC": 33,
+        "OMEGA": 12
+      }
+    }
+  },
+  "stock": {
+    "COMMON": {
+      "min": 3,
+      "max": 5
+    },
+    "RARE": {
+      "min": 3,
+      "max": 5
+    },
+    "EPIC": {
+      "min": 3,
+      "max": 6
+    },
+    "OMEGA": {
+      "min": 4,
+      "max": 6
+    }
+  },
+  "fish_odds": {
+    "COMMON": {
+      "COMMON": 80,
+      "RARE": 18,
+      "EPIC": 2,
+      "OMEGA": 0
+    },
+    "RARE": {
+      "COMMON": 50,
+      "RARE": 38,
+      "EPIC": 11,
+      "OMEGA": 1
+    },
+    "EPIC": {
+      "COMMON": 25,
+      "RARE": 40,
+      "EPIC": 30,
+      "OMEGA": 5
+    },
+    "OMEGA": {
+      "COMMON": 10,
+      "RARE": 30,
+      "EPIC": 40,
+      "OMEGA": 20
+    }
+  },
+  "block_liquids": {
+    "minecraft:water": "WATER",
+    "minecraft:lava": "LAVA",
+    "the_vault:void_liquid": "VOID"
+  },
+  "theme_liquids": {
+    "the_vault:classic_vault_ice": {
+      "WATER": "ICE"
+    },
+    "the_vault:classic_vault_ice_cave": {
+      "WATER": "ICE"
+    },
+    "the_vault:diy_vault_ice": {
+      "WATER": "ICE"
+    },
+    "the_vault:classic_vault_season_winter": {
+      "WATER": "ICE"
+    },
+    "the_vault:classic_vault_festive": {
+      "WATER": "ICE"
+    },
+    "the_vault:classic_vault_aurora_cave": {
+      "WATER": "ICE"
+    },
+    "the_vault:classic_vault_desert": {
+      "WATER": "QUICKSAND"
+    },
+    "the_vault:classic_vault_sandy_cave": {
+      "WATER": "QUICKSAND"
+    },
+    "the_vault:classic_vault_mesa": {
+      "WATER": "QUICKSAND"
+    },
+    "the_vault:classic_vault_deep_mesa": {
+      "WATER": "QUICKSAND"
+    },
+    "the_vault:diy_vault_desert": {
+      "WATER": "QUICKSAND"
+    },
+    "the_vault:diy_vault_mesa": {
+      "WATER": "QUICKSAND"
+    },
+    "the_vault:classic_vault_fairy_ring": {
+      "WATER": "MIST"
+    },
+    "the_vault:classic_vault_arcane": {
+      "WATER": "MIST"
+    }
+  },
+  "theme_gods": {
+    "the_vault:classic_vault_wendarr": "WENDARR",
+    "the_vault:classic_vault_wendarr_normal": "WENDARR",
+    "the_vault:classic_vault_wendarr_clockspire": "WENDARR",
+    "the_vault:classic_vault_tenos": "TENOS",
+    "the_vault:classic_vault_tenos_normal": "TENOS",
+    "the_vault:classic_vault_tenos_still_cistern": "TENOS",
+    "the_vault:classic_vault_tenos_athenaeum": "TENOS",
+    "the_vault:classic_vault_velara": "VELARA",
+    "the_vault:classic_vault_velara_normal": "VELARA",
+    "the_vault:classic_vault_velara_grove": "VELARA",
+    "the_vault:classic_vault_velara_briar_coliseum": "VELARA",
+    "the_vault:classic_vault_idona": "IDONA",
+    "the_vault:classic_vault_idona_normal": "IDONA",
+    "the_vault:classic_vault_idona_ravine": "IDONA"
+  }
+}

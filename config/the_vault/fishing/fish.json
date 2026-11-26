@@ -1,0 +1,2807 @@
+{
+  "fish": {
+    "stonescale_carp": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 8.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 3,
+      "xp": 4
+    },
+    "vault_perch": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 10.0,
+      "stamina": 2.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 4,
+      "xp": 5
+    },
+    "lanternfin": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 9.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 3,
+      "xp": 4
+    },
+    "chromatic_trout": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 24.0,
+      "stamina": 4.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 17,
+      "xp": 17
+    },
+    "rustgill_pike": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 18.0,
+      "stamina": 2.0,
+      "pattern": "DIVER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 8,
+      "xp": 9
+    },
+    "mossback_catfish": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 32.0,
+      "stamina": 7.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 24,
+      "xp": 22
+    },
+    "larimar_darter": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 6.0,
+      "stamina": 2.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 2,
+      "xp": 3
+    },
+    "vault_eel": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 14.0,
+      "stamina": 5.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 6,
+      "xp": 7
+    },
+    "pufferstone": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 20.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 14,
+      "xp": 14
+    },
+    "driftwood_gar": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 28.0,
+      "stamina": 4.0,
+      "pattern": "DIVER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 20,
+      "xp": 20
+    },
+    "clockwork_koi": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 40.0,
+      "stamina": 5.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "WENDARR",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 41,
+      "xp": 34
+    },
+    "sandglass_fish": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 36.0,
+      "stamina": 3.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "WENDARR",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 36,
+      "xp": 30
+    },
+    "yesteryear_coelacanth": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 70.0,
+      "stamina": 9.0,
+      "pattern": "DIVER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "WENDARR",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 133,
+      "xp": 84
+    },
+    "pendulum_ray": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 62.0,
+      "stamina": 6.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "WENDARR",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 115,
+      "xp": 74
+    },
+    "second_hand": {
+      "rarity": "OMEGA",
+      "size": "SMALL",
+      "pull": 90.0,
+      "stamina": 5.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "WENDARR",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 288,
+      "xp": 162
+    },
+    "voltfin_eel": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 75.0,
+      "stamina": 7.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "TENOS",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 145,
+      "xp": 90
+    },
+    "catalyst_carp": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 42.0,
+      "stamina": 5.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "TENOS",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 43,
+      "xp": 35
+    },
+    "stormcloud_puffer": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 38.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "TENOS",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 38,
+      "xp": 32
+    },
+    "arc_jelly": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 34.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "TENOS",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 34,
+      "xp": 29
+    },
+    "fulgurite_pike": {
+      "rarity": "OMEGA",
+      "size": "SMALL",
+      "pull": 95.0,
+      "stamina": 6.0,
+      "pattern": "DIVER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "TENOS",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 307,
+      "xp": 171
+    },
+    "lilypad_flounder": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 36.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "VELARA",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 36,
+      "xp": 30
+    },
+    "orchid_betta": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 40.0,
+      "stamina": 3.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "VELARA",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 41,
+      "xp": 34
+    },
+    "rootwhisker_catfish": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 72.0,
+      "stamina": 12.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "VELARA",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 138,
+      "xp": 86
+    },
+    "seedpod_puffer": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 58.0,
+      "stamina": 5.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "VELARA",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 106,
+      "xp": 70
+    },
+    "vinetail_seahorse": {
+      "rarity": "OMEGA",
+      "size": "SMALL",
+      "pull": 85.0,
+      "stamina": 6.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "VELARA",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 269,
+      "xp": 153
+    },
+    "bloodfin_piranha": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 44.0,
+      "stamina": 3.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "IDONA",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 46,
+      "xp": 37
+    },
+    "leech_lamprey": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 66.0,
+      "stamina": 8.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "IDONA",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 124,
+      "xp": 79
+    },
+    "heartfish": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 40.0,
+      "stamina": 6.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "IDONA",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 41,
+      "xp": 34
+    },
+    "bonejaw_barracuda": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 80.0,
+      "stamina": 5.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "IDONA",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 156,
+      "xp": 96
+    },
+    "crimson_squid": {
+      "rarity": "OMEGA",
+      "size": "SMALL",
+      "pull": 92.0,
+      "stamina": 7.0,
+      "pattern": "DIVER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "IDONA",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 295,
+      "xp": 166
+    },
+    "magma_carp": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 30.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "LAVA"
+      ],
+      "god": "NONE",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 18,
+      "xp": 15
+    },
+    "cinder_eel": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 46.0,
+      "stamina": 6.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "LAVA"
+      ],
+      "god": "NONE",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 45,
+      "xp": 32
+    },
+    "slag_snapper": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 70.0,
+      "stamina": 6.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "LAVA"
+      ],
+      "god": "NONE",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 123,
+      "xp": 70
+    },
+    "blazeback_newt": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 52.0,
+      "stamina": 5.0,
+      "pattern": "DARTER",
+      "waters": [
+        "LAVA"
+      ],
+      "god": "NONE",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 52,
+      "xp": 36
+    },
+    "voidfin": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 34.0,
+      "stamina": 4.0,
+      "pattern": "DARTER",
+      "waters": [
+        "VOID"
+      ],
+      "god": "NONE",
+      "regions": [],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 21,
+      "xp": 17
+    },
+    "nullmaw": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 50.0,
+      "stamina": 5.0,
+      "pattern": "STEADY",
+      "waters": [
+        "VOID"
+      ],
+      "god": "NONE",
+      "regions": [],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 49,
+      "xp": 35
+    },
+    "starlight_jelly": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 44.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "VOID"
+      ],
+      "god": "NONE",
+      "regions": [],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 42,
+      "xp": 31
+    },
+    "riftskate": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 78.0,
+      "stamina": 6.0,
+      "pattern": "DARTER",
+      "waters": [
+        "VOID"
+      ],
+      "god": "NONE",
+      "regions": [],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 140,
+      "xp": 78
+    },
+    "cloud_koi": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 28.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "MIST"
+      ],
+      "god": "NONE",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 16,
+      "xp": 14
+    },
+    "rainbelly_whale": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 48.0,
+      "stamina": 8.0,
+      "pattern": "STEADY",
+      "waters": [
+        "MIST"
+      ],
+      "god": "NONE",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 47,
+      "xp": 34
+    },
+    "mistwing_flier": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 60.0,
+      "stamina": 5.0,
+      "pattern": "DARTER",
+      "waters": [
+        "MIST"
+      ],
+      "god": "NONE",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 102,
+      "xp": 60
+    },
+    "sandstone_skipper": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 30.0,
+      "stamina": 3.0,
+      "pattern": "DARTER",
+      "waters": [
+        "QUICKSAND"
+      ],
+      "god": "NONE",
+      "regions": [],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 18,
+      "xp": 15
+    },
+    "dune_fin": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 56.0,
+      "stamina": 6.0,
+      "pattern": "DIVER",
+      "waters": [
+        "QUICKSAND"
+      ],
+      "god": "NONE",
+      "regions": [],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 56,
+      "xp": 39
+    },
+    "cactus_lionfish": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 64.0,
+      "stamina": 5.0,
+      "pattern": "STEADY",
+      "waters": [
+        "QUICKSAND"
+      ],
+      "god": "NONE",
+      "regions": [],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 110,
+      "xp": 64
+    },
+    "lantern_angler": {
+      "rarity": "COMMON",
+      "size": "MEDIUM",
+      "pull": 90.0,
+      "stamina": 8.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "KELP",
+        "TRENCH"
+      ],
+      "depth": "DEEP",
+      "needs": "NONE",
+      "lure_tags": [
+        "DEEP",
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 72,
+      "xp": 54
+    },
+    "gulper": {
+      "rarity": "RARE",
+      "size": "MEDIUM",
+      "pull": 130.0,
+      "stamina": 10.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "VENTS",
+        "TRENCH"
+      ],
+      "depth": "DEEP",
+      "needs": "NONE",
+      "lure_tags": [
+        "DEEP",
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 168,
+      "xp": 109
+    },
+    "ghost_isopod": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 80.0,
+      "stamina": 10.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD",
+        "TRENCH"
+      ],
+      "depth": "DEEP",
+      "needs": "NONE",
+      "lure_tags": [
+        "DEEP"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 62,
+      "xp": 48
+    },
+    "barreleye": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 110.0,
+      "stamina": 7.0,
+      "pattern": "DARTER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "MIST_BANKS",
+        "TRENCH"
+      ],
+      "depth": "DEEP",
+      "needs": "NONE",
+      "lure_tags": [
+        "DEEP"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 229,
+      "xp": 132
+    },
+    "abyssal_oarfish": {
+      "rarity": "OMEGA",
+      "size": "LARGE",
+      "pull": 170.0,
+      "stamina": 30.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "TRENCH"
+      ],
+      "depth": "DEEP",
+      "needs": "NONE",
+      "lure_tags": [
+        "DEEP"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 617,
+      "xp": 306
+    },
+    "deepsea_dumbo": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 60.0,
+      "stamina": 5.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "TRENCH"
+      ],
+      "depth": "DEEP",
+      "needs": "NONE",
+      "lure_tags": [
+        "DEEP"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 44,
+      "xp": 36
+    },
+    "frostfin_char": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 26.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "ICE"
+      ],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 14,
+      "xp": 13
+    },
+    "icecube_cod": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 22.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "ICE"
+      ],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 11,
+      "xp": 11
+    },
+    "glacier_sturgeon": {
+      "rarity": "RARE",
+      "size": "MEDIUM",
+      "pull": 120.0,
+      "stamina": 14.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 129,
+      "xp": 84
+    },
+    "rimewhisker_wolffish": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 58.0,
+      "stamina": 6.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "ICE"
+      ],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 54,
+      "xp": 41
+    },
+    "aurora_smelt": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 20.0,
+      "stamina": 2.0,
+      "pattern": "DARTER",
+      "waters": [
+        "ICE"
+      ],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 15,
+      "xp": 14
+    },
+    "nibbler": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 5.0,
+      "stamina": 1.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 2,
+      "xp": 2
+    },
+    "dragline_tuna": {
+      "rarity": "RARE",
+      "size": "MEDIUM",
+      "pull": 140.0,
+      "stamina": 16.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "MIST_BANKS",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 155,
+      "xp": 98
+    },
+    "lunger": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 40.0,
+      "stamina": 4.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 35,
+      "xp": 28
+    },
+    "snipper": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 34.0,
+      "stamina": 4.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 28,
+      "xp": 24
+    },
+    "skittish_moonfish": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 26.0,
+      "stamina": 3.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 21,
+      "xp": 18
+    },
+    "silverling_school": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 16.0,
+      "stamina": 3.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 8,
+      "xp": 8
+    },
+    "bobber_mimic": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 60.0,
+      "stamina": 5.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 94,
+      "xp": 60
+    },
+    "gilded_carp": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 16.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 19,
+      "xp": 11
+    },
+    "living_carp": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 16.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 19,
+      "xp": 11
+    },
+    "ornate_carp": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 20.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 41,
+      "xp": 20
+    },
+    "hardened_carp": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 34.0,
+      "stamina": 5.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 77,
+      "xp": 34
+    },
+    "flesh_carp": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 22.0,
+      "stamina": 4.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 28,
+      "xp": 15
+    },
+    "enigma_carp": {
+      "rarity": "OMEGA",
+      "size": "SMALL",
+      "pull": 24.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 82,
+      "xp": 36
+    },
+    "vault_minnow": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 3.0,
+      "stamina": 1.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 1,
+      "xp": 2
+    },
+    "glow_shrimp": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 4.0,
+      "stamina": 1.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 1,
+      "xp": 2
+    },
+    "bloodworm": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 3.0,
+      "stamina": 1.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 1,
+      "xp": 2
+    },
+    "gilded_mayfly": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 5.0,
+      "stamina": 1.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 1,
+      "xp": 4
+    },
+    "mud_frog": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 6.0,
+      "stamina": 2.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 1,
+      "xp": 3
+    },
+    "vault_crab": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 18.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "BOTTOM",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 10,
+      "xp": 9
+    },
+    "ironshell_lobster": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 48.0,
+      "stamina": 6.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "ICE_FIELD"
+      ],
+      "depth": "BOTTOM",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 47,
+      "xp": 34
+    },
+    "spiral_snail": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 12.0,
+      "stamina": 6.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "BOTTOM",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 6,
+      "xp": 6
+    },
+    "needle_urchin": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 24.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "VENTS"
+      ],
+      "depth": "BOTTOM",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 20,
+      "xp": 17
+    },
+    "mantis_prawn": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 62.0,
+      "stamina": 5.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "VENTS"
+      ],
+      "depth": "BOTTOM",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL",
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 106,
+      "xp": 62
+    },
+    "pebble_star": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 10.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "BOTTOM",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 5,
+      "xp": 5
+    },
+    "sailback_marlin": {
+      "rarity": "EPIC",
+      "size": "LARGE",
+      "pull": 160.0,
+      "stamina": 18.0,
+      "pattern": "DARTER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "HARPOON",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 331,
+      "xp": 192
+    },
+    "vault_manta": {
+      "rarity": "RARE",
+      "size": "LARGE",
+      "pull": 120.0,
+      "stamina": 16.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "HARPOON",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 141,
+      "xp": 101
+    },
+    "stonehide_shark": {
+      "rarity": "OMEGA",
+      "size": "LARGE",
+      "pull": 230.0,
+      "stamina": 22.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "VENTS",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "HARPOON",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 819,
+      "xp": 414
+    },
+    "coral_turtle": {
+      "rarity": "RARE",
+      "size": "LARGE",
+      "pull": 100.0,
+      "stamina": 14.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "HARPOON",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 113,
+      "xp": 84
+    },
+    "tusked_narwhal": {
+      "rarity": "EPIC",
+      "size": "LARGE",
+      "pull": 190.0,
+      "stamina": 18.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD"
+      ],
+      "depth": "SURFACE",
+      "needs": "HARPOON",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 407,
+      "xp": 228
+    },
+    "giant_sunfish": {
+      "rarity": "COMMON",
+      "size": "HUGE",
+      "pull": 140.0,
+      "stamina": 24.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "KELP",
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "HARPOON",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 113,
+      "xp": 84
+    },
+    "chest_hermit": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 30.0,
+      "stamina": 5.0,
+      "pattern": "DARTER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 40,
+      "xp": 21
+    },
+    "bottled_squidling": {
+      "rarity": "RARE",
+      "size": "SMALL",
+      "pull": 14.0,
+      "stamina": 3.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 16,
+      "xp": 10
+    },
+    "key_eel": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 36.0,
+      "stamina": 5.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 83,
+      "xp": 36
+    },
+    "coin_clam": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 12.0,
+      "stamina": 2.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 9,
+      "xp": 6
+    },
+    "drowned_hunter": {
+      "rarity": "EPIC",
+      "size": "MEDIUM",
+      "pull": 110.0,
+      "stamina": 10.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "KELP",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 317,
+      "xp": 110
+    },
+    "hoarder_octopus": {
+      "rarity": "EPIC",
+      "size": "SMALL",
+      "pull": 70.0,
+      "stamina": 8.0,
+      "pattern": "THRASHER",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 184,
+      "xp": 70
+    },
+    "crystal_nautilus": {
+      "rarity": "OMEGA",
+      "size": "SMALL",
+      "pull": 60.0,
+      "stamina": 6.0,
+      "pattern": "STEADY",
+      "waters": [
+        "WATER"
+      ],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "TREASURE"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 245,
+      "xp": 90
+    },
+    "reefback_crusher": {
+      "rarity": "EPIC",
+      "size": "HUGE",
+      "pull": 260.0,
+      "stamina": 28.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 642,
+      "xp": 390
+    },
+    "lurelight_siren": {
+      "rarity": "OMEGA",
+      "size": "LARGE",
+      "pull": 330.0,
+      "stamina": 26.0,
+      "pattern": "DARTER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 1368,
+      "xp": 742
+    },
+    "brine_hydra": {
+      "rarity": "OMEGA",
+      "size": "HUGE",
+      "pull": 370.0,
+      "stamina": 34.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 1570,
+      "xp": 832
+    },
+    "bogmaw_toad": {
+      "rarity": "EPIC",
+      "size": "LARGE",
+      "pull": 210.0,
+      "stamina": 24.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 497,
+      "xp": 315
+    },
+    "trench_swallower": {
+      "rarity": "OMEGA",
+      "size": "HUGE",
+      "pull": 420.0,
+      "stamina": 36.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "TRENCH"
+      ],
+      "depth": "DEEP",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER",
+        "DEEP"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 1827,
+      "xp": 945
+    },
+    "ironclad_gar": {
+      "rarity": "EPIC",
+      "size": "HUGE",
+      "pull": 280.0,
+      "stamina": 30.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 702,
+      "xp": 420
+    },
+    "drowned_diver": {
+      "rarity": "OMEGA",
+      "size": "LARGE",
+      "pull": 300.0,
+      "stamina": 30.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD"
+      ],
+      "depth": "BOTTOM",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 1220,
+      "xp": 675
+    },
+    "hammerclaw_mantis": {
+      "rarity": "EPIC",
+      "size": "LARGE",
+      "pull": 290.0,
+      "stamina": 22.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 732,
+      "xp": 435
+    },
+    "old_greybeard": {
+      "rarity": "LEGEND",
+      "size": "LARGE",
+      "pull": 300.0,
+      "stamina": 45.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 2112,
+      "xp": 1125
+    },
+    "sun_koi": {
+      "rarity": "LEGEND",
+      "size": "MEDIUM",
+      "pull": 280.0,
+      "stamina": 40.0,
+      "pattern": "DARTER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 1944,
+      "xp": 1050
+    },
+    "emberking": {
+      "rarity": "LEGEND",
+      "size": "MEDIUM",
+      "pull": 360.0,
+      "stamina": 45.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 2629,
+      "xp": 1350
+    },
+    "frostmother": {
+      "rarity": "LEGEND",
+      "size": "LARGE",
+      "pull": 340.0,
+      "stamina": 50.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 2454,
+      "xp": 1275
+    },
+    "thousand_year_eel": {
+      "rarity": "LEGEND",
+      "size": "HUGE",
+      "pull": 380.0,
+      "stamina": 60.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 2805,
+      "xp": 1425
+    },
+    "mirrorscale": {
+      "rarity": "LEGEND",
+      "size": "MEDIUM",
+      "pull": 320.0,
+      "stamina": 40.0,
+      "pattern": "DARTER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 2282,
+      "xp": 1200
+    },
+    "the_leviathan": {
+      "rarity": "LEGEND",
+      "size": "HUGE",
+      "pull": 640.0,
+      "stamina": 90.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "MIST_BANKS",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": true,
+      "catchable": true,
+      "sell": 8739,
+      "xp": 3200
+    },
+    "the_undertow": {
+      "rarity": "LEGEND",
+      "size": "HUGE",
+      "pull": 600.0,
+      "stamina": 80.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "VENTS",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": true,
+      "catchable": true,
+      "sell": 8087,
+      "xp": 3000
+    },
+    "anvilhead_shark": {
+      "rarity": "EPIC",
+      "size": "LARGE",
+      "pull": 200.0,
+      "stamina": 20.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "KELP",
+        "VENTS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 361,
+      "xp": 200
+    },
+    "ripsaw_sawfish": {
+      "rarity": "EPIC",
+      "size": "LARGE",
+      "pull": 180.0,
+      "stamina": 18.0,
+      "pattern": "THRASHER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 318,
+      "xp": 180
+    },
+    "saltjaw_crocodile": {
+      "rarity": "EPIC",
+      "size": "LARGE",
+      "pull": 220.0,
+      "stamina": 22.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 404,
+      "xp": 220
+    },
+    "deepjaw": {
+      "rarity": "OMEGA",
+      "size": "HUGE",
+      "pull": 450.0,
+      "stamina": 40.0,
+      "pattern": "DIVER",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "MONSTER"
+      ],
+      "biter": true,
+      "monster": true,
+      "catchable": true,
+      "sell": 1527,
+      "xp": 675
+    },
+    "kelpback_lurker": {
+      "rarity": "RARE",
+      "size": "LARGE",
+      "pull": 150.0,
+      "stamina": 14.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 153,
+      "xp": 105
+    },
+    "driftsail_manowar": {
+      "rarity": "COMMON",
+      "size": "MEDIUM",
+      "pull": 90.0,
+      "stamina": 10.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "MIST_BANKS",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "PREDATOR"
+      ],
+      "biter": true,
+      "monster": false,
+      "catchable": true,
+      "sell": 55,
+      "xp": 45
+    },
+    "hullsucker_remora": {
+      "rarity": "COMMON",
+      "size": "SMALL",
+      "pull": 40.0,
+      "stamina": 4.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "REEF",
+        "KELP",
+        "ICE_FIELD",
+        "VENTS",
+        "MIST_BANKS",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [
+        "SMALL"
+      ],
+      "biter": false,
+      "monster": false,
+      "catchable": true,
+      "sell": 21,
+      "xp": 20
+    },
+    "vault_dolphin": {
+      "rarity": "COMMON",
+      "size": "LARGE",
+      "pull": 0.0,
+      "stamina": 0.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF",
+        "KELP",
+        "MIST_BANKS"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": false,
+      "sell": 0,
+      "xp": 0
+    },
+    "tidepool_otter": {
+      "rarity": "COMMON",
+      "size": "MEDIUM",
+      "pull": 0.0,
+      "stamina": 0.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "KELP"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": false,
+      "sell": 0,
+      "xp": 0
+    },
+    "pouchbill_pelican": {
+      "rarity": "COMMON",
+      "size": "MEDIUM",
+      "pull": 0.0,
+      "stamina": 0.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "SHALLOWS",
+        "REEF"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": false,
+      "sell": 0,
+      "xp": 0
+    },
+    "islandback_whale": {
+      "rarity": "COMMON",
+      "size": "HUGE",
+      "pull": 0.0,
+      "stamina": 0.0,
+      "pattern": "STEADY",
+      "waters": [],
+      "god": "NONE",
+      "regions": [
+        "ICE_FIELD",
+        "MIST_BANKS",
+        "TRENCH"
+      ],
+      "depth": "SURFACE",
+      "needs": "NONE",
+      "lure_tags": [],
+      "biter": false,
+      "monster": false,
+      "catchable": false,
+      "sell": 0,
+      "xp": 0
+    }
+  }
+}
