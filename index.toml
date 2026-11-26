@@ -4025,6 +4025,10 @@ file = "config/the_vault/fighter.json"
 hash = "43ab6a4b2409c3b6a12c997900ae3a60b642b12864d9a3883950afc4fce14d68"
 
 [[files]]
+file = "config/the_vault/fishing/economy.json"
+hash = "3c5476c64fe33919890193777ef7fc41efbd64ea2542d22889de0d5dc45fc593"
+
+[[files]]
 file = "config/the_vault/fishing/fish.json"
 hash = "b46d39a0115d55a706acd0fe0e933e5f737d711bc387cb05bf6b2f2eb88b1a66"
 
@@ -21415,7 +21419,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "d9fcd5582cff38b0dd9380b771f0f0e874f5e8bb1d09ee5df41b4acfe99e8e9f"
+hash = "b08d7011c142dca353680627efa8709a77c52cd7b6d339d63975a4b054aa997a"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

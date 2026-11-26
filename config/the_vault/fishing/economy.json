@@ -1,0 +1,609 @@
+{
+  "experience_to_next_level": [
+    71,
+    79,
+    88,
+    110,
+    130,
+    140,
+    180,
+    200,
+    220,
+    240,
+    280,
+    350,
+    370,
+    490,
+    560,
+    610,
+    660,
+    710,
+    830,
+    930,
+    1100,
+    1100,
+    1300,
+    1500,
+    1600,
+    1700,
+    1800,
+    2000,
+    2100,
+    2400,
+    2600,
+    3600,
+    3800,
+    4100,
+    4300,
+    4600,
+    5100,
+    6300,
+    6900,
+    7800,
+    8300,
+    8800,
+    9400,
+    10000,
+    11000,
+    12000,
+    13000,
+    14000,
+    15000,
+    16000,
+    19000,
+    20000,
+    18000,
+    23000,
+    25000,
+    27000,
+    26000,
+    28000,
+    30000,
+    34000,
+    36000,
+    38000,
+    40000,
+    57000,
+    60000,
+    64000,
+    68000,
+    77000,
+    86000,
+    91000,
+    96000,
+    110000,
+    120000,
+    120000,
+    140000,
+    150000,
+    160000,
+    170000,
+    180000,
+    230000,
+    240000,
+    260000,
+    280000,
+    290000,
+    310000,
+    330000,
+    360000,
+    380000,
+    410000,
+    430000,
+    460000,
+    480000,
+    540000,
+    570000,
+    600000,
+    630000,
+    670000,
+    700000,
+    740000
+  ],
+  "fish_prices": {
+    "sell_coefficient": 0.25,
+    "sell_exponent": 1.2,
+    "xp_coefficient": 0.5,
+    "xp_exponent": 1.0,
+    "rarity_sell": {
+      "COMMON": 1.0,
+      "RARE": 1.5,
+      "EPIC": 2.5,
+      "OMEGA": 4.0,
+      "LEGEND": 6.0
+    },
+    "rarity_xp": {
+      "COMMON": 1.0,
+      "RARE": 1.4,
+      "EPIC": 2.0,
+      "OMEGA": 3.0,
+      "LEGEND": 5.0
+    },
+    "feature_sell": {
+      "bait": 0.5,
+      "waters": 1.0,
+      "pots": 1.2,
+      "ice": 1.1,
+      "tricksters": 1.1,
+      "variants": 1.8,
+      "gods": 1.3,
+      "liquids": 1.2,
+      "abyss": 1.3,
+      "treasure": 1.8,
+      "harpoon": 1.2,
+      "sea": 1.0,
+      "monsters": 1.3,
+      "legends": 1.5,
+      "bosses": 2.5
+    },
+    "feature_xp": {
+      "bait": 1.0,
+      "waters": 1.0,
+      "pots": 1.0,
+      "ice": 1.0,
+      "tricksters": 1.0,
+      "variants": 1.0,
+      "gods": 1.2,
+      "liquids": 1.0,
+      "abyss": 1.2,
+      "treasure": 1.0,
+      "harpoon": 1.2,
+      "sea": 1.0,
+      "monsters": 1.5,
+      "legends": 1.5,
+      "bosses": 2.0
+    }
+  },
+  "catch_size": {
+    "spread": 0.12,
+    "min": 0.7,
+    "max": 1.4,
+    "trophy_at": 1.2
+  },
+  "catch_timing": {
+    "bite_seconds": {
+      "puddle": 6.0,
+      "school": 6.0,
+      "glowing_school": 6.0,
+      "open_water": 15.0,
+      "mystery_pond": 8.0
+    },
+    "strike_seconds": 0.5,
+    "landing_seconds": 1.5,
+    "yank_seconds": 1.5,
+    "short_fight_seconds": 2.0,
+    "short_fight_stamina_factor": 0.8,
+    "real_fight_seconds": 4.0,
+    "real_fight_stamina_factor": 1.4,
+    "snap_seconds": 2.0,
+    "real_fight_escape_at_2x": 0.35,
+    "short_fight_escape": 0.03
+  },
+  "pouch": {
+    "base_slots": 3,
+    "item_price": 35,
+    "levels": [
+      {
+        "slots": 1,
+        "price": 35
+      },
+      {
+        "slots": 1,
+        "price": 50
+      },
+      {
+        "slots": 1,
+        "price": 85
+      },
+      {
+        "slots": 1,
+        "price": 170
+      },
+      {
+        "slots": 1,
+        "price": 260
+      },
+      {
+        "slots": 1,
+        "price": 350
+      },
+      {
+        "slots": 1,
+        "price": 500
+      },
+      {
+        "slots": 1,
+        "price": 720
+      },
+      {
+        "slots": 1,
+        "price": 1300
+      },
+      {
+        "slots": 1,
+        "price": 1600
+      },
+      {
+        "slots": 1,
+        "price": 2700
+      },
+      {
+        "slots": 1,
+        "price": 3200
+      },
+      {
+        "slots": 1,
+        "price": 4700
+      },
+      {
+        "slots": 1,
+        "price": 7300
+      },
+      {
+        "slots": 1,
+        "price": 9700
+      },
+      {
+        "slots": 1,
+        "price": 11900
+      },
+      {
+        "slots": 1,
+        "price": 15700
+      },
+      {
+        "slots": 1,
+        "price": 20000
+      },
+      {
+        "slots": 1,
+        "price": 28500
+      },
+      {
+        "slots": 1,
+        "price": 38700
+      },
+      {
+        "slots": 1,
+        "price": 66600
+      },
+      {
+        "slots": 1,
+        "price": 80400
+      },
+      {
+        "slots": 1,
+        "price": 95300
+      },
+      {
+        "slots": 1,
+        "price": 136000
+      },
+      {
+        "slots": 1,
+        "price": 162000
+      },
+      {
+        "slots": 1,
+        "price": 249000
+      },
+      {
+        "slots": 1,
+        "price": 305000
+      },
+      {
+        "slots": 1,
+        "price": 369000
+      },
+      {
+        "slots": 1,
+        "price": 474000
+      },
+      {
+        "slots": 1,
+        "price": 580000
+      }
+    ]
+  },
+  "boats": {
+    "hulls": [
+      {
+        "id": "tub",
+        "name": "The Tub",
+        "seats": 1,
+        "price": 0,
+        "speed": 6.0,
+        "hull": 40,
+        "hold": 32,
+        "addons": {
+          "speed": {
+            "model": "addon_sail",
+            "max_level": 3
+          },
+          "plating": {
+            "model": "addon_plating",
+            "max_level": 3
+          },
+          "hold": {
+            "model": "addon_hold",
+            "max_level": 3
+          },
+          "light": {
+            "model": "addon_lamp",
+            "max_level": 2
+          }
+        },
+        "cosmetic_bones": {
+          "addon_bucket": "plating"
+        }
+      },
+      {
+        "id": "skiff",
+        "name": "The Skiff",
+        "seats": 2,
+        "price": 22100,
+        "speed": 8.0,
+        "hull": 120,
+        "hold": 96,
+        "addons": {
+          "speed": {
+            "model": "addon_sail",
+            "max_level": 6
+          },
+          "plating": {
+            "model": "addon_plating",
+            "max_level": 6
+          },
+          "hold": {
+            "model": "addon_hold",
+            "max_level": 6
+          },
+          "light": {
+            "model": "addon_lamp",
+            "max_level": 4
+          },
+          "rod_holders": {
+            "model": "addon_rod_holders",
+            "max_level": 2
+          },
+          "harpoon": {
+            "model": "addon_harpoon",
+            "max_level": 3
+          }
+        },
+        "cosmetic_bones": {
+          "addon_tackle_box": "rod_holders"
+        }
+      },
+      {
+        "id": "trawler",
+        "name": "The Trawler",
+        "seats": 4,
+        "price": 503000,
+        "speed": 9.0,
+        "hull": 300,
+        "hold": 256,
+        "addons": {
+          "speed": {
+            "model": "addon_paddle_wheel",
+            "max_level": 10
+          },
+          "plating": {
+            "model": "addon_plating",
+            "max_level": 10
+          },
+          "hold": {
+            "model": "addon_hold",
+            "max_level": 10
+          },
+          "light": {
+            "model": "addon_searchlight",
+            "max_level": 6
+          },
+          "rod_holders": {
+            "model": "addon_rod_holders",
+            "max_level": 4
+          },
+          "harpoon": {
+            "model": "addon_harpoon",
+            "max_level": 5
+          },
+          "net_winch": {
+            "model": [
+              "addon_mast_net",
+              "addon_winch"
+            ],
+            "max_level": 5
+          }
+        },
+        "cosmetic_bones": {}
+      }
+    ],
+    "addons": {
+      "speed": {
+        "name": "Sail / Paddle Wheel",
+        "per_level": {
+          "speed_percent": 10
+        },
+        "prices": [
+          160,
+          400,
+          840,
+          4800,
+          9600,
+          24800,
+          79900,
+          164000,
+          574000,
+          1700000
+        ]
+      },
+      "plating": {
+        "name": "Plating",
+        "per_level": {
+          "hull_percent": 20
+        },
+        "prices": [
+          210,
+          430,
+          1100,
+          5700,
+          11700,
+          33800,
+          101000,
+          282000,
+          995000,
+          2000000
+        ]
+      },
+      "hold": {
+        "name": "Hold",
+        "per_level": {
+          "hold_percent": 20
+        },
+        "prices": [
+          100,
+          330,
+          710,
+          4100,
+          8500,
+          18600,
+          73000,
+          138000,
+          381000,
+          1380000
+        ]
+      },
+      "light": {
+        "name": "Lamp / Searchlight",
+        "per_level": {
+          "glowing_share_points": 4,
+          "spot_range_blocks": 16
+        },
+        "prices": [
+          290,
+          1300,
+          15100,
+          35800,
+          146000,
+          1150000
+        ]
+      },
+      "rod_holders": {
+        "name": "Rod Holders",
+        "per_level": {
+          "lines": 1
+        },
+        "prices": [
+          11900,
+          41500,
+          359000,
+          1870000
+        ]
+      },
+      "harpoon": {
+        "name": "Harpoon",
+        "per_level": {
+          "predator_damage_percent": -12
+        },
+        "prices": [
+          13600,
+          34900,
+          60800,
+          409000,
+          2280000
+        ]
+      },
+      "net_winch": {
+        "name": "Net Winch",
+        "per_level": {
+          "trawl_speed_percent": 20
+        },
+        "prices": [
+          161000,
+          701000,
+          1410000,
+          2210000,
+          3670000
+        ]
+      }
+    }
+  },
+  "sea": {
+    "trip_minutes": 25,
+    "rings": [
+      {
+        "ring": 0,
+        "name": "Reef shallows",
+        "regions": [
+          "SHALLOWS",
+          "REEF"
+        ],
+        "sectors": false,
+        "distance_blocks": 150,
+        "size_multiplier": 1.0,
+        "predator_hull_damage_per_minute": 0
+      },
+      {
+        "ring": 1,
+        "name": "Inner middle ring",
+        "regions": [
+          "KELP",
+          "ICE_FIELD",
+          "VENTS",
+          "MIST_BANKS"
+        ],
+        "sectors": true,
+        "distance_blocks": 500,
+        "size_multiplier": 1.35,
+        "predator_hull_damage_per_minute": 4
+      },
+      {
+        "ring": 2,
+        "name": "Outer middle ring",
+        "regions": [
+          "KELP",
+          "ICE_FIELD",
+          "VENTS",
+          "MIST_BANKS"
+        ],
+        "sectors": true,
+        "distance_blocks": 900,
+        "size_multiplier": 1.8,
+        "predator_hull_damage_per_minute": 12
+      },
+      {
+        "ring": 3,
+        "name": "Deep trench",
+        "regions": [
+          "TRENCH"
+        ],
+        "sectors": false,
+        "distance_blocks": 1275,
+        "size_multiplier": 2.6,
+        "predator_hull_damage_per_minute": 40
+      }
+    ],
+    "glowing_share_base": 0.1,
+    "rod_holder_seconds_per_fish": 45,
+    "trawl_seconds_per_fish": 10,
+    "school_rarity": {
+      "COMMON": 70,
+      "RARE": 22,
+      "EPIC": 7,
+      "OMEGA": 1
+    },
+    "glowing_school_rarity": {
+      "EPIC": 60,
+      "OMEGA": 40
+    },
+    "school_stock": 5,
+    "school_search_seconds": 30,
+    "search_reference_speed": 6.0,
+    "search_per_light_level": 0.1,
+    "search_far_sight": 0.5,
+    "legend_chance_per_cast": 0.0015,
+    "glowing_legend_chance_per_cast": 0.008,
+    "great_catch_chance_per_cast": 0.0003
+  }
+}
