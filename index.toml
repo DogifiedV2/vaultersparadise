@@ -2645,6 +2645,126 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/robot/h
 hash = "1ac2be478f28b491facf2c73b53d19a5a07787031653ca3a39a7a3ca8c3497fe"
 
 [[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/bed_ice.ogg"
+hash = "8472e86c07afe31773bd285ad340dbabc93b9c9d35d5581a17efc023a72b2a4c"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/bed_kelp.ogg"
+hash = "9ce2623f3590d129843e243ce4965d11643de76b4fddf43773d76848a38efa93"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/bed_mist.ogg"
+hash = "116d9961aefcfca160531dcf2a0118844a0d8087a9438fcce040701d73a827c1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/bed_reef.ogg"
+hash = "560896335e1843fcece32dbb47bdbbc380191a5130a2f0feed8bb47643a4894b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/bed_trench.ogg"
+hash = "ee7a34f548cd8f865f267e25b713784c2ba3d45798ddbf97f46ab37d78a7902b"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/bed_vents.ogg"
+hash = "29985d11c0893c953e9db240f0bf21a4c79f48ce122845b01ed453129f446722"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/bell_far.ogg"
+hash = "7a66f01f3f3d73a951da86f3fbee706b9f93dfcc3f50f8d0fb8f242e3275e642"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/boat_idle.ogg"
+hash = "1280fadbeb96771d6e933a2903411a68b1f14bc8cc3ddbf662a4def0ff4efc31"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/boat_sail.ogg"
+hash = "a5790edbf4d5cb149cfa3958966689984c928377176e24ab69a2b966dd148912"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/deep_call.ogg"
+hash = "3faaba4a752b84de91d1dad8e77de73bf0014712ec61bf9a50f0f9e2850f107f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/deep_groan_1.ogg"
+hash = "26580b79910e1ff896a6793a5eb336bf642f8a24a30ff72e8119c0edc8666f58"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/deep_groan_2.ogg"
+hash = "c72c95ba52897c03597d0c6f61dd0a5ddd651acc3609acec7d638919c89b69b9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/foghorn_1.ogg"
+hash = "e8f3a513018d445cc920c76ca9b57379430c8618c4c12383212c2b2f79559907"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/foghorn_2.ogg"
+hash = "9edccde432c99d9fccdf6b75b60c5b0a9cc9c4b47daa1fa67839dbe938afcde9"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/gull_1.ogg"
+hash = "f5e81255f763d5012d942483bf746003ede8c6703eb6cbe8b9464319cf3f0e39"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/gull_2.ogg"
+hash = "230da9eedfeeca4bfae122787bf6a3aca6a69fd6efe4f60e63b851c45cc2b82f"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/gull_3.ogg"
+hash = "d724086ca0e4f99705f384b76ff5337d616041bbe7f8698feefd401f4ee2ed31"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/gust.ogg"
+hash = "409ecfff43b40d4c630e613a6a9b1f31166bcfcc8a49d144e6d15c42de0dc546"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/ice_crack.ogg"
+hash = "40875528aafd4f2f797c820791a673eddcb2c1f4609f4e0823f87f682d8d9ad4"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/ice_creak.ogg"
+hash = "6849d487a69f6c6a4e6b89fdccfdb9c875f22ebfe7fb30e57367fe0752a203fb"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/ice_groan.ogg"
+hash = "3437a001b664d2a033e3b561bc23b53eb65427893c5b71abf67445fed38f42e1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/rock_splash_1.ogg"
+hash = "fb8c54657ee487e2d8ac282aee773123564b40bc841a82ce875e63deb0c27333"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/rock_splash_2.ogg"
+hash = "49e5b59d4960ee944d94d79ee1eedaf9e2543012ecabf03f0ef007c96442d71d"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/thunder_far.ogg"
+hash = "4f726c2ad48e8b2067d37fc3f4b9c959edf6555d2dfcf0e499644494ee4eb746"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/thunder_near.ogg"
+hash = "4da0e3e591f6e3d44c7d0dff98eddeb4a832672e5eafc8b3f148511fe1e4aa87"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/thunder_strike.ogg"
+hash = "4f9e6edc31bef94017b7b1a16ebfdc6cbb18620fccd386b94b5f25b4199e579a"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/vent_blast.ogg"
+hash = "d3c5fa1ef1014385630a98b780520f89c657b167d0fc7678eb82c0d7e8d12894"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/vent_hiss.ogg"
+hash = "751eae00a07689b52d74934ebcf5d2121b6a61c014fd318b13ef159f84a55424"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/weather_rain.ogg"
+hash = "1a27d51786568ef6321e5f6efa6075528771ec1d7ecc78241fe5d83b83c56fad"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/sea/atmosphere/weather_wind.ogg"
+hash = "1fa30db2289dcc490fa7ef00029f3323699cc280b08a71cc096aaeeaed9be460"
+
+[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/sounds/shiver/death.ogg"
 hash = "41a835d0cb82d97e0863dc0351308094b74376ee7bd8ae4de850909acbf58d2d"
 
@@ -3343,6 +3463,10 @@ hash = "4c318bcc6870d0395ef793911eae97da5ce647ce6ed2f81bb25e7d79ddb1d6ff"
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/rune_golem/rune_golem_vfx.png"
 hash = "3ab60a2b249c9310b7cd1335dade307c03db36dedcd5e24d447e4af7acadc8f1"
+
+[[files]]
+file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/sea/atmosphere.png"
+hash = "9abdacfb50eb7e44f039e47951ae0f53890065a08d814a432ba4a651f458b319"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/time_guard/time_guard_domain.png"
@@ -21423,7 +21547,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "da21aeee297558a49f345b6e1cb39317c92ba9a2bbd8506f82a6486e226ef266"
+hash = "8b560e7cc760292221ac07d2ccde02bdaaa9c6986cc472767de75e363b5ac139"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
