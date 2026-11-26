@@ -17613,6 +17613,10 @@ file = "config/the_vault/gen/1.0/themes/raw_vault_cave_lvl30.json"
 hash = "387dee8deaddf731d4cb011ecf597715a62fe1dee480ec7d65ae1211cb75f063"
 
 [[files]]
+file = "config/the_vault/gen/1.0/themes/sea/sea_vault.json"
+hash = "f86a100aaaef7515685d916d3a9769e525075f4593047945dd2b6714d0c7b822"
+
+[[files]]
 file = "config/the_vault/gen/loot_pools.json"
 hash = "b0a5aa8a79f3bb56b94bad34ccebf0adc102f7fcc658f1f3c23badac1e4b4ba5"
 
@@ -17642,7 +17646,7 @@ hash = "d019eec550c9eb1bf21ed2620474ba7a0b9b5016e53a5c5d7974e678f77dd90e"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "2bd0a8c35e13c9bef6075c5486186624ef14a11656103bc37224086e601a3688"
+hash = "d44511bdf61ee7b20f78481c02a43e3810e8dea1f28968b11e5c83da6d550db1"
 
 [[files]]
 file = "config/the_vault/god_shop.json"
@@ -21411,7 +21415,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "af99f0130bacc27e4bf4d4f5bc6e54e31512dbe903d8fed98369e70ac6e3ef14"
+hash = "d9fcd5582cff38b0dd9380b771f0f0e874f5e8bb1d09ee5df41b4acfe99e8e9f"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

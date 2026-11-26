@@ -591,6 +591,12 @@
       "name": "Arcane",
       "color": 8077247,
       "1.0": "config/the_vault/gen/1.0/themes/classic_vault_arcane.json"
+    },
+    {
+      "id": "the_vault:sea_vault",
+      "name": "The Sea",
+      "color": 3054534,
+      "1.0": "config/the_vault/gen/1.0/themes/sea/sea_vault.json"
     }
   ]
 }

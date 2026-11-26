@@ -1,0 +1,14 @@
+{
+  "type": "classic_vault",
+  "starts": "the_vault:empty",
+  "rooms": "the_vault:empty",
+  "tunnels": "the_vault:empty",
+  "ambient_light": 0.8,
+  "fog_color": 12638448,
+  "grass_color": 7979098,
+  "foliage_color": 6463019,
+  "water_color": 4184288,
+  "water_fog_color": 1990576,
+  "effects": "minecraft:overworld",
+  "time": 5000
+}
