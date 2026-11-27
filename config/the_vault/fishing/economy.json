@@ -584,5 +584,21 @@
     "search_far_sight": 0.5,
     "legend_chance_per_cast": 0.0015,
     "glowing_legend_chance_per_cast": 0.008
+  },
+  "purse": {
+    "scales_per_minute_by_level": [
+      {"level": 1, "scales": 40},
+      {"level": 10, "scales": 82},
+      {"level": 20, "scales": 162},
+      {"level": 30, "scales": 442},
+      {"level": 40, "scales": 701},
+      {"level": 50, "scales": 1525},
+      {"level": 60, "scales": 1953},
+      {"level": 70, "scales": 2961},
+      {"level": 80, "scales": 4604},
+      {"level": 90, "scales": 5439},
+      {"level": 99, "scales": 6088}
+    ],
+    "minimum_scales_per_minute": 40
   }
 }
