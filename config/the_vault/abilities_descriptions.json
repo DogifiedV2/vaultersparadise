@@ -1002,12 +1002,14 @@
       "current": [
         "manaCost",
         "cooldown",
-        "healthPoints"
+        "healthPoints",
+        "duration"
       ],
       "next": [
         "manaCost",
         "cooldown",
-        "healthPoints"
+        "healthPoints",
+        "duration"
       ]
     },
     "Mana_Barrier": {
