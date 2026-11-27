@@ -4006,7 +4006,7 @@ hash = "e25d31c5de856a288c3c31c7ff406e64734b86451e40f4c3c58d05011a92fd04"
 
 [[files]]
 file = "config/the_vault/catalyst.json"
-hash = "bce86d7985027255557eec5edaa78be5ff2fa34ec19bab4a7b27fb63dcea3297"
+hash = "35aeb625ec07f3013bd3b7a5115bb3f3a0cf47a2a9bf8b001efb426f2f26f722"
 
 [[files]]
 file = "config/the_vault/catalyst_box.json"
@@ -18222,7 +18222,7 @@ hash = "9ff056f04b3428e0d6781f34219711c7205346022d5604ead552aaacabe8047f"
 
 [[files]]
 file = "config/the_vault/recipes/catalyst_recipes.json"
-hash = "b32b7739e4f0d8c68acb2bbbd133707be995f32447467e4526d9b9aa828ecd0d"
+hash = "434b0f9a3dcbd4f64bbb34fc81eac04b8c92fa69d8c2fdc22000b877ecc9bb8e"
 
 [[files]]
 file = "config/the_vault/recipes/companion_relics_recipes.json"
@@ -18302,7 +18302,7 @@ hash = "f2b313092524fa36e39c1b760f20fb0c86edae5d95a95e3644009e4d208f0aa4"
 
 [[files]]
 file = "config/the_vault/shop_pedestal.json"
-hash = "67e3edf6bd151f91831f9c16e4b6675fd2fb28fb2d6cf369a378b98a873ac576"
+hash = "6809792bf75df5a7f558ded4edd4256f5d43294ce194243650de47f0227d936d"
 
 [[files]]
 file = "config/the_vault/sigils/adept.json"
@@ -18542,11 +18542,11 @@ hash = "937a7d9384ee32a42732e9e8b2d1a320f6b0462a207330145a60342ca3682313"
 
 [[files]]
 file = "config/the_vault/vault_modifier_pools.json"
-hash = "9bb24545af4cdc12dae2a0559bae20b8fa5852626a3db06dd38882a85944f3b5"
+hash = "3f6c36aa2649eec6036488055cde562bda373012fe85641febbc19c73a086cad"
 
 [[files]]
 file = "config/the_vault/vault_modifiers.json"
-hash = "6465ce2ed83cb7904ad46c7a438a32e5c84c0ca476115810de9ca382ff9bc9ef"
+hash = "8f47398c64e1d48402bbcfca6d1ab782c1e6243b3bb8535a449b3aa0348e8004"
 
 [[files]]
 file = "config/the_vault/vault_necklace.json"
@@ -21551,7 +21551,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "0b443f4106ef33b8fb71b47b01b728d56e621a5d9850fb2dbc90aa544bca5a18"
+hash = "9d0b473d42d6436e0246d1024ff9910d667fdb038fb608d0df186481ea0056a7"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

@@ -2398,6 +2398,97 @@
           "description": "Light danger, modest rewards.",
           "icon": "the_vault:gui/modifiers/treasure"
         }
+      },
+      "the_vault:prospector": {
+        "properties": {
+          "children": {
+            "the_vault:prospector_ores": 1,
+            "the_vault:opulent_ores": 1,
+            "the_vault:lost_quantity": 1
+          }
+        },
+        "display": {
+          "name": "Prospector",
+          "color": "#9aa6b2",
+          "description": "+100% Vault Ores and +50% Copiously, but chests are only half filled",
+          "descriptionFormatted": "+100% Vault Ores and +50% Copiously, but chests are only half filled",
+          "icon": "the_vault:gui/modifiers/plentiful"
+        }
+      },
+      "the_vault:bloodprice": {
+        "properties": {
+          "children": {
+            "the_vault:blessed_chests": 1,
+            "the_vault:injured": 2
+          }
+        },
+        "display": {
+          "name": "Bloodprice",
+          "color": "#c8203c",
+          "description": "+30% Item Rarity, -2 Hearts",
+          "descriptionFormatted": "+30% Item Rarity, -2 Hearts",
+          "icon": "the_vault:gui/modifiers/item_rarity_3"
+        }
+      },
+      "the_vault:crowded_house": {
+        "properties": {
+          "children": {
+            "the_vault:crowded_quantity": 1,
+            "the_vault:crowded": 1
+          }
+        },
+        "display": {
+          "name": "Crowded House",
+          "color": "#e0a040",
+          "description": "+40% Item Quantity, +1 Mob in every spawn group",
+          "descriptionFormatted": "+40% Item Quantity, +1 Mob in every spawn group",
+          "icon": "the_vault:gui/modifiers/crowded"
+        }
+      },
+      "the_vault:soul_furnace": {
+        "properties": {
+          "children": {
+            "the_vault:soul_surge": 1,
+            "the_vault:grievous_wounds": 1
+          }
+        },
+        "display": {
+          "name": "Soul Furnace",
+          "color": "#d05ad0",
+          "description": "+100% Soul Shard Drop Rate, -20% Healing Efficiency",
+          "descriptionFormatted": "+100% Soul Shard Drop Rate, -20% Healing Efficiency",
+          "icon": "the_vault:gui/modifiers/soul_shard_increase_pink"
+        }
+      },
+      "the_vault:thin_veil": {
+        "properties": {
+          "children": {
+            "the_vault:chaos_insight": 1,
+            "the_vault:ethereal_mobs": 1
+          }
+        },
+        "display": {
+          "name": "Thin Veil",
+          "color": "#9ad0ff",
+          "description": "+50% Vault Experience, some mobs spawn Ethereal (immune to damage)",
+          "descriptionFormatted": "+50% Vault Experience, some mobs spawn Ethereal (immune to damage)",
+          "icon": "the_vault:gui/modifiers/experienced"
+        }
+      },
+      "the_vault:hunter": {
+        "properties": {
+          "children": {
+            "the_vault:champion_chance": 1,
+            "the_vault:hunter_champion_damage": 1
+          }
+        },
+        "display": {
+          "name": "Hunter",
+          "color": "#d06030",
+          "description": "+10% Champion Chance, Champions deal +25% damage",
+          "descriptionFormatted": "+10% Champion Chance, Champions deal +25% damage",
+          "icon": "the_vault:gui/modifiers/champions_abode"
+        }
       }
     },
     "the_vault:modifier_type/loot_item_quantity": {
@@ -2616,6 +2707,18 @@
           "description": "+30% Item Quantity",
           "icon": "the_vault:gui/modifiers/item_quant_2",
           "descriptionFormatted": "+%d%% Item Quantity"
+        }
+      },
+      "the_vault:crowded_quantity": {
+        "properties": {
+          "percentage": 0.4
+        },
+        "display": {
+          "name": "Crowded Hoard",
+          "color": "#e0c060",
+          "description": "+40% Item Quantity",
+          "descriptionFormatted": "+40% Item Quantity",
+          "icon": "the_vault:gui/modifiers/item_quant_2"
         }
       }
     },
@@ -3828,6 +3931,19 @@
           "color": "#FF85FF",
           "description": "+5% Vault Ores",
           "descriptionFormatted": "+%d%% Vault Ores",
+          "icon": "the_vault:gui/modifiers/plentiful"
+        }
+      },
+      "the_vault:prospector_ores": {
+        "properties": {
+          "type": "ORE",
+          "chance": 1.0
+        },
+        "display": {
+          "name": "Prospector Ores",
+          "color": "#9aa6b2",
+          "description": "+100% Vault Ores",
+          "descriptionFormatted": "+100% Vault Ores",
           "icon": "the_vault:gui/modifiers/plentiful"
         }
       }
@@ -5915,6 +6031,98 @@
           "color": "#bc2525",
           "description": "The Ash Matron comes every 2nd Pyre wave",
           "icon": "the_vault:gui/modifiers/ruthless_mobs"
+        }
+      }
+    },
+    "the_vault:modifier_type/chest_gamble": {
+      "the_vault:gambler": {
+        "properties": {
+          "emptyChance": 0.5,
+          "multiplier": 2.0
+        },
+        "display": {
+          "name": "Gambler",
+          "color": "#2bb56a",
+          "description": "Every chest is either empty or doubled",
+          "descriptionFormatted": "Every chest is either empty (%d%% chance) or doubled",
+          "icon": "the_vault:gui/modifiers/raffle"
+        }
+      }
+    },
+    "the_vault:modifier_type/speedrunner": {
+      "the_vault:speedrunner": {
+        "properties": {
+          "timeCut": 0.5,
+          "crateTiersPerMinute": 1.0
+        },
+        "display": {
+          "name": "Speedrunner",
+          "color": "#3fd6ea",
+          "description": "Half the vault time, +1 crate tier for every full minute left on completion",
+          "descriptionFormatted": "-%d%% Vault Time, +%d crate tier for every full minute left on completion",
+          "icon": "the_vault:gui/modifiers/rush"
+        }
+      }
+    },
+    "the_vault:modifier_type/door_row": {
+      "the_vault:vendor_row": {
+        "properties": {
+          "door": "the_vault:vendor_door",
+          "doorMultiplier": 3.0,
+          "minDoorChance": 0.15,
+          "removeChests": true
+        },
+        "display": {
+          "name": "Vendor Row",
+          "color": "#3f7fe0",
+          "description": "3x Vendoors, all treasure doors are Vendoors, no chests",
+          "descriptionFormatted": "%dx Vendoors, all treasure doors are Vendoors, no chests",
+          "icon": "the_vault:gui/modifiers/vendoor_doors"
+        }
+      },
+      "the_vault:treasure_row": {
+        "properties": {
+          "door": "the_vault:treasure_door",
+          "doorMultiplier": 3.0,
+          "minDoorChance": 0.15,
+          "removeChests": true
+        },
+        "display": {
+          "name": "Treasure Row",
+          "color": "#f0d878",
+          "description": "3x Treasure Doors, all treasure doors are Treasure Doors, no chests",
+          "descriptionFormatted": "%dx Treasure Doors, all treasure doors are Treasure Doors, no chests",
+          "icon": "the_vault:gui/modifiers/treasure_doors"
+        }
+      }
+    },
+    "the_vault:modifier_type/champion_pact": {
+      "the_vault:champions_pact": {
+        "properties": {
+          "chanceMultiplier": 3.0,
+          "extraLootRolls": 1,
+          "damageIncrease": 0.0
+        },
+        "display": {
+          "name": "Champion's Pact",
+          "color": "#b0243f",
+          "description": "3x Champions, every champion drops its loot twice",
+          "descriptionFormatted": "%dx Champions, +%d loot roll from every champion",
+          "icon": "the_vault:gui/modifiers/champion_domain"
+        }
+      },
+      "the_vault:hunter_champion_damage": {
+        "properties": {
+          "chanceMultiplier": 1.0,
+          "extraLootRolls": 0,
+          "damageIncrease": 0.25
+        },
+        "display": {
+          "name": "Champion Fury",
+          "color": "#b0243f",
+          "description": "Champions deal +25% damage",
+          "descriptionFormatted": "Champions deal +25% damage",
+          "icon": "the_vault:gui/modifiers/champions_abode"
         }
       }
     }

@@ -3,6 +3,7 @@
     {
       "MIN_LEVEL": 0,
       "TRADE_POOL": [
+        {"value": {"OFFER": {"item": "the_vault:vault_catalyst_infused", "nbt": "{\"pool\":\"the_vault:champions_pact\"}"}, "CURRENCY": "the_vault:vault_gold", "MIN_COST": 16, "MAX_COST": 32}, "weight": 30},
         {
           "value": {
             "OFFER": {
@@ -172,6 +173,7 @@
     {
       "MIN_LEVEL": 30,
       "TRADE_POOL": [
+        {"value": {"OFFER": {"item": "the_vault:vault_catalyst_infused", "nbt": "{\"pool\":\"the_vault:champions_pact\"}"}, "CURRENCY": "the_vault:vault_gold", "MIN_COST": 16, "MAX_COST": 32}, "weight": 30},
         {
           "value": {
             "OFFER": {
@@ -519,6 +521,7 @@
     {
       "MIN_LEVEL": 50,
       "TRADE_POOL": [
+        {"value": {"OFFER": {"item": "the_vault:vault_catalyst_infused", "nbt": "{\"pool\":\"the_vault:champions_pact\"}"}, "CURRENCY": "the_vault:vault_gold", "MIN_COST": 16, "MAX_COST": 32}, "weight": 30},
         {
           "value": {
             "OFFER": {
@@ -1009,6 +1012,7 @@
     {
       "MIN_LEVEL": 65,
       "TRADE_POOL": [
+        {"value": {"OFFER": {"item": "the_vault:vault_catalyst_infused", "nbt": "{\"pool\":\"the_vault:champions_pact\"}"}, "CURRENCY": "the_vault:vault_gold", "MIN_COST": 16, "MAX_COST": 32}, "weight": 30},
         {
           "value": {
             "OFFER": {
@@ -1534,6 +1538,7 @@
     {
       "MIN_LEVEL": 80,
       "TRADE_POOL": [
+        {"value": {"OFFER": {"item": "the_vault:vault_catalyst_infused", "nbt": "{\"pool\":\"the_vault:champions_pact\"}"}, "CURRENCY": "the_vault:vault_gold", "MIN_COST": 16, "MAX_COST": 32}, "weight": 30},
         {
           "value": {
             "OFFER": {

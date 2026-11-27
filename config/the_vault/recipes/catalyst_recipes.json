@@ -329,6 +329,81 @@
           "NBT": "{}"
         }
       ]
+    },
+    {
+      "id": "the_vault:catalyst_gambler",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:vault_catalyst_infused",
+        "NBT": "{model:19,modifiers:[\"the_vault:gambler\",\"the_vault:challenge_stack\"],pool:\"the_vault:craft_gambler\",size:10}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_catalyst_fragment",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gem_benitoite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:dreamstone",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:catalyst_prospector",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:vault_catalyst_infused",
+        "NBT": "{model:20,modifiers:[\"the_vault:prospector\",\"the_vault:challenge_stack\"],pool:\"the_vault:craft_prospector\",size:10}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_catalyst_fragment",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gem_benitoite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:dreamstone",
+          "NBT": "{}"
+        }
+      ]
+    },
+    {
+      "id": "the_vault:catalyst_speedrunner",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:vault_catalyst_infused",
+        "NBT": "{model:21,modifiers:[\"the_vault:speedrunner\",\"the_vault:challenge_stack\"],pool:\"the_vault:craft_speedrunner\",size:10}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 9,
+          "ITEM": "the_vault:vault_catalyst_fragment",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:gem_benitoite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 4,
+          "ITEM": "the_vault:dreamstone",
+          "NBT": "{}"
+        }
+      ]
     }
   ]
 }

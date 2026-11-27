@@ -283,6 +283,51 @@
               ]
             },
             "weight": 9.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:vendor_row",
+                "the_vault:challenge_stack"
+              ],
+              "model": 22
+            },
+            "weight": 1.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:treasure_row",
+                "the_vault:challenge_stack"
+              ],
+              "model": 23
+            },
+            "weight": 1.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:champions_pact",
+                "the_vault:challenge_stack"
+              ],
+              "model": 24
+            },
+            "weight": 4.0
           }
         ]
       }
@@ -500,6 +545,51 @@
               ]
             },
             "weight": 14.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 6,
+                "max": 16,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:vendor_row",
+                "the_vault:challenge_stack"
+              ],
+              "model": 22
+            },
+            "weight": 3.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 6,
+                "max": 16,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:treasure_row",
+                "the_vault:challenge_stack"
+              ],
+              "model": 23
+            },
+            "weight": 3.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 6,
+                "max": 16,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:champions_pact",
+                "the_vault:challenge_stack"
+              ],
+              "model": 24
+            },
+            "weight": 15.0
           }
         ]
       }
@@ -1016,6 +1106,51 @@
               "model": 15
             },
             "weight": 25.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:vendor_row",
+                "the_vault:challenge_stack"
+              ],
+              "model": 22
+            },
+            "weight": 3.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:treasure_row",
+                "the_vault:challenge_stack"
+              ],
+              "model": 23
+            },
+            "weight": 3.0
+          },
+          {
+            "value": {
+              "size": {
+                "min": 5,
+                "max": 5,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:champions_pact",
+                "the_vault:challenge_stack"
+              ],
+              "model": 24
+            },
+            "weight": 12.0
           }
         ]
       }
@@ -1082,6 +1217,138 @@
               "model": 18
             },
             "weight": 9.0
+          }
+        ]
+      }
+    ],
+    "the_vault:craft_gambler": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:gambler",
+                "the_vault:challenge_stack"
+              ],
+              "model": 19
+            },
+            "weight": 1.0
+          }
+        ]
+      }
+    ],
+    "the_vault:craft_prospector": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:prospector",
+                "the_vault:challenge_stack"
+              ],
+              "model": 20
+            },
+            "weight": 1.0
+          }
+        ]
+      }
+    ],
+    "the_vault:craft_speedrunner": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:speedrunner",
+                "the_vault:challenge_stack"
+              ],
+              "model": 21
+            },
+            "weight": 1.0
+          }
+        ]
+      }
+    ],
+    "the_vault:vendor_row": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:vendor_row",
+                "the_vault:challenge_stack"
+              ],
+              "model": 22
+            },
+            "weight": 1.0
+          }
+        ]
+      }
+    ],
+    "the_vault:treasure_row": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:treasure_row",
+                "the_vault:challenge_stack"
+              ],
+              "model": 23
+            },
+            "weight": 1.0
+          }
+        ]
+      }
+    ],
+    "the_vault:champions_pact": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "size": {
+                "min": 10,
+                "max": 10,
+                "type": "uniform"
+              },
+              "modifiers": [
+                "the_vault:champions_pact",
+                "the_vault:challenge_stack"
+              ],
+              "model": 24
+            },
+            "weight": 1.0
           }
         ]
       }
