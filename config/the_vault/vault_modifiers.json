@@ -2404,14 +2404,14 @@
           "children": {
             "the_vault:prospector_ores": 1,
             "the_vault:opulent_ores": 1,
-            "the_vault:lost_quantity": 1
+            "the_vault:prospector_no_chests": 1
           }
         },
         "display": {
           "name": "Prospector",
           "color": "#9aa6b2",
-          "description": "+100% Vault Ores and +50% Copiously, but chests are only half filled",
-          "descriptionFormatted": "+100% Vault Ores and +50% Copiously, but chests are only half filled",
+          "description": "+100% Vault Ores and +50% Copiously, no chests. Only 1 per crystal",
+          "descriptionFormatted": "+100% Vault Ores and +50% Copiously, no chests. Only 1 per crystal",
           "icon": "the_vault:gui/modifiers/plentiful"
         }
       },
@@ -6058,8 +6058,8 @@
         "display": {
           "name": "Speedrunner",
           "color": "#3fd6ea",
-          "description": "Half the vault time, +1 crate tier for every full minute left on completion",
-          "descriptionFormatted": "-%d%% Vault Time, +%d crate tier for every full minute left on completion",
+          "description": "Half the vault time and nothing can add time (Extended, fruit, altars), +1 crate tier for every full minute left",
+          "descriptionFormatted": "-%d%% Vault Time and nothing can add time (Extended, fruit, altars), +%d crate tier for every full minute left",
           "icon": "the_vault:gui/modifiers/rush"
         }
       }
@@ -6093,6 +6093,21 @@
           "description": "3x Treasure Doors, all treasure doors are Treasure Doors, no chests",
           "descriptionFormatted": "%dx Treasure Doors, all treasure doors are Treasure Doors, no chests",
           "icon": "the_vault:gui/modifiers/treasure_doors"
+        }
+      },
+      "the_vault:prospector_no_chests": {
+        "properties": {
+          "door": "",
+          "doorMultiplier": 1.0,
+          "minDoorChance": 0.0,
+          "removeChests": true
+        },
+        "display": {
+          "name": "No Chests",
+          "color": "#9aa6b2",
+          "description": "No chests spawn",
+          "descriptionFormatted": "No chests spawn",
+          "icon": "the_vault:gui/modifiers/poor"
         }
       }
     },

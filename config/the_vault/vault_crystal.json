@@ -3218,5 +3218,8 @@
         }
       }
     ]
-  }
+  },
+  "ONE_PER_CRYSTAL": [
+    "the_vault:prospector"
+  ]
 }
