@@ -3389,40 +3389,12 @@ file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/br
 hash = "de9a2bd43031aea5ba032f9d965502ee5523e76550c8667961de19decee259e1"
 
 [[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/fateweaver/fateweaver_fx.png"
-hash = "05e891487c579966e4b9582377f3ad89b2672d339daa50d3fa2ca4610e3abba6"
-
-[[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/fateweaver/fateweaver_sky.png"
-hash = "7756751146c0f344bacb6f3b61174ac087c70d0f10833d7910fdce02512dbc0a"
-
-[[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/fateweaver/fateweaver_strips.png"
-hash = "a61dbf929048c8382c1c594cd0e7d70471275da80dc2cc6b96a80ec2250d42cb"
-
-[[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/herald/herald_vfx.png"
 hash = "b74ea9ce7f3dad79ee3eccdc6194ead709acbc9e6dfd3b866e8ad4e80f8178ae"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/keygolem/keygolem_vfx.png"
 hash = "52873f96515131075996c02482dce6cf70f9c1d19aff454bde59c482b8180a3f"
-
-[[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_decals.png"
-hash = "ddc5d309dfd255c79258647a7df7e28134227ae8a86964ce8fa88ca2c2e962f5"
-
-[[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_fx.png"
-hash = "53e1699feaab62255cf5a7f497c47d5164d6412c1120c995aec1af1a73305d57"
-
-[[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_fx_b.png"
-hash = "3a28d9e943f4245a8d3f48c68824aea06fa7b03e82f56113222173a2110d8c47"
-
-[[files]]
-file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/orchid/orchid_sky.png"
-hash = "4c8f4878cf3b79a3c11f7ca35271e97a4794aea383d46855758170e41a420c41"
 
 [[files]]
 file = "config/openloader/resources/vault_assets/assets/the_vault/textures/fx/pumpking/pumpking_vfx.png"
@@ -21527,7 +21499,7 @@ hash = "2e5800269e07ffc0ded6046d637de6b2b91de61838024c54eb3b2ee67394be8a"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.21.75.jar"
-hash = "d39e4b4de82048218f9b51d182d5fa0f7db630f958b2a8a66cf610c0547e7b1d"
+hash = "b7252436f11347a3bfb68b94d84c4bf3b602a9d656c492bdd157c013ce785073"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
