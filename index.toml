@@ -4170,7 +4170,7 @@ hash = "884c6db414924475a7ea3b96c58a4c37dfb12615df0dc8f569900ff266d53783"
 
 [[files]]
 file = "config/the_vault/fishing/ponds.json"
-hash = "3626a5e01aa9994b835cbae734b5db3c1e8306b293de7f55a0ba48c29bac3f85"
+hash = "fd0a523a9dac52a189b9ae1f164f2245099681544de5923122e511c40f913ec6"
 
 [[files]]
 file = "config/the_vault/fishing/traders.json"
@@ -13373,24 +13373,8 @@ file = "config/the_vault/gen/1.0/structures/vault/starts/tenos_athenaeum_exit.nb
 hash = "df9cb27b36774516db313e05fc633855db513e256aa98f5f30f98b2b186a34e4"
 
 [[files]]
-file = "config/the_vault/gen/1.0/structures/vault/starts/tenos_still_cistern.nbt"
-hash = "1e5d1687216afd84e1fd6d785f5fd426e5e17cae1abaf8425f0305c46524becf"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/starts/tenos_still_cistern_exit.nbt"
-hash = "b92a347a9b5961d6cb351c7d291dcbe5e222c68d28f5088872b13ad9f8e0d518"
-
-[[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/time_trial_hourglass.nbt"
 hash = "664cdcfc318cc881fe3f01b5ed8d8f56ef8d2548716d29cda31f02ee2c4b1456"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/starts/velara_briar_coliseum.nbt"
-hash = "576009bf582f70b0407c50ba45c8b3bd2ebab99b6b34ced87ea941d33e9273e2"
-
-[[files]]
-file = "config/the_vault/gen/1.0/structures/vault/starts/velara_briar_coliseum_exit.nbt"
-hash = "496f9835d2c822f6f5ca206ffa66224f3443348cb626035e361796dd237d441a"
 
 [[files]]
 file = "config/the_vault/gen/1.0/structures/vault/starts/velara_grove.nbt"
@@ -17581,16 +17565,8 @@ file = "config/the_vault/gen/1.0/themes/classic_vault_tenos_normal.json"
 hash = "57f39b16932589cd3258cfbe5cd221d8cb291c806760a51da7c4f7cff9932d6c"
 
 [[files]]
-file = "config/the_vault/gen/1.0/themes/classic_vault_tenos_still_cistern.json"
-hash = "37937d6543d1e289be88faaf260e997f0eb71342171bb40c491995be84712e1e"
-
-[[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_velara.json"
 hash = "bdf2f59c9c2a51b3e793580ca360d9e14c1b09a5ae24cf577992d12e1990a355"
-
-[[files]]
-file = "config/the_vault/gen/1.0/themes/classic_vault_velara_briar_coliseum.json"
-hash = "63e4906289fcebf4e6e96948911fe5fb3f5e101c00ef6f3c527a2adc4906a5ff"
 
 [[files]]
 file = "config/the_vault/gen/1.0/themes/classic_vault_velara_grove.json"
@@ -17778,11 +17754,11 @@ hash = "98af2dbba69ef2df5e951b0fd74233093de94cb208ebadcb82b4df377102a536"
 
 [[files]]
 file = "config/the_vault/gen/templates.json"
-hash = "d019eec550c9eb1bf21ed2620474ba7a0b9b5016e53a5c5d7974e678f77dd90e"
+hash = "389c2ee361a159adfd8aa6318330bbdcc793dde5c611f5eab9bcabab964c0c13"
 
 [[files]]
 file = "config/the_vault/gen/themes.json"
-hash = "d44511bdf61ee7b20f78481c02a43e3810e8dea1f28968b11e5c83da6d550db1"
+hash = "aaa5059ece917a02744a1f1fff7cd233648f34efeda348cba516013d1d33c6cc"
 
 [[files]]
 file = "config/the_vault/god_shop.json"
