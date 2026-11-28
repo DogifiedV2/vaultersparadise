@@ -6075,8 +6075,8 @@
         "display": {
           "name": "Vendor Row",
           "color": "#3f7fe0",
-          "description": "3x Vendoors, all treasure doors are Vendoors, no chests",
-          "descriptionFormatted": "%dx Vendoors, all treasure doors are Vendoors, no chests",
+          "description": "3x Vendoor Rate, No chests spawn",
+          "descriptionFormatted": "%dx Vendoor Rate, No chests spawn",
           "icon": "the_vault:gui/modifiers/vendoor_doors"
         }
       },
@@ -6090,8 +6090,8 @@
         "display": {
           "name": "Treasure Row",
           "color": "#f0d878",
-          "description": "3x Treasure Doors, all treasure doors are Treasure Doors, no chests",
-          "descriptionFormatted": "%dx Treasure Doors, all treasure doors are Treasure Doors, no chests",
+          "description": "3x Treasure Door Rate, No chests spawn",
+          "descriptionFormatted": "%dx Treasure Door Rate, No chests spawn",
           "icon": "the_vault:gui/modifiers/treasure_doors"
         }
       },
