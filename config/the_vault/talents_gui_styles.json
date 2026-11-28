@@ -43,32 +43,32 @@
       "icon": "the_vault:gui/skills/berserking"
     },
     "Methodical": {
-      "x": 0,
-      "y": 140,
+      "x": 140,
+      "y": 70,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/methodical"
     },
     "Depleted": {
-      "x": 70,
-      "y": 140,
+      "x": 210,
+      "y": 70,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/depleted"
     },
     "Prudent": {
-      "x": 140,
-      "y": 140,
+      "x": 210,
+      "y": 210,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/potion_amount"
     },
     "Sorcery": {
-      "x": 140,
-      "y": 70,
+      "x": 0,
+      "y": 140,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/sorcery"
     },
     "Witchery": {
-      "x": 210,
-      "y": 70,
+      "x": 70,
+      "y": 140,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/witchery"
     },
@@ -110,7 +110,7 @@
     },
     "Lucky_Hit": {
       "x": 0,
-      "y": 350
+      "y": 420
     },
     "Fatal_Strike": {
       "x": 0,
@@ -138,7 +138,7 @@
     },
     "Masteries": {
       "x": 140,
-      "y": 375
+      "y": 420
     },
     "Arthropod_Mastery": {
       "x": 70,
@@ -178,7 +178,7 @@
     },
     "Javelin_Talent": {
       "x": 280,
-      "y": 350
+      "y": 420
     },
     "Javelin_Throw_Power": {
       "x": 0,
@@ -205,44 +205,44 @@
       "icon": "the_vault:gui/skills/javelin_ethereal"
     },
     "Prime_Amplification": {
-      "x": 0,
-      "y": 210,
+      "x": 140,
+      "y": 140,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/prime_amplification"
     },
     "Arcana": {
       "x": 0,
-      "y": 280,
+      "y": 350,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/arcana"
     },
     "Blazing": {
       "x": 70,
-      "y": 280,
+      "y": 350,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/blazing"
     },
     "Lucky_Momentum": {
       "x": 280,
-      "y": 280,
+      "y": 350,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/luck_momentum"
     },
     "Frenzy": {
       "x": 350,
-      "y": 280,
+      "y": 350,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/frenzy"
     },
     "Hunters_Instinct": {
-      "x": 70,
-      "y": 210,
+      "x": 140,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/hunters_instinct"
     },
     "Purist": {
-      "x": 140,
-      "y": 210,
+      "x": 70,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/purist"
     },
@@ -254,7 +254,7 @@
     },
     "Loot_Goblin": {
       "x": 280,
-      "y": 520,
+      "y": 630,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/horde_mastery"
     },
@@ -278,7 +278,7 @@
     },
     "Farmer_Twerker": {
       "x": 210,
-      "y": 210,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/farmer"
     },
@@ -296,7 +296,7 @@
     },
     "Crit_Talent": {
       "x": 0,
-      "y": 520
+      "y": 630
     },
     "Crit_Hit_Chance": {
       "x": 0,
@@ -312,55 +312,55 @@
     },
     "Battle_Trance": {
       "x": 140,
-      "y": 280,
+      "y": 350,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/battle_trance"
     },
     "Blood_Rush": {
       "x": 210,
-      "y": 280,
+      "y": 350,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/bloodrush"
     },
     "Sword_Specialisation": {
-      "x": 420,
-      "y": 0,
+      "x": 0,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/sword_spec"
     },
     "Quickening": {
-      "x": 420,
-      "y": 70,
+      "x": 0,
+      "y": 210,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/quickening"
     },
     "Lingering_Fumes": {
-      "x": 420,
-      "y": 140,
+      "x": 140,
+      "y": 210,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/lingering_fumes"
     },
     "Voltaic_Impact": {
-      "x": 420,
-      "y": 210,
+      "x": 315,
+      "y": 280,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/voltaic_impact"
     },
     "Mana_Harvest": {
-      "x": 490,
-      "y": 70,
+      "x": 70,
+      "y": 210,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/discipline"
     },
     "Trap_Disarm": {
-      "x": 420,
-      "y": 530,
+      "x": 140,
+      "y": 640,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/trap_disarm"
     },
     "Treasure_Sense": {
-      "x": 490,
-      "y": 530,
+      "x": 210,
+      "y": 640,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/treasure_hunter"
     }
